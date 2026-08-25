@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T18:40:09.273736+00:00",
+  "updated": "2026-08-25T18:48:20.401655+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -527,9 +527,79 @@
       ]
     },
     "Steam Game Deals": {
-      "url": "https://www.steamgamesales.com/rss",
-      "articles": [],
-      "error": "HTTPSConnectionPool(host='www.steamgamesales.com', port=443): Max retries exceeded with url: /rss (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))"
+      "url": "https://store.steampowered.com/feeds/daily_deals.xml",
+      "articles": [
+        {
+          "title": "Daily Deal - The Beast Inside, 25% Off",
+          "link": "https://store.steampowered.com/news/58687/",
+          "description": "Today's Deal: Save 25% on The Beast Inside !* Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are! *Offer ends Thursday at 10AM Pacific Time",
+          "date": "2020-02-18T18:29:00+00:00",
+          "image": "https://steamcdn-a.akamaihd.net/steam/apps/792300/header.jpg"
+        },
+        {
+          "title": "Daily Deal - Chef: A Restaurant Tycoon Game, 40% Off",
+          "link": "https://store.steampowered.com/news/58686/",
+          "description": "Today's Deal: Save 40% on Chef: A Restaurant Tycoon Game !* Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are! *Offer ends Thursday at 10AM Pacific Time",
+          "date": "2020-02-18T18:28:00+00:00",
+          "image": "https://steamcdn-a.akamaihd.net/steam/apps/886900/header.jpg"
+        },
+        {
+          "title": "Daily Deal - Shortest Trip to Earth, 50% Off",
+          "link": "https://store.steampowered.com/news/58490/",
+          "description": "Today's Deal: Save 50% on Shortest Trip to Earth !* Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are! *Offer ends Friday at 10AM Pacific Time",
+          "date": "2020-02-12T18:31:00+00:00",
+          "image": "https://steamcdn-a.akamaihd.net/steam/apps/812040/header.jpg"
+        },
+        {
+          "title": "Daily Deal - Overcrowd: A Commute 'Em Up, 25% Off",
+          "link": "https://store.steampowered.com/news/58286/",
+          "description": "Today's Deal: Save 25% on Overcrowd: A Commute 'Em Up !* Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are! *Offer ends Saturday at 10AM Pacific Time",
+          "date": "2020-02-06T18:12:00+00:00",
+          "image": "https://steamcdn-a.akamaihd.net/steam/apps/726110/header.jpg"
+        },
+        {
+          "title": "Daily Deal - Blackwake, 90% Off",
+          "link": "https://store.steampowered.com/news/58260/",
+          "description": "Today's Deal: Save 90% on Blackwake !* Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are! *Offer ends Monday at 10AM Pacific Time",
+          "date": "2020-02-05T18:04:00+00:00",
+          "image": "https://steamcdn-a.akamaihd.net/steam/apps/420290/header.jpg"
+        },
+        {
+          "title": "Daily Deal - Swords & Souls: Neverseen, 50% Off",
+          "link": "https://store.steampowered.com/news/58244/",
+          "description": "Today's Deal: Save 50% on Swords & Souls: Neverseen !* Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are! *Offer ends Friday at 10AM Pacific Time",
+          "date": "2020-02-05T18:04:00+00:00",
+          "image": "https://steamcdn-a.akamaihd.net/steam/apps/679900/header.jpg"
+        },
+        {
+          "title": "Daily Deal - The Universim, 25% Off",
+          "link": "https://store.steampowered.com/news/58212/",
+          "description": "Today's Deal: Save 25% on The Universim !* Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are! *Offer ends Thursday at 10AM Pacific Time",
+          "date": "2020-02-04T18:12:00+00:00",
+          "image": "https://steamcdn-a.akamaihd.net/steam/apps/352720/header.jpg"
+        },
+        {
+          "title": "Daily Deal - Neo Cab, 25% Off",
+          "link": "https://store.steampowered.com/news/58231/",
+          "description": "Today's Deal: Save 25% on Neo Cab !* Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are! *Offer ends Monday at 10AM Pacific Time",
+          "date": "2020-02-04T18:06:00+00:00",
+          "image": "https://steamcdn-a.akamaihd.net/steam/apps/794540/header.jpg"
+        },
+        {
+          "title": "Daily Deal - Foundation, 20% Off",
+          "link": "https://store.steampowered.com/news/58158/",
+          "description": "Today's Deal: Save 20% on Foundation !* Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are! *Offer ends February 10 at 10AM Pacific Time",
+          "date": "2020-02-03T18:06:00+00:00",
+          "image": "https://steamcdn-a.akamaihd.net/steam/apps/690830/header.jpg"
+        },
+        {
+          "title": "Daily Deal - Regions Of Ruin, 90% Off",
+          "link": "https://store.steampowered.com/news/58157/",
+          "description": "Today's Deal: Save 90% on Regions Of Ruin !* Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are! *Offer ends Wednesday at 10AM Pacific Time",
+          "date": "2020-02-03T18:04:00+00:00",
+          "image": "https://steamcdn-a.akamaihd.net/steam/apps/680360/header.jpg"
+        }
+      ]
     }
   }
 }
