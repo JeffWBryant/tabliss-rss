@@ -29,7 +29,7 @@ FEEDS = {
         "https://store.steampowered.com/feeds/news.xml",
 
     "Steam Game Deals":
-        "https://www.steamgamesales.com/rss"
+        "https://store.steampowered.com/feeds/daily_deals.xml"
 }
 
 
