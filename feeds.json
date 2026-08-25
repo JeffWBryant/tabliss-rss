@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T18:48:20.401655+00:00",
+  "updated": "2026-08-25T19:09:47.210778+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,13 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "The 10 Best Mystery Science Theater 3000 Episodes of All Time",
+          "link": "https://www.denofgeek.com/tv/best-mystery-science-theater-3000-episodes-all-time/",
+          "description": "In the increasingly distant past, Mystery Science Theater 3000 was ground-breaking television. Part send-up of 1950s kid’s programming, part puppet show, part showcase for co-creator and prop comic Joel Hodgson, MST3K became a cult sensation, especially after it moved from a Minnesota public access ",
+          "date": "2026-08-25T19:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2022/01/mystery-science-theater.jpeg"
+        },
+        {
           "title": "14 Hit TV Shows You Wouldn’t Guess from the Awful Pilot Episode",
           "link": "https://www.denofgeek.com/msn/15-hit-tv-shows-you-wouldnt-guess-from-the-awful-pilot-episode/",
           "description": "A great television series can hide behind a terrible first impression. Sometimes the pilot is awkward, the characters feel unfinished, the jokes land badly, or the premise seems unsure of what it wants to be. That can be surprising when the same show eventually becomes a cultural favorite with devot",
@@ -141,13 +148,6 @@
           "description": "Movie romances have one major advantage over real relationships: they can end at exactly the right moment. Once the couple finally gets together, the music starts playing and the credits roll before anyone has to figure out whose apartment they're keeping or whether they actually have anything in co",
           "date": "2026-08-25T12:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-8-2.jpg"
-        },
-        {
-          "title": "15 Fun Movie References You’ll Get if You’re Paying Attention",
-          "link": "https://www.denofgeek.com/msn/15-fun-movie-references-youll-get-if-youre-paying-attention/",
-          "description": "Movies have always rewarded people who pay a little too much attention to what's happening in the background. A sign, a license plate, or a seemingly random prop can turn out to be a joke meant for viewers who recognize another movie entirely. Some filmmakers reference their friends' work, while oth",
-          "date": "2026-08-25T11:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/8_1004fb.jpg"
         }
       ]
     },
@@ -230,6 +230,13 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "PlayStation 6 Price Could Be A Lot Higher Than Gamers Thought, But There’s Hope — Report",
+          "link": "https://www.playstationlifestyle.net/2026/08/25/playstation-6-price-higher-than-expected-innovation-could-help/",
+          "description": "The PlayStation 6 could cost significantly more than gamers initially expected. According to a new report, the console’s price could rise significantly because of higher technology and hardware costs. However, there are still other ways in which Sony could handle the costs. According to Ampere Analy",
+          "date": "2026-08-25T18:53:10+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/PlayStation-6-Price-Could-Be-A-Lot-Higher-Than-Gamers-Thought-But-Theres-Hope-—-Report.jpg?w=1024"
+        },
+        {
           "title": "New PlayStation 5 Game in Popular PS3 Series Leaked Ahead of Announcement",
           "link": "https://www.playstationlifestyle.net/2026/08/25/pixeljunk-monsters-3-new-playstation-5-game-ps3-series-leaked/",
           "description": "A new PlayStation 5 game in a popular series has been leaked ahead of the official announcement. Developers Q-Games confirmed that they will announce a new project at the Gamescom 2026 event. CEO Dylan Cuthbert also teased an announcement last week. Q-Games confirmed it would be appearing at the Fut",
@@ -291,13 +298,6 @@
           "description": "CD Projekt RED has provided a major update on The Witcher 4, with the studio now targeting a launch window for the highly anticipated RPG. The post Highly Anticipated PlayStation 5 Action RPG Gets Major Release Date Update appeared first on PlayStation LifeStyle .",
           "date": "2026-08-24T20:56:11+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/Untitled-design-77.png?w=1024"
-        },
-        {
-          "title": "Castlevania’s New PlayStation 5 Action Game Gets Update Konami Fans Will Love",
-          "link": "https://www.playstationlifestyle.net/2026/08/24/castlevania-belmonts-curse-voice-cast-trailer-details/",
-          "description": "Konami has revealed the English voice cast for Castlevania: Belmont's Curse, including Abby Trott and Graham McTavish, among others. The post Castlevania’s New PlayStation 5 Action Game Gets Update Konami Fans Will Love appeared first on PlayStation LifeStyle .",
-          "date": "2026-08-24T20:11:19+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/Untitled-design-76.png?w=1024"
         }
       ]
     },
@@ -380,6 +380,20 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Leaked Months Ago, Roguelike Strategy Game Worms: Galactic Tactics Finally Announced",
+          "link": "https://www.pushsquare.com/news/2026/08/leaked-months-ago-roguelike-strategy-game-worms-galactic-tactics-finally-announced",
+          "description": "Plus: another Worms game in the works. Publisher Team 17 has just announced its next Worms game — the one that was leaked several months ago. It's called Worms: Galactic Tactics , and it comes to PS5 in 2027. Check out a glimpse at gameplay in the debut trailer: Read the full article on pushsquare.c",
+          "date": "2026-08-25T18:30:00+00:00",
+          "image": "https://images.pushsquare.com/5dfd616562b4d/large.jpg"
+        },
+        {
+          "title": "Exodus, the Promising Mass Effect-Style RPG, Takes Aim at April Release on PS5",
+          "link": "https://www.pushsquare.com/news/2026/08/exodus-the-promising-mass-effect-style-rpg-takes-aim-at-april-release-on-ps5",
+          "description": "Octopus party member, anyone? Exodus , the Mass Effect -inspired sci-fi RPG that's looked really promising for a while, finally has a confirmed launch date. It's dropping on PS5 next year, on the 7th April. This means that it's not quite buried within the madness of the February and March release sc",
+          "date": "2026-08-25T18:25:00+00:00",
+          "image": "https://images.pushsquare.com/7f3072430ab2f/large.jpg"
+        },
+        {
           "title": "PS5's Tides of Annihilation Replaces Jennifer English with Resident Evil Actress",
           "link": "https://www.pushsquare.com/news/2026/08/ps5s-tides-of-annihilation-replaces-jennifer-english-with-resident-evil-actress",
           "description": "Good Grace. Following the unfortunate departure of award-winning Clair Obscur: Expedition 33 actress Jennifer English earlier this year, Tides of Annihilation has announced its new heroine. Angela Sant'Albano, the voice of Resident Evil Requiem’s Grace Ashcroft, will step into the all-important role",
@@ -434,20 +448,6 @@
           "description": "What's Q-Games up to? This week should be a big one for video game news, as Gamescom Opening Night Live kicks off the German expo with a big show very soon. It looks as though one of the presentation's surprises may have been spoiled a little early, however, as a playtest version has popped up on St",
           "date": "2026-08-25T09:30:00+00:00",
           "image": "https://images.pushsquare.com/f6a6e43bafe54/large.jpg"
-        },
-        {
-          "title": "5 More August 2026 PS Plus Extra Games Available to Download Now",
-          "link": "https://www.pushsquare.com/news/2026/08/5-more-august-2026-ps-plus-extra-games-available-to-download-now",
-          "description": "The last PS Plus drop of the month. Anyone in the UK, USA, or Japan can turn their PS5 consoles on today to find the final batch of PS Plus Extra games for August 2026 available to play now. All these PS5, PS4 titles were set live for active members everywhere else in the world last week, but Sony's",
-          "date": "2026-08-25T09:00:00+00:00",
-          "image": "https://images.pushsquare.com/5b5f7992ce117/large.jpg"
-        },
-        {
-          "title": "Guide: What Time Is Gamescom Opening Night Live 2026?",
-          "link": "https://www.pushsquare.com/guides/what-time-is-gamescom-opening-night-live-2026",
-          "description": "Dates, times, and what to expect. When is Gamescom Opening Night Live 2026? It's that time once again, when Geoff Keighley awakens for his second annual show of the year: Gamescom Opening Night Live, getting the massive German expo started with a bang. What are all the details, then? When exactly ca",
-          "date": "2026-08-25T08:45:00+00:00",
-          "image": "https://images.pushsquare.com/6dfa49a41a01c/large.jpg"
         }
       ]
     },
