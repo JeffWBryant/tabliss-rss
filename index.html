@@ -15,7 +15,6 @@
 
 <style>
 
-
 /* =========================
    GLOBAL
    ========================= */
@@ -26,17 +25,11 @@
 
 
 body {
-
     margin: 0;
-
     padding: 20px;
-
     background: transparent;
-
     color: black;
-
     font-family: Arial, sans-serif;
-
 }
 
 
@@ -45,15 +38,10 @@ body {
    ========================= */
 
 .rss-grid {
-
     display: grid;
-
     grid-template-columns: 1fr;
-
     gap: 12px;
-
     width: 100%;
-
 }
 
 
@@ -62,9 +50,7 @@ body {
    ========================= */
 
 .rss-column {
-
     min-width: 0;
-
     padding: 15px;
 
     border:
@@ -73,7 +59,6 @@ body {
 
     background:
         rgba(255, 255, 255, 0.75);
-
 }
 
 
@@ -82,16 +67,16 @@ body {
    ========================= */
 
 .rss-header {
-
     color: black;
 
     font-size: 18px;
-
     font-weight: bold;
 
-    margin-bottom: 15px;
-
     line-height: 1.2;
+
+    margin: 0;
+
+    padding: 0 0 15px 0;
 
     cursor: pointer;
 
@@ -101,33 +86,39 @@ body {
 
     align-items: center;
 
-    justify-content: space-between;
-
+    justify-content: flex-start;
 }
 
 
-.rss-header::after {
+/* LEFT ARROW */
 
+.rss-header::before {
     content: "▼";
 
     font-size: 12px;
 
-    margin-left: 10px;
-
+    margin-right: 10px;
 }
 
+
+/* COLLAPSED ARROW */
+
+.rss-column.collapsed .rss-header::before {
+    content: "▶";
+}
+
+
+/* REMOVE BOTTOM PADDING WHEN COLLAPSED */
 
 .rss-column.collapsed .rss-header {
-
-    margin-bottom: 0;
-
+    padding-bottom: 0;
 }
 
 
-.rss-column.collapsed .rss-header::after {
+/* HIDE FEED CONTENT WHEN COLLAPSED */
 
-    content: "▶";
-
+.rss-column.collapsed .rss-content {
+    display: none;
 }
 
 
@@ -136,16 +127,12 @@ body {
    ========================= */
 
 .article {
-
     margin-bottom: 20px;
-
 }
 
 
 .article:last-child {
-
     margin-bottom: 0;
-
 }
 
 
@@ -154,7 +141,6 @@ body {
    ========================= */
 
 .article img {
-
     display: block;
 
     width: 100%;
@@ -164,7 +150,6 @@ body {
     object-fit: cover;
 
     margin-bottom: 8px;
-
 }
 
 
@@ -173,7 +158,6 @@ body {
    ========================= */
 
 .article-title {
-
     font-size: 15px;
 
     font-weight: bold;
@@ -181,23 +165,18 @@ body {
     line-height: 1.3;
 
     margin-bottom: 5px;
-
 }
 
 
 .article-title a {
-
     color: black;
 
     text-decoration: none;
-
 }
 
 
 .article-title a:hover {
-
     text-decoration: underline;
-
 }
 
 
@@ -206,7 +185,6 @@ body {
    ========================= */
 
 .article-date {
-
     color: black;
 
     font-size: 11px;
@@ -214,7 +192,6 @@ body {
     opacity: 0.6;
 
     margin-bottom: 6px;
-
 }
 
 
@@ -223,7 +200,6 @@ body {
    ========================= */
 
 .article-description {
-
     color: black;
 
     font-size: 12px;
@@ -231,7 +207,6 @@ body {
     line-height: 1.4;
 
     opacity: 0.8;
-
 }
 
 
@@ -240,13 +215,11 @@ body {
    ========================= */
 
 .error {
-
     color: black;
 
     font-size: 12px;
 
     opacity: 0.6;
-
 }
 
 
@@ -257,9 +230,7 @@ body {
 @media (max-width: 1000px) {
 
     .rss-grid {
-
         grid-template-columns: 1fr;
-
     }
 
 }
@@ -272,20 +243,15 @@ body {
 @media (max-width: 600px) {
 
     body {
-
         padding: 10px;
-
     }
 
 
     .rss-grid {
-
         grid-template-columns: 1fr;
-
     }
 
 }
-
 
 </style>
 
@@ -308,7 +274,10 @@ body {
             Bloody Disgusting
         </div>
 
-        <div id="bloody">
+        <div
+            id="bloody"
+            class="rss-content"
+        >
             Loading...
         </div>
 
@@ -325,7 +294,10 @@ body {
             Den of Geek
         </div>
 
-        <div id="denofgeek">
+        <div
+            id="denofgeek"
+            class="rss-content"
+        >
             Loading...
         </div>
 
@@ -342,7 +314,10 @@ body {
             Fangoria
         </div>
 
-        <div id="fangoria">
+        <div
+            id="fangoria"
+            class="rss-content"
+        >
             Loading...
         </div>
 
@@ -359,7 +334,10 @@ body {
             PlayStation Lifestyle
         </div>
 
-        <div id="psl">
+        <div
+            id="psl"
+            class="rss-content"
+        >
             Loading...
         </div>
 
@@ -376,7 +354,10 @@ body {
             PlayStation Blog
         </div>
 
-        <div id="psblog">
+        <div
+            id="psblog"
+            class="rss-content"
+        >
             Loading...
         </div>
 
@@ -393,7 +374,10 @@ body {
             Push Square
         </div>
 
-        <div id="pushsquare">
+        <div
+            id="pushsquare"
+            class="rss-content"
+        >
             Loading...
         </div>
 
@@ -410,7 +394,10 @@ body {
             Steam
         </div>
 
-        <div id="steam">
+        <div
+            id="steam"
+            class="rss-content"
+        >
             Loading...
         </div>
 
@@ -427,7 +414,10 @@ body {
             Steam Game Deals
         </div>
 
-        <div id="steamdeals">
+        <div
+            id="steamdeals"
+            class="rss-content"
+        >
             Loading...
         </div>
 
@@ -447,9 +437,7 @@ body {
 
 async function loadFeeds() {
 
-
     try {
-
 
         const response =
             await fetch(
@@ -489,73 +477,39 @@ async function loadFeeds() {
 
                     switch (name) {
 
-
                         case "Bloody Disgusting":
-
-                            elementId =
-                                "bloody";
-
+                            elementId = "bloody";
                             break;
-
 
                         case "Den of Geek":
-
-                            elementId =
-                                "denofgeek";
-
+                            elementId = "denofgeek";
                             break;
-
 
                         case "Fangoria":
-
-                            elementId =
-                                "fangoria";
-
+                            elementId = "fangoria";
                             break;
-
 
                         case "PlayStation Lifestyle":
-
-                            elementId =
-                                "psl";
-
+                            elementId = "psl";
                             break;
-
 
                         case "PlayStation Blog":
-
-                            elementId =
-                                "psblog";
-
+                            elementId = "psblog";
                             break;
-
 
                         case "Push Square":
-
-                            elementId =
-                                "pushsquare";
-
+                            elementId = "pushsquare";
                             break;
-
 
                         case "Steam":
-
-                            elementId =
-                                "steam";
-
+                            elementId = "steam";
                             break;
-
 
                         case "Steam Game Deals":
-
-                            elementId =
-                                "steamdeals";
-
+                            elementId = "steamdeals";
                             break;
 
-
                         default:
-
                             return;
 
                     }
@@ -568,17 +522,18 @@ async function loadFeeds() {
 
 
                     if (!container) {
-
                         return;
-
                     }
 
+
+                    /* =========================
+                       NO ARTICLES
+                       ========================= */
 
                     if (
                         !feed.articles ||
                         feed.articles.length === 0
                     ) {
-
 
                         container.innerHTML =
 
@@ -591,12 +546,10 @@ async function loadFeeds() {
                                     "Unable to load feed."
                                     :
                                     "No articles found."
-
                                 }
 
                             </div>
                             `;
-
 
                         return;
 
@@ -746,20 +699,15 @@ async function loadFeeds() {
                         )
                         .join("");
 
-
                 }
             );
-
 
     }
 
 
     catch (error) {
 
-
-        console.error(
-            error
-        );
+        console.error(error);
 
 
         document.querySelectorAll(
@@ -771,9 +719,7 @@ async function loadFeeds() {
                 element.innerHTML =
 
                     `
-                    <div
-                        class="error"
-                    >
+                    <div class="error">
 
                         Unable to load RSS data.
 
@@ -792,32 +738,27 @@ async function loadFeeds() {
    COLLAPSIBLE FEEDS
    ========================= */
 
-document.querySelectorAll(".rss-header").forEach(header => {
+document
+    .querySelectorAll(".rss-header")
+    .forEach(
+        header => {
 
-    header.addEventListener("click", () => {
+            header.addEventListener(
+                "click",
+                function() {
 
-        const column =
-            header.closest(".rss-column");
+                    const column =
+                        this.parentElement;
 
-        column.classList.toggle("collapsed");
+                    column.classList.toggle(
+                        "collapsed"
+                    );
 
-        const content =
-            column.querySelector(
-                ":scope > div:not(.rss-header)"
+                }
             );
 
-        if (content) {
-
-            content.style.display =
-                column.classList.contains("collapsed")
-                ? "none"
-                : "";
-
         }
-
-    });
-
-});
+    );
 
 
 /* =========================
