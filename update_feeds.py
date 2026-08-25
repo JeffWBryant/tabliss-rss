@@ -1,4 +1,3 @@
-
 import feedparser
 import json
 import html
@@ -10,7 +9,7 @@ from datetime import datetime, timezone
 FEEDS = {
 
     "Bloody Disgusting":
-        "https://bloody-disgusting.com/feed/",
+        "https://bloody-disgusting.com/feed",
 
     "Den of Geek":
         "https://www.denofgeek.com/feed/",
@@ -61,7 +60,10 @@ def clean_text(value):
 def find_image(entry):
 
     # Media RSS
-    media_content = entry.get("media_content", [])
+    media_content = entry.get(
+        "media_content",
+        []
+    )
 
     if media_content:
 
@@ -74,7 +76,10 @@ def find_image(entry):
 
 
     # Media thumbnail
-    media_thumbnail = entry.get("media_thumbnail", [])
+    media_thumbnail = entry.get(
+        "media_thumbnail",
+        []
+    )
 
     if media_thumbnail:
 
@@ -87,11 +92,18 @@ def find_image(entry):
 
 
     # Enclosure
-    enclosures = entry.get("enclosures", [])
+    enclosures = entry.get(
+        "enclosures",
+        []
+    )
 
     for enclosure in enclosures:
 
-        url = enclosure.get("href") or enclosure.get("url")
+        url = (
+            enclosure.get("href")
+            or
+            enclosure.get("url")
+        )
 
         if url:
 
@@ -221,10 +233,14 @@ def get_description(entry):
 def main():
 
     output = {
-        "updated": datetime.now(
-            timezone.utc
-        ).isoformat(),
+
+        "updated":
+            datetime.now(
+                timezone.utc
+            ).isoformat(),
+
         "feeds": {}
+
     }
 
 
@@ -234,22 +250,32 @@ def main():
             f"Fetching {name}: {url}"
         )
 
+
         try:
 
             response = requests.get(
+
                 url,
+
                 timeout=30,
+
                 headers={
+
                     "User-Agent":
                     "Mozilla/5.0 RSS Reader"
+
                 }
+
             )
 
+
             response.raise_for_status()
+
 
             feed = feedparser.parse(
                 response.content
             )
+
 
             articles = []
 
@@ -263,22 +289,29 @@ def main():
                     )
                 )
 
+
                 link = entry.get(
                     "link",
                     ""
                 )
 
-                description = get_description(
-                    entry
-                )
 
-                image = find_image(
-                    entry
-                )
+                description =
+                    get_description(
+                        entry
+                    )
 
-                date = get_date(
-                    entry
-                )
+
+                image =
+                    find_image(
+                        entry
+                    )
+
+
+                date =
+                    get_date(
+                        entry
+                    )
 
 
                 if not title:
@@ -288,25 +321,31 @@ def main():
 
                 articles.append({
 
-                    "title": title,
+                    "title":
+                        title,
 
-                    "link": link,
+                    "link":
+                        link,
 
                     "description":
                         description[:300],
 
-                    "date": date,
+                    "date":
+                        date,
 
-                    "image": image
+                    "image":
+                        image
 
                 })
 
 
             output["feeds"][name] = {
 
-                "url": url,
+                "url":
+                    url,
 
-                "articles": articles
+                "articles":
+                    articles
 
             }
 
@@ -322,13 +361,17 @@ def main():
                 f"  ERROR: {error}"
             )
 
+
             output["feeds"][name] = {
 
-                "url": url,
+                "url":
+                    url,
 
-                "articles": [],
+                "articles":
+                    [],
 
-                "error": str(error)
+                "error":
+                    str(error)
 
             }
 
@@ -340,10 +383,15 @@ def main():
     ) as file:
 
         json.dump(
+
             output,
+
             file,
+
             indent=2,
+
             ensure_ascii=False
+
         )
 
 
