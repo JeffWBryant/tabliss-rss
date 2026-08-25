@@ -20,37 +20,61 @@ body {
     font-family: Arial, sans-serif;
 }
 
+
+/* =========================
+   RSS GRID
+   ========================= */
+
 .rss-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
     width: 100%;
-    border: 1.5px solid rgba(255,255,255,0.5);
 }
+
+
+/* =========================
+   INDIVIDUAL FEED BOX
+   ========================= */
 
 .rss-column {
     min-width: 0;
     padding: 15px;
-    border-right: 1.5px solid rgba(255,255,255,0.5);
-    border-bottom: 1.5px solid rgba(255,255,255,0.5);
+
+    border: 1.5px solid rgba(255,255,255,0.5);
+
+    background: rgba(0,0,0,0.15);
 }
 
-.rss-column:nth-child(4n) {
-    border-right: none;
-}
 
-.rss-column:nth-last-child(-n+4) {
-    border-bottom: none;
-}
+/* =========================
+   FEED TITLE
+   ========================= */
 
 .rss-header {
     font-size: 18px;
     font-weight: bold;
     margin-bottom: 15px;
+    line-height: 1.2;
 }
+
+
+/* =========================
+   ARTICLES
+   ========================= */
 
 .article {
     margin-bottom: 20px;
 }
+
+.article:last-child {
+    margin-bottom: 0;
+}
+
+
+/* =========================
+   ARTICLE IMAGE
+   ========================= */
 
 .article img {
     display: block;
@@ -59,6 +83,11 @@ body {
     object-fit: cover;
     margin-bottom: 8px;
 }
+
+
+/* =========================
+   ARTICLE TITLE
+   ========================= */
 
 .article-title {
     font-size: 15px;
@@ -76,11 +105,21 @@ body {
     text-decoration: underline;
 }
 
+
+/* =========================
+   ARTICLE DATE
+   ========================= */
+
 .article-date {
     font-size: 11px;
     opacity: 0.6;
     margin-bottom: 6px;
 }
+
+
+/* =========================
+   ARTICLE DESCRIPTION
+   ========================= */
 
 .article-description {
     font-size: 12px;
@@ -88,10 +127,20 @@ body {
     opacity: 0.8;
 }
 
+
+/* =========================
+   ERROR
+   ========================= */
+
 .error {
     font-size: 12px;
     opacity: 0.6;
 }
+
+
+/* =========================
+   TABLET
+   ========================= */
 
 @media (max-width: 1000px) {
 
@@ -101,14 +150,19 @@ body {
 
 }
 
+
+/* =========================
+   MOBILE
+   ========================= */
+
 @media (max-width: 600px) {
+
+    body {
+        padding: 10px;
+    }
 
     .rss-grid {
         grid-template-columns: 1fr;
-    }
-
-    .rss-column {
-        border-right: none !important;
     }
 
 }
@@ -116,53 +170,142 @@ body {
 </style>
 </head>
 
+
 <body>
 
 <div class="rss-grid">
 
-    <div class="rss-column">
-        <div class="rss-header">Bloody Disgusting</div>
-        <div id="bloody">Loading...</div>
-    </div>
+
+    <!-- BLOODY DISGUSTING -->
 
     <div class="rss-column">
-        <div class="rss-header">Den of Geek</div>
-        <div id="denofgeek">Loading...</div>
+
+        <div class="rss-header">
+            Bloody Disgusting
+        </div>
+
+        <div id="bloody">
+            Loading...
+        </div>
+
     </div>
 
-    <div class="rss-column">
-        <div class="rss-header">Fangoria</div>
-        <div id="fangoria">Loading...</div>
-    </div>
+
+    <!-- DEN OF GEEK -->
 
     <div class="rss-column">
-        <div class="rss-header">PlayStation Lifestyle</div>
-        <div id="psl">Loading...</div>
+
+        <div class="rss-header">
+            Den of Geek
+        </div>
+
+        <div id="denofgeek">
+            Loading...
+        </div>
+
     </div>
 
-    <div class="rss-column">
-        <div class="rss-header">PlayStation Blog</div>
-        <div id="psblog">Loading...</div>
-    </div>
+
+    <!-- FANGORIA -->
 
     <div class="rss-column">
-        <div class="rss-header">Push Square</div>
-        <div id="pushsquare">Loading...</div>
+
+        <div class="rss-header">
+            Fangoria
+        </div>
+
+        <div id="fangoria">
+            Loading...
+        </div>
+
     </div>
 
-    <div class="rss-column">
-        <div class="rss-header">Steam</div>
-        <div id="steam">Loading...</div>
-    </div>
+
+    <!-- PLAYSTATION LIFESTYLE -->
 
     <div class="rss-column">
-        <div class="rss-header">Steam Game Deals</div>
-        <div id="steamdeals">Loading...</div>
+
+        <div class="rss-header">
+            PlayStation Lifestyle
+        </div>
+
+        <div id="psl">
+            Loading...
+        </div>
+
     </div>
+
+
+    <!-- PLAYSTATION BLOG -->
+
+    <div class="rss-column">
+
+        <div class="rss-header">
+            PlayStation Blog
+        </div>
+
+        <div id="psblog">
+            Loading...
+        </div>
+
+    </div>
+
+
+    <!-- PUSH SQUARE -->
+
+    <div class="rss-column">
+
+        <div class="rss-header">
+            Push Square
+        </div>
+
+        <div id="pushsquare">
+            Loading...
+        </div>
+
+    </div>
+
+
+    <!-- STEAM -->
+
+    <div class="rss-column">
+
+        <div class="rss-header">
+            Steam
+        </div>
+
+        <div id="steam">
+            Loading...
+        </div>
+
+    </div>
+
+
+    <!-- STEAM GAME DEALS -->
+
+    <div class="rss-column">
+
+        <div class="rss-header">
+            Steam Game Deals
+        </div>
+
+        <div id="steamdeals">
+            Loading...
+        </div>
+
+    </div>
+
 
 </div>
 
+
+
 <script>
+
+
+/* =========================
+   RSS FEEDS
+   ========================= */
 
 const feeds = [
 
@@ -209,67 +352,102 @@ const feeds = [
 ];
 
 
+/* =========================
+   CLEAN TEXT
+   ========================= */
+
 function cleanText(text) {
 
-    if (!text) return "";
+    if (!text) {
+        return "";
+    }
 
-    const temp = document.createElement("div");
+    const temp =
+        document.createElement("div");
 
     temp.innerHTML = text;
 
     return temp.textContent
         .replace(/\s+/g, " ")
         .trim();
-
 }
 
 
+/* =========================
+   FIND ARTICLE IMAGE
+   ========================= */
+
 function findImage(item) {
+
+    /* RSS2JSON thumbnail */
 
     if (item.thumbnail) {
         return item.thumbnail;
     }
 
-    if (item.enclosure &&
-        item.enclosure.link) {
 
+    /* RSS enclosure */
+
+    if (
+        item.enclosure &&
+        item.enclosure.link
+    ) {
         return item.enclosure.link;
     }
+
+
+    /* Image inside content */
 
     if (item.content) {
 
         const match =
-            item.content.match(/<img[^>]+src=["']([^"']+)["']/i);
+            item.content.match(
+                /<img[^>]+src=["']([^"']+)["']/i
+            );
 
         if (match) {
             return match[1];
         }
     }
+
+
+    /* Image inside description */
 
     if (item.description) {
 
         const match =
-            item.description.match(/<img[^>]+src=["']([^"']+)["']/i);
+            item.description.match(
+                /<img[^>]+src=["']([^"']+)["']/i
+            );
 
         if (match) {
             return match[1];
         }
     }
+
 
     return "";
 }
 
 
+/* =========================
+   LOAD RSS FEED
+   ========================= */
+
 async function loadFeed(feed) {
 
     const container =
-        document.getElementById(feed.name);
+        document.getElementById(
+            feed.name
+        );
 
     try {
 
         const proxy =
             "https://api.rss2json.com/v1/api.json?rss_url=" +
-            encodeURIComponent(feed.url);
+            encodeURIComponent(
+                feed.url
+            );
 
         const response =
             await fetch(proxy);
@@ -277,39 +455,62 @@ async function loadFeed(feed) {
         const data =
             await response.json();
 
-        if (!data.items ||
-            data.items.length === 0) {
-
-            throw new Error("No articles");
+        if (
+            !data.items ||
+            data.items.length === 0
+        ) {
+            throw new Error(
+                "No articles found"
+            );
         }
 
+
         container.innerHTML =
+
             data.items
             .slice(0, 5)
             .map(item => {
 
+                /* TITLE */
+
                 const title =
-                    cleanText(item.title);
+                    cleanText(
+                        item.title
+                    );
+
+
+                /* DESCRIPTION */
 
                 const description =
                     cleanText(
                         item.description ||
                         item.content ||
                         ""
-                    ).substring(0, 180);
+                    ).substring(
+                        0,
+                        180
+                    );
+
+
+                /* IMAGE */
 
                 const image =
                     findImage(item);
+
+
+                /* DATE */
 
                 let date = "";
 
                 if (item.pubDate) {
 
                     date =
-                        new Date(item.pubDate)
-                        .toLocaleDateString();
+                        new Date(
+                            item.pubDate
+                        ).toLocaleDateString();
 
                 }
+
 
                 return `
 
@@ -322,12 +523,15 @@ async function loadFeed(feed) {
                             <img
                                 src="${image}"
                                 loading="lazy"
-                                onerror="this.style.display='none'"
+                                onerror="
+                                    this.style.display='none'
+                                "
                             >
                             `
                             :
                             ""
                         }
+
 
                         <div class="article-title">
 
@@ -336,29 +540,37 @@ async function loadFeed(feed) {
                                 target="_blank"
                                 rel="noopener"
                             >
+
                                 ${title}
+
                             </a>
 
                         </div>
+
 
                         ${
                             date
                             ?
                             `
                             <div class="article-date">
+
                                 ${date}
+
                             </div>
                             `
                             :
                             ""
                         }
 
+
                         ${
                             description
                             ?
                             `
                             <div class="article-description">
+
                                 ${description}...
+
                             </div>
                             `
                             :
@@ -382,18 +594,26 @@ async function loadFeed(feed) {
         );
 
         container.innerHTML =
+
             `
             <div class="error">
+
                 Unable to load feed.
+
             </div>
             `;
 
     }
-
 }
 
 
-feeds.forEach(loadFeed);
+/* =========================
+   LOAD ALL FEEDS
+   ========================= */
+
+feeds.forEach(
+    loadFeed
+);
 
 </script>
 
