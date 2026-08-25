@@ -7,7 +7,6 @@ from datetime import datetime, timezone
 
 
 FEEDS = {
-
     "Bloody Disgusting":
         "https://bloody-disgusting.com/feed",
 
@@ -31,12 +30,10 @@ FEEDS = {
 
     "Steam Game Deals":
         "https://www.steamgamesales.com/rss"
-
 }
 
 
 def clean_text(value):
-
     if not value:
         return ""
 
@@ -59,39 +56,32 @@ def clean_text(value):
 
 def find_image(entry):
 
-    # Media RSS
     media_content = entry.get(
         "media_content",
         []
     )
 
-    if media_content:
+    for media in media_content:
 
-        for media in media_content:
+        url = media.get("url")
 
-            url = media.get("url")
-
-            if url:
-                return url
+        if url:
+            return url
 
 
-    # Media thumbnail
     media_thumbnail = entry.get(
         "media_thumbnail",
         []
     )
 
-    if media_thumbnail:
+    for media in media_thumbnail:
 
-        for media in media_thumbnail:
+        url = media.get("url")
 
-            url = media.get("url")
-
-            if url:
-                return url
+        if url:
+            return url
 
 
-    # Enclosure
     enclosures = entry.get(
         "enclosures",
         []
@@ -101,8 +91,7 @@ def find_image(entry):
 
         url = (
             enclosure.get("href")
-            or
-            enclosure.get("url")
+            or enclosure.get("url")
         )
 
         if url:
@@ -116,11 +105,9 @@ def find_image(entry):
                 media_type.startswith("image")
                 or not media_type
             ):
-
                 return url
 
 
-    # Image embedded in content
     content = entry.get(
         "content",
         []
@@ -140,11 +127,9 @@ def find_image(entry):
         )
 
         if match:
-
             return match.group(1)
 
 
-    # Image embedded in description
     description = entry.get(
         "description",
         ""
@@ -157,7 +142,6 @@ def find_image(entry):
     )
 
     if match:
-
         return match.group(1)
 
 
@@ -186,7 +170,6 @@ def get_date(entry):
             ).isoformat()
 
         except Exception:
-
             pass
 
 
@@ -233,14 +216,12 @@ def get_description(entry):
 def main():
 
     output = {
-
         "updated":
             datetime.now(
                 timezone.utc
             ).isoformat(),
 
         "feeds": {}
-
     }
 
 
@@ -250,24 +231,16 @@ def main():
             f"Fetching {name}: {url}"
         )
 
-
         try:
 
             response = requests.get(
-
                 url,
-
                 timeout=30,
-
                 headers={
-
                     "User-Agent":
-                    "Mozilla/5.0 RSS Reader"
-
+                        "Mozilla/5.0 RSS Reader"
                 }
-
             )
-
 
             response.raise_for_status()
 
@@ -296,26 +269,22 @@ def main():
                 )
 
 
-                description =
-                    get_description(
-                        entry
-                    )
+                description = get_description(
+                    entry
+                )
 
 
-                image =
-                    find_image(
-                        entry
-                    )
+                image = find_image(
+                    entry
+                )
 
 
-                date =
-                    get_date(
-                        entry
-                    )
+                date = get_date(
+                    entry
+                )
 
 
                 if not title:
-
                     continue
 
 
@@ -383,18 +352,12 @@ def main():
     ) as file:
 
         json.dump(
-
             output,
-
             file,
-
             indent=2,
-
             ensure_ascii=False
-
         )
 
 
 if __name__ == "__main__":
-
     main()
