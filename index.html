@@ -432,6 +432,26 @@ body {
 
 
 /* =========================
+   REPORT HEIGHT TO TABLISS
+   ========================= */
+
+function sendHeight() {
+
+    const height =
+        document.documentElement.scrollHeight;
+
+    window.parent.postMessage(
+        {
+            type: "rssHeight",
+            height: height
+        },
+        "*"
+    );
+
+}
+
+
+/* =========================
    LOAD FEEDS.JSON
    ========================= */
 
@@ -576,7 +596,8 @@ async function loadFeeds() {
                                         src="${article.image}"
                                         loading="lazy"
                                         onerror="
-                                            this.style.display='none'
+                                            this.style.display='none';
+                                            sendHeight();
                                         "
                                     >
                                     `
@@ -702,6 +723,15 @@ async function loadFeeds() {
                 }
             );
 
+
+        /* =========================
+           REPORT NEW HEIGHT
+           ========================= */
+
+        requestAnimationFrame(
+            sendHeight
+        );
+
     }
 
 
@@ -729,6 +759,11 @@ async function loadFeeds() {
             }
         );
 
+
+        requestAnimationFrame(
+            sendHeight
+        );
+
     }
 
 }
@@ -754,11 +789,47 @@ document
                         "collapsed"
                     );
 
+
+                    /* =========================
+                       REPORT NEW HEIGHT
+                       ========================= */
+
+                    requestAnimationFrame(
+                        sendHeight
+                    );
+
                 }
             );
 
         }
     );
+
+
+/* =========================
+   WATCH FOR SIZE CHANGES
+   ========================= */
+
+const resizeObserver =
+    new ResizeObserver(
+        () => {
+            sendHeight();
+        }
+    );
+
+
+resizeObserver.observe(
+    document.body
+);
+
+
+/* =========================
+   WINDOW RESIZE
+   ========================= */
+
+window.addEventListener(
+    "resize",
+    sendHeight
+);
 
 
 /* =========================
