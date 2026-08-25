@@ -1,23 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+>
 
 <title>RSS News</title>
 
+
 <style>
+
+
+/* =========================
+   GLOBAL
+   ========================= */
 
 * {
     box-sizing: border-box;
 }
 
+
 body {
+
     margin: 0;
+
     padding: 20px;
+
     background: transparent;
-    color: white;
+
+    color: black;
+
     font-family: Arial, sans-serif;
+
 }
 
 
@@ -26,24 +45,36 @@ body {
    ========================= */
 
 .rss-grid {
+
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+
+    grid-template-columns:
+        repeat(4, 1fr);
+
     gap: 12px;
+
     width: 100%;
+
 }
 
 
 /* =========================
-   INDIVIDUAL FEED BOX
+   FEED BOX
    ========================= */
 
 .rss-column {
+
     min-width: 0;
+
     padding: 15px;
 
-    border: 1.5px solid rgba(255,255,255,0.5);
+    border:
+        1.5px solid
+        rgba(0, 0, 0, 0.5);
 
-    background: rgba(0,0,0,0.15);
+    background:
+        rgba(255, 255, 255, 0.15);
+
 }
 
 
@@ -52,23 +83,35 @@ body {
    ========================= */
 
 .rss-header {
+
+    color: black;
+
     font-size: 18px;
+
     font-weight: bold;
+
     margin-bottom: 15px;
+
     line-height: 1.2;
+
 }
 
 
 /* =========================
-   ARTICLES
+   ARTICLE
    ========================= */
 
 .article {
+
     margin-bottom: 20px;
+
 }
 
+
 .article:last-child {
+
     margin-bottom: 0;
+
 }
 
 
@@ -77,11 +120,17 @@ body {
    ========================= */
 
 .article img {
+
     display: block;
+
     width: 100%;
+
     height: 120px;
+
     object-fit: cover;
+
     margin-bottom: 8px;
+
 }
 
 
@@ -90,19 +139,31 @@ body {
    ========================= */
 
 .article-title {
+
     font-size: 15px;
+
     font-weight: bold;
+
     line-height: 1.3;
+
     margin-bottom: 5px;
+
 }
+
 
 .article-title a {
-    color: white;
+
+    color: black;
+
     text-decoration: none;
+
 }
 
+
 .article-title a:hover {
+
     text-decoration: underline;
+
 }
 
 
@@ -111,9 +172,15 @@ body {
    ========================= */
 
 .article-date {
+
+    color: black;
+
     font-size: 11px;
+
     opacity: 0.6;
+
     margin-bottom: 6px;
+
 }
 
 
@@ -122,9 +189,15 @@ body {
    ========================= */
 
 .article-description {
+
+    color: black;
+
     font-size: 12px;
+
     line-height: 1.4;
+
     opacity: 0.8;
+
 }
 
 
@@ -133,8 +206,13 @@ body {
    ========================= */
 
 .error {
+
+    color: black;
+
     font-size: 12px;
+
     opacity: 0.6;
+
 }
 
 
@@ -145,7 +223,10 @@ body {
 @media (max-width: 1000px) {
 
     .rss-grid {
-        grid-template-columns: repeat(2, 1fr);
+
+        grid-template-columns:
+            repeat(2, 1fr);
+
     }
 
 }
@@ -158,25 +239,35 @@ body {
 @media (max-width: 600px) {
 
     body {
+
         padding: 10px;
+
     }
 
+
     .rss-grid {
+
         grid-template-columns: 1fr;
+
     }
 
 }
 
+
 </style>
+
 </head>
 
 
 <body>
 
+
 <div class="rss-grid">
 
 
-    <!-- BLOODY DISGUSTING -->
+    <!-- =========================
+         BLOODY DISGUSTING
+         ========================= -->
 
     <div class="rss-column">
 
@@ -191,7 +282,9 @@ body {
     </div>
 
 
-    <!-- DEN OF GEEK -->
+    <!-- =========================
+         DEN OF GEEK
+         ========================= -->
 
     <div class="rss-column">
 
@@ -206,7 +299,9 @@ body {
     </div>
 
 
-    <!-- FANGORIA -->
+    <!-- =========================
+         FANGORIA
+         ========================= -->
 
     <div class="rss-column">
 
@@ -221,7 +316,9 @@ body {
     </div>
 
 
-    <!-- PLAYSTATION LIFESTYLE -->
+    <!-- =========================
+         PLAYSTATION LIFESTYLE
+         ========================= -->
 
     <div class="rss-column">
 
@@ -236,7 +333,9 @@ body {
     </div>
 
 
-    <!-- PLAYSTATION BLOG -->
+    <!-- =========================
+         PLAYSTATION BLOG
+         ========================= -->
 
     <div class="rss-column">
 
@@ -251,7 +350,9 @@ body {
     </div>
 
 
-    <!-- PUSH SQUARE -->
+    <!-- =========================
+         PUSH SQUARE
+         ========================= -->
 
     <div class="rss-column">
 
@@ -266,7 +367,9 @@ body {
     </div>
 
 
-    <!-- STEAM -->
+    <!-- =========================
+         STEAM
+         ========================= -->
 
     <div class="rss-column">
 
@@ -281,7 +384,9 @@ body {
     </div>
 
 
-    <!-- STEAM GAME DEALS -->
+    <!-- =========================
+         STEAM GAME DEALS
+         ========================= -->
 
     <div class="rss-column">
 
@@ -304,318 +409,362 @@ body {
 
 
 /* =========================
-   RSS FEEDS
+   LOAD FEEDS.JSON
    ========================= */
 
-const feeds = [
+async function loadFeeds() {
 
-    {
-        name: "bloody",
-        url: "https://bloody-disgusting.com/feed/"
-    },
-
-    {
-        name: "denofgeek",
-        url: "https://www.denofgeek.com/feed/"
-    },
-
-    {
-        name: "fangoria",
-        url: "https://www.fangoria.com/feed/"
-    },
-
-    {
-        name: "psl",
-        url: "https://www.playstationlifestyle.net/feed/"
-    },
-
-    {
-        name: "psblog",
-        url: "https://blog.playstation.com/feed/"
-    },
-
-    {
-        name: "pushsquare",
-        url: "https://www.pushsquare.com/feeds/latest"
-    },
-
-    {
-        name: "steam",
-        url: "https://store.steampowered.com/feeds/news.xml"
-    },
-
-    {
-        name: "steamdeals",
-        url: "https://www.steamgamesales.com/rss"
-    }
-
-];
-
-
-/* =========================
-   CLEAN TEXT
-   ========================= */
-
-function cleanText(text) {
-
-    if (!text) {
-        return "";
-    }
-
-    const temp =
-        document.createElement("div");
-
-    temp.innerHTML = text;
-
-    return temp.textContent
-        .replace(/\s+/g, " ")
-        .trim();
-}
-
-
-/* =========================
-   FIND ARTICLE IMAGE
-   ========================= */
-
-function findImage(item) {
-
-    /* RSS2JSON thumbnail */
-
-    if (item.thumbnail) {
-        return item.thumbnail;
-    }
-
-
-    /* RSS enclosure */
-
-    if (
-        item.enclosure &&
-        item.enclosure.link
-    ) {
-        return item.enclosure.link;
-    }
-
-
-    /* Image inside content */
-
-    if (item.content) {
-
-        const match =
-            item.content.match(
-                /<img[^>]+src=["']([^"']+)["']/i
-            );
-
-        if (match) {
-            return match[1];
-        }
-    }
-
-
-    /* Image inside description */
-
-    if (item.description) {
-
-        const match =
-            item.description.match(
-                /<img[^>]+src=["']([^"']+)["']/i
-            );
-
-        if (match) {
-            return match[1];
-        }
-    }
-
-
-    return "";
-}
-
-
-/* =========================
-   LOAD RSS FEED
-   ========================= */
-
-async function loadFeed(feed) {
-
-    const container =
-        document.getElementById(
-            feed.name
-        );
 
     try {
 
-        const proxy =
-            "https://api.rss2json.com/v1/api.json?rss_url=" +
-            encodeURIComponent(
-                feed.url
-            );
 
         const response =
-            await fetch(proxy);
+            await fetch(
+                "feeds.json?" +
+                Date.now()
+            );
+
+
+        if (!response.ok) {
+
+            throw new Error(
+                "Could not load feeds.json"
+            );
+
+        }
+
 
         const data =
             await response.json();
 
-        if (
-            !data.items ||
-            data.items.length === 0
-        ) {
-            throw new Error(
-                "No articles found"
-            );
-        }
+
+        const feeds =
+            data.feeds;
 
 
-        container.innerHTML =
+        /* =========================
+           RENDER EACH FEED
+           ========================= */
 
-            data.items
-            .slice(0, 5)
-            .map(item => {
-
-                /* TITLE */
-
-                const title =
-                    cleanText(
-                        item.title
-                    );
+        Object.entries(feeds)
+            .forEach(
+                ([name, feed]) => {
 
 
-                /* DESCRIPTION */
-
-                const description =
-                    cleanText(
-                        item.description ||
-                        item.content ||
-                        ""
-                    ).substring(
-                        0,
-                        180
-                    );
+                    let elementId;
 
 
-                /* IMAGE */
-
-                const image =
-                    findImage(item);
+                    switch (name) {
 
 
-                /* DATE */
+                        case "Bloody Disgusting":
 
-                let date = "";
+                            elementId =
+                                "bloody";
 
-                if (item.pubDate) {
+                            break;
 
-                    date =
-                        new Date(
-                            item.pubDate
-                        ).toLocaleDateString();
+
+                        case "Den of Geek":
+
+                            elementId =
+                                "denofgeek";
+
+                            break;
+
+
+                        case "Fangoria":
+
+                            elementId =
+                                "fangoria";
+
+                            break;
+
+
+                        case "PlayStation Lifestyle":
+
+                            elementId =
+                                "psl";
+
+                            break;
+
+
+                        case "PlayStation Blog":
+
+                            elementId =
+                                "psblog";
+
+                            break;
+
+
+                        case "Push Square":
+
+                            elementId =
+                                "pushsquare";
+
+                            break;
+
+
+                        case "Steam":
+
+                            elementId =
+                                "steam";
+
+                            break;
+
+
+                        case "Steam Game Deals":
+
+                            elementId =
+                                "steamdeals";
+
+                            break;
+
+
+                        default:
+
+                            return;
+
+                    }
+
+
+                    const container =
+                        document.getElementById(
+                            elementId
+                        );
+
+
+                    if (!container) {
+
+                        return;
+
+                    }
+
+
+                    if (
+                        !feed.articles ||
+                        feed.articles.length === 0
+                    ) {
+
+
+                        container.innerHTML =
+
+                            `
+                            <div class="error">
+
+                                ${
+                                    feed.error
+                                    ?
+                                    "Unable to load feed."
+                                    :
+                                    "No articles found."
+
+                                }
+
+                            </div>
+                            `;
+
+
+                        return;
+
+                    }
+
+
+                    /* =========================
+                       ARTICLES
+                       ========================= */
+
+                    container.innerHTML =
+
+                        feed.articles
+                        .slice(0, 5)
+                        .map(
+                            article => {
+
+
+                                const image =
+                                    article.image
+                                    ?
+                                    `
+                                    <img
+                                        src="${article.image}"
+                                        loading="lazy"
+                                        onerror="
+                                            this.style.display='none'
+                                        "
+                                    >
+                                    `
+                                    :
+                                    "";
+
+
+                                const title =
+                                    article.title
+                                    ||
+                                    "Untitled";
+
+
+                                const description =
+                                    article.description
+                                    ||
+                                    "";
+
+
+                                let date =
+                                    "";
+
+
+                                if (
+                                    article.date
+                                ) {
+
+                                    const parsedDate =
+                                        new Date(
+                                            article.date
+                                        );
+
+
+                                    if (
+                                        !isNaN(
+                                            parsedDate
+                                        )
+                                    ) {
+
+                                        date =
+                                            parsedDate
+                                            .toLocaleDateString();
+
+                                    }
+
+                                }
+
+
+                                return `
+
+                                <div
+                                    class="article"
+                                >
+
+                                    ${image}
+
+
+                                    <div
+                                        class="article-title"
+                                    >
+
+                                        <a
+                                            href="${article.link}"
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                        >
+
+                                            ${title}
+
+                                        </a>
+
+                                    </div>
+
+
+                                    ${
+                                        date
+                                        ?
+
+                                        `
+                                        <div
+                                            class="article-date"
+                                        >
+
+                                            ${date}
+
+                                        </div>
+                                        `
+
+                                        :
+
+                                        ""
+                                    }
+
+
+                                    ${
+                                        description
+                                        ?
+
+                                        `
+                                        <div
+                                            class="article-description"
+                                        >
+
+                                            ${description}
+
+                                        </div>
+                                        `
+
+                                        :
+
+                                        ""
+                                    }
+
+
+                                </div>
+
+                                `;
+
+                            }
+                        )
+                        .join("");
+
 
                 }
+            );
 
-
-                return `
-
-                    <div class="article">
-
-                        ${
-                            image
-                            ?
-                            `
-                            <img
-                                src="${image}"
-                                loading="lazy"
-                                onerror="
-                                    this.style.display='none'
-                                "
-                            >
-                            `
-                            :
-                            ""
-                        }
-
-
-                        <div class="article-title">
-
-                            <a
-                                href="${item.link}"
-                                target="_blank"
-                                rel="noopener"
-                            >
-
-                                ${title}
-
-                            </a>
-
-                        </div>
-
-
-                        ${
-                            date
-                            ?
-                            `
-                            <div class="article-date">
-
-                                ${date}
-
-                            </div>
-                            `
-                            :
-                            ""
-                        }
-
-
-                        ${
-                            description
-                            ?
-                            `
-                            <div class="article-description">
-
-                                ${description}...
-
-                            </div>
-                            `
-                            :
-                            ""
-                        }
-
-                    </div>
-
-                `;
-
-            })
-            .join("");
 
     }
+
 
     catch (error) {
 
+
         console.error(
-            feed.name,
             error
         );
 
-        container.innerHTML =
 
-            `
-            <div class="error">
+        document.querySelectorAll(
+            ".rss-column > div[id]"
+        )
+        .forEach(
+            element => {
 
-                Unable to load feed.
+                element.innerHTML =
 
-            </div>
-            `;
+                    `
+                    <div
+                        class="error"
+                    >
+
+                        Unable to load RSS data.
+
+                    </div>
+                    `;
+
+            }
+        );
 
     }
+
 }
 
 
 /* =========================
-   LOAD ALL FEEDS
+   START
    ========================= */
 
-feeds.forEach(
-    loadFeed
-);
+loadFeeds();
+
 
 </script>
 
+
 </body>
+
 </html>
