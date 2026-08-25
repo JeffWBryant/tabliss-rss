@@ -1,9 +1,16 @@
 {
-  "updated": "2026-08-25T18:16:50.718301+00:00",
+  "updated": "2026-08-25T18:40:09.273736+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Liminal Horror Hit ‘Backrooms’ Creeps Onto HBO Max Next Month",
+          "link": "https://bloody-disgusting.com/movie/3965303/liminal-horror-hit-backrooms-creeps-onto-hbo-max-next-month/",
+          "description": "Venture into the endless abyss of Cap’n Clark’s Ottoman Empire next month when director Kane Parsons’ Backrooms makes its streaming debut. The liminal horror movie will debut exclusively on HBO Max in the U.S. on September 25. The film will debut on HBO linear on September 26 at 8:00 p.m. ET. Chiwet",
+          "date": "2026-08-25T18:19:33+00:00",
+          "image": ""
+        },
         {
           "title": "Double XP Made Permanent for ‘The Texas Chain Saw Massacre’",
           "link": "https://bloody-disgusting.com/video-games/3965300/double-xp-made-permanent-for-the-texas-chain-saw-massacre/",
@@ -66,13 +73,6 @@
           "description": "Pop culture icon “RoboCop” is coming back online with a new series based on the classic dystopian sci-fi action film, and Deadline reports that Dan Stevens (Abigail) will star. Dan Stevens will play Alex Murphy/RoboCop in the upcoming Prime Video series. In the eight-episode RoboCop television serie",
           "date": "2026-08-25T16:08:13+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/robocop-weller-1.jpg?resize=1280%2C720&#038;ssl=1"
-        },
-        {
-          "title": "The Bug Hunt Begins Today With ‘Aliens: Fireteam Elite 2’ Now Available [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3965155/the-bug-hunt-begins-today-with-aliens-fireteam-elite-2-now-available-trailer/",
-          "description": "Load up your Smart Gun, as Cold Iron Studio’s Aliens: Fireteam Elite 2 is out today on PlayStation 5, Xbox Series, and PC via Steam and the Epic Games Store. As mentioned previously, the game will also be coming to the Nintendo Switch 2 later this fall. Once again, up to four players in Aliens: Fire",
-          "date": "2026-08-25T15:58:23+00:00",
-          "image": ""
         }
       ]
     },
@@ -155,6 +155,20 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "New SILENT HILL: TOWNFALL Trailer Teases More Messed Up Monsters",
+          "link": "https://www.fangoria.com/silent-hill-townfall-new-trailer/",
+          "description": "Meet the voice cast of the latest SILENT HILL game in a brand new TOWNFALL trailer.",
+          "date": "2026-08-25T18:39:17+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/08/SILENT-HILL-TOWNFALL.png"
+        },
+        {
+          "title": "Drink Like A Slasher With New PBR X Jason Universe Beer",
+          "link": "https://www.fangoria.com/pbr-jason-voorhees-beer/",
+          "description": "Halloween isn't just for candy: PBR is partnering with Jason Universe for new limited-edition packaging featuring his iconic hockey mask.",
+          "date": "2026-08-25T18:26:17+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/08/PBRxJASON_PR-Social-3200x2160-02.jpg"
+        },
+        {
           "title": "10 Korean Zombie Horror Movies You Need To Watch (And Where To Watch Them)",
           "link": "https://www.fangoria.com/10-korean-zombie-horror-movies-you-need-to-watch-and-where-to-watch-them/",
           "description": "Before you catch Yeon Sang-ho's COLONY in theaters this week, sink your teeth into our list of essential zombie horrors from South Korea.",
@@ -209,20 +223,6 @@
           "description": "Get an exclusive first look at the trailer for Danielle Harris and Scout Taylor-Compton's LAST CHANCE MOTEL, which hits VOD this fall.",
           "date": "2026-08-24T16:00:53+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/05/LCM_Still4.jpg"
-        },
-        {
-          "title": "A J-Horror Legend Returns With VILLAGE OF EIGHT GRAVESTONES Trailer",
-          "link": "https://www.fangoria.com/takashi-shimizu-village-of-eight-gravestones/",
-          "description": "JU-ON director Takashi Shimizu is back with a terrifying new take on a classic Japanese mystery.",
-          "date": "2026-08-24T15:27:47+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/08/VILLAGE.jpg"
-        },
-        {
-          "title": "INSIDIOUS: OUT OF THE FURTHER Killed It At the Box Office",
-          "link": "https://www.fangoria.com/insidious-out-of-the-further-box-office-opening/",
-          "description": "Even though it didn’t top the charts, INSIDIOUS: OUT OF THE FURTHER proved this franchise still has a lot of appeal amongst horror fans.",
-          "date": "2026-08-24T13:51:42+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/08/In1.png"
         }
       ]
     },
@@ -380,18 +380,25 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "PS5's Tides of Annihilation Replaces Jennifer English with Resident Evil Actress",
+          "link": "https://www.pushsquare.com/news/2026/08/ps5s-tides-of-annihilation-replaces-jennifer-english-with-resident-evil-actress",
+          "description": "Good Grace. Following the unfortunate departure of award-winning Clair Obscur: Expedition 33 actress Jennifer English earlier this year, Tides of Annihilation has announced its new heroine. Angela Sant'Albano, the voice of Resident Evil Requiem’s Grace Ashcroft, will step into the all-important role",
+          "date": "2026-08-25T18:20:00+00:00",
+          "image": "https://images.pushsquare.com/31455fc6171f5/large.jpg"
+        },
+        {
+          "title": "Anime Open World Ananta Launches as a PS5 Console Exclusive 8 Weeks After GTA 6",
+          "link": "https://www.pushsquare.com/news/2026/08/anime-open-world-ananta-launches-as-a-ps5-console-exclusive-8-weeks-after-gta-6",
+          "description": "Clash of the titans. Ananta , the anime-inspired open world not to be confused with the already-available NTE , could release just eight weeks after GTA 6 . Promotional materials for the long-anticipated PS5 console exclusive – which is poised to make an appearance at Gamescom Opening Night Live lat",
+          "date": "2026-08-25T18:15:00+00:00",
+          "image": "https://images.pushsquare.com/08764a5af365e/large.jpg"
+        },
+        {
           "title": "Live: Watch Gamescom Opening Night Live 2026 Here, Featuring FF7 Revelation and The Witcher 3 DLC",
           "link": "https://www.pushsquare.com/features/live-watch-gamescom-opening-night-live-2026-here-featuring-ff7-revelation-and-the-witcher-3-dlc",
           "description": "Metro 2039! Ananta! Tides of Annihilation! It’s time for the middle act in Geoff Keighley’s annual trilogy of video game livestreams, with Gamescom Opening Night Live. This year’s event is threatening some big titles, including Final Fantasy 7 Revelation , The Witcher 3: Songs of the Past , and Anan",
           "date": "2026-08-25T17:00:00+00:00",
           "image": "https://images.pushsquare.com/fb6cf4010a37b/large.jpg"
-        },
-        {
-          "title": "Anime Open World Ananta Could Release Just 8 Weeks After GTA 6 on PS5",
-          "link": "https://www.pushsquare.com/news/2026/08/anime-open-world-ananta-could-release-just-8-weeks-after-gta-6-on-ps5",
-          "description": "Clash of the titans. Ananta , the anime-inspired open world not to be confused with the already-available NTE , could release just eight weeks after GTA 6 . Promotional materials for the long-anticipated PS5 console exclusive – which is poised to make an appearance at Gamescom Opening Night Live lat",
-          "date": "2026-08-25T15:30:00+00:00",
-          "image": "https://images.pushsquare.com/08764a5af365e/large.jpg"
         },
         {
           "title": "PS Plus Essential Games for September 2026 Leaked Early",
@@ -441,13 +448,6 @@
           "description": "Dates, times, and what to expect. When is Gamescom Opening Night Live 2026? It's that time once again, when Geoff Keighley awakens for his second annual show of the year: Gamescom Opening Night Live, getting the massive German expo started with a bang. What are all the details, then? When exactly ca",
           "date": "2026-08-25T08:45:00+00:00",
           "image": "https://images.pushsquare.com/6dfa49a41a01c/large.jpg"
-        },
-        {
-          "title": "'We're Hoping to Continue the Remakes for a While': Falcom Doubles Down on Remaking Classic Trails Games",
-          "link": "https://www.pushsquare.com/news/2026/08/were-hoping-to-continue-the-remakes-for-a-while-falcom-doubles-down-on-remaking-classic-trails-games",
-          "description": "Before the Horizon. Falcom's set to continue its remake era beyond the upcoming Trails in the Sky 2nd Chapter . We knew this would probably be the case anyway, especially since Trails in the Sky 1st Chapter has been such a huge success for the storied Japanese developer, but it's still interesting t",
-          "date": "2026-08-24T23:00:00+00:00",
-          "image": "https://images.pushsquare.com/9f2b0aa68e6d8/large.jpg"
         }
       ]
     },
