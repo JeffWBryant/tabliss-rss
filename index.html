@@ -93,6 +93,41 @@ body {
 
     line-height: 1.2;
 
+    cursor: pointer;
+
+    user-select: none;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+}
+
+
+.rss-header::after {
+
+    content: "▼";
+
+    font-size: 12px;
+
+    margin-left: 10px;
+
+}
+
+
+.rss-column.collapsed .rss-header {
+
+    margin-bottom: 0;
+
+}
+
+
+.rss-column.collapsed .rss-header::after {
+
+    content: "▶";
+
 }
 
 
@@ -751,6 +786,38 @@ async function loadFeeds() {
     }
 
 }
+
+
+/* =========================
+   COLLAPSIBLE FEEDS
+   ========================= */
+
+document.querySelectorAll(".rss-header").forEach(header => {
+
+    header.addEventListener("click", () => {
+
+        const column =
+            header.closest(".rss-column");
+
+        column.classList.toggle("collapsed");
+
+        const content =
+            column.querySelector(
+                ":scope > div:not(.rss-header)"
+            );
+
+        if (content) {
+
+            content.style.display =
+                column.classList.contains("collapsed")
+                ? "none"
+                : "";
+
+        }
+
+    });
+
+});
 
 
 /* =========================
