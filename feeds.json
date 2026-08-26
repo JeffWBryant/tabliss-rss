@@ -1,9 +1,16 @@
 {
-  "updated": "2026-08-26T00:14:42.969527+00:00",
+  "updated": "2026-08-26T01:44:02.217486+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘1666: Amsterdam’ Now Available in Early Access [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3965350/1666-amsterdam-now-available-in-early-access-trailer/",
+          "description": "Panache Digital Games’ 1666: Amsterdam made as big of an splash as one could hope for launching into Early Access today by debuting its launch trailer during the opening night of Gamescom. The launch trailer offers a new look at the gameplay, world, characters, and mystical forces players will encou",
+          "date": "2026-08-26T00:27:22+00:00",
+          "image": ""
+        },
         {
           "title": "The Journey Begins in ‘Resonance: A Plague Tale Legacy’ Launch Trailer [Watch]",
           "link": "https://bloody-disgusting.com/video-games/3965347/the-journey-begins-in-resonance-a-plague-tale-legacy-launch-trailer-watch/",
@@ -66,13 +73,6 @@
           "description": "Previously released this past May onto Steam, Krufs Productions will bring its unforgiving survival horror title Heavy Metal Death Can to the PlayStation 5 this fall. Those who prefer to stick with the PC version can pick up the game on Steam with a 20% discount from now until August 30. You can als",
           "date": "2026-08-25T17:30:41+00:00",
           "image": ""
-        },
-        {
-          "title": "Adam Wingard Delivers An ‘Onslaught’: “If The Blood Is Spraying, It’s Gonna Be Exciting” [Interview]",
-          "link": "https://bloody-disgusting.com/interviews/3965269/adam-wingard-delivers-an-onslaught-if-the-blood-is-spraying-its-gonna-be-exciting/",
-          "description": "Onslaught is the perfect title for Adam Wingard‘s latest movie. For the past decade, Wingard’s been working with other people’s franchises, playing in the realms of Blair Witch, Death Note, and, of course, Legendary’s MonsterVerse. With his latest film, an action-horror assault set in the same world",
-          "date": "2026-08-25T17:22:23+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/ONSLAUGHT-02.jpg?resize=1024%2C683&#038;ssl=1"
         }
       ]
     },
