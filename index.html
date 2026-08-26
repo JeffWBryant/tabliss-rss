@@ -38,7 +38,7 @@ body {
 
 
 /* =========================
-   RSS CONTAINER
+   RSS CONTAINER / BORDER
    ========================= */
 
 .rss-container {
@@ -489,10 +489,10 @@ body {
 <script>
 
 /* =========================
-   RESIZE RSS IFRAME
+   RESIZE PARENT IFRAME
    ========================= */
 
-function sendHeightToParent() {
+function resizeParentIframe() {
 
     const height =
         document.documentElement.scrollHeight;
@@ -547,7 +547,6 @@ async function loadFeeds() {
         Object.entries(feeds)
             .forEach(
                 ([name, feed]) => {
-
 
                     let elementId;
 
@@ -645,7 +644,6 @@ async function loadFeeds() {
                         .map(
                             article => {
 
-
                                 const image =
                                     article.image
                                     ?
@@ -654,8 +652,7 @@ async function loadFeeds() {
                                         src="${article.image}"
                                         loading="lazy"
                                         onerror="
-                                            this.style.display='none';
-                                            sendHeightToParent();
+                                            this.style.display='none'
                                         "
                                     >
                                     `
@@ -782,10 +779,10 @@ async function loadFeeds() {
             );
 
 
-        /* Wait for images/content to settle */
+        /* Give images/content a moment to affect height */
 
         setTimeout(
-            sendHeightToParent,
+            resizeParentIframe,
             100
         );
 
@@ -817,10 +814,7 @@ async function loadFeeds() {
         );
 
 
-        setTimeout(
-            sendHeightToParent,
-            100
-        );
+        resizeParentIframe();
 
     }
 
@@ -848,21 +842,11 @@ document
                     );
 
 
-                    /*
-                     * Wait until the browser
-                     * finishes changing the
-                     * layout, then tell the
-                     * parent iframe its new height.
-                     */
+                    /* Resize iframe after collapse */
 
-                    requestAnimationFrame(
-                        () => {
-
-                            requestAnimationFrame(
-                                sendHeightToParent
-                            );
-
-                        }
+                    setTimeout(
+                        resizeParentIframe,
+                        10
                     );
 
                 }
@@ -873,14 +857,14 @@ document
 
 
 /* =========================
-   WATCH FOR SIZE CHANGES
+   WATCH FOR HEIGHT CHANGES
    ========================= */
 
 const resizeObserver =
     new ResizeObserver(
         () => {
 
-            sendHeightToParent();
+            resizeParentIframe();
 
         }
     );
@@ -899,22 +883,6 @@ resizeObserver.observe(
 
 loadFeeds();
 
-
-/* =========================
-   INITIAL HEIGHT
-   ========================= */
-
-window.addEventListener(
-    "load",
-    () => {
-
-        setTimeout(
-            sendHeightToParent,
-            100
-        );
-
-    }
-);
 
 </script>
 
