@@ -1,9 +1,23 @@
 {
-  "updated": "2026-08-26T11:57:52.373678+00:00",
+  "updated": "2026-08-26T13:09:23.815643+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Zach Cregger’s ‘Resident Evil’ Receives R Rating For “Gore”",
+          "link": "https://bloody-disgusting.com/movie/3965384/zach-creggers-resident-evil-receives-r-rating-for-gore/",
+          "description": "Barbarian director Zach Cregger is sending Austin Abrams on a nonstop survival horror journey in Resident Evil, and its new MPA rating indicates it’ll be as gory as expected. Resident Evil has officially received its expected ‘R’ rating for “strong bloody violence, gore and language throughout.” The",
+          "date": "2026-08-26T13:07:05+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/FRM_4510_f0961_sRGB.jpg?resize=1024%2C454&#038;ssl=1"
+        },
+        {
+          "title": "Ghost Face Joins Fanta’s Haunted Universe for First-Ever Halloween Collaboration",
+          "link": "https://bloody-disgusting.com/the-further/3965338/ghost-face-joins-fantas-haunted-universe-for-first-ever-halloween-collaboration/",
+          "description": "Horror fans are spoiled for choice when it comes to themed beverages this Halloween season. And for Fanta lovers, Halloween is going to be a Scream. For the first time ever, Ghost Face® is teaming with Fanta for a Halloween collaboration: Ghost Face® Punch – a brand-new limited-edition Dark Berry Pu",
+          "date": "2026-08-26T12:00:14+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/Fanta-Halloween-Collection-Bottles-2.jpg?resize=841%2C1191&#038;ssl=1"
+        },
         {
           "title": "Isometric Horror Shooter ‘DUST: Origins’ Launches Kickstarter, Targets 2027 Release [Trailer]",
           "link": "https://bloody-disgusting.com/video-games/3965358/isometric-horror-shooter-dust-origins-launches-kickstarter-targets-2027-release-trailer/",
@@ -59,26 +73,68 @@
           "description": "R.L. Stine, the mad genius behind the Goosebumps and Fear Street books, and the narrator of our childhood nightmares, is back this week with the brand new book project Craniacs! Written by R.L. Stine with illustrations by Joe Simko, the Craniacs line has launched with the first two books: Escape fro",
           "date": "2026-08-25T19:39:50+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/81hXVaifjcL._SL1500_.jpg?resize=1002%2C1500&#038;ssl=1"
-        },
-        {
-          "title": "Liminal Horror Hit ‘Backrooms’ Streaming On HBO Max Next Month",
-          "link": "https://bloody-disgusting.com/movie/3965303/liminal-horror-hit-backrooms-creeps-onto-hbo-max-next-month/",
-          "description": "Venture into the endless abyss of Cap’n Clark’s Ottoman Empire next month when director Kane Parsons’ Backrooms makes its streaming debut. The liminal horror movie will debut exclusively on HBO Max in the U.S. on September 25. The film will debut on HBO linear on September 26 at 8:00 p.m. ET. Chiwet",
-          "date": "2026-08-25T18:19:33+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/05/TB_11703_R3-scaled.jpg?resize=2560%2C1707&#038;ssl=1"
-        },
-        {
-          "title": "Double XP Made Permanent for ‘The Texas Chain Saw Massacre’",
-          "link": "https://bloody-disgusting.com/video-games/3965300/double-xp-made-permanent-for-the-texas-chain-saw-massacre/",
-          "description": "Despite having ended content updates over a year ago, there’s still life in the old chainsaw for The Texas Chain Saw Massacre. And while we wait for Gun Interactive’s next crack at asymmetrical multiplayer horror, current TCM owners will be pleased to know that the recent string of double XP events ",
-          "date": "2026-08-25T17:53:44+00:00",
-          "image": ""
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "25 Years Later, Donnie Darko Is Getting An Unexpected Update",
+          "link": "https://www.denofgeek.com/movies/25-years-later-donnie-darko-getting-unexpected-update/",
+          "description": "With the 25th anniversary of Donnie Darko fast approaching, writer-director Richard Kelly is teasing a major update to the film’s story, starting with a sequel book later this year. The cult classic sci-fi film first made waves in 2001 and arguably launched star Jake Gyllenhaal’s career. It follows ",
+          "date": "2026-08-26T13:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/donnie.png"
+        },
+        {
+          "title": "14 Classic Films Too Complicated for Today’s Modern Audience",
+          "link": "https://www.denofgeek.com/msn/14-classic-films-too-complicated-for-todays-modern-audience/",
+          "description": "Some older movies ask for more patience than many viewers are used to giving a film today. The story may unfold slowly, leave important details unexplained, jump between characters and timelines, or bury its meaning beneath layers that only become clearer after some thought. That does not make these",
+          "date": "2026-08-26T13:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/Diseno-sin-titulo-77.jpg"
+        },
+        {
+          "title": "Random Movie Lines That the Fans Will Know Instantly",
+          "link": "https://www.denofgeek.com/msn/random-movie-lines-that-the-fans-will-know-instantly/",
+          "description": "There are many things that make a movie timeless, and like many things, it depends on what each of us look for in a film. Go to online discussions, however, and you’ll notice that there are two things fans love more than anything: memes about the movie they love, and quotes from it. Oftentimes, both",
+          "date": "2026-08-26T12:50:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/img_9c12cb.jpg"
+        },
+        {
+          "title": "15 Small Movie Details You Feel Smart Once You Catch",
+          "link": "https://www.denofgeek.com/msn/15-small-movie-details-you-feel-smart-once-you-catch/",
+          "description": "Some movie details are so small that you can watch a film several times without ever noticing them. Then someone points one out, and suddenly it becomes impossible to unsee. A prop makes more sense, a character's behavior gets a new layer, or a background detail quietly explains something the movie ",
+          "date": "2026-08-26T12:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/Diseno-sin-titulo-76.jpg"
+        },
+        {
+          "title": "15 Movies from the 1990s it Feels Weird to Even Think Of",
+          "link": "https://www.denofgeek.com/msn/15-movies-from-the-1990s-it-feels-weird-to-even-think-of/",
+          "description": "The 1990s still feel close enough to remember clearly, which makes it strange when you realize how much time has actually passed. Movies from the decade had a particular look, sound, and rhythm that can instantly bring back a certain moment, yet some of those films now feel almost impossible to plac",
+          "date": "2026-08-26T12:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/Diseno-sin-titulo-75.jpg"
+        },
+        {
+          "title": "14 Facts from Hollywood’s Less Buttoned-Up Era",
+          "link": "https://www.denofgeek.com/msn/15-facts-from-hollywoods-less-buttoned-up-era/",
+          "description": "Hollywood has never been quite as polished behind the scenes as it looked on screen. During the studio era, the people making movies lived in a world filled with strict contracts, powerful studios, unusual rules, scandalous behavior, and plenty of secrets that were carefully kept away from audiences",
+          "date": "2026-08-26T12:20:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/Diseno-sin-titulo-72.jpg"
+        },
+        {
+          "title": "15 of the Biggest ’90s Celeb Scandals We Still Remember Today",
+          "link": "https://www.denofgeek.com/msn/15-of-the-biggest-90s-celeb-scandals-we-still-remember-today/",
+          "description": "The 1990s produced plenty of unforgettable celebrities, but it also produced a remarkable number of headlines we still remember about them today. Before social media could turn every rumor into a worldwide conversation within minutes, celebrity scandals spread through tabloids, television interviews",
+          "date": "2026-08-26T12:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/7_27151f.jpg"
+        },
+        {
+          "title": "15 Real Jobs From the Past That Sound Completely Made Up",
+          "link": "https://www.denofgeek.com/msn/15-real-jobs-from-the-past-that-sound-completely-made-up/",
+          "description": "Complaining about work gets a little harder after looking through an old list of occupations. Plenty of jobs that once seemed completely normal have disappeared because a machine, a sewer system, or simply a change in everyday life made them unnecessary. Others were so specific to their time that it",
+          "date": "2026-08-26T12:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-3-8.jpg"
+        },
         {
           "title": "15 Famous People Who Were Already Successful Before Becoming Famous for Something Else",
           "link": "https://www.denofgeek.com/msn/15-famous-people-who-were-already-successful-before-becoming-famous-for-something-else/",
@@ -92,62 +148,6 @@
           "description": "Being president of the United States usually means posing for carefully planned photographs surrounded by flags, dignitaries, and people trying very hard to look serious. Luckily, more than two centuries of American history have also produced some considerably stranger images. Presidents have been p",
           "date": "2026-08-26T11:30:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/6_709bbc.jpg"
-        },
-        {
-          "title": "15 Confusing Signs We’re Not Exactly Sure How to Follow",
-          "link": "https://www.denofgeek.com/msn/15-confusing-signs-were-not-exactly-sure-how-to-follow/",
-          "description": "Signs are supposed to make life easier. They tell us where to go, what not to touch, and whether we're about to park somewhere that will get the car towed. At least, that's the idea. Every once in a while, a sign manages to create more questions than it answers. Maybe two instructions contradict eac",
-          "date": "2026-08-26T11:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-27.jpg"
-        },
-        {
-          "title": "14 Vintage Celebrity Photos Taken from Their Earliest Works",
-          "link": "https://www.denofgeek.com/msn/14-vintage-celebrity-photos-taken-from-their-earliest-works/",
-          "description": "Hollywood’s biggest stars, particularly the names that have been around for decades, seem like they’ve been around since the beginning of time. As you might’ve imagined, that isn’t the case, and they have had their own initial roles, small parts, and slow rise to fame before their stardom. Looking b",
-          "date": "2026-08-26T11:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/6_bd44cc.jpg"
-        },
-        {
-          "title": "15 Actors With the Most Intimidating Gaze",
-          "link": "https://www.denofgeek.com/msn/15-actors-with-the-most-intimidating-gaze/",
-          "description": "History is full of faces that seem almost designed for a villainous portrait. It’s not that they hold ill intent for someone, it’s just that some people simply have unusually intense features, distinctive expressions, imposing physiques, or a natural seriousness that makes them look like they should",
-          "date": "2026-08-26T10:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/4_96a1c2.jpg"
-        },
-        {
-          "title": "15 True Historical Facts That Feel More Like Historical Fiction",
-          "link": "https://www.denofgeek.com/msn/15-true-historical-facts-that-feel-more-like-historical-fiction/",
-          "description": "Why does history inspire us so much? Well, it contains stories that, while they happened, feel like stories invented for children, the impressionable, or as a comedy sketch someone came up with on the fly. And yet, as it always happens, reality is stranger than fiction, giving us plenty of facts and",
-          "date": "2026-08-26T10:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/img-7-2.jpg"
-        },
-        {
-          "title": "The First On-Screen Appearance Of Today’s Biggest Names",
-          "link": "https://www.denofgeek.com/msn/the-first-on-screen-appearance-of-todays-biggest-names/",
-          "description": "As it often happens, we tend to think of famous people as having been famous forever. And yet, that’s basically never the case; even if your parents are famous, you’re then known as someone’s child rather than as an individual. Fame, for everyone, grows gradually. Although having a famous family alw",
-          "date": "2026-08-26T10:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/1_d0fbfb.jpg"
-        },
-        {
-          "title": "15 Movies You Didn’t Know Were Adaptations",
-          "link": "https://www.denofgeek.com/msn/15-movies-you-didnt-know-were-adaptations/",
-          "description": "Movies are often based on comics, books and other varied sources, something we all know far too well. However, some films don’t advertise openly that they’re based on some other product, or at least you need to squint to be able to catch the part where they mention it. If you do some research, you’l",
-          "date": "2026-08-26T10:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/3_587e28.jpg"
-        },
-        {
-          "title": "The 10 Best Mystery Science Theater 3000 Episodes of All Time",
-          "link": "https://www.denofgeek.com/tv/best-mystery-science-theater-3000-episodes-all-time/",
-          "description": "In the increasingly distant past, Mystery Science Theater 3000 was ground-breaking television. Part send-up of 1950s kid’s programming, part puppet show, part showcase for co-creator and prop comic Joel Hodgson, MST3K became a cult sensation, especially after it moved from a Minnesota public access ",
-          "date": "2026-08-25T19:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2022/01/mystery-science-theater.jpeg"
-        },
-        {
-          "title": "14 Hit TV Shows You Wouldn’t Guess from the Awful Pilot Episode",
-          "link": "https://www.denofgeek.com/msn/15-hit-tv-shows-you-wouldnt-guess-from-the-awful-pilot-episode/",
-          "description": "A great television series can hide behind a terrible first impression. Sometimes the pilot is awkward, the characters feel unfinished, the jokes land badly, or the premise seems unsure of what it wants to be. That can be surprising when the same show eventually becomes a cultural favorite with devot",
-          "date": "2026-08-25T15:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/4_fc729a.jpg"
         }
       ]
     },
@@ -230,6 +230,27 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "Flashy PlayStation 5 Cyber Noire Action Game Gets Release Date Window",
+          "link": "https://www.playstationlifestyle.net/2026/08/26/ps5-action-game-no-law-release-date-window/",
+          "description": "A promising PS5 cyber noire action game in development at talented studio Neon Giant has finally received a release date window. Due to be published by Krafton, No Law will release on current-gen platforms in 2027. PS5 action game No Law is described as a ‘story-rich’ shooter No Law first caught our",
+          "date": "2026-08-26T13:00:00+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/ps5-action-game-no-law.jpg?w=1024"
+        },
+        {
+          "title": "Hit 2026 PS5 Adventure Game Shadow-Drops Free Enhanced Version",
+          "link": "https://www.playstationlifestyle.net/2026/08/26/ps5-adventure-game-crimson-desert-enhanced/",
+          "description": "A popular 2026 PS5 action adventure game shadow-dropped an enhanced version on the PS Store, and it’s free for all game owners. Released back in March, Pearl Abyss’ Crimson Desert now features new content and improvements designed to strengthen its campaign. PS5 action adventure game Crimson Desert ",
+          "date": "2026-08-26T12:30:00+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/ps5-adventure-game-crimson-desert-enhanced.jpg?w=1024"
+        },
+        {
+          "title": "PS5 Players Can Claim Popular Action Game for Free via PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/08/26/free-ps5-action-game-once-human-out-on-ps-store/",
+          "description": "PS5 players can now download a hit 2024 post-apocalyptic open-world action game for free via the PS Store. First launched on PC, Once Human is finally available on consoles, and PS5 players are already enjoying the title, if its PS Store rating is anything to go by. PS5 action game Once Human launch",
+          "date": "2026-08-26T12:00:00+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/ps5-action-game-once-human.jpg?w=1024"
+        },
+        {
           "title": "PS5 Players Surprised With Free Remaster of the Best PlayStation 4 RPG",
           "link": "https://www.playstationlifestyle.net/2026/08/26/ps5-rpg-the-witcher-3-remastered-release-date/",
           "description": "PS5 players were given a pleasant surprise at Gamescom 2026 when CD Projekt RED announced a remaster of its best PS4 RPG. The Witcher 3: Wild Hunt Remastered will be free for all existing owners and comes with additional bells and whistles, including PS5 Pro support. PS5 RPG The Witcher 3: Wild Hunt",
@@ -277,33 +298,26 @@
           "description": "A beloved Square Enix RPG from the 90s is getting revived for modern consoles, including PlayStation 5. The rerelease will also mark the classic game’s American debut after solely launching in Japan and PAL regions back in the day. Originally developed by Quintet and published by Enix, Terranigma is",
           "date": "2026-08-25T17:15:46+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/Untitled-design-85.png?w=1024"
-        },
-        {
-          "title": "PlayStation 5 Getting Surprise Release of Cult Classic Adventure Game",
-          "link": "https://www.playstationlifestyle.net/2026/08/25/sanitarium-playstation-5-cult-classic-adventure-game/",
-          "description": "A modernized and improved version of a cult-classic adventure game will be released for PlayStation 5. This game was originally released on April 30, 1998, for Windows PC. In 2015, the game was ported to iOS and Android devices. However, the enhanced version will soon be released for modern consoles",
-          "date": "2026-08-25T16:24:59+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/Untitled-design-83.png?w=1024"
-        },
-        {
-          "title": "PlayStation 5 Getting Collection of Games in Series Not Seen Since PS3",
-          "link": "https://www.playstationlifestyle.net/2026/08/25/playstation-5-collection-series-not-seen-since-ps3/",
-          "description": "PlayStation 5 players are set to witness the return of nostalgia with a classic shooter franchise. The post PlayStation 5 Getting Collection of Games in Series Not Seen Since PS3 appeared first on PlayStation LifeStyle .",
-          "date": "2026-08-25T15:46:25+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/alien.jpg?w=1024"
-        },
-        {
-          "title": "Acclaimed 2022 PS5 RPG 80% Off on PlayStation Store, Lowest Price",
-          "link": "https://www.playstationlifestyle.net/2026/08/25/soul-hackers-2-ps-store-deal-august-2026/",
-          "description": "A fantastic 2022 PS5 and PS4 RPG is 80% off in a limited-time PS Store deal that will end later this week. Developed by talented studio Atlus and published by Sega, Soul Hackers 2 is at its lowest price until August 27. Sega RPG Soul Hackers 2 is just $11.99 in limited-time PS Store deal […] The pos",
-          "date": "2026-08-25T13:35:45+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/soul-hackers-2-ps-store-deal.jpg?w=1024"
         }
       ]
     },
     "PlayStation Blog": {
       "url": "https://blog.playstation.com/feed/",
       "articles": [
+        {
+          "title": "Hands-on report: Star Wars Zero Company",
+          "link": "https://blog.playstation.com/2026/08/26/hands-on-report-star-wars-zero-company/",
+          "description": "The galaxy far, far way is a ripe battleground for strategy games, although Star Wars has only seen a handful of them over the years. Developer Bit Reactor, in collaboration with Respawn Entertainment and Lucasfilm Games, are changing that with its band of misfits and mercenaries taking charge in an",
+          "date": "2026-08-26T13:00:09+00:00",
+          "image": "https://blog.playstation.com/tachyon/2028/08/c203d1348b8169229f947d6a805172694b0b8805.png"
+        },
+        {
+          "title": "Hands-on report: Mega Man: Dual Override and Dragon’s Dogma 2: Dark Arisen",
+          "link": "https://blog.playstation.com/2026/08/26/hands-on-report-mega-man-dual-override-and-dragons-dogma-2-dark-arisen/",
+          "description": "Gamescom looms on the horizon, and this year Capcom heats things up as it overclocks the Blue Bomber in Mega Man: Dual Override, then cools them off with a venture into the frigid and hostile Norgan region in Dragon’s Dogma 2: Dark Arisen. I got to go hands-on with both to see what Capcom is […]",
+          "date": "2026-08-26T12:00:37+00:00",
+          "image": ""
+        },
         {
           "title": "Onimusha: Way of the Sword interview, demo update detailed, new trailer revealed",
           "link": "https://blog.playstation.com/2026/08/25/onimusha-way-of-the-sword-interview-demo-update-detailed-new-trailer-revealed/",
@@ -359,26 +373,33 @@
           "description": "Gran Turismo 7’s 1.71 update roars onto PS5 today*, bringing with it new cars, as well as introducing three new World Circuits, while Whistler added as featured Curation in Scapes. Each of the four cars in this update offers a different kind of driving experience. Whether you are chasing style, disc",
           "date": "2026-08-19T13:00:46+00:00",
           "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-        },
-        {
-          "title": "Inside the brutal puzzles of Clive Barker’s Hellraiser: Revival",
-          "link": "https://blog.playstation.com/2026/08/19/inside-the-brutal-puzzles-of-clive-barkers-hellraiser-revival/",
-          "description": "It’s dark. The walls are oppressively grey, spikey and close. And there’s a disturbing noise of chattering teeth that sounds like it’s coming from, well, everywhere. Then, I see him. Flesh warped, eyeless sockets sunken, mouth wide, teeth full. The Chatterer – the source of the ever-present and unne",
-          "date": "2026-08-19T12:15:07+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-        },
-        {
-          "title": "(For Southeast Asia) Pulse Elevate wireless speakers launch November 12, 2026",
-          "link": "https://blog.playstation.com/2026/08/18/20260818-speaker/",
-          "description": "Update (August 19, 2026): Pulse Elevate wireless speakers in Midnight Black and White will launch starting on November 12, 2026,* with a recommended retail price (RRP) of SGD 319 / MYR 1,099 / THB 8,499 / PHP 14,709 / VND 6,999,000. Pre-orders for Pulse Elevate speakers will be available starting fr",
-          "date": "2026-08-19T01:33:26+00:00",
-          "image": "https://blog.playstation.com/tachyon/2025/09/33a1663d44d742a2e7d0d44c264e8c2fe8bd37dc-scaled.jpg?fit=1024%2C1024"
         }
       ]
     },
     "Push Square": {
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
+        {
+          "title": "The Witcher 3 Remastered Reveals Huge List of Improvements, Including PS5 Pro Support",
+          "link": "https://www.pushsquare.com/news/2026/08/the-witcher-3-remastered-reveals-huge-list-of-improvements-including-ps5-pro-support",
+          "description": "Here we go again. The shock announcement of The Witcher 3: Wild Hunt - Remastered has prompted many fans to start thinking about yet another playthrough — but what does the enhanced re-release actually include? Well, yesterday's trailer does provide an overview — you just need to pause the video and",
+          "date": "2026-08-26T12:45:00+00:00",
+          "image": "https://images.pushsquare.com/11f3c07ed3a7a/large.jpg"
+        },
+        {
+          "title": "Metro 2039 Reveals More on Its Main Character, and You Can Buy His Spartan Helmet",
+          "link": "https://www.pushsquare.com/news/2026/08/metro-2039-reveals-more-on-its-main-character-and-you-can-buy-his-spartan-helmet",
+          "description": "Learn more about main character The Stranger. Metro 2039 rocked up to Gamescom Opening Night Live with a fresh gameplay trailer focusing on its new protagonist, The Stranger, and news that you can own his Spartan Helmet if you buy the PS5 game's Collector's Edition. You get two minutes of metro tunn",
+          "date": "2026-08-26T12:30:00+00:00",
+          "image": "https://images.pushsquare.com/1ce6b7414cec9/large.jpg"
+        },
+        {
+          "title": "Aniimo, the Free-to-Play, Pokémon-Like RPG, Joins the September Madness on PS5",
+          "link": "https://www.pushsquare.com/news/2026/08/aniimo-the-free-to-play-pokemon-like-rpg-joins-the-september-madness-on-ps5",
+          "description": "Too many games. Look, it's just kinda ridiculous now. The next couple of months are insane , and games just keep getting release dates within that time frame. Aniimo is one of them, recently confirmed to make its debut on PS5 on 16th September 2026. Read the full article on pushsquare.com",
+          "date": "2026-08-26T12:00:00+00:00",
+          "image": "https://images.pushsquare.com/a8ea75b5a4d90/large.jpg"
+        },
         {
           "title": "Rockstar Issues Statement on GTA 6 Leaks, Apologises for How Long Gameplay Reveal Has Taken",
           "link": "https://www.pushsquare.com/news/2026/08/rockstar-issues-statement-on-gta-6-leaks-apologises-for-how-long-gameplay-reveal-has-taken",
@@ -427,27 +448,6 @@
           "description": "Rate this year's Keighley surprises. We've reached the time of year when Geoff Keighley hosts his most low-key showcase of the year. Gamescom Opening Night Live usually has one or two big pieces of news, but this is nothing like Summer Game Fest or The Game Awards . That was again reflected in the a",
           "date": "2026-08-26T01:00:00+00:00",
           "image": "https://images.pushsquare.com/5e01fc27d4943/large.jpg"
-        },
-        {
-          "title": "In PS5 Arabian Fantasy '1001 Threads of Mizan', You Ride Magic Carpet Hoverboards",
-          "link": "https://www.pushsquare.com/news/2026/08/in-ps5-arabian-fantasy-1001-threads-of-mizan-you-ride-magic-carpet-hoverboards",
-          "description": "So that's cool. Personally I’m not a huge fan of co-op action games, even though I appreciate they’re enormously popular. I mean, just look at Helldivers 2 , it’s one of Sony’s biggest games ever – and I think a big part of that is because it’s co-op. (It’s also damn fun, of course, which matters to",
-          "date": "2026-08-25T23:45:00+00:00",
-          "image": "https://images.pushsquare.com/de3ac9021fb41/large.jpg"
-        },
-        {
-          "title": "Silver Palace Is a Gothic Victorian Dream, and It's Coming to PS5",
-          "link": "https://www.pushsquare.com/news/2026/08/silver-palace-is-a-gothic-victorian-dream-and-its-coming-to-ps5",
-          "description": "I'm game. There are some games I follow which I have to find excuses to write about. Silver Palace is one such title. While the gothic detective game did list “consoles” in its initial unveiling , it’s only today during Gamescom we’ve officially got confirmation of a PS5 release. That’s good because",
-          "date": "2026-08-25T23:15:00+00:00",
-          "image": "https://images.pushsquare.com/eed1629391cd0/large.jpg"
-        },
-        {
-          "title": "Showa American Story Stood Out in a Gamescom Filled with Samey PS5 Trailers",
-          "link": "https://www.pushsquare.com/news/2026/08/showa-american-story-stood-out-in-a-gamescom-filled-with-samey-ps5-trailers",
-          "description": "I am intrigued. I mean no disrespect to any individual game when I say livestreams like Gamescom Opening Night Live don’t really present titles at their best. The problem is, when you’re looking at a montage of trailers, the themes and mechanics all start to blend together. Isolated on its own, the ",
-          "date": "2026-08-25T23:00:00+00:00",
-          "image": "https://images.pushsquare.com/974052457d475/large.jpg"
         }
       ]
     },
