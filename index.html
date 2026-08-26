@@ -38,7 +38,7 @@ body {
 
 
 /* =========================
-   RSS CONTAINER / BORDER
+   RSS CONTAINER
    ========================= */
 
 .rss-container {
@@ -489,26 +489,6 @@ body {
 <script>
 
 /* =========================
-   RESIZE PARENT IFRAME
-   ========================= */
-
-function resizeParentIframe() {
-
-    const height =
-        document.documentElement.scrollHeight;
-
-    window.parent.postMessage(
-        {
-            type: "rssResize",
-            height: height
-        },
-        "*"
-    );
-
-}
-
-
-/* =========================
    LOAD FEEDS.JSON
    ========================= */
 
@@ -519,7 +499,10 @@ async function loadFeeds() {
         const response =
             await fetch(
                 "feeds.json?" +
-                Date.now()
+                Date.now(),
+                {
+                    cache: "no-store"
+                }
             );
 
 
@@ -541,6 +524,37 @@ async function loadFeeds() {
 
 
         /* =========================
+           REMEMBER COLLAPSED FEEDS
+           ========================= */
+
+        const collapsedFeeds = [];
+
+
+        document
+            .querySelectorAll(
+                ".rss-column.collapsed"
+            )
+            .forEach(
+                column => {
+
+                    const header =
+                        column.querySelector(
+                            ".rss-header"
+                        );
+
+                    if (header) {
+
+                        collapsedFeeds.push(
+                            header.textContent.trim()
+                        );
+
+                    }
+
+                }
+            );
+
+
+        /* =========================
            RENDER EACH FEED
            ========================= */
 
@@ -548,44 +562,70 @@ async function loadFeeds() {
             .forEach(
                 ([name, feed]) => {
 
+
                     let elementId;
 
 
                     switch (name) {
 
                         case "Bloody Disgusting":
-                            elementId = "bloody";
+
+                            elementId =
+                                "bloody";
+
                             break;
 
                         case "Den of Geek":
-                            elementId = "denofgeek";
+
+                            elementId =
+                                "denofgeek";
+
                             break;
 
                         case "Fangoria":
-                            elementId = "fangoria";
+
+                            elementId =
+                                "fangoria";
+
                             break;
 
                         case "PlayStation Lifestyle":
-                            elementId = "psl";
+
+                            elementId =
+                                "psl";
+
                             break;
 
                         case "PlayStation Blog":
-                            elementId = "psblog";
+
+                            elementId =
+                                "psblog";
+
                             break;
 
                         case "Push Square":
-                            elementId = "pushsquare";
+
+                            elementId =
+                                "pushsquare";
+
                             break;
 
                         case "Steam":
-                            elementId = "steam";
+
+                            elementId =
+                                "steam";
+
                             break;
 
                         case "Steam Game Deals":
-                            elementId = "steamdeals";
+
+                            elementId =
+                                "steamdeals";
+
                             break;
 
                         default:
+
                             return;
 
                     }
@@ -598,7 +638,9 @@ async function loadFeeds() {
 
 
                     if (!container) {
+
                         return;
+
                     }
 
 
@@ -622,7 +664,6 @@ async function loadFeeds() {
                                     "Unable to load feed."
                                     :
                                     "No articles found."
-
                                 }
 
                             </div>
@@ -643,6 +684,7 @@ async function loadFeeds() {
                         .slice(0, 5)
                         .map(
                             article => {
+
 
                                 const image =
                                     article.image
@@ -775,16 +817,27 @@ async function loadFeeds() {
                         )
                         .join("");
 
+
+                    /* =========================
+                       RESTORE COLLAPSED STATE
+                       ========================= */
+
+                    const column =
+                        container.parentElement;
+
+
+                    if (
+                        collapsedFeeds.includes(name)
+                    ) {
+
+                        column.classList.add(
+                            "collapsed"
+                        );
+
+                    }
+
                 }
             );
-
-
-        /* Give images/content a moment to affect height */
-
-        setTimeout(
-            resizeParentIframe,
-            100
-        );
 
     }
 
@@ -813,9 +866,6 @@ async function loadFeeds() {
             }
         );
 
-
-        resizeParentIframe();
-
     }
 
 }
@@ -841,14 +891,6 @@ document
                         "collapsed"
                     );
 
-
-                    /* Resize iframe after collapse */
-
-                    setTimeout(
-                        resizeParentIframe,
-                        10
-                    );
-
                 }
             );
 
@@ -857,31 +899,27 @@ document
 
 
 /* =========================
-   WATCH FOR HEIGHT CHANGES
-   ========================= */
-
-const resizeObserver =
-    new ResizeObserver(
-        () => {
-
-            resizeParentIframe();
-
-        }
-    );
-
-
-resizeObserver.observe(
-    document.querySelector(
-        ".rss-container"
-    )
-);
-
-
-/* =========================
-   START
+   INITIAL LOAD
    ========================= */
 
 loadFeeds();
+
+
+/* =========================
+   AUTO REFRESH
+   =========================
+   
+   15 minutes = 900000 ms
+
+   This reloads feeds.json without
+   refreshing the Tabliss iframe.
+
+   ========================= */
+
+setInterval(
+    loadFeeds,
+    15 * 60 * 1000
+);
 
 
 </script>
