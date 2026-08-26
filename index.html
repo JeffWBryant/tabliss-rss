@@ -90,7 +90,9 @@ body {
 }
 
 
-/* LEFT ARROW */
+/* =========================
+   LEFT ARROW
+   ========================= */
 
 .rss-header::before {
     content: "▼";
@@ -101,21 +103,27 @@ body {
 }
 
 
-/* COLLAPSED ARROW */
+/* =========================
+   COLLAPSED ARROW
+   ========================= */
 
 .rss-column.collapsed .rss-header::before {
     content: "▶";
 }
 
 
-/* REMOVE BOTTOM PADDING WHEN COLLAPSED */
+/* =========================
+   COLLAPSED HEADER
+   ========================= */
 
 .rss-column.collapsed .rss-header {
     padding-bottom: 0;
 }
 
 
-/* HIDE FEED CONTENT WHEN COLLAPSED */
+/* =========================
+   HIDE COLLAPSED CONTENT
+   ========================= */
 
 .rss-column.collapsed .rss-content {
     display: none;
@@ -432,10 +440,10 @@ body {
 
 
 /* =========================
-   REPORT HEIGHT TO TABLISS
+   SEND HEIGHT TO TABLISS
    ========================= */
 
-function sendHeight() {
+function sendHeightToParent() {
 
     const height =
         document.documentElement.scrollHeight;
@@ -596,8 +604,7 @@ async function loadFeeds() {
                                         src="${article.image}"
                                         loading="lazy"
                                         onerror="
-                                            this.style.display='none';
-                                            sendHeight();
+                                            this.style.display='none'
                                         "
                                     >
                                     `
@@ -725,11 +732,12 @@ async function loadFeeds() {
 
 
         /* =========================
-           REPORT NEW HEIGHT
+           SEND INITIAL HEIGHT
            ========================= */
 
-        requestAnimationFrame(
-            sendHeight
+        setTimeout(
+            sendHeightToParent,
+            100
         );
 
     }
@@ -760,8 +768,9 @@ async function loadFeeds() {
         );
 
 
-        requestAnimationFrame(
-            sendHeight
+        setTimeout(
+            sendHeightToParent,
+            100
         );
 
     }
@@ -791,11 +800,12 @@ document
 
 
                     /* =========================
-                       REPORT NEW HEIGHT
+                       WAIT FOR CSS TO UPDATE
                        ========================= */
 
-                    requestAnimationFrame(
-                        sendHeight
+                    setTimeout(
+                        sendHeightToParent,
+                        50
                     );
 
                 }
@@ -806,29 +816,23 @@ document
 
 
 /* =========================
-   WATCH FOR SIZE CHANGES
+   RESIZE OBSERVER
    ========================= */
 
 const resizeObserver =
     new ResizeObserver(
         () => {
-            sendHeight();
+
+            sendHeightToParent();
+
         }
     );
 
 
 resizeObserver.observe(
-    document.body
-);
-
-
-/* =========================
-   WINDOW RESIZE
-   ========================= */
-
-window.addEventListener(
-    "resize",
-    sendHeight
+    document.querySelector(
+        ".rss-grid"
+    )
 );
 
 
