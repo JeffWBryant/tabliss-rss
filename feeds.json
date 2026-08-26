@@ -1,9 +1,16 @@
 {
-  "updated": "2026-08-26T00:11:34.788187+00:00",
+  "updated": "2026-08-26T00:14:42.969527+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "The Journey Begins in ‘Resonance: A Plague Tale Legacy’ Launch Trailer [Watch]",
+          "link": "https://bloody-disgusting.com/video-games/3965347/the-journey-begins-in-resonance-a-plague-tale-legacy-launch-trailer-watch/",
+          "description": "Ahead of its release later this week, Focus Entertainment and Asobo Studio have dropped the launch trailer for Resonance: A Plague Tale Legacy, premiering in grand fashion during Gamescom 2026 Opening Night Live. Set to a fitting cover of Depeche Mode‘s “Enjoy the Silence”, this final glimpse into R",
+          "date": "2026-08-26T00:13:38+00:00",
+          "image": ""
+        },
         {
           "title": "‘Silent Hill: Townfall’ English Voice Cast Revealed [Trailer]",
           "link": "https://bloody-disgusting.com/video-games/3965343/silent-hill-townfall-english-voice-cast-revealed-trailer/",
@@ -66,13 +73,6 @@
           "description": "Onslaught is the perfect title for Adam Wingard‘s latest movie. For the past decade, Wingard’s been working with other people’s franchises, playing in the realms of Blair Witch, Death Note, and, of course, Legendary’s MonsterVerse. With his latest film, an action-horror assault set in the same world",
           "date": "2026-08-25T17:22:23+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/ONSLAUGHT-02.jpg?resize=1024%2C683&#038;ssl=1"
-        },
-        {
-          "title": "‘Donnie Darko: The Philosophy of Time Travel’ – Richard Kelly’s Official Sequel Novel Coming Soon",
-          "link": "https://bloody-disgusting.com/books/3965266/donnie-darko-the-philosophy-of-time-travel-richard-kellys-official-sequel-novel-coming-soon/",
-          "description": "To celebrate the 25th anniversary of the cult classic film, Donnie Darko is getting a sequel from filmmaker Richard Kelly with the upcoming Donnie Darko: The Philosophy of Time Travel. Written by Richard Kelly himself, the sequel novel releases in Late 2026! Variety details in their exclusive report",
-          "date": "2026-08-25T17:04:33+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/Donnie-Darko-sequel-The-Philosophy-of-Time-Travel-scaled.png?resize=1978%2C2560&#038;ssl=1"
         }
       ]
     },
