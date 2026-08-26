@@ -1,9 +1,16 @@
 {
-  "updated": "2026-08-26T00:04:36.001864+00:00",
+  "updated": "2026-08-26T00:09:27.836270+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Silent Hill: Townfall’ English Voice Cast Revealed [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3965343/silent-hill-townfall-english-voice-cast-revealed-trailer/",
+          "description": "Silent Hill: Townfall made an appearance at Gamescom’s opening night with the reveal of the English voice cast for the upcoming Screen Burn Interactive title. The cast includes Jovan Adepo (IT: Welcome to Derry, The Odyssey) as Simon, the game’s protagonist, Kezia Burrows (Observation) as Zoe, and T",
+          "date": "2026-08-26T00:05:33+00:00",
+          "image": ""
+        },
         {
           "title": "Flawed But Essential: Why ‘Subspecies 4: Bloodstorm’ Is The Definitive Radu Film",
           "link": "https://bloody-disgusting.com/editorials/3964843/subspecies-4-bloodstorm-is-the-definitive-radu-film/",
@@ -66,13 +73,6 @@
           "description": "To celebrate the 25th anniversary of the cult classic film, Donnie Darko is getting a sequel from filmmaker Richard Kelly with the upcoming Donnie Darko: The Philosophy of Time Travel. Written by Richard Kelly himself, the sequel novel releases in Late 2026! Variety details in their exclusive report",
           "date": "2026-08-25T17:04:33+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/Donnie-Darko-sequel-The-Philosophy-of-Time-Travel-scaled.png?resize=1978%2C2560&#038;ssl=1"
-        },
-        {
-          "title": "‘Her Private Hell’ Arrives On Digital Today Ahead Of November Physical Media Release",
-          "link": "https://bloody-disgusting.com/home-video/3965258/her-private-hell-arrives-on-digital-today-ahead-of-november-physical-media-release/",
-          "description": "The first film in ten years from visionary director Nicolas Winding Refn (Drive, The Neon Demon, Only God Forgives) is now available to watch at home. Her Private Hell will arrive on digital platforms to rent or own beginning today, August 25, followed by a 4K Ultra HD/Blu-ray Combo on November 24, ",
-          "date": "2026-08-25T16:44:53+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/unnamed-2-scaled.jpg?resize=1707%2C2560&#038;ssl=1"
         }
       ]
     },
