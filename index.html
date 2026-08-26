@@ -489,6 +489,26 @@ body {
 <script>
 
 /* =========================
+   RESIZE RSS IFRAME
+   ========================= */
+
+function sendHeightToParent() {
+
+    const height =
+        document.documentElement.scrollHeight;
+
+    window.parent.postMessage(
+        {
+            type: "rssResize",
+            height: height
+        },
+        "*"
+    );
+
+}
+
+
+/* =========================
    LOAD FEEDS.JSON
    ========================= */
 
@@ -535,71 +555,38 @@ async function loadFeeds() {
                     switch (name) {
 
                         case "Bloody Disgusting":
-
-                            elementId =
-                                "bloody";
-
+                            elementId = "bloody";
                             break;
-
 
                         case "Den of Geek":
-
-                            elementId =
-                                "denofgeek";
-
+                            elementId = "denofgeek";
                             break;
-
 
                         case "Fangoria":
-
-                            elementId =
-                                "fangoria";
-
+                            elementId = "fangoria";
                             break;
-
 
                         case "PlayStation Lifestyle":
-
-                            elementId =
-                                "psl";
-
+                            elementId = "psl";
                             break;
-
 
                         case "PlayStation Blog":
-
-                            elementId =
-                                "psblog";
-
+                            elementId = "psblog";
                             break;
-
 
                         case "Push Square":
-
-                            elementId =
-                                "pushsquare";
-
+                            elementId = "pushsquare";
                             break;
-
 
                         case "Steam":
-
-                            elementId =
-                                "steam";
-
+                            elementId = "steam";
                             break;
-
 
                         case "Steam Game Deals":
-
-                            elementId =
-                                "steamdeals";
-
+                            elementId = "steamdeals";
                             break;
 
-
                         default:
-
                             return;
 
                     }
@@ -612,9 +599,7 @@ async function loadFeeds() {
 
 
                     if (!container) {
-
                         return;
-
                     }
 
 
@@ -669,7 +654,8 @@ async function loadFeeds() {
                                         src="${article.image}"
                                         loading="lazy"
                                         onerror="
-                                            this.style.display='none'
+                                            this.style.display='none';
+                                            sendHeightToParent();
                                         "
                                     >
                                     `
@@ -795,6 +781,14 @@ async function loadFeeds() {
                 }
             );
 
+
+        /* Wait for images/content to settle */
+
+        setTimeout(
+            sendHeightToParent,
+            100
+        );
+
     }
 
 
@@ -822,6 +816,12 @@ async function loadFeeds() {
             }
         );
 
+
+        setTimeout(
+            sendHeightToParent,
+            100
+        );
+
     }
 
 }
@@ -847,6 +847,24 @@ document
                         "collapsed"
                     );
 
+
+                    /*
+                     * Wait until the browser
+                     * finishes changing the
+                     * layout, then tell the
+                     * parent iframe its new height.
+                     */
+
+                    requestAnimationFrame(
+                        () => {
+
+                            requestAnimationFrame(
+                                sendHeightToParent
+                            );
+
+                        }
+                    );
+
                 }
             );
 
@@ -855,10 +873,48 @@ document
 
 
 /* =========================
+   WATCH FOR SIZE CHANGES
+   ========================= */
+
+const resizeObserver =
+    new ResizeObserver(
+        () => {
+
+            sendHeightToParent();
+
+        }
+    );
+
+
+resizeObserver.observe(
+    document.querySelector(
+        ".rss-container"
+    )
+);
+
+
+/* =========================
    START
    ========================= */
 
 loadFeeds();
+
+
+/* =========================
+   INITIAL HEIGHT
+   ========================= */
+
+window.addEventListener(
+    "load",
+    () => {
+
+        setTimeout(
+            sendHeightToParent,
+            100
+        );
+
+    }
+);
 
 </script>
 
