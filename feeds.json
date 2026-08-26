@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T09:20:11.075093+00:00",
+  "updated": "2026-08-26T10:07:03.174519+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,13 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "15 Movies You Didn’t Know Were Adaptations",
+          "link": "https://www.denofgeek.com/msn/15-movies-you-didnt-know-were-adaptations/",
+          "description": "Movies are often based on comics, books and other varied sources, something we all know far too well. However, some films don’t advertise openly that they’re based on some other product, or at least you need to squint to be able to catch the part where they mention it. If you do some research, you’l",
+          "date": "2026-08-26T10:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/3_587e28.jpg"
+        },
+        {
           "title": "The 10 Best Mystery Science Theater 3000 Episodes of All Time",
           "link": "https://www.denofgeek.com/tv/best-mystery-science-theater-3000-episodes-all-time/",
           "description": "In the increasingly distant past, Mystery Science Theater 3000 was ground-breaking television. Part send-up of 1950s kid’s programming, part puppet show, part showcase for co-creator and prop comic Joel Hodgson, MST3K became a cult sensation, especially after it moved from a Minnesota public access ",
@@ -141,13 +148,6 @@
           "description": "Sometimes a movie just loses you. It doesn't necessarily have to be the worst thing you've ever watched, either. Maybe the jokes aren't landing, the characters aren't giving you anyone to root for, or you suddenly realize you've spent the last 20 minutes thinking about what you're going to have for ",
           "date": "2026-08-25T12:15:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/9_60b48a.jpg"
-        },
-        {
-          "title": "15 Movie Couples Who Probably Broke Up Right After the Credits Rolled",
-          "link": "https://www.denofgeek.com/msn/15-movie-couples-who-probably-broke-up-right-after-the-credits-rolled/",
-          "description": "Movie romances have one major advantage over real relationships: they can end at exactly the right moment. Once the couple finally gets together, the music starts playing and the credits roll before anyone has to figure out whose apartment they're keeping or whether they actually have anything in co",
-          "date": "2026-08-25T12:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-8-2.jpg"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "PS5 Action RPG Warlock: Dungeons & Dragons Is All Swords and Sorcery in Debut Gameplay",
+          "link": "https://www.pushsquare.com/news/2026/08/ps5-action-rpg-warlock-dungeons-and-dragons-is-all-swords-and-sorcery-in-debut-gameplay",
+          "description": "It's a kind of magic. Publisher Wizards of the Coast and developer Invoke Studios have debuted about eight minutes of gameplay from Warlock: Dungeons & Dragons , the upcoming action RPG set within the ever-popular fantasy world. As the name suggests, you play as a warlock named Kaatri, who's on a qu",
+          "date": "2026-08-26T09:45:00+00:00",
+          "image": "https://images.pushsquare.com/ae9174be70907/large.jpg"
+        },
+        {
           "title": "Round Up: What Was Announced at Gamescom Opening Night Live 2026?",
           "link": "https://www.pushsquare.com/features/round-up-what-was-announced-at-gamescom-opening-night-live-2026",
           "description": "All the PS5 reveals from Gamescom. Of the three annual showcases Geoff Keighley hosts, Gamescom Opening Night Live is the safest one to skip watching in the moment. There's normally a lot of news, but most of it isn't groundbreaking. Nevertheless, there are still a lot of reveals to go through from ",
@@ -441,13 +448,6 @@
           "description": "Happy holidays. Publisher and developer RedOctane has announced a release date for Stage Tour , its spiritual successor to Guitar Hero . The plastic instrument rhythm title hits PS5 on 10th December, 2026, squeaking in just before Christmas. Read the full article on pushsquare.com",
           "date": "2026-08-25T19:50:00+00:00",
           "image": "https://images.pushsquare.com/da7aa540f8db2/large.jpg"
-        },
-        {
-          "title": "Mega Man: Dual Override Reveals Proto Man in Brand New PS5 Gameplay Trailer",
-          "link": "https://www.pushsquare.com/news/2026/08/mega-man-dual-override-reveals-proto-man-in-brand-new-ps5-gameplay-trailer",
-          "description": "Mega Men. Publisher Capcom has unveiled a new look at Mega Man: Dual Override , the next entry in the long-running action platformer series. Coming to both PS5 and PS4 in 2027, the game is looking promising in this first proper look at the action: Read the full article on pushsquare.com",
-          "date": "2026-08-25T19:45:00+00:00",
-          "image": "https://images.pushsquare.com/b3012b8d151aa/large.jpg"
         }
       ]
     },
