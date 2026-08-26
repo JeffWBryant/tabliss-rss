@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T10:07:03.174519+00:00",
+  "updated": "2026-08-26T11:03:21.643647+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,34 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "14 Vintage Celebrity Photos Taken from Their Earliest Works",
+          "link": "https://www.denofgeek.com/msn/14-vintage-celebrity-photos-taken-from-their-earliest-works/",
+          "description": "Hollywood’s biggest stars, particularly the names that have been around for decades, seem like they’ve been around since the beginning of time. As you might’ve imagined, that isn’t the case, and they have had their own initial roles, small parts, and slow rise to fame before their stardom. Looking b",
+          "date": "2026-08-26T11:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/6_bd44cc.jpg"
+        },
+        {
+          "title": "15 Actors With the Most Intimidating Gaze",
+          "link": "https://www.denofgeek.com/msn/15-actors-with-the-most-intimidating-gaze/",
+          "description": "History is full of faces that seem almost designed for a villainous portrait. It’s not that they hold ill intent for someone, it’s just that some people simply have unusually intense features, distinctive expressions, imposing physiques, or a natural seriousness that makes them look like they should",
+          "date": "2026-08-26T10:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/4_96a1c2.jpg"
+        },
+        {
+          "title": "15 True Historical Facts That Feel More Like Historical Fiction",
+          "link": "https://www.denofgeek.com/msn/15-true-historical-facts-that-feel-more-like-historical-fiction/",
+          "description": "Why does history inspire us so much? Well, it contains stories that, while they happened, feel like stories invented for children, the impressionable, or as a comedy sketch someone came up with on the fly. And yet, as it always happens, reality is stranger than fiction, giving us plenty of facts and",
+          "date": "2026-08-26T10:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/img-7-2.jpg"
+        },
+        {
+          "title": "The First On-Screen Appearance Of Today’s Biggest Names",
+          "link": "https://www.denofgeek.com/msn/the-first-on-screen-appearance-of-todays-biggest-names/",
+          "description": "As it often happens, we tend to think of famous people as having been famous forever. And yet, that’s basically never the case; even if your parents are famous, you’re then known as someone’s child rather than as an individual. Fame, for everyone, grows gradually. Although having a famous family alw",
+          "date": "2026-08-26T10:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/1_d0fbfb.jpg"
+        },
+        {
           "title": "15 Movies You Didn’t Know Were Adaptations",
           "link": "https://www.denofgeek.com/msn/15-movies-you-didnt-know-were-adaptations/",
           "description": "Movies are often based on comics, books and other varied sources, something we all know far too well. However, some films don’t advertise openly that they’re based on some other product, or at least you need to squint to be able to catch the part where they mention it. If you do some research, you’l",
@@ -120,34 +148,6 @@
           "description": "We all know plenty of movies with special effects that will last forever, made by cutting edge technologies and techniques that pushed the industry forward. We also know movies deemed like little more than trash, released rather recently, with effects that make them seem from many decades ago. We’re",
           "date": "2026-08-25T13:45:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/img-16-1.jpg"
-        },
-        {
-          "title": "15 People Share What Ruins a Movie Instantly Every Time",
-          "link": "https://www.denofgeek.com/msn/15-people-share-what-ruins-a-movie-instantly-every-time/",
-          "description": "Everyone has that one movie habit that can pull them straight out of a story. It might be a character making an obviously terrible decision, a romance that feels completely unnecessary, or a plot twist that only exists because nobody thought to have a five second conversation. These little annoyance",
-          "date": "2026-08-25T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/Diseno-sin-titulo-71.jpg"
-        },
-        {
-          "title": "People Share Their Favorite ‘Dead’ Video Game Franchise",
-          "link": "https://www.denofgeek.com/msn/people-share-their-favorite-dead-video-game-franchise/",
-          "description": "There is something uniquely frustrating about loving a video game series that seems to have been forgotten. The games may still have devoted fans, memorable characters, incredible soundtracks, or mechanics that nobody quite managed to recreate, yet years can pass without another proper entry. Someti",
-          "date": "2026-08-25T12:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/10_660d60.jpg"
-        },
-        {
-          "title": "15 Movie Easter Eggs Hidden in Plain Sight",
-          "link": "https://www.denofgeek.com/msn/15-movie-easter-eggs-hidden-in-plain-sight/",
-          "description": "Movies love hiding little details where viewers can see them without realizing what they are looking at. A prop on a shelf, a familiar name on a sign, a background character, or a tiny visual reference can carry a connection that only becomes obvious once someone points it out. Some of these details",
-          "date": "2026-08-25T12:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/Diseno-sin-titulo-69.jpg"
-        },
-        {
-          "title": "20 People Share the Movie They Didn’t Ever Care to Finish",
-          "link": "https://www.denofgeek.com/msn/20-people-share-the-movie-they-didnt-ever-care-to-finish/",
-          "description": "Sometimes a movie just loses you. It doesn't necessarily have to be the worst thing you've ever watched, either. Maybe the jokes aren't landing, the characters aren't giving you anyone to root for, or you suddenly realize you've spent the last 20 minutes thinking about what you're going to have for ",
-          "date": "2026-08-25T12:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/9_60b48a.jpg"
         }
       ]
     },
@@ -380,6 +380,20 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Silent Hill: Townfall Has Some Familiar Faces, Cast Revealed in New Trailer",
+          "link": "https://www.pushsquare.com/news/2026/08/silent-hill-townfall-has-some-familiar-faces-cast-revealed-in-new-trailer",
+          "description": "Locke them up. Publisher Konami has released a new trailer for its upcoming survival horror game, Silent Hill: Townfall , and it reveals a handful of cast members. Check it out below: Read the full article on pushsquare.com",
+          "date": "2026-08-26T10:45:00+00:00",
+          "image": "https://images.pushsquare.com/cd763a700acf8/large.jpg"
+        },
+        {
+          "title": "Pragmata Fully Leans into Mega Man Conspiracy with a Ridiculous In-Game Outfit",
+          "link": "https://www.pushsquare.com/news/2026/08/pragmata-fully-leans-into-mega-man-conspiracy-with-a-ridiculous-in-game-outfit",
+          "description": "Coming soon. If you recall, prior to the release of Pragmata , some fans convinced themselves that the new Capcom action was secretly a Mega Man game. That didn't turn out to be true, but the theory did spread surprisingly far — enough that the publisher purposefully poked fun at it in an April Fool",
+          "date": "2026-08-26T10:00:00+00:00",
+          "image": "https://images.pushsquare.com/7e1306602d392/large.jpg"
+        },
+        {
           "title": "PS5 Action RPG Warlock: Dungeons & Dragons Is All Swords and Sorcery in Debut Gameplay",
           "link": "https://www.pushsquare.com/news/2026/08/ps5-action-rpg-warlock-dungeons-and-dragons-is-all-swords-and-sorcery-in-debut-gameplay",
           "description": "It's a kind of magic. Publisher Wizards of the Coast and developer Invoke Studios have debuted about eight minutes of gameplay from Warlock: Dungeons & Dragons , the upcoming action RPG set within the ever-popular fantasy world. As the name suggests, you play as a warlock named Kaatri, who's on a qu",
@@ -434,20 +448,6 @@
           "description": "Director's cut. The PS5 demo for Onimusha: Way of the Sword , which released almost three months back, has just received a significant update. Those who already have said demo downloaded just need to pull a patch — a hefty 9.6GB patch, mind — while newcomers can simply grab the full thing from the P",
           "date": "2026-08-25T22:30:00+00:00",
           "image": "https://images.pushsquare.com/bf9347f42bb64/large.jpg"
-        },
-        {
-          "title": "Genshin Impact Dev Swaps Anime Waifus for Dark Fantasy in Nodusfall",
-          "link": "https://www.pushsquare.com/news/2026/08/genshin-impact-dev-swaps-anime-waifus-for-dark-fantasy-in-nodusfall",
-          "description": "Time for something totally different. HoYoverse, the maker of vibrant anime gacha games like Genshin Impact and Zenless Zone Zero , has announced a “realistic fantasy action” experience powered by Unreal Engine 5. The press release says the title’s been inspired by “diverse mythologies” and will emp",
-          "date": "2026-08-25T21:00:00+00:00",
-          "image": "https://images.pushsquare.com/6287d30675822/large.jpg"
-        },
-        {
-          "title": "Guitar Hero's Spiritual Successor, Stage Tour, Comes to PS5 Just in Time for Christmas",
-          "link": "https://www.pushsquare.com/news/2026/08/guitar-heros-spiritual-successor-stage-tour-comes-to-ps5-just-in-time-for-christmas",
-          "description": "Happy holidays. Publisher and developer RedOctane has announced a release date for Stage Tour , its spiritual successor to Guitar Hero . The plastic instrument rhythm title hits PS5 on 10th December, 2026, squeaking in just before Christmas. Read the full article on pushsquare.com",
-          "date": "2026-08-25T19:50:00+00:00",
-          "image": "https://images.pushsquare.com/da7aa540f8db2/large.jpg"
         }
       ]
     },
