@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T21:06:43.482596+00:00",
+  "updated": "2026-08-28T05:34:15.965003+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Top Horror Movies Streaming This Week",
+          "link": "https://www.fangoria.com/top-horror-movies-streaming-this-week/",
+          "description": "A demonic traveler in André Øvredal's PASSENGER and the beginning of the Lambert family's frightful tale of The Further in James Wan's INSIDIOUS make this week even scarier. Find out more about this week’s most popular streaming horror films at FANGORIA.",
+          "date": "2026-08-28T00:02:31+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/04/PSNGR_FRAME_076R-e1776174079468.jpg"
+        },
+        {
           "title": "Unpacking Gaslighting And Catharsis In New Slasher Horror Comedy BUDDY",
           "link": "https://www.fangoria.com/gaslighting-catharsis-buddy/",
           "description": "It’s a liberating feeling when you learn that you are, in fact, right when everyone else insists that you’re wrong. The topic of debate doesn’t matter much. Maybe strangers on social media called you a panic-mongering alarmist for suggesting that the confirmation of one Brett Kavanaugh signaled the ",
@@ -216,19 +223,26 @@
           "description": "PARANORMAL ACTIVITY is open now on Broadway, and in an era of excessive CGI and AI slop, its practical effects make it even more terrifying.",
           "date": "2026-08-26T13:00:57+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/08/PARANORMAL_ACTIVITY_BOSTON_1381_PJZEDIT_v001.jpg"
-        },
-        {
-          "title": "BACKROOMS Sets Streaming Release Date",
-          "link": "https://www.fangoria.com/backrooms-hbo-max-release-date/",
-          "description": "After months of being a viral sensation, BACKROOMS is making its streaming debut on HBO Max. Get all the details here.",
-          "date": "2026-08-25T20:21:17+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/03/Screenshot-2026-03-31-at-17.01.42-scaled-e1782134822545.png"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "PS5 Action RPG Phantom Blade Zero Gets Phantom Beast XR Glasses",
+          "link": "https://www.playstationlifestyle.net/2026/08/27/ps5-action-rpg-phantom-blade-zero-gets-phantom-beast-xr-glasses/",
+          "description": "Viture, a leading maker of XR and AR glasses, has partnered with S-Game, the studio behind Phantom Blade Zero, on the Phantom Beast XR Glasses. The limited-edition glasses apply the game’s “kungfupunk” look to Viture’s flagship XR hardware. Phantom Beast is available for pre-order now at $599 exclus",
+          "date": "2026-08-27T23:49:18+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/New-Picture-9-3.png?w=1024"
+        },
+        {
+          "title": "Popular Open-World PlayStation 5 Game 90% Off on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/08/27/gotham-knights-ps5-sale-90-percent-off-playstation-store-september-2026/",
+          "description": "A popular open-world PlayStation 5 game is 90% off on the PlayStation Store. This is a limited-time deal allowing PS5 users to purchase the DC-based game at its lowest price. In addition, the add-on to this is also 90% off. Gotham Knights is now available for $6.99 on the PlayStation Store. This off",
+          "date": "2026-08-27T23:21:07+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/Untitled-design-2026-08-28T044906.628.png?w=1024"
+        },
         {
           "title": "Long-Awaited PlayStation 5 Action Game Gets Release Date Window",
           "link": "https://www.playstationlifestyle.net/2026/08/27/spine-playstation-5-action-game-release-date-window/",
@@ -284,20 +298,6 @@
           "description": "Another promising PS5 and PS4 multiplayer game is ending active development within a year, possibly making its trophies unlockable on short notice. Developed by 1047 Games, SplitGate 2 was troubled from the start. Its December 2025 relaunch as Arena Reloaded breathed new life into the game, but only",
           "date": "2026-08-27T11:00:00+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/ps5-multiplayer-game-splitgate-2.jpg?w=1024"
-        },
-        {
-          "title": "PlayStation 5 Remake of Iconic PS2 RPG Gets Gorgeous Trailer",
-          "link": "https://www.playstationlifestyle.net/2026/08/26/persona-4-revival-story-trailer-gamescom-2026/",
-          "description": "A stunning new trailer has been revealed for an upcoming PlayStation 5 remake of a classic PS2 role-playing game. It was initially launched nearly two decades ago by Atlus. Persona 4 Revival, an enhanced version of Persona 4 Golden, which was itself an expanded version of Persona 4, will return as a",
-          "date": "2026-08-26T20:46:18+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/03/Persona-4-Golden-Key-Art.jpg?w=1024"
-        },
-        {
-          "title": "PlayStation 5 Adventure Game Remaster Gets Release Date, Trailer, & New Graphics",
-          "link": "https://www.playstationlifestyle.net/2026/08/26/the-wolf-among-us-remastered-ps5-noir-mode/",
-          "description": "Remaster of a beloved adventure game is coming to PlayStation 5 soon. The post PlayStation 5 Adventure Game Remaster Gets Release Date, Trailer, & New Graphics appeared first on PlayStation LifeStyle .",
-          "date": "2026-08-26T20:04:49+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/ps5.jpg?w=1024"
         }
       ]
     },
@@ -380,11 +380,25 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
-          "title": "GTA 6 Netflix Extended Look Live Now - Here Are All the New Things We've Learned",
-          "link": "https://www.pushsquare.com/news/2026/08/gta-6-netflix-extended-look-live-now-here-are-all-the-new-things-weve-learned",
+          "title": "Watch GTA 6 Extended Look Here - 17 Things We've Learned",
+          "link": "https://www.pushsquare.com/news/2026/08/watch-gta-6-extended-look-here-17-things-weve-learned",
           "description": "Get all the new GTA 6 details and images here. Years in the making, our first look at GTA 6 gameplay is available now... on Netflix. As the video is behind a subscription service's paywall, we cannot host it here on the site just yet. There's a six-hour exclusivity window, and the deep dive will be ",
-          "date": "2026-08-27T19:30:00+00:00",
+          "date": "2026-08-28T01:00:00+00:00",
           "image": "https://images.pushsquare.com/89c746b3a1ccc/large.jpg"
+        },
+        {
+          "title": "GTA 6 Targeting 30fps on PS5, Undecided on Performance Mode",
+          "link": "https://www.pushsquare.com/news/2026/08/gta-6-targeting-30fps-on-ps5-undecided-on-performance-mode",
+          "description": "Not surprising really. GTA 6 is targeting 30fps on PS5 right now, with Rockstar uncertain whether it’ll add a Performance Mode later. That’s likely to include the PS5 Pro by the way, which has a beefier GPU than its base counterpart, but is unlikely to pack enough CPU power to double the frame rate.",
+          "date": "2026-08-27T23:30:00+00:00",
+          "image": "https://images.pushsquare.com/018e329626e42/large.jpg"
+        },
+        {
+          "title": "Poll: Are You Sold on GTA 6?",
+          "link": "https://www.pushsquare.com/features/poll-are-you-sold-on-gta-6",
+          "description": "Day one? So, it finally happened: we've seen GTA 6 in action. Well, not all of us have, thanks to the gameplay being exclusive to Netflix for six hours; if you're yet to catch the footage yourself, feel free to revisit this poll once you're up to speed. Read the full article on pushsquare.com",
+          "date": "2026-08-27T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/f206fd7e79059/large.jpg"
         },
         {
           "title": "Godfall Dev's Single Player Action Shooter Armatus Takes Aim at January Release Date on PS5",
@@ -434,20 +448,6 @@
           "description": "Much more to come from horror IP. Alongside a new Call of Duty and EA Sports FC every year, how do you fancy a new Silent Hill game every 12 months? That's the release cadence Konami is now working towards as it brings the horror franchise back in a big way. Talking to GamesRadar , franchise produce",
           "date": "2026-08-27T12:30:00+00:00",
           "image": "https://images.pushsquare.com/17bad35d6c29c/large.jpg"
-        },
-        {
-          "title": "Here's 13 Minutes of Witcher 3: Songs of the Past DLC Gameplay",
-          "link": "https://www.pushsquare.com/news/2026/08/heres-13-minutes-of-witcher-3-songs-of-the-past-dlc-gameplay",
-          "description": "Get a proper look at the PS5 expansion. After just a brief look at new The Witcher 3 DLC Songs of the Past during Gamescom Opening Night Live this week, CD Projekt Red has shared a much longer portion of gameplay from the DLC in one of its Red Streams. The gameplay has been clipped out and uploaded ",
-          "date": "2026-08-27T12:00:00+00:00",
-          "image": "https://images.pushsquare.com/dc4da4f8d4708/large.jpg"
-        },
-        {
-          "title": "Dragon's Dogma 2's Game-Changing PS5 Patch Dated, But Slightly Delayed",
-          "link": "https://www.pushsquare.com/news/2026/08/dragons-dogma-2s-game-changing-ps5-patch-dated-but-slightly-delayed",
-          "description": "The big one. Capcom has long promised a major update for Dragon's Dogma 2 , dropping ahead of its Dark Arisen expansion on the 9th October. Previously, this patch was scheduled for late August, but the developer's now confirmed that it'll be arriving a little late, on the 1st or 2nd of September dep",
-          "date": "2026-08-27T11:30:00+00:00",
-          "image": "https://images.pushsquare.com/3cdffeb872e6c/large.jpg"
         }
       ]
     },
