@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T17:49:59.777340+00:00",
+  "updated": "2026-08-29T20:47:01.369626+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "'This Looks Like Dogsh*t': Disturbing DLSS 5 AI Filter Applied to Major PS5 Games After Leaking",
+          "link": "https://www.pushsquare.com/news/2026/08/this-looks-like-dogsht-disturbing-dlss-5-ai-filter-applied-to-major-ps5-games-after-leaking",
+          "description": "AI don't really like it. Nvidia’s controversial new DLSS 5 filter, which caused a bit of a hullabaloo earlier this year , has leaked online – and instantly been implemented into pretty much every major PS5 game on the market. While previous iterations of Nvidia’s upscaling technology have broadly be",
+          "date": "2026-08-29T19:00:00+00:00",
+          "image": "https://images.pushsquare.com/51d6d8a618495/large.jpg"
+        },
+        {
           "title": "$900 PS5 Pro Selling Out During PlayStation Blackout Amid GTA 6 Fever",
           "link": "https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-selling-out-during-playstation-blackout-amid-gta-6-fever",
           "description": "No disc drive, no buy? Sony’s supercharged PS5 Pro hardware model is selling out in the US as GTA 6 fever takes hold – despite an ongoing blackout protest taking place against PlayStation hardware. Fans have mobilised to keep their consoles unplugged indefinitely , but such is the demand for the PS5",
@@ -441,13 +448,6 @@
           "description": "Grand no theft auto. Amid all this new information and footage of GTA 6 , the massively anticipated open world game, it's been reported that the game will not feature any microtransactions, nor has Rockstar Games used generative AI. This info comes via Kinda Funny Games as they discuss their preview",
           "date": "2026-08-28T12:00:00+00:00",
           "image": "https://images.pushsquare.com/58d752f2492e2/large.jpg"
-        },
-        {
-          "title": "PS5, PS4 Beat-'Em-Up Scott Pilgrim EX Grows with Both Free and Premium Content",
-          "link": "https://www.pushsquare.com/news/2026/08/ps5-ps4-beat-em-up-scott-pilgrim-ex-grows-with-both-free-and-premium-content",
-          "description": "New mode and characters available. Earlier this year, we were treated to Scott Pilgrim EX , a brand new side-scrolling beat-'em-up from developer Tribute Games. The game is pretty good, with a retro art style, punchy combat, and a metric tonne of references to the beloved Bryan Lee O'Malley graphic ",
-          "date": "2026-08-28T10:30:00+00:00",
-          "image": "https://images.pushsquare.com/8953049b0b244/large.jpg"
         }
       ]
     },
