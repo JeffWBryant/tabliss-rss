@@ -1,9 +1,23 @@
 {
-  "updated": "2026-08-29T14:19:34.711889+00:00",
+  "updated": "2026-08-29T17:49:59.777340+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Bloody Disgusting Community Update – Half Star Ratings Are Here!",
+          "link": "https://bloody-disgusting.com/news/3965703/bloody-disgusting-community-updates-half-star-ratings-are-here/",
+          "description": "We only have a few updates for the Bloody Disgusting Horror Database and community this week, but we did deliver on one of the most requested features so far: Half star ratings! You can now rate films with a half star rating, and you can also preview your score before submitting. All previous rating",
+          "date": "2026-08-29T16:00:52+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/Screenshot-2026-08-28-105206.png?resize=372%2C399&#038;ssl=1"
+        },
+        {
+          "title": "‘The Curve’ and ‘Dead Man on Campus’: The Twisted Urban Legend That Inspired Two Very Different Movies",
+          "link": "https://bloody-disgusting.com/editorials/3964909/the-curve-and-dead-man-on-campus-the-twisted-urban-legend-that-inspired-two-very-different-movies/",
+          "description": "Looking back on cinema, you’ll notice that there have been quite a few movies based on urban legends. Most found their pop folklore inspiration without spending a lot of time and energy, but some others were a little more obscure in their choices. Either way, adapting urban legends always requires a",
+          "date": "2026-08-29T15:00:59+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/Dead-Mans-Curve-The-Curve-1998-Matthew-Lillard-Michael-Vartan.jpg?resize=854%2C648&#038;ssl=1"
+        },
         {
           "title": "‘Night of the Animated Dead’ Proves That Faithful Remakes Aren’t Always Better",
           "link": "https://bloody-disgusting.com/editorials/3965571/night-of-the-animated-dead-proves-that-faithful-remakes-arent-always-better/",
@@ -59,20 +73,6 @@
           "description": "Developer Zeitgeist Studio and publisher HYPER REAL have released a new cinematic trailer for their long-in-development cult horror title, NAME OF THE WILL. And if you haven’t already, you can check out the demo, which covers the first chapter of the game. Of course, if you’re attending Gamescom, yo",
           "date": "2026-08-28T15:31:02+00:00",
           "image": ""
-        },
-        {
-          "title": "Marvel Comics Previews This October’s Terrifying ‘Midnight Universe’ With an Official Reveal Trailer",
-          "link": "https://bloody-disgusting.com/comics/3965682/marvel-comics-opens-the-terrifying-midnight-universe-with-an-official-reveal-trailer/",
-          "description": "Marvel Comics embraces the horror genre with their upcoming publishing event Midnight Universe, featuring horror takes on The X-Men, Spider-Man, and The Fantastic Four. The nightmare-driven new publishing line launches with Midnight Spider-Man #1 by Phillip Kennedy Johnson and ScieTronc, Midnight Fa",
-          "date": "2026-08-28T15:00:25+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/HQv9AYJWcAA8QRF.jpg?resize=1656%2C2547&#038;ssl=1"
-        },
-        {
-          "title": "‘Dark Shadows’ 60th Anniversary Celebration Brings Restored Episodes to Blu-ray for First Time Ever!",
-          "link": "https://bloody-disgusting.com/home-video/3965665/dark-shadows-60th-anniversary-celebration-brings-restored-episodes-to-blu-ray-for-first-time-ever/",
-          "description": "The classic horror television series “Dark Shadows” is celebrating its 60th anniversary this year, and the celebration will include a brand new Blu-ray release and so much more. From Dark Sky Selects, for starters, the 3-Disc Blu-ray set Dark Shadows: Volume 1 will bring 40 restored episodes of the ",
-          "date": "2026-08-28T14:37:30+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/787716399_18628319566044715_2449116604709244823_n.webp?resize=1440%2C1800&#038;ssl=1"
         }
       ]
     },
@@ -380,6 +380,27 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "$900 PS5 Pro Selling Out During PlayStation Blackout Amid GTA 6 Fever",
+          "link": "https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-selling-out-during-playstation-blackout-amid-gta-6-fever",
+          "description": "No disc drive, no buy? Sony’s supercharged PS5 Pro hardware model is selling out in the US as GTA 6 fever takes hold – despite an ongoing blackout protest taking place against PlayStation hardware. Fans have mobilised to keep their consoles unplugged indefinitely , but such is the demand for the PS5",
+          "date": "2026-08-29T17:30:00+00:00",
+          "image": "https://images.pushsquare.com/01df7d077eea0/large.jpg"
+        },
+        {
+          "title": "Poll: Are You Happy with Your PS Plus Essential Games for September 2026?",
+          "link": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-september-2026",
+          "description": "Plus or minus? Where does the time go? We're just days away from the beginning of September, if you can believe it, and that can only mean one thing: new PS Plus Essential games to (hopefully) look forward to. At a glance, I think next month's lineup has something for everyone. We've got an historic",
+          "date": "2026-08-29T16:00:00+00:00",
+          "image": "https://images.pushsquare.com/02144f0bebce5/large.jpg"
+        },
+        {
+          "title": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (31st-6th September)",
+          "link": "https://www.pushsquare.com/news/2026/08/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-31st-6th-september",
+          "description": "Onimusha! Dawnwalker! NBA 2K! Crimson Moon! We’ve now hit the busy release schedule, with two giant PS5 titles launching next week: The Blood of Dawnwalker and Onimusha: Way of the Sword . Other titles worth paying attention to include Crimson Moon and NBA 2K27 . Read the full article on pushsquare.",
+          "date": "2026-08-29T15:00:00+00:00",
+          "image": "https://images.pushsquare.com/56116f1e1df06/large.jpg"
+        },
+        {
           "title": "Hands On: Alien Isolation 2 Was My Favourite PS5 Game at Gamescom",
           "link": "https://www.pushsquare.com/features/hands-on-alien-isolation-2-was-my-favourite-ps5-game-at-gamescom",
           "description": "The wait is almost over. Hands down, Alien Isolation 2 was the highlight of my time at Gamescom 2026 — and that’s even with the demo I played being the same one that many got their hands on at Summer Games Fest earlier this year. This long-awaited sequel from Creative Assembly is easily my most hype",
@@ -427,27 +448,6 @@
           "description": "New mode and characters available. Earlier this year, we were treated to Scott Pilgrim EX , a brand new side-scrolling beat-'em-up from developer Tribute Games. The game is pretty good, with a retro art style, punchy combat, and a metric tonne of references to the beloved Bryan Lee O'Malley graphic ",
           "date": "2026-08-28T10:30:00+00:00",
           "image": "https://images.pushsquare.com/8953049b0b244/large.jpg"
-        },
-        {
-          "title": "Watch GTA 6 Extended Look Here - 17 Things We've Learned",
-          "link": "https://www.pushsquare.com/news/2026/08/watch-gta-6-extended-look-here-17-things-weve-learned",
-          "description": "Get all the new GTA 6 details and images here. Years in the making, our first look at GTA 6 gameplay is available now... on Netflix. As the video is behind a subscription service's paywall, we cannot host it here on the site just yet. There's a six-hour exclusivity window, and the deep dive will be ",
-          "date": "2026-08-28T01:00:00+00:00",
-          "image": "https://images.pushsquare.com/89c746b3a1ccc/large.jpg"
-        },
-        {
-          "title": "GTA 6 Targeting 30fps on PS5, Undecided on Performance Mode",
-          "link": "https://www.pushsquare.com/news/2026/08/gta-6-targeting-30fps-on-ps5-undecided-on-performance-mode",
-          "description": "Not surprising really. GTA 6 is targeting 30fps on PS5 right now, with Rockstar uncertain whether it’ll add a Performance Mode later. That’s likely to include the PS5 Pro by the way, which has a beefier GPU than its base counterpart, but is unlikely to pack enough CPU power to double the frame rate.",
-          "date": "2026-08-27T23:30:00+00:00",
-          "image": "https://images.pushsquare.com/018e329626e42/large.jpg"
-        },
-        {
-          "title": "Poll: Are You Sold on GTA 6?",
-          "link": "https://www.pushsquare.com/features/poll-are-you-sold-on-gta-6",
-          "description": "Day one? So, it finally happened: we've seen GTA 6 in action. Well, not all of us have, thanks to the gameplay being exclusive to Netflix for six hours; if you're yet to catch the footage yourself, feel free to revisit this poll once you're up to speed. Read the full article on pushsquare.com",
-          "date": "2026-08-27T23:00:00+00:00",
-          "image": "https://images.pushsquare.com/f206fd7e79059/large.jpg"
         }
       ]
     },
