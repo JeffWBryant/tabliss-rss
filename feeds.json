@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T08:52:18.457895+00:00",
+  "updated": "2026-08-29T14:19:34.711889+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,18 +380,25 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
-          "title": "'See You When We're Ready': Dev Acknowledges Leaked Iron Man PS5 Trailer",
-          "link": "https://www.pushsquare.com/news/2026/08/see-you-when-were-ready-dev-acknowledges-leaked-iron-man-ps5-trailer",
-          "description": "Stark contrast. Snoops with good Google-fu may be able to find a test trailer for Marvel’s Iron Man , the upcoming open world game in development at EA and Motive. We know this is legit because the team posted on social media about it earlier today: Read the full article on pushsquare.com",
-          "date": "2026-08-28T23:00:00+00:00",
-          "image": "https://images.pushsquare.com/83d08072aee3e/large.jpg"
+          "title": "Hands On: Alien Isolation 2 Was My Favourite PS5 Game at Gamescom",
+          "link": "https://www.pushsquare.com/features/hands-on-alien-isolation-2-was-my-favourite-ps5-game-at-gamescom",
+          "description": "The wait is almost over. Hands down, Alien Isolation 2 was the highlight of my time at Gamescom 2026 — and that’s even with the demo I played being the same one that many got their hands on at Summer Games Fest earlier this year. This long-awaited sequel from Creative Assembly is easily my most hype",
+          "date": "2026-08-29T12:30:00+00:00",
+          "image": "https://images.pushsquare.com/d2bc232c3e4ba/large.jpg"
         },
         {
           "title": "Talking Point: What Are You Playing This Weekend? - Issue 647",
           "link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-6471",
           "description": "In good company. That marks the end of a busy week, packed with Gamescom announcements and GTA 6 gameplay footage. Let's decompress with some games, eh? Jamie O'Neill Since I'm staying with family, it's an assortment of PS Vita games entertaining me at the moment. Hopefully, I'll be able to catch up",
-          "date": "2026-08-28T22:12:00+00:00",
+          "date": "2026-08-29T09:30:00+00:00",
           "image": "https://images.pushsquare.com/8e500393dc2e3/large.jpg"
+        },
+        {
+          "title": "'See You When We're Ready': Dev Acknowledges Leaked Iron Man PS5 Trailer",
+          "link": "https://www.pushsquare.com/news/2026/08/see-you-when-were-ready-dev-acknowledges-leaked-iron-man-ps5-trailer",
+          "description": "Stark contrast. Snoops with good Google-fu may be able to find a test trailer for Marvel’s Iron Man , the upcoming open world game in development at EA and Motive. We know this is legit because the team posted on social media about it earlier today: Read the full article on pushsquare.com",
+          "date": "2026-08-28T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/83d08072aee3e/large.jpg"
         },
         {
           "title": "Tech Experts Call GTA 6 'the Most Impressive Example of Real-Time Rendering We've Ever Seen'",
@@ -441,13 +448,6 @@
           "description": "Day one? So, it finally happened: we've seen GTA 6 in action. Well, not all of us have, thanks to the gameplay being exclusive to Netflix for six hours; if you're yet to catch the footage yourself, feel free to revisit this poll once you're up to speed. Read the full article on pushsquare.com",
           "date": "2026-08-27T23:00:00+00:00",
           "image": "https://images.pushsquare.com/f206fd7e79059/large.jpg"
-        },
-        {
-          "title": "Godfall Dev's Single Player Action Shooter Armatus Takes Aim at January Release Date on PS5",
-          "link": "https://www.pushsquare.com/news/2026/08/godfall-devs-single-player-action-shooter-armatus-takes-aim-at-january-release-date-on-ps5",
-          "description": "Lock and load. Armatus now has a confirmed launch date, having previously promised a vague 'winter' window. The cool-looking action shooter will release for PS5 on the 7th January, adding to what's quickly becoming a very hectic first few months of the year for Sony's system. Read the full article o",
-          "date": "2026-08-27T17:15:00+00:00",
-          "image": "https://images.pushsquare.com/1e4d3c1a4c8b1/large.jpg"
         }
       ]
     },
