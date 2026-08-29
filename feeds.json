@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T18:27:53.627381+00:00",
+  "updated": "2026-08-29T01:52:50.897953+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,20 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "Rogue Fortune Puts a Puzzle-Fueled Twist on Dungeon-Crawlers",
+          "link": "https://www.denofgeek.com/games/rogue-fortune-puzzle-fueled-twist-dungeon-crawlers/",
+          "description": "Between games like Hades and Diablo, the dungeon-crawler space has plenty of fan-favorite titles, but Glowmade is bringing something fresh and vibrantly exciting to the genre with its upcoming game Rogue Fortune. Developed by Glowmade and unveiled as part of Gamescom 2026’s Xbox Showcase, the game i",
+          "date": "2026-08-28T23:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/Rogue-Fortune.png"
+        },
+        {
+          "title": "Beyond The Avengers: Marvel’s Forgotten Other Superhero Teams",
+          "link": "https://www.denofgeek.com/comics/beyond-the-avengers-marvel-forgotten-other-superhero-teams/",
+          "description": "Even those most excited for Avengers: Doomsday have to admit that this upcoming Avengers film isn’t really an Avengers film. In fact, none of the Avengers movies past Age of Ultron have really been about a discrete team of Earth’s mightiest heroes. And that’s okay, because the Marvel Universe is vas",
+          "date": "2026-08-28T20:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/Champions.jpg"
+        },
+        {
           "title": "40 Years Later, People Still Misunderstand the End of David Lynch’s Blue Velvet",
           "link": "https://www.denofgeek.com/tv/misunderstand-ending-david-lynch-blue-velvet/",
           "description": "When moviegoers walked out of theaters in September of 1986, having just watched David Lynch‘s fourth film, Blue Velvet, they felt a variety of emotions. Some were disgusted by the existence of people like Frank Booth, Dennis Hopper’s aggressive embodiment of evil. Some were angry at suburbs and sma",
@@ -134,20 +148,6 @@
           "description": "Some photographs become fascinating only because of what happened afterward. A completely ordinary snapshot can suddenly feel extraordinary when you discover that the person in it would eventually become a world famous actor, athlete, musician, politician, or business figure. At the time, there was ",
           "date": "2026-08-28T12:45:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/Diseno-sin-titulo-85.jpg"
-        },
-        {
-          "title": "15 Celebs Who Don’t Always Like Their Fans",
-          "link": "https://www.denofgeek.com/msn/15-celebs-who-dont-always-like-their-fans/",
-          "description": "Being famous usually means having people recognize you everywhere, but that does not mean every celebrity enjoys the attention. Some stars have openly complained about intrusive behavior, while others have had unusual encounters with fans that made their relationship with the public noticeably compl",
-          "date": "2026-08-28T12:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/Diseno-sin-titulo-84.jpg"
-        },
-        {
-          "title": "15 Everyday Objects You Wouldn’t Even Recognize Back in the Day",
-          "link": "https://www.denofgeek.com/msn/15-everyday-objects-you-wouldnt-even-recognize-back-in-the-day/",
-          "description": "We tend to think of everyday objects as if they've always looked more or less the way they do now. A vacuum cleaner is a vacuum cleaner, a refrigerator is a refrigerator, and a telephone is pretty difficult to mistake for anything else. Go back far enough, however, and things get considerably strang",
-          "date": "2026-08-28T12:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-4-9.jpg"
         }
       ]
     },
@@ -230,6 +230,13 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "Spyro: A Realm Beyond’s Flight Mechanics, Larger Levels Get New Details",
+          "link": "https://www.playstationlifestyle.net/2026/08/28/spyro-a-realm-beyond-flight-mechanics-larger-levels-new-details/",
+          "description": "Spyro: A Realm Beyond is the next main entry in the Spyro series, and the first original Spyro game since 2008. Now, we know more of how it will work. Speaking to ComingSoon’s Tyler Treese in a recent interview, developer Toys for Bob’s Chief Creative Officer and Studio Head, as well as Associate Cr",
+          "date": "2026-08-28T18:30:24+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/spyro-a-realm-beyond-screenshot.jpg?w=1024"
+        },
+        {
           "title": "Underrated 2024 PS5 RPG 70% Off on PlayStation Store, Lowest Price",
           "link": "https://www.playstationlifestyle.net/2026/08/28/banishers-ghosts-of-new-eden-underrated-ps5-rpg-70-off-ps-store/",
           "description": "One of the more underrated action RPGs from this generation, Banishers: Ghosts of New Eden, is discounted heavily on the PlayStation Store. The post Underrated 2024 PS5 RPG 70% Off on PlayStation Store, Lowest Price appeared first on PlayStation LifeStyle .",
@@ -291,13 +298,6 @@
           "description": "A popular PS2/PS3 game series is getting a new release on PlayStation 5. The game was previously expected to launch in fall 2026. However, the former date has been shifted to another release window. Saber Interactive shifted Turok: Origins’ release window to spring 2027. The fast-paced, third-person",
           "date": "2026-08-27T14:57:03+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/New-PlayStation-5-Game-in-Popular-PS2PS3-Series-Gets-Release-Date-Window.jpg?w=1024"
-        },
-        {
-          "title": "Beloved Konami PS5 Action Game Collection Out Today on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/08/27/konami-ps5-action-game-collection-out-today-ps-store/",
-          "description": "Acclaimed Konami action game collection is finally on PS5. The post Beloved Konami PS5 Action Game Collection Out Today on PlayStation Store appeared first on PlayStation LifeStyle .",
-          "date": "2026-08-27T14:47:23+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/metal.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,20 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "'See You When We're Ready': Dev Acknowledges Leaked Iron Man PS5 Trailer",
+          "link": "https://www.pushsquare.com/news/2026/08/see-you-when-were-ready-dev-acknowledges-leaked-iron-man-ps5-trailer",
+          "description": "Stark contrast. Snoops with good Google-fu may be able to find a test trailer for Marvel’s Iron Man , the upcoming open world game in development at EA and Motive. We know this is legit because the team posted on social media about it earlier today: Read the full article on pushsquare.com",
+          "date": "2026-08-28T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/83d08072aee3e/large.jpg"
+        },
+        {
+          "title": "Talking Point: What Are You Playing This Weekend? - Issue 647",
+          "link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-6471",
+          "description": "In good company. That marks the end of a busy week, packed with Gamescom announcements and GTA 6 gameplay footage. Let's decompress with some games, eh? Jamie O'Neill Since I'm staying with family, it's an assortment of PS Vita games entertaining me at the moment. Hopefully, I'll be able to catch up",
+          "date": "2026-08-28T22:12:00+00:00",
+          "image": "https://images.pushsquare.com/8e500393dc2e3/large.jpg"
+        },
+        {
           "title": "Tech Experts Call GTA 6 'the Most Impressive Example of Real-Time Rendering We've Ever Seen'",
           "link": "https://www.pushsquare.com/news/2026/08/tech-experts-call-gta-6-the-most-impressive-example-of-real-time-rendering-weve-ever-seen",
           "description": "Digital Foundry weighs in. In case you hadn't noticed, GTA 6 just had its big gameplay blowout, and it looks pretty sensational. It's a seriously impressive-looking game, one that looks on par with some of PS5's most visually outstanding software — only set within a vast open world that's stuffed wi",
@@ -434,20 +448,6 @@
           "description": "Lock and load. Armatus now has a confirmed launch date, having previously promised a vague 'winter' window. The cool-looking action shooter will release for PS5 on the 7th January, adding to what's quickly becoming a very hectic first few months of the year for Sony's system. Read the full article o",
           "date": "2026-08-27T17:15:00+00:00",
           "image": "https://images.pushsquare.com/1e4d3c1a4c8b1/large.jpg"
-        },
-        {
-          "title": "Stuntman: Hollywood Welcomes You to Jurassic World in Latest Trailer",
-          "link": "https://www.pushsquare.com/news/2026/08/stuntman-hollywood-welcomes-you-to-jurassic-world-in-latest-trailer",
-          "description": "That's a wrap-tor. Saber Interactive has just announced another movie licence for its upcoming revival of the cult classic Stuntman series. Stuntman: Hollywood brings back the arcade driving game, injecting it with numerous well-known films and TV shows. Among them will be Jurassic World , as reveal",
-          "date": "2026-08-27T15:15:00+00:00",
-          "image": "https://images.pushsquare.com/599717abf7dde/large.jpg"
-        },
-        {
-          "title": "GTA 6 Extended Look Will Show Nearly 30 Minutes of Gameplay, Captured on PS5",
-          "link": "https://www.pushsquare.com/news/2026/08/gta-6-extended-look-will-show-nearly-30-minutes-of-gameplay-captured-on-ps5",
-          "description": "According to Netflix. In a matter of hours, Rockstar Games will finally lift the veil on GTA 6 with an extended look at gameplay. This will be our first proper glimpse at the game in action, and while there have been a series of leaked clips over the last few days, I think this will be worth watchin",
-          "date": "2026-08-27T14:30:00+00:00",
-          "image": "https://images.pushsquare.com/1509026980a87/large.jpg"
         }
       ]
     },
