@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T18:01:44.185581+00:00",
+  "updated": "2026-08-30T21:26:09.534102+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,18 +380,46 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "PS5 Blackout Protest Officially Concludes, But Campaigners Encourage Indefinite Participation",
+          "link": "https://www.pushsquare.com/news/2026/08/ps5-blackout-protest-officially-concludes-but-campaigners-encourage-indefinite-participation1",
+          "description": "Consoles must remain unplugged. Irate PS5 players have started unplugging their consoles all around the world, as a protest against Sony gets underway. The blackout – technically scheduled to start at 7pm local time, but already being observed by many participants – is designed to reduce the Japanes",
+          "date": "2026-08-30T19:15:00+00:00",
+          "image": "https://images.pushsquare.com/69d52814c6f59/large.jpg"
+        },
+        {
+          "title": "Feature: Going Platinum: Horizon Forbidden West, a Very Good Sequel People Love to Hate",
+          "link": "https://www.pushsquare.com/features/going-platinum-horizon-forbidden-west-a-very-good-sequel-people-love-to-hate",
+          "description": "War of the machines. Platinum Trophy #35: Horizon Forbidden West Date Earned: 23rd February 2022 Read the full article on pushsquare.com",
+          "date": "2026-08-30T19:00:00+00:00",
+          "image": "https://images.pushsquare.com/ef9da2b9e16c4/large.jpg"
+        },
+        {
+          "title": "'No Talk of Sony Changing Strategy': Industry Veteran Rubbishes Recent Disc-Based Reversal Rumours",
+          "link": "https://www.pushsquare.com/news/2026/08/no-talk-of-sony-changing-strategy-industry-veteran-rubbishes-recent-disc-based-reversal-rumours",
+          "description": "An unlikely story. I’m not entirely sure how this rumour got started, but the web is awash with reports this weekend that Sony is considering reversing its stance on physical games. The manufacturer has announced plans to cease manufacturing discs in January 2028, which has led to a loud outcry from",
+          "date": "2026-08-30T18:50:00+00:00",
+          "image": "https://images.pushsquare.com/7cf3320b9e74c/large.jpg"
+        },
+        {
+          "title": "$900 PS5 Pro Now Sold Out in US Amid GTA 6 Fever",
+          "link": "https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-now-sold-out-in-us-amid-gta-6-fever",
+          "description": "No disc drive, no buy? Sony’s supercharged PS5 Pro hardware model is selling out in the US as GTA 6 fever takes hold – despite an ongoing blackout protest taking place against PlayStation hardware. Fans have mobilised to keep their consoles unplugged indefinitely , but such is the demand for the PS5",
+          "date": "2026-08-30T18:45:00+00:00",
+          "image": "https://images.pushsquare.com/01df7d077eea0/large.jpg"
+        },
+        {
+          "title": "The Witcher 3 Remastered Accessibility Options Include Health Regen, Auto Loot, Infinite Item Durability",
+          "link": "https://www.pushsquare.com/news/2026/08/the-witcher-3-remastered-accessibility-options-include-health-regen-auto-loot-infinite-item-durability",
+          "description": "And more. A number of accessibility options are being added in The Witcher 3: Wild Hunt Remastered , and now, thanks to developer CD Projekt Red's continued Gamescom livestreams (as screenshotted on Reddit ), we know what's included. In a nutshell, these new settings are designed to remove much of t",
+          "date": "2026-08-30T18:15:00+00:00",
+          "image": "https://images.pushsquare.com/042afc2f0cb7e/large.jpg"
+        },
+        {
           "title": "Preview: Forget the Soulslikes, This Bizarre New PS5 Game Is Channelling Shenmue Instead",
           "link": "https://www.pushsquare.com/previews/forget-the-soulslikes-this-bizarre-new-ps5-game-is-channelling-shenmue-instead",
           "description": "\"I see\". In a tiny Gamescom booth, in the business area separated from the hustle and bustle of the Koelnmesse chaos, NEKCOM founder Xiangyu Luo and I may have become BFFs. With a translator converting my questions into Mandarin, I’m not sure how much he understood – but his eyes lit up when I made ",
           "date": "2026-08-30T14:00:00+00:00",
           "image": "https://images.pushsquare.com/10a99bfaecd6b/large.jpg"
-        },
-        {
-          "title": "Sony's Rumoured to Be Reversing Its Physical Discs Decision, But I Don't Buy It At All",
-          "link": "https://www.pushsquare.com/news/2026/08/sonys-rumoured-to-be-reversing-its-physical-discs-decision-but-i-dont-buy-it-at-all",
-          "description": "An unlikely story. I’m not entirely sure how this rumour got started, but the web is awash with reports this weekend that Sony is considering reversing its stance on physical games. The manufacturer has announced plans to cease manufacturing discs in January 2028, which has led to a loud outcry from",
-          "date": "2026-08-30T12:00:00+00:00",
-          "image": "https://images.pushsquare.com/7cf3320b9e74c/large.jpg"
         },
         {
           "title": "Hands On: I Waited 13 Years to Play The Wolf Among Us 2, But I Have One Concern",
@@ -420,34 +448,6 @@
           "description": "AI don't really like it. Nvidia’s controversial new DLSS 5 filter, which caused a bit of a hullabaloo earlier this year , has leaked online – and instantly been implemented into pretty much every major PS5 game on the market. While previous iterations of Nvidia’s upscaling technology have broadly be",
           "date": "2026-08-29T19:00:00+00:00",
           "image": "https://images.pushsquare.com/51d6d8a618495/large.jpg"
-        },
-        {
-          "title": "$900 PS5 Pro Selling Out During PlayStation Blackout Amid GTA 6 Fever",
-          "link": "https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-selling-out-during-playstation-blackout-amid-gta-6-fever",
-          "description": "No disc drive, no buy? Sony’s supercharged PS5 Pro hardware model is selling out in the US as GTA 6 fever takes hold – despite an ongoing blackout protest taking place against PlayStation hardware. Fans have mobilised to keep their consoles unplugged indefinitely , but such is the demand for the PS5",
-          "date": "2026-08-29T17:30:00+00:00",
-          "image": "https://images.pushsquare.com/01df7d077eea0/large.jpg"
-        },
-        {
-          "title": "Poll: Are You Happy with Your PS Plus Essential Games for September 2026?",
-          "link": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-september-2026",
-          "description": "Plus or minus? Where does the time go? We're just days away from the beginning of September, if you can believe it, and that can only mean one thing: new PS Plus Essential games to (hopefully) look forward to. At a glance, I think next month's lineup has something for everyone. We've got an historic",
-          "date": "2026-08-29T16:00:00+00:00",
-          "image": "https://images.pushsquare.com/02144f0bebce5/large.jpg"
-        },
-        {
-          "title": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (31st-6th September)",
-          "link": "https://www.pushsquare.com/news/2026/08/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-31st-6th-september",
-          "description": "Onimusha! Dawnwalker! NBA 2K! Crimson Moon! We’ve now hit the busy release schedule, with two giant PS5 titles launching next week: The Blood of Dawnwalker and Onimusha: Way of the Sword . Other titles worth paying attention to include Crimson Moon and NBA 2K27 . Read the full article on pushsquare.",
-          "date": "2026-08-29T15:00:00+00:00",
-          "image": "https://images.pushsquare.com/56116f1e1df06/large.jpg"
-        },
-        {
-          "title": "Hands On: Alien Isolation 2 Was My Favourite PS5 Game at Gamescom",
-          "link": "https://www.pushsquare.com/features/hands-on-alien-isolation-2-was-my-favourite-ps5-game-at-gamescom",
-          "description": "The wait is almost over. Hands down, Alien Isolation 2 was the highlight of my time at Gamescom 2026 — and that’s even with the demo I played being the same one that many got their hands on at Summer Games Fest earlier this year. This long-awaited sequel from Creative Assembly is easily my most hype",
-          "date": "2026-08-29T12:30:00+00:00",
-          "image": "https://images.pushsquare.com/d2bc232c3e4ba/large.jpg"
         }
       ]
     },
