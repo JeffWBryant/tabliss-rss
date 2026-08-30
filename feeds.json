@@ -1,9 +1,16 @@
 {
-  "updated": "2026-08-30T08:09:55.118766+00:00",
+  "updated": "2026-08-30T13:56:44.096553+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Turok: Origins’ Pushed to Spring 2027 Release [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3965780/turok-origins-pushed-to-spring-2027-release-trailer/",
+          "description": "Saber Interactive will be giving Turok: Origins a little more time to cook. Originally launching this fall, Saber announced during Gamescom that Turok: Origins will now be heading to a spring 2027 release. To make up for the delay, we have a new extended story trailer that gives fans an even closer ",
+          "date": "2026-08-30T11:30:43+00:00",
+          "image": ""
+        },
         {
           "title": "Bloody Disgusting Community Update – Half Star Ratings Are Here!",
           "link": "https://bloody-disgusting.com/news/3965703/bloody-disgusting-community-updates-half-star-ratings-are-here/",
@@ -66,13 +73,6 @@
           "description": "Directed by Myles McEwen and Ripley Stevens, the Australian horror movie Effigy has wrapped production, and Variety shares a couple of first look images with us this week. Effigy is set in 1989 England and follows the Marsh family as they endure a violent haunting sparked by the unearthing of a myst",
           "date": "2026-08-28T15:37:16+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/Effigy1.jpg?resize=1000%2C667&#038;ssl=1"
-        },
-        {
-          "title": "Delve Into the Secrets of HOPE Hope in New Cinematic Trailer for Cult Horror Game ‘NAME OF THE WILL’ [Watch]",
-          "link": "https://bloody-disgusting.com/video-games/3965658/delve-into-the-secrets-of-hope-hope-in-new-cinematic-trailer-for-cult-horror-game-name-of-the-will-watch/",
-          "description": "Developer Zeitgeist Studio and publisher HYPER REAL have released a new cinematic trailer for their long-in-development cult horror title, NAME OF THE WILL. And if you haven’t already, you can check out the demo, which covers the first chapter of the game. Of course, if you’re attending Gamescom, yo",
-          "date": "2026-08-28T15:31:02+00:00",
-          "image": ""
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Sony's Rumoured to Be Reversing Its Physical Discs Decision, But I Don't Buy It At All",
+          "link": "https://www.pushsquare.com/news/2026/08/sonys-rumoured-to-be-reversing-its-physical-discs-decision-but-i-dont-buy-it-at-all",
+          "description": "An unlikely story. I’m not entirely sure how this rumour got started, but the web is awash with reports this weekend that Sony is considering reversing its stance on physical games. The manufacturer has announced plans to cease manufacturing discs in January 2028, which has led to a loud outcry from",
+          "date": "2026-08-30T12:00:00+00:00",
+          "image": "https://images.pushsquare.com/7cf3320b9e74c/large.jpg"
+        },
+        {
           "title": "Hands On: I Waited 13 Years to Play The Wolf Among Us 2, But I Have One Concern",
           "link": "https://www.pushsquare.com/features/hands-on-i-waited-13-years-to-play-the-wolf-among-us-2-but-i-have-one-concern",
           "description": "The temp asset among us. I’ve been waiting for The Wolf Among Us 2 for an age. When I played the original, I was about 17-years-old, and my mates and I used to squeeze into my tiny bedroom to play the game on Xbox 360. So it was an odd sensation squeezing into a tiny booth at Gamescom to check out t",
@@ -441,13 +448,6 @@
           "description": "In good company. That marks the end of a busy week, packed with Gamescom announcements and GTA 6 gameplay footage. Let's decompress with some games, eh? Jamie O'Neill Since I'm staying with family, it's an assortment of PS Vita games entertaining me at the moment. Hopefully, I'll be able to catch up",
           "date": "2026-08-29T09:30:00+00:00",
           "image": "https://images.pushsquare.com/8e500393dc2e3/large.jpg"
-        },
-        {
-          "title": "'See You When We're Ready': Dev Acknowledges Leaked Iron Man PS5 Trailer",
-          "link": "https://www.pushsquare.com/news/2026/08/see-you-when-were-ready-dev-acknowledges-leaked-iron-man-ps5-trailer",
-          "description": "Stark contrast. Snoops with good Google-fu may be able to find a test trailer for Marvel’s Iron Man , the upcoming open world game in development at EA and Motive. We know this is legit because the team posted on social media about it earlier today: Read the full article on pushsquare.com",
-          "date": "2026-08-28T23:00:00+00:00",
-          "image": "https://images.pushsquare.com/83d08072aee3e/large.jpg"
         }
       ]
     },
