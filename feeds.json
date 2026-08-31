@@ -1,9 +1,16 @@
 {
-  "updated": "2026-08-31T19:01:13.806749+00:00",
+  "updated": "2026-08-31T23:17:57.539244+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "The Definitive Stephen King Book Ranking: #28-23 [The Losers’ Club Podcast]",
+          "link": "https://bloody-disgusting.com/podcast-news/3965986/ranking-stephen-king-28-23-lc/",
+          "description": "The Definitive Stephen King Book Ranking is crunching … If you recall, the Losers are counting down Stephen King’s published novels — specifically, novels (no collections) — from worst to best in 2026. For August, the Losers cycle through a few more novels before getting lost in the woods with some ",
+          "date": "2026-08-31T22:43:59+00:00",
+          "image": ""
+        },
         {
           "title": "‘Paradise Lost’ – Director Yeon Sang-ho’s New Thriller Purchased by Well Go USA Entertainment",
           "link": "https://bloody-disgusting.com/movie/3965968/paradise-lost-director-yeon-sang-hos-new-thriller-has-been-purchased-by-well-go-usa-entertainment/",
@@ -66,19 +73,19 @@
           "description": "Capcom has been on a hell of a roll the last few years. Even just looking at this year, they’ve had two huge hits with Pragmata and Resident Evil: Requiem. With how successfully they’ve been remaking and modernizing the Resident Evil franchise, it felt like it was only a matter of time before they s",
           "date": "2026-08-31T15:01:14+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/onimusha09.jpg?resize=900%2C580&#038;ssl=1"
-        },
-        {
-          "title": "‘The Blood of Dawnwalker’ Review: One of 2026’s Best RPGs Lets You Forge Your Own Vampire Legend",
-          "link": "https://bloody-disgusting.com/reviews/3965839/the-blood-of-dawnwalker-review/",
-          "description": "To be quite honest, I didn’t have too many high expectations for The Blood of Dawnwalker until a few months ago. That is, until I played a three-hour preview of it back in June. The nail-biting opening hours of our young lad protagonist Coen being turned into a human vampire hybrid immediately grabb",
-          "date": "2026-08-31T15:00:45+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/Open-World.png?resize=1024%2C573&#038;ssl=1"
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "5 Other Tom Cruise Movies That Deserve a Legacy Sequel",
+          "link": "https://www.denofgeek.com/movies/other-tom-cruise-movies-that-deserve-legacy-sequel/",
+          "description": "Who, in 2026, expected Tom Cruise to announce a legacy sequel to Days of Thunder? To be sure, the 1990 Tony Scott movie has its devotees, thanks to a sharp script by Hollywood legend Robert Towne and strong performances from Nicole Kidman, Robert Duvall, Michael Rooker, and others. But the movie is ",
+          "date": "2026-08-31T20:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/Minority-Report.jpg"
+        },
         {
           "title": "Onslaught Review: Adria Arjona Channels John Carpenter Vibes",
           "link": "https://www.denofgeek.com/movies/onslaught-review-adria-arjona-john-carpenter/",
@@ -141,19 +148,19 @@
           "description": "Every generation likes to think it knows how to have a good time, but photos from the 1970s make a pretty convincing argument for putting down the phone and going outside. There were no group chats to organize the night, no Instagram stories documenting every second, and definitely no chance to chec",
           "date": "2026-08-31T11:45:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/5_5bfec1.jpg"
-        },
-        {
-          "title": "15 Famous Figures Who Are Way Smarter Than You Might Believe",
-          "link": "https://www.denofgeek.com/msn/15-famous-figures-who-are-way-smarter-than-you-might-believe/",
-          "description": "Being famous for making people laugh, shredding a guitar, or playing an idiot on television doesn't exactly scream academic overachiever. But plenty of celebrities have résumés that look like they belong to entirely different people. Some earned advanced degrees before fame took over, while others b",
-          "date": "2026-08-31T11:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-1-11.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "A PG Version Of CANNIBAL HOLOCAUST Exists, Here’s Proof [Exclusive]",
+          "link": "https://www.fangoria.com/cannibal-holocaust-grindhouse-releasing-pg/",
+          "description": "The folks at Grindhouse Releasing are bringing CANNIBAL HOLOCAUST to 4K Ultra HD and we’ve got an exclusive look at the jam-packed release, including a PG cut of the controversial classic.",
+          "date": "2026-08-31T21:06:52+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/08/Screenshot-1775-Cropped.png"
+        },
         {
           "title": "Get Up Close & Personal With BAD TOOTH’s Practical Effects",
           "link": "https://www.fangoria.com/bad-tooth-practical-effects/",
@@ -216,19 +223,33 @@
           "description": "Yet another Stephen King short story is coming to life on the silver screen, this time thanks to Prime Video. Get all the details here.",
           "date": "2026-08-27T16:47:29+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2025/09/Stephen_King_at_the_2024_Toronto_International_Film_Festival_01-scaled.jpg"
-        },
-        {
-          "title": "From THE ROCKY HORROR PICTURE SHOW To LEGEND: Fango Remembers The Iconic Tim Curry",
-          "link": "https://www.fangoria.com/remembering-tim-curry/",
-          "description": "Inside, the Fango team recalls their favorite Tim Curry roles, from deep cuts to blockbuster moments. Share your memories in the comments.",
-          "date": "2026-08-26T21:28:50+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/08/TimCurry-header.jpg"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "Naughty Dog’s Intergalactic Gets an Exciting New Update After Major Milestone",
+          "link": "https://www.playstationlifestyle.net/2026/08/31/naughty-dog-intergalactic-exciting-update-major-milestone/",
+          "description": "Naughty Dog's upcoming PS5 game Intergalactic: The Heretic Prophet has crossed a major milestone this week. The post Naughty Dog’s Intergalactic Gets an Exciting New Update After Major Milestone appeared first on PlayStation LifeStyle .",
+          "date": "2026-08-31T22:54:04+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/Untitled-design-2026-09-01T042126.550.png?w=1024"
+        },
+        {
+          "title": "Popular PS4 & PS5 Action Game 75% Off on PlayStation Store, Lowest Price Yet",
+          "link": "https://www.playstationlifestyle.net/2026/08/31/popular-ps4-ps5-horror-game-75-percent-off-playstation-store-lowest-price-yet/",
+          "description": "A popular PS4 and PS5 action game is available at a 75% discount. This offer is a limited-time deal on the PlayStation Store. Gamers can buy the horror game at its lowest price before the deal ends in September. Resident Evil 7: Biohazard Gold Edition is available for $9.99 on the PlayStation Store.",
+          "date": "2026-08-31T19:34:39+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/Untitled-design-2026-09-01T005428.348.png?w=1024"
+        },
+        {
+          "title": "Capcom’s New PlayStation 5 Action-Adventure Game Gets Strong Reviews",
+          "link": "https://www.playstationlifestyle.net/2026/08/31/onimusha-way-of-the-sword-strong-reviews-ps5/",
+          "description": "Capcom's new PlayStation 5 game earns rave reviews ahead of release. The post Capcom’s New PlayStation 5 Action-Adventure Game Gets Strong Reviews appeared first on PlayStation LifeStyle .",
+          "date": "2026-08-31T19:13:23+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/sword.jpg?w=1024"
+        },
         {
           "title": "PlayStation 5 Owners Get Free Live TV Support, But There’s a Catch",
           "link": "https://www.playstationlifestyle.net/2026/08/31/playstation-5-free-live-tv-channels-catch/",
@@ -241,7 +262,7 @@
           "link": "https://www.playstationlifestyle.net/2026/08/31/blood-of-dawnwalker-review-impresses-despite-flaws/",
           "description": "An upcoming PlayStation 5 RPG has impressed critics, with some calling it their “next gaming obsession.” Developed by Rebel Wolves and published by Bandai Namco Entertainment, the open-world dark fantasy game is set to make its official debut this week. It appears Rebel Wolves’ ambitious project, Th",
           "date": "2026-08-31T18:24:04+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/‘Your-Next-Gaming-Obsession-Ambitious-PlayStation-5-RPG-Gets-Impressive-Reviews.jpg?w=1024"
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/Your-Next-Gaming-Obsession-Ambitious-PlayStation-5-RPG-Gets-Impressive-Reviews_fb3145.jpg?w=1024"
         },
         {
           "title": "Beloved PlayStation Studio Housemarque’s Co-Founder Leaves, Issues Statement",
@@ -277,27 +298,6 @@
           "description": "PlayStation State of Play is returning with two back-to-back events this September. PS5 fans will get to see new reveals from anticipated and upcoming projects. State of Play returns this week on September 3, 2026, with updates from studios and deeper dives from developers in Japan. The PlayStation ",
           "date": "2026-08-31T14:55:41+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/state-of-play.jpg?w=1024"
-        },
-        {
-          "title": "Popular 2023 PS5 RPG 60% Off on PlayStation Store, Lowest Price",
-          "link": "https://www.playstationlifestyle.net/2026/08/31/final-fantasy-xvi-ps-store-deal-august-september/",
-          "description": "A popular 2023 Square Enix PS5 action RPG is 60% off in a limited-time Gamescom 2026 PS Store deal. Originally launched as a PS5 exclusive, Final Fantasy XVI is at its lowest price until September 10. Final Fantasy XVI is under $20 in new Gamescom 2026 PS Store deal PS5 players can grab Final Fantas",
-          "date": "2026-08-31T13:10:33+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/final-fantasy-xvi-ps-store-deal.jpg?w=1024"
-        },
-        {
-          "title": "PlayStation 5 Getting Intriguing New Historical Adventure Game",
-          "link": "https://www.playstationlifestyle.net/2026/08/31/ps5-action-adventure-game-gate-zero-announced/",
-          "description": "PS5 is getting an intriguing new historical action adventure game with an interesting premise. Showcased during Gamescom 2026, Gate Zero is set in first-century Judea and Galilee. The game will release on an unspecified date. PS5 action adventure game Gate Zero transports players to the first centur",
-          "date": "2026-08-31T12:39:00+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/ps5-adventure-game-gate-zero.jpg?w=1024"
-        },
-        {
-          "title": "New Star Wars PS5 Game Becomes Instant Hit on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/08/31/star-wars-zero-company-ps5-game-hit-on-ps-store/",
-          "description": "A new Star Wars PS5 game dropped on the PlayStation Store last week, taking players by surprise. Star Wars Zero Company is a new game published by Electronic Arts. Despite its niche genre, the game has become a hit with players and critics alike. Star Wars Zero Company is a new PS5 turn-based tactic",
-          "date": "2026-08-31T12:13:19+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/star-wars-zero-company-ps5.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,27 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "30 New GTA 6 PS5 Screenshots Will Blow You Away After Extended Look",
+          "link": "https://www.pushsquare.com/news/2026/09/30-new-gta-6-ps5-screenshots-will-blow-you-away-after-extended-look",
+          "description": "This looks ridiculous. Rockstar has added more GTA 6 screenshots to its official website in the aftermath of last week’s mind-blowing Extended Look . Some of these images were shared exclusively among influencers first, so it’s possible you may have seen these floating around on social media, like t",
+          "date": "2026-08-31T23:15:00+00:00",
+          "image": "https://images.pushsquare.com/5234b8eaa6f9d/large.jpg"
+        },
+        {
+          "title": "'There's a Lot of Resentment for Sony': Sources Go Back and Forth on Publisher Backlash to PS5 Physical Discs",
+          "link": "https://www.pushsquare.com/news/2026/09/theres-a-lot-of-resentment-for-sony-sources-go-back-and-forth-on-publisher-backlash-to-ps5-physical-discs",
+          "description": "Here we go again. I’m not entirely sure how this rumour got started, but the web is awash with reports this weekend that Sony is considering reversing its stance on physical games. The manufacturer has announced plans to cease manufacturing discs in January 2028, which has led to a loud outcry from ",
+          "date": "2026-08-31T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/7cf3320b9e74c/large.jpg"
+        },
+        {
+          "title": "These 11+ PS5 Games Will Be Delisted or Disabled in September and October 2026",
+          "link": "https://www.pushsquare.com/news/2026/08/these-11plus-ps5-games-will-be-delisted-or-disabled-in-september-and-october-2026",
+          "description": "Going offline. It’s time for another bi-annual article looking at the darker side of our digital future, with more than 10 titles poised to be delisted or disabled over the coming months. As always, I’m compiling all upcoming delistings, server shutdowns, and general disruptions you should be aware ",
+          "date": "2026-08-31T19:00:00+00:00",
+          "image": "https://images.pushsquare.com/1637dbc1664df/large.jpg"
+        },
+        {
           "title": "'Can't Wait to Show You': Intergalactic PS5 Wraps MoCap Days Before State of Play",
           "link": "https://www.pushsquare.com/news/2026/08/cant-wait-to-show-you-intergalactic-ps5-wraps-mocap-days-before-state-of-play",
           "description": "\"See you, space cowboy\". Naughty Dog has completed Intergalactic: The Heretic Prophet’s “very ambitious” motion capture shoot, meaning the game has crossed another major milestone. While this certainly doesn’t mean development is complete, it does indicate that all of the cut-scene performances have",
@@ -419,7 +440,7 @@
           "link": "https://www.pushsquare.com/reviews/ps5/the-blood-of-dawnwalker",
           "description": "Slow bleed. Across its first five hours or so, The Blood of Dawnwalker came very close to convincing me that it could be the next genre-conquering RPG. The vampiric debut from developer Rebel Wolves, Dawnwalker starts surprisingly strong, flaunting all of the intrigue and role-playing promise that y",
           "date": "2026-08-31T15:01:00+00:00",
-          "image": "https://images.pushsquare.com/77eaff565a0fe/large.jpg"
+          "image": "https://images.pushsquare.com/reviews/ps5/the-blood-of-dawnwalker/large.jpg"
         },
         {
           "title": "Review: Onimusha: Way of the Sword (PS5) - Capcom Delivers a Masterclass in Samurai Action",
@@ -427,27 +448,6 @@
           "description": "The one and oni. It's become very difficult to doubt Capcom and its ability to craft incredible action games. So when Onimusha: Way of the Sword was first announced back in 2024, I couldn't help but think that it was destined to be a banger. And a banger it is. A full-on revival of the developer's o",
           "date": "2026-08-31T15:00:00+00:00",
           "image": "https://images.pushsquare.com/54decead3fc94/large.jpg"
-        },
-        {
-          "title": "Trophies Surprisingly Added to PS1 Shooter 2 Years After PS5 Release",
-          "link": "https://www.pushsquare.com/news/2026/08/trophies-surprisingly-added-to-ps1-shooter-2-years-after-ps5-release",
-          "description": "And it's an easy Plat. While I’d broadly agree Sony could be adding retro games to its PS Plus Premium tier faster, I think the support has generally been good. And while Trophies are not mandatory, the platform holder is still porting them into past releases, like the PS1’s Star Wars: Rebel Assault",
-          "date": "2026-08-31T14:15:00+00:00",
-          "image": "https://images.pushsquare.com/9dab7a62d4f4f/large.jpg"
-        },
-        {
-          "title": "Persona 4 Revival Doesn't Add Gay Romance, Despite Fan Demand",
-          "link": "https://www.pushsquare.com/news/2026/08/persona-4-revival-doesnt-add-gay-romance-despite-fan-demand",
-          "description": "Yo-Yosuke. Some fans of Persona 4 have been pushing a Yosuke romance route for decades, but Atlus' series continues to shy away from including gay relationships. For many, upcoming remake Persona 4 Revival presented the perfect opportunity: the Japanese developer could acknowledge the demand for gay",
-          "date": "2026-08-31T13:00:00+00:00",
-          "image": "https://images.pushsquare.com/953e85efa083a/large.jpg"
-        },
-        {
-          "title": "State of Play Confirmed for 3rd September, State of Play Japan Show Straight After",
-          "link": "https://www.pushsquare.com/news/2026/08/state-of-play-confirmed-for-3rd-september-state-of-play-japan-show-straight-after",
-          "description": "See a new look at Final Fantasy 7 Revelation. Sony has officially announced the next State of Play showcase will take place this week, on 3rd September 2026. The livestream will have \"updates and announcements from PlayStation Studios and our third-party partners\", and it will conclude with an \"exte",
-          "date": "2026-08-31T12:10:00+00:00",
-          "image": "https://images.pushsquare.com/bfdead7244290/large.jpg"
         }
       ]
     },
