@@ -1,9 +1,16 @@
 {
-  "updated": "2026-08-31T23:17:57.539244+00:00",
+  "updated": "2026-09-01T01:59:40.943702+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "A Tale of Two Hellraisers: The Crossroads of ‘Inferno’ and ‘Hellseeker’ [Halloweenies Podcast]",
+          "link": "https://bloody-disgusting.com/podcast-news/3965992/hellraiser-inferno-hellseeker-halloweenies/",
+          "description": "Hellraiser, Hellraiser, Hellraiser! Busy times for the once-sleepy franchise with the Hell Priest serving as the star of this year’s Halloween Horror Nights and receiving their own game this October with Hellraiser: Revival. Looks like the Halloweenies were ahead of the curve for 202666, no? Well, w",
+          "date": "2026-08-31T23:48:01+00:00",
+          "image": ""
+        },
         {
           "title": "The Definitive Stephen King Book Ranking: #28-23 [The Losers’ Club Podcast]",
           "link": "https://bloody-disgusting.com/podcast-news/3965986/ranking-stephen-king-28-23-lc/",
@@ -66,13 +73,6 @@
           "description": "Developer Friday Sundae has announced that their upcoming Lovecraftian renovation title There Are No Ghosts at the Grand will launch into Early Access for PC via Steam and Microsoft Store in December. A full release will follow for Xbox Series and Steam. As well, a new demo will be available as part",
           "date": "2026-08-31T15:30:51+00:00",
           "image": ""
-        },
-        {
-          "title": "‘Onimusha: Way of the Sword’ Review: Capcom Revives a Samurai Classic With Satisfying Swordplay Action",
-          "link": "https://bloody-disgusting.com/video-games/3965761/onimusha-way-of-the-sword-review-capcom-revives-a-samurai-classic-with-satisfying-swordplay-action/",
-          "description": "Capcom has been on a hell of a roll the last few years. Even just looking at this year, they’ve had two huge hits with Pragmata and Resident Evil: Requiem. With how successfully they’ve been remaking and modernizing the Resident Evil franchise, it felt like it was only a matter of time before they s",
-          "date": "2026-08-31T15:01:14+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/onimusha09.jpg?resize=900%2C580&#038;ssl=1"
         }
       ]
     },
@@ -380,8 +380,15 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
-          "title": "30 New GTA 6 PS5 Screenshots Will Blow You Away After Extended Look",
-          "link": "https://www.pushsquare.com/news/2026/09/30-new-gta-6-ps5-screenshots-will-blow-you-away-after-extended-look",
+          "title": "Preview: Stranger Than Heaven Kicked My Ass, and I'm Not Proud",
+          "link": "https://www.pushsquare.com/previews/stranger-than-heaven-kicked-my-ass-and-im-not-proud",
+          "description": "Stop! Stop! Sammy's already dead. Stranger Than Heaven kicked my ass, guys. I’ve been playing the Yakuza games since the PS2, so I’d like to think I’m a seasoned enjoyer of RGG Studio’s specific brand of brawler gameplay. Read the full article on pushsquare.com",
+          "date": "2026-08-31T23:30:00+00:00",
+          "image": "https://images.pushsquare.com/39c2663c66f87/large.jpg"
+        },
+        {
+          "title": "30 New GTA 6 PS5 Screenshots to Blow You Away After Extended Look",
+          "link": "https://www.pushsquare.com/news/2026/09/30-new-gta-6-ps5-screenshots-to-blow-you-away-after-extended-look",
           "description": "This looks ridiculous. Rockstar has added more GTA 6 screenshots to its official website in the aftermath of last week’s mind-blowing Extended Look . Some of these images were shared exclusively among influencers first, so it’s possible you may have seen these floating around on social media, like t",
           "date": "2026-08-31T23:15:00+00:00",
           "image": "https://images.pushsquare.com/5234b8eaa6f9d/large.jpg"
@@ -441,13 +448,6 @@
           "description": "Slow bleed. Across its first five hours or so, The Blood of Dawnwalker came very close to convincing me that it could be the next genre-conquering RPG. The vampiric debut from developer Rebel Wolves, Dawnwalker starts surprisingly strong, flaunting all of the intrigue and role-playing promise that y",
           "date": "2026-08-31T15:01:00+00:00",
           "image": "https://images.pushsquare.com/reviews/ps5/the-blood-of-dawnwalker/large.jpg"
-        },
-        {
-          "title": "Review: Onimusha: Way of the Sword (PS5) - Capcom Delivers a Masterclass in Samurai Action",
-          "link": "https://www.pushsquare.com/reviews/ps5/onimusha-way-of-the-sword",
-          "description": "The one and oni. It's become very difficult to doubt Capcom and its ability to craft incredible action games. So when Onimusha: Way of the Sword was first announced back in 2024, I couldn't help but think that it was destined to be a banger. And a banger it is. A full-on revival of the developer's o",
-          "date": "2026-08-31T15:00:00+00:00",
-          "image": "https://images.pushsquare.com/54decead3fc94/large.jpg"
         }
       ]
     },
