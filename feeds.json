@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T01:59:40.943702+00:00",
+  "updated": "2026-09-01T07:43:28.957684+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -230,6 +230,13 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "PlayStation Plus September Monthly Free Games Rolling Out Now",
+          "link": "https://www.playstationlifestyle.net/2026/08/31/ps-plus-essential-september-monthly-free-games-out-now/",
+          "description": "PS Plus Essential September 2026 monthly free games have begun rolling out, starting with Japan and Asia, where it’s Tuesday, September 1. Unlike the Extra and Premium catalogs, Essential games aren’t staggered by region, so players around the globe will be able to access the lineup on the same date",
+          "date": "2026-09-01T03:11:11+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/08/ps-plus-september.jpg?w=1024"
+        },
+        {
           "title": "Naughty Dog’s Intergalactic Gets an Exciting New Update After Major Milestone",
           "link": "https://www.playstationlifestyle.net/2026/08/31/naughty-dog-intergalactic-exciting-update-major-milestone/",
           "description": "Naughty Dog's upcoming PS5 game Intergalactic: The Heretic Prophet has crossed a major milestone this week. The post Naughty Dog’s Intergalactic Gets an Exciting New Update After Major Milestone appeared first on PlayStation LifeStyle .",
@@ -291,13 +298,6 @@
           "description": "Capcom is on one of the truly great runs of any video game publisher this year. From Resident Evil Requiem to Pragmata and Monster Hunter Stories 3, multiple Game of the Year contenders have come from the company. The latest is Onimusha: Way of the Sword, which successfully revitalizes the franchise",
           "date": "2026-08-31T15:00:00+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/onimusha-way-of-the-sword-review.jpg?w=1024"
-        },
-        {
-          "title": "2 Back-to-Back PlayStation State of Play September Events Confirmed",
-          "link": "https://www.playstationlifestyle.net/2026/08/31/playstation-japan-state-of-play-event-september-2026/",
-          "description": "PlayStation State of Play is returning with two back-to-back events this September. PS5 fans will get to see new reveals from anticipated and upcoming projects. State of Play returns this week on September 3, 2026, with updates from studios and deeper dives from developers in Japan. The PlayStation ",
-          "date": "2026-08-31T14:55:41+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/state-of-play.jpg?w=1024"
         }
       ]
     },
