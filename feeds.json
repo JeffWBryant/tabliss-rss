@@ -1,9 +1,23 @@
 {
-  "updated": "2026-09-01T20:06:14.856310+00:00",
+  "updated": "2026-09-01T22:45:44.915094+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Wes Studi & Dane DiLiegro Join Reddit Horror Movie ‘Seasons’ From ‘Companion’ Director",
+          "link": "https://bloody-disgusting.com/movie/3966231/wes-studi-dane-diliegro-join-reddit-horror-movie-seasons-from-companion-director/",
+          "description": "Wes Studi (Avatar: Fire and Ash, Deep Rising) and Dane DiLiegro (Prey) are the latest additions to Amazon MGM Studios’ horror movie Seasons, Deadline reports today. They join previously announced cast members Jack Reynor (Midsommar), Lily James (Swiped), Ron Perlman (“Cape Fear”), and Elizabeth McGo",
+          "date": "2026-09-01T21:52:26+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2022/08/Prey-Predator.jpg?resize=768%2C1024&#038;ssl=1"
+        },
+        {
+          "title": "Kiyoshi Kurosawa’s ‘Pulse’ To Get Remake From ‘Never After Dark’ Director",
+          "link": "https://bloody-disgusting.com/movie/3966197/kiyoshi-kurosawas-pulse-to-get-remake-from-never-after-dark-director/",
+          "description": "Sony’s Screen Gems and Spyglass are developing a reimagining of the Japanese horror film Pulse, and Deadline reports that Never After Dark filmmaker Dave Boyle is set to direct. Boyle will also give a pass on the script by Luke Piotrowski (Hellraiser, The Night House). Parker Finn and Jonathan Fass ",
+          "date": "2026-09-01T20:18:05+00:00",
+          "image": ""
+        },
         {
           "title": "BABYMETAL Joins ‘Marvel Zombies’ With Limited-Edition Variant Comic Cover",
           "link": "https://bloody-disgusting.com/comics/3966188/babymetal-joins-marvel-zombies-with-limited-edition-variant-comic-cover/",
@@ -59,20 +73,6 @@
           "description": "Director Adam Wingard skipped Godzilla X Kong: Supernova to return to his gorier genre roots with grindhouse-style actioner Onslaught. Set loosely in the world of The Guest, even employing tracks from his The Guest 2 soundtrack, Wingard and screenwriter Simon Barrett up the ante on the super soldier",
           "date": "2026-09-01T18:21:22+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/ONSLAUGHT-01.jpg?resize=1024%2C683&#038;ssl=1"
-        },
-        {
-          "title": "‘Return to Silent Hill’ Is Now the First ‘Silent Hill’ Movie to Get an Official VHS Release!",
-          "link": "https://bloody-disgusting.com/home-video/3966113/return-to-silent-hill-is-now-the-first-silent-hill-movie-to-get-an-official-vhs-release/",
-          "description": "Can you believe that a Silent Hill movie has never been released on the VHS format? Both Silent Hill (2006) and Silent Hill: Revelation (2012) were released after the format was considered dead, but this year’s Return to Silent Hill is coming along at an interesting time. VHS is on the rise once mor",
-          "date": "2026-09-01T18:00:12+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/RTSHSlipcaseVHS.jpg?resize=2048%2C2048&#038;ssl=1"
-        },
-        {
-          "title": "Escape Your Apartment Building From Giant Spiders in ‘Lurking’; Demo Available Now",
-          "link": "https://bloody-disgusting.com/video-games/3966015/escape-your-apartment-building-from-giant-spiders-in-lurking-demo-available-now/",
-          "description": "If you watched The Horror Game Awards Showcase earlier this year, you probably caught developer Ctrl Freak’s upcoming first-person survival horror game, Lurking. Planned for release later this year on Steam, you can get a sense of what to expect with the recently-released demo, which is actually a m",
-          "date": "2026-09-01T17:39:46+00:00",
-          "image": ""
         }
       ]
     },
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "One Of Japan’s Scariest Movies Is Getting A(nother) Remake",
+          "link": "https://www.fangoria.com/pulse-kiyoshi-kurosawa-remake/",
+          "description": "The 'Who Asked For This?' trend continues.",
+          "date": "2026-09-01T20:50:04+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Kiyoshi-Kurosawa-Pulse-e1788295412893.jpg"
+        },
+        {
           "title": "10 Terrifying Horror Collectibles You’ll Want To Take Home And Where To Find Them",
           "link": "https://www.fangoria.com/10-terrifying-horror-collectibles-youll-want-to-take-home-and-where-to-find-them-6/",
           "description": "New month, new horror merch!",
@@ -216,19 +223,26 @@
           "description": "The number of horror-themed board games is slowly growing, and today we're making a case for why you should try CAMP GRIZZLY.",
           "date": "2026-08-28T16:00:11+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/08/Untitled-design-3.png"
-        },
-        {
-          "title": "Top Horror Movies Streaming This Week",
-          "link": "https://www.fangoria.com/top-horror-movies-streaming-this-week/",
-          "description": "A demonic traveler in André Øvredal's PASSENGER and the beginning of the Lambert family's frightful tale of The Further in James Wan's INSIDIOUS make this week even scarier. Find out more about this week’s most popular streaming horror films at FANGORIA.",
-          "date": "2026-08-28T00:02:31+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/04/PSNGR_FRAME_076R-e1776174079468.jpg"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "(Assassin’s Creed Black Flag Resynced) Popular Open-World PlayStation 5 Game’s Free Update Adds New Features",
+          "link": "https://www.playstationlifestyle.net/2026/09/01/assassins-creed-black-flag-resynced-update-1-0-7-new-features-fixes/",
+          "description": "A popular PlayStation 5 open-world game has introduced a free update with much-needed improvements. The recently launched title is an enhanced version of an iconic Ubisoft game from 2013. Assassin’s Creed Black Flag Resynced has released its latest update 1.0.7. It brings new player customization op",
+          "date": "2026-09-01T21:58:25+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Untitled-design-2026-09-02T030048.534.png?w=1024"
+        },
+        {
+          "title": "PlayStation Store Update Worldwide September 1, 2026",
+          "link": "https://www.playstationlifestyle.net/2026/09/01/playstation-store-update-worldwide-september-1-2026/",
+          "description": "Each week Sony brings PlayStation 4, PlayStation 5, PlayStation VR, and PlayStation Plus owners new content, add-ons, games, and more. Here is the complete global PlayStation Store update. PlayStation LifeStyle catalogs the PlayStation Store updates for the major regions across the globe. Check back",
+          "date": "2026-09-01T21:00:00+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2023/03/psglobalupdate.jpg?w=1024"
+        },
         {
           "title": "Anticipated PlayStation 5 Action RPG Gets Release Date Delay for a Great Reason",
           "link": "https://www.playstationlifestyle.net/2026/09/01/no-rest-for-the-wicked-release-date-delay-march-2027/",
@@ -284,26 +298,19 @@
           "description": "PS Plus Essential September 2026 monthly free games have begun rolling out, starting with Japan and Asia, where it’s Tuesday, September 1. Unlike the Extra and Premium catalogs, Essential games aren’t staggered by region, so players around the globe will be able to access the lineup on the same date",
           "date": "2026-09-01T03:11:11+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/08/ps-plus-september.jpg?w=1024"
-        },
-        {
-          "title": "Naughty Dog’s Intergalactic Gets an Exciting New Update After Major Milestone",
-          "link": "https://www.playstationlifestyle.net/2026/08/31/naughty-dog-intergalactic-exciting-update-major-milestone/",
-          "description": "Naughty Dog's upcoming PS5 game Intergalactic: The Heretic Prophet has crossed a major milestone this week. The post Naughty Dog’s Intergalactic Gets an Exciting New Update After Major Milestone appeared first on PlayStation LifeStyle .",
-          "date": "2026-08-31T22:54:04+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/Untitled-design-2026-09-01T042126.550.png?w=1024"
-        },
-        {
-          "title": "Popular PS4 & PS5 Action Game 75% Off on PlayStation Store, Lowest Price Yet",
-          "link": "https://www.playstationlifestyle.net/2026/08/31/popular-ps4-ps5-horror-game-75-percent-off-playstation-store-lowest-price-yet/",
-          "description": "A popular PS4 and PS5 action game is available at a 75% discount. This offer is a limited-time deal on the PlayStation Store. Gamers can buy the horror game at its lowest price before the deal ends in September. Resident Evil 7: Biohazard Gold Edition is available for $9.99 on the PlayStation Store.",
-          "date": "2026-08-31T19:34:39+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/Untitled-design-2026-09-01T005428.348.png?w=1024"
         }
       ]
     },
     "PlayStation Blog": {
       "url": "https://blog.playstation.com/feed/",
       "articles": [
+        {
+          "title": "Marvel’s Wolverine Inside Insomniac Games’ location-scanning trip to Japan",
+          "link": "https://blog.playstation.com/2026/09/01/marvels-wolverine-inside-insomniac-games-location-scanning-trip-to-japan/",
+          "description": "Early in the production of Marvel’s Wolverine Insomniac Games sent team members to Japan as part of a broader series of location-scanning trips. These trips involved sending our scanning team to various places around the world to record real-world assets, examine natural environments, and acquire an",
+          "date": "2026-09-01T21:00:03+00:00",
+          "image": "https://blog.playstation.com/tachyon/2028/09/e6544ac66fab82c34207f2923f2e0f4f1125dcbd-scaled.jpg"
+        },
         {
           "title": "Halloween: The Game – first look at the East Haddonfield map",
           "link": "https://blog.playstation.com/2026/09/01/halloween-the-game-first-look-at-the-east-haddonfield-map/",
@@ -366,19 +373,26 @@
           "description": "Hello, PlayStation players! I’m Zhicheng, producer at GD Studio. Our team has always been fascinated by the quiet stories that live inside ordinary rooms: the cup left beside a bed, a plant turned toward the window, or a dusty letter tucked behind a stack of books. These small details can tell us wh",
           "date": "2026-08-27T14:00:28+00:00",
           "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-        },
-        {
-          "title": "PlayStation Plus Monthly Games for September – Sniper Elite: Resistance, MLB The Show 26, Wobbly Life, Chained Echoes",
-          "link": "https://blog.playstation.com/2026/08/26/playstation-plus-monthly-games-for-september-sniper-elite-resistance-mlb-the-show-26-wobbly-life-chained-echoes/",
-          "description": "Take aim in Sniper Elite: Resistance, shape a diamond dynasty in MLB The Show 26, buddy up for larks and adventures in Wobbly Life, and enjoy some classically-designed JRPG goodness with Chained Echoes. Together, the four games form the PlayStation Plus Monthly Games for September. All be available ",
-          "date": "2026-08-26T15:30:00+00:00",
-          "image": "https://blog.playstation.com/tachyon/2026/08/62bba1064c66b5973a2a30dd5d6586c323f9e504-scaled.jpg?fit=1024%2C1024"
         }
       ]
     },
     "Push Square": {
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
+        {
+          "title": "Here's Your First Look at the LEGO PS1, with Ape Escape and Gran Turismo Dioramas",
+          "link": "https://www.pushsquare.com/news/2026/09/heres-your-first-look-at-the-lego-ps1-with-ape-escape-and-gran-turismo-dioramas",
+          "description": "And no physical discs, of course. It’s been rumoured for quite some time, but here’s your first look at the official LEGO PS1 set, as spotted in-store by a Brick Tap News member. It’s due out on 1st October. The build consists of 1,911 pieces and will retail for a reasonable $160, which is pretty af",
+          "date": "2026-09-01T23:30:00+00:00",
+          "image": "https://images.pushsquare.com/be67c42b9480e/large.jpg"
+        },
+        {
+          "title": "Play the New Street Fighter Movie Trailer on YouTube Now",
+          "link": "https://www.pushsquare.com/news/2026/09/play-the-new-street-fighter-movie-trailer-on-youtube-now",
+          "description": "You read the headline right. There’s a new trailer for the upcoming Street Fighter movie which gives us our best look at the flick yet. But the coolest part of all is that you can actually play it. Read the full article on pushsquare.com",
+          "date": "2026-09-01T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/6d50ebd6bd610/large.jpg"
+        },
         {
           "title": "Give Double Fine $100 Million and It'll Make Brutal Legend 2",
           "link": "https://www.pushsquare.com/news/2026/09/give-double-fine-usd100-million-and-itll-make-brutal-legend-2",
@@ -434,20 +448,6 @@
           "description": "You're buying a license, not the product. As a number of lawsuits try to take Sony to court over its decision to stop making PlayStation discs from January 2028, the platform holder has responded to one and said \"reasonable consumers\" understand they're only buying a license to play a game, and that",
           "date": "2026-09-01T13:00:00+00:00",
           "image": "https://images.pushsquare.com/d9f058e862d98/large.jpg"
-        },
-        {
-          "title": "Feature: 50+ PS5, PS4 Games to Buy in PS Store's Gamescom Sale (North America/Europe)",
-          "link": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-gamescom-sale-north-americaeurope",
-          "description": "Cheap PS5 and PS4 games we recommend. PS Store's latest sale is a Gamescom promotion, running from now until 9th September 2026. Browsing through the thousands of PS5 and PS4 games can take a while, so we've put together a list of games we recommend you check out. Everything listed here comes with a",
-          "date": "2026-09-01T12:15:00+00:00",
-          "image": "https://images.pushsquare.com/82adc4207fbd6/large.jpg"
-        },
-        {
-          "title": "Preview: Turok: Origins Won't Rival the Classics as a Bang-Average PS5 Shooter",
-          "link": "https://www.pushsquare.com/previews/turok-origins-wont-rival-the-classics-as-a-bang-average-ps5-shooter",
-          "description": "Mild mannered dinos. Turok: Origins is a third or first-person shooter where you and two other friends take on sentient dinosaurs in a sprawling campaign. That pitch in itself made me think back to Saturday mornings as a kid watching Mighty Morphin Power Rangers or even episodes of Xiaolin Showdown ",
-          "date": "2026-09-01T12:00:00+00:00",
-          "image": "https://images.pushsquare.com/d9709236b095d/large.jpg"
         }
       ]
     },
