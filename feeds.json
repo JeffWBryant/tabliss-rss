@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-01T22:45:44.915094+00:00",
+  "updated": "2026-09-02T00:56:07.152980+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Matthew Lillard’s Ghost Face Vodka Gets Blood Orange Flavored Sequel",
+          "link": "https://bloody-disgusting.com/the-further/3966235/matthew-lillards-ghost-face-vodka-gets-blood-orange-flavored-sequel/",
+          "description": "The mega-popular Ghost Face Vodka from Macabre Spirits, the horror-centric spirits company co-founded by Scream star Matthew Lillard, is getting a bloody sequel. The label has announced that Ghost Face Vodka Blood Orange, its first-ever flavored vodka in collaboration with Fun World, is set to recei",
+          "date": "2026-09-01T23:31:21+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/image002.jpg?resize=1076%2C1076&#038;ssl=1"
+        },
         {
           "title": "Wes Studi & Dane DiLiegro Join Reddit Horror Movie ‘Seasons’ From ‘Companion’ Director",
           "link": "https://bloody-disgusting.com/movie/3966231/wes-studi-dane-diliegro-join-reddit-horror-movie-seasons-from-companion-director/",
@@ -66,13 +73,6 @@
           "description": "ProbablyMonsters has your Fall dark fantasy fix today with their bloody Gothic action-adventure RPG Crimson Moon out now on PC via Steam and the Epic Games Store, PlayStation 5, and Xbox Series. Enter the fallen city of Gildenarch, master its brutal combat, build your arsenal, and take on the horror",
           "date": "2026-09-01T18:39:03+00:00",
           "image": ""
-        },
-        {
-          "title": "‘Onslaught’ Review: Adam Wingard’s Gory Action Throwback Peaks Too Soon",
-          "link": "https://bloody-disgusting.com/reviews/3966126/onslaught-review-adam-wingards-gory-action-throwback-peaks-too-soon/",
-          "description": "Director Adam Wingard skipped Godzilla X Kong: Supernova to return to his gorier genre roots with grindhouse-style actioner Onslaught. Set loosely in the world of The Guest, even employing tracks from his The Guest 2 soundtrack, Wingard and screenwriter Simon Barrett up the ante on the super soldier",
-          "date": "2026-09-01T18:21:22+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/ONSLAUGHT-01.jpg?resize=1024%2C683&#038;ssl=1"
         }
       ]
     },
@@ -230,7 +230,7 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
-          "title": "(Assassin’s Creed Black Flag Resynced) Popular Open-World PlayStation 5 Game’s Free Update Adds New Features",
+          "title": "Popular Open-World PlayStation 5 Game’s Free Update Adds New Features",
           "link": "https://www.playstationlifestyle.net/2026/09/01/assassins-creed-black-flag-resynced-update-1-0-7-new-features-fixes/",
           "description": "A popular PlayStation 5 open-world game has introduced a free update with much-needed improvements. The recently launched title is an enhanced version of an iconic Ubisoft game from 2013. Assassin’s Creed Black Flag Resynced has released its latest update 1.0.7. It brings new player customization op",
           "date": "2026-09-01T21:58:25+00:00",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Colossal, Game-Changing Dragon's Dogma 2 Patch 3.2 Out Now on PS5",
+          "link": "https://www.pushsquare.com/news/2026/09/colossal-game-changing-dragons-dogma-2-patch-3-2-out-now-on-ps5",
+          "description": "Arise, Arisen. As Capcom promised, the biggest ever update for Dragon's Dogma 2 is available to download now on PS5. And when I write 'biggest', I don't just mean that it's packing the most improvements; this thing is 48GB in terms of file size. Read the full article on pushsquare.com",
+          "date": "2026-09-02T00:30:00+00:00",
+          "image": "https://images.pushsquare.com/1be8819a68f08/large.jpg"
+        },
+        {
           "title": "Here's Your First Look at the LEGO PS1, with Ape Escape and Gran Turismo Dioramas",
           "link": "https://www.pushsquare.com/news/2026/09/heres-your-first-look-at-the-lego-ps1-with-ape-escape-and-gran-turismo-dioramas",
           "description": "And no physical discs, of course. It’s been rumoured for quite some time, but here’s your first look at the official LEGO PS1 set, as spotted in-store by a Brick Tap News member. It’s due out on 1st October. The build consists of 1,911 pieces and will retail for a reasonable $160, which is pretty af",
@@ -441,13 +448,6 @@
           "description": "Out a big walk with the lads. Over the last few weeks, my friends and I have been taking part in what has been dubbed “ Big Walk Mondays”. Together, we’ve taken to the Australian outback-inspired setting of House House’s latest adventure, and to say it’s been the biggest multiplayer surprise of 2026",
           "date": "2026-09-01T14:00:00+00:00",
           "image": "https://images.pushsquare.com/2b2d479b0807a/large.jpg"
-        },
-        {
-          "title": "'Reasonable Consumers' Know They Don't Own Digital Games, Says Sony",
-          "link": "https://www.pushsquare.com/news/2026/09/reasonable-consumers-know-they-dont-own-digital-games-says-sony",
-          "description": "You're buying a license, not the product. As a number of lawsuits try to take Sony to court over its decision to stop making PlayStation discs from January 2028, the platform holder has responded to one and said \"reasonable consumers\" understand they're only buying a license to play a game, and that",
-          "date": "2026-09-01T13:00:00+00:00",
-          "image": "https://images.pushsquare.com/d9f058e862d98/large.jpg"
         }
       ]
     },
