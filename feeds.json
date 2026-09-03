@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T04:11:02.552278+00:00",
+  "updated": "2026-09-03T09:06:39.810599+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,20 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Double Fine Bringing Xbox, PC Game Keeper to PS5",
+          "link": "https://www.pushsquare.com/news/2026/09/double-fine-bringing-xbox-pc-game-keeper-to-ps5",
+          "description": "It's a State of Play reveal. Psychonauts and Brutal Legend developer Double Fine is porting one of its lesser-known titles to PS5, seemingly with a view to launching it in the very near future. Keeper , the game where you play as a lighthouse, looks to be coming to PS5. Read the full article on push",
+          "date": "2026-09-03T09:00:00+00:00",
+          "image": "https://images.pushsquare.com/059e16708f526/large.jpg"
+        },
+        {
+          "title": "Guide: What Time Is PlayStation's State of Play for September 2026?",
+          "link": "https://www.pushsquare.com/guides/what-time-is-playstations-state-of-play-for-september-2026",
+          "description": "Dates, times, and what to expect. Sony has announced a double-bill of State of Play presentations , giving PS5 players updates on a wide range of games before focusing in on Japanese titles. It's all happening very soon, so let's go over the details in this guide. We'll tell you what time is PlaySta",
+          "date": "2026-09-03T08:30:00+00:00",
+          "image": "https://images.pushsquare.com/b5530ea1ca007/large.jpg"
+        },
+        {
           "title": "Dragon's Dogma 2 Frame Rates Massively Improved with Patch 3.2 on PS5, PS5 Pro",
           "link": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-frame-rates-massively-improved-with-patch-3-2-on-ps5-ps5-pro",
           "description": "Top Dogma. Patch 3.2 for Dragon's Dogma 2 released overnight, and it's made huge changes to the open world RPG. The update reworks fundamental bits and pieces of the game, while also improving the user experience in some pretty significant ways. You could argue that it verges on being a kind of re-r",
@@ -434,20 +448,6 @@
           "description": "Guess I'll see you in the movies. I was incredibly excited when I got the invite to play Stuntman: Hollywood at Gamescom this year. Announced at a State of Play a few months back, this revived franchise promises chaotic film-stunt-inspired action across some of the largest franchises in Universal’s ",
           "date": "2026-09-02T12:00:00+00:00",
           "image": "https://images.pushsquare.com/0de9b8ac66b03/large.jpg"
-        },
-        {
-          "title": "Chadley Has a 'Strong Role' in Final Fantasy 7 Revelation's Story, Despite Being Hated by Everyone",
-          "link": "https://www.pushsquare.com/news/2026/09/chadley-has-a-strong-role-in-final-fantasy-7-revelations-story-despite-being-hated-by-everyone",
-          "description": "Giga Chadley. I think Final Fantasy 7 Remake and Final Fantasy 7 Rebirth introduce some characters of a very questionable quality, but Chadley's probably the worst of the lot. The annoying robot boy completely outstayed his welcome in Rebirth, where he would constantly offer unneeded guidance as you",
-          "date": "2026-09-02T11:30:00+00:00",
-          "image": "https://images.pushsquare.com/12376e0dad971/large.jpg"
-        },
-        {
-          "title": "GTA 6 Extended Look Was Comfortably Netflix's Most-Watched Title of Last Week",
-          "link": "https://www.pushsquare.com/news/2026/09/gta-6-extended-look-was-comfortably-netflixs-most-watched-title-of-last-week",
-          "description": "\"My AC!\". Rockstar Games made the unusual move to debut an extended look at GTA 6 on Netflix last week. While the video made its way onto YouTube and other sources eventually, the subscription service had dibs for six hours, and it seems that's paid off quite nicely. Netflix's weekly top 10 charts s",
-          "date": "2026-09-02T09:30:00+00:00",
-          "image": "https://images.pushsquare.com/a337b6c56ce4d/large.jpg"
         }
       ]
     },
