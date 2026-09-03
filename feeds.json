@@ -1,84 +1,112 @@
 {
-  "updated": "2026-09-03T13:48:08.551575+00:00",
+  "updated": "2026-09-03T17:44:51.240276+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Ignore It’: Lily Collias To Star In Feature Adaptation Of Viral YouTube Horror Short",
+          "link": "https://bloody-disgusting.com/movie/3966421/ignore-it-lily-collias-to-star-in-feature-adaptation-of-viral-youtube-horror-short/",
+          "description": "“Cape Fear” actor Lily Collias has been set to star in Ignore It, the feature adaptation of the viral horror short from YouTube horror star Sam Evenson, Variety reports today. Evenson, behind the hugely popular Grimoire Horror channel, has teamed up with Smile producers Temple Hill Entertainment and",
+          "date": "2026-09-03T17:35:18+00:00",
+          "image": ""
+        },
+        {
+          "title": "Karl Glusman And ‘Red Rooms’ Star Juliette Gariépy Join Psychosexual Horror Movie ‘Replacer’",
+          "link": "https://bloody-disgusting.com/movie/3966418/karl-glusman-and-red-rooms-star-juliette-gariepy-join-psychosexual-horror-movie-replacer/",
+          "description": "Singer and actress Halsey (MaXXXine) co-writes and stars in the upcoming Replacer from director Avan Jogia (Backrooms, Resident Evil: Welcome to Raccoon City), which Deadline reports has added Karl Glusman (Watcher, The Neon Demon) and Juliette Gariépy (Red Rooms) to cast just ahead of production. F",
+          "date": "2026-09-03T17:11:53+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2023/06/Red-Rooms.jpg?resize=1024%2C682&#038;ssl=1"
+        },
+        {
+          "title": "‘Curse Of The Undead’: The Forgotten Horror Western That Paved The Way For ‘Near Dark’ and ‘Bone Tomahawk’",
+          "link": "https://bloody-disgusting.com/editorials/3966395/curse-of-the-undead-the-forgotten-horror-western-that-paved-the-way-for-near-dark-and-bone-tomahawk/",
+          "description": "For much of the first half of its existence, Universal Pictures was best known for two things: monster movies and westerns. There were prestige pictures, of course, but give or take a Foolish Wives (1922) or an All Quiet on the Western Front (1930), these genres were their bread and butter for decad",
+          "date": "2026-09-03T16:30:52+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/curse-of-undead.jpg?resize=1000%2C760&#038;ssl=1"
+        },
+        {
+          "title": "New ‘Lollipop Chainsaw’ Game Playable at TGS 2026!",
+          "link": "https://bloody-disgusting.com/video-games/3966400/new-lollipop-chainsaw-game-playable-at-tgs-2026/",
+          "description": "Details are still to come, but Juliet is back in a new Lollipop Chainsaw game! Publisher Dragami Games announced that the game’s demo will be playable at this year’s Tokyo Game Show, with Sega serving as the game’s distribution partner in Japan and Southeast Asia. No platforms or release date have b",
+          "date": "2026-09-03T16:18:40+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/lolli.jpg?resize=1920%2C960&#038;ssl=1"
+        },
+        {
+          "title": "Get Ready for ‘The Blood of Dawnwalker’ With These 5 Legendary Video Game Vampires",
+          "link": "https://bloody-disgusting.com/sponsored/3964200/get-ready-for-the-blood-of-dawnwalker-with-these-5-legendary-video-game-vampires/",
+          "description": "Vampirism is traditionally seen as a horrific curse in fiction, but you’ve got to admit that there are some pretty cool benefits to becoming a Nosferatu. If you ask me, not being able to get a tan at the beach pales in comparison to classic vampire abilities like flight, immaculate hair, and, of cou",
+          "date": "2026-09-03T16:00:26+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2020/12/BloodRayne.jpg?resize=1024%2C576&#038;ssl=1"
+        },
+        {
+          "title": "Dungeon-Crawling Deckbuilder ‘Shroom and Gloom’ Enters Early Access on September 10 [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3966367/dungeon-crawling-deckbuilder-shroom-and-gloom-enters-early-access-on-september-10-trailer/",
+          "description": "Fans of dungeon crawlers can look forward to Team Lazerbeam and Devolver Digital’s Shroom and Gloom, their upcoming hand-drawn fungal roguelike. Launching on September 10 into Early Access on Steam, you can get a taste of what’s to come with the demo that’s currently available on the game’s Steam pa",
+          "date": "2026-09-03T15:30:55+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Stupid Never Dies’ Preview: Stylish Pop-Punk Zombie Roguelike Is Bursting With Personality",
+          "link": "https://bloody-disgusting.com/video-games/3966250/stupid-never-dies-preview/",
+          "description": "In a world where a lot of the biggest games on the market start looking the same, you certainly can’t accuse Stupid Never Dies, the debut game from GPTRACK50, of blending in with the crowd. This pop-punk zombie action roguelike immediately grabs your attention with its vibrant colors and unique aest",
+          "date": "2026-09-03T15:00:20+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/07/stupidneeverdies.jpg?resize=900%2C580&#038;ssl=1"
+        },
+        {
+          "title": "‘Maneater 2’ Announced, Taking a Bite in 2027 [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3966388/maneater-2-announced-taking-a-bite-in-2027-trailer/",
+          "description": "Just when you thought it was safe to go back into the water. Tripwire Interactive and developer Demiurge Studios have announced a sequel to their 2020 “ShaRkPG” with Maneater 2, coming next year to PC via Steam and the Epic Gamest Store, PlayStation 5, Xbox Series and the Nintendo Switch 2. Revealed",
+          "date": "2026-09-03T14:05:40+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/maneater02.jpg?resize=900%2C580&#038;ssl=1"
+        },
+        {
+          "title": "‘Until Dawn 2’ Will Release January 2027; Watch the New Trailer Now",
+          "link": "https://bloody-disgusting.com/video-games/3966390/until-dawn-2-will-release-january-2027-watch-the-new-trailer-now/",
+          "description": "Everyone can live. Or everyone can die. It’s entirely up to you. We’ve learned this morning that the hotly anticipated video game sequel Until Dawn 2 will release in Early 2027. Expect to play Until Dawn 2 on PlayStation 5 beginning January 28, 2027! Pre-orders will begin September 10, 2026. Pre-ord",
+          "date": "2026-09-03T13:56:11+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/HRS9CL0agAAm4se.jpg?resize=1852%2C1206&#038;ssl=1"
+        },
         {
           "title": "‘Bloody Psycho’ 4K Review: A Wild Piece Of Italian Horror Finds The Spotlight On Physical Media",
           "link": "https://bloody-disgusting.com/home-video/3966377/bloody-psycho-4k-review-a-wild-piece-of-italian-horror-finds-the-spotlight-on-physical-media/",
           "description": "Bloody Psycho is not a great movie. That’s not just me saying that; critic and historian Rachael Nisbet, who takes on commentary duties for Vinegar Syndrome‘s new 4K restoration of Leandro Lucchetti‘s supernatural slasher, says the same thing, and I’d imagine a lot of the film’s other admirers would",
           "date": "2026-09-03T13:45:23+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/pQMDyrTG1OzAJ7fT.jpg?resize=1024%2C768&#038;ssl=1"
-        },
-        {
-          "title": "‘Resident Evil’ – Watch an Explosively Bloody Clip from Zach Cregger’s Movie",
-          "link": "https://bloody-disgusting.com/movie/3966373/resident-evil-watch-an-explosively-bloody-clip-from-zach-creggers-movie/",
-          "description": "The first full clip has been officially released for Zach Cregger’s Resident Evil, and it’s quite possibly the coolest clip we’ve run on Bloody Disgusting this entire year. It’s also fittingly both bloody and disgusting, with infected monsters quite literally exploding all over the screen. In the cl",
-          "date": "2026-09-03T13:32:09+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/HRKB7OvXUAA1P4x.jpg?resize=1080%2C1350&#038;ssl=1"
-        },
-        {
-          "title": "‘Resonance: A Plague Tale Legacy’ Celebrates Its Success with New Accolades Trailer [Watch]",
-          "link": "https://bloody-disgusting.com/video-games/3966364/resonance-a-plague-tale-legacy-celebrates-its-success-with-new-accolades-trailer-watch/",
-          "description": "On the heels of its launch last week, Focus Entertainment and Asobo Studio have decided to give fence-sitters a little nudge with a new trailer for Resonance: A Plague Tale Legacy, touting its reviews. Much like Luiz stated in his review, Resonance has received praise by press and players for its em",
-          "date": "2026-09-03T13:30:34+00:00",
-          "image": ""
-        },
-        {
-          "title": "Paramount+’s Peak Screaming Returns With New Halloween Streaming Lineup For 2026",
-          "link": "https://bloody-disgusting.com/movie/3966273/paramounts-peak-screaming-returns-with-new-halloween-streaming-lineup-for-2026/",
-          "description": "The most wonderful time of the year is here, which means that Paramount+ is bringing the screams with the return of its Peak Screaming collection stacked with some of horror’s biggest franchises, iconic villains and fan-favorite films. Leading this year’s lineup is the September 3 streaming debut of",
-          "date": "2026-09-03T13:30:02+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/06/SM6-02415R.jpg?resize=1024%2C700&#038;ssl=1"
-        },
-        {
-          "title": "‘Halloween: The Game’ Review – Stealth, Stalking, and Michael Myers Shine In An Uneven Horror Experience",
-          "link": "https://bloody-disgusting.com/video-games/3966256/halloween-the-game-review-stealth-stalking-and-michael-myers-shine-in-an-uneven-horror-experience/",
-          "description": "The latest from IllFonic, the studio that has carved out a niche for itself as the ultimate authority on multiplayer horror with Friday the 13th, Predator: Hunting Grounds, and Killer Klowns from Outer Space, is perhaps their most enviable IP get to date. Securing the blessing and creative involveme",
-          "date": "2026-09-03T13:00:09+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/07/halloween.jpg?resize=900%2C580&#038;ssl=1"
-        },
-        {
-          "title": "‘John Carpenter’s Toxic Commando’ Unleashes New Free “Retrieval” Update [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3966361/john-carpenters-toxic-commando-unleashes-new-free-retrieval-update-trailer/",
-          "description": "Saber Interactive and Focus Entertainment have released the second major update for John Carpenter’s Toxic Commando with the Retrieval Update that’s now live for PC and consoles. Free for all players, the update introduces the new Retrieval Mode for the most seasoned soldiers, where you must collect",
-          "date": "2026-09-03T11:30:33+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Halloween: The Game’ Details Progression, Unlocks, and Michael Myers Customization Ahead of Launch [Video]",
-          "link": "https://bloody-disgusting.com/video-games/3966348/get-a-glimpse-of-the-progression-and-customization-systems-in-halloween-the-game-video/",
-          "description": "IllFonic has released another video delving into the upcoming Halloween: The Game, this time focusing on the game’s progression and customization. The asymmetrical title is designed for “rich player progression, rewards and customization”, ranging from cosmetics to gameplay unlocks. Similar to the g",
-          "date": "2026-09-02T20:10:49+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Bloodlines: Game of Death 3’ Teaser Trailer Unleashes a Brutal Chainsaw Massacre [Exclusive]",
-          "link": "https://bloody-disgusting.com/movie/3966339/bloodlines-game-of-death-3-teaser-trailer-unleashes-a-brutal-chainsaw-massacre-exclusive/",
-          "description": "The first two German splatter films in the Game of Death franchise universe were recently released on Digital here in the United States, and Chapter 3 is headed our way soon. The first film, Game of Death Chapter 1: The Six Doors to Hell, and its sequel, Game of Death Chapter 2: Dark Secrets, will b",
-          "date": "2026-09-02T19:26:37+00:00",
-          "image": ""
-        },
-        {
-          "title": "Tommy Wiseau’s ‘Big Shark’ Finally Swims Onto Streaming This Week",
-          "link": "https://bloody-disgusting.com/movie/3966337/tommy-wiseaus-big-shark-finally-swims-onto-streaming-this-week/",
-          "description": "Oh hi, shark. Originally announced back in 2019, cult filmmaker Tommy Wiseau’s second feature, Big Shark, is finally headed to streaming this week. Tommy Wiseau revealed via YouTube that his shark attack film will be available on Tubi as of Friday, September 4. The official plot synopsis previews, “",
-          "date": "2026-09-02T19:13:52+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2023/03/big-shark-movie-scaled.jpg?resize=1706%2C2560&#038;ssl=1"
-        },
-        {
-          "title": "Keith David And Richard Kind Face A Demonic Debt In ‘Portal to Hell’ Releasing Next Week",
-          "link": "https://bloody-disgusting.com/movie/3966331/keith-david-and-richard-kind-face-a-demonic-debt-in-portal-to-hell-releasing-next-week/",
-          "description": "Cineverse, Bloody Disgusting’s parent company, is opening up a Portal to Hell from within a laundromat next week. Portal to Hell will debut on Digital and Video on Demand on September 8, 2026. Trey Holland (The Diabolical), Keith David (The Thing, They Live), and Richard Kind (“Spin City,” Beau Is A",
-          "date": "2026-09-02T18:51:12+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/unnamed.jpg?resize=1200%2C1778&#038;ssl=1"
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "The Best Martin Scorsese Movies Not About Gangsters",
+          "link": "https://www.denofgeek.com/movies/the-best-martin-scorsese-movies-not-about-gangsters/",
+          "description": "Martin Scorsese has been making movies since 1967. His filmography currently sits at 26 features, 16 documentaries, and numerous short films. He’s a tireless advocate for film, supporting numerous preservation efforts and sponsoring the world cinema project, which brings attention to filmmakers acro",
+          "date": "2026-09-03T16:27:58+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Winona-Ryder-in-Martin-Scorsese-Age-of-Innocence.jpg"
+        },
+        {
+          "title": "15 People Share the Highly Acclaimed Movies They Just Can’t Get Behind",
+          "link": "https://www.denofgeek.com/msn/15-people-share-the-highly-acclaimed-movies-they-just-cant-get-behind/",
+          "description": "A glowing Rotten Tomatoes score, a pile of awards, and endless praise from critics still can't guarantee that a movie will work for everyone. Sometimes the performances fall flat, the story feels painfully predictable, or viewers simply spend two hours wondering what everyone else apparently saw tha",
+          "date": "2026-09-03T14:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/6.jpg"
+        },
+        {
+          "title": "Has The Walking Dead Franchise Successfully Redeemed Negan?",
+          "link": "https://www.denofgeek.com/tv/has-the-walking-dead-franchise-successfully-redeemed-negan/",
+          "description": "After a third-season episode of The Walking Dead: Dead City suggested that Maggie and Negan were always fated to form a connection with each other in any universe, a portion of the fandom reacted badly to the notion. Though the show’s creators seem to have no intention of making their relationship r",
+          "date": "2026-09-03T14:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2021/08/The-Walking-Dead-Season-11-Episode-1-Sneak-Peek.jpg"
+        },
+        {
+          "title": "14 Movies That Decided History Was Just a Suggestion",
+          "link": "https://www.denofgeek.com/msn/15-movies-that-decided-history-was-just-a-suggestion/",
+          "description": "Historical movies have never been required to behave like history textbooks, but some take that freedom to impressive extremes. A real person can become an entirely different character, major events can happen years apart, and fictional stories can be dropped into moments that barely resemble what a",
+          "date": "2026-09-03T14:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/Diseno-sin-titulo-102.jpg"
+        },
         {
           "title": "15 TV Episodes That Were Considered Too Weird to Air",
           "link": "https://www.denofgeek.com/msn/15-tv-episodes-that-were-considered-too-weird-to-air/",
@@ -115,39 +143,11 @@
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-2.jpg"
         },
         {
-          "title": "15 Famous Movie Scenes Audiences Continue to Misunderstand",
-          "link": "https://www.denofgeek.com/msn/15-famous-movie-scenes-audiences-continue-to-misunderstand/",
-          "description": "Movies can leave a lot of room for interpretation, but sometimes audiences settle on an explanation that the filmmakers never intended. A character gets remembered as the villain, a scene is treated as a plot hole, or a famous moment becomes shorthand for an idea the movie was actually criticizing. ",
-          "date": "2026-09-03T12:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-1.jpg"
-        },
-        {
           "title": "15 Movie Stars Who Just Couldn’t Hack it as Musicians",
           "link": "https://www.denofgeek.com/msn/15-movie-stars-who-just-couldnt-hack-it-as-musicians/",
           "description": "Hollywood has produced plenty of actors who decided they had another career waiting for them on a stage. Some picked up a guitar, released an album, formed a band, or stepped behind a microphone with enough confidence to make the attempt seem inevitable. The results were not always quite as impressi",
           "date": "2026-09-03T12:30:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/5.jpg"
-        },
-        {
-          "title": "15 Movie Scenes That Became Iconic Completely by Accident",
-          "link": "https://www.denofgeek.com/tv/15-movie-scenes-that-became-iconic-completely-by-accident/",
-          "description": "Movies may begin with a screenplay, but some of their best moments never existed on the page. Actors forget lines, props break, people slip, and occasionally someone comes up with an idea while the cameras are already rolling. When that happens, directors have a choice: start over or recognize that ",
-          "date": "2026-09-03T12:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/4.jpg"
-        },
-        {
-          "title": "Revisiting The Specials, James Gunn’s First Superhero Movie",
-          "link": "https://www.denofgeek.com/movies/revisiting-the-specials-james-gunns-first-superhero-movie/",
-          "description": "Nobody makes superhero movies like James Gunn. Even if greats such as Sam Raimi and Christopher Nolan have produced incredible films about people in capes and cowls, Gunn’s combination of off-beat humor, utter sincerity, and love for the weirdest parts of comic book worlds make him the ideal superhe",
-          "date": "2026-09-03T12:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/The-Specials.jpg"
-        },
-        {
-          "title": "15 People Share the Literary “Masterpiece” They Found Completely Unreadable",
-          "link": "https://www.denofgeek.com/msn/15-people-share-the-literary-masterpiece-they-found-completely-unreadable/",
-          "description": "Calling a book a masterpiece can create some pretty intimidating expectations. These are the novels people are told they should read at least once, the classics that fill college syllabuses, and the acclaimed works that routinely appear on lists of the greatest books ever written. Actually making it",
-          "date": "2026-09-03T12:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-3.jpg"
         }
       ]
     },
@@ -230,6 +230,34 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "Acclaimed PlayStation 5 Action Game Adds a Crossover Hero in New Mode",
+          "link": "https://www.playstationlifestyle.net/2026/09/03/ghost-of-tsushima-jin-sakai-returns-ghost-of-yotei-most-wanted/",
+          "description": "A beloved PlayStation 5 action game just got a huge crossover addition. A fan-favorite hero is now a playable character in the game. This was revealed at PlayStation‘s State of Play on September 3. The character will be available with his previous combat skills in a new game mode. At State of Play, ",
+          "date": "2026-09-03T17:16:54+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ghost-of-yotei.jpg?w=1024"
+        },
+        {
+          "title": "Final Fantasy VII Revelation Trailer Reveals Release Date, New Gameplay Systems",
+          "link": "https://www.playstationlifestyle.net/2026/09/03/final-fantasy-vii-revelation-april-2027-release-date-gameplay-trailer/",
+          "description": "Final Fantasy VII Revelation has officially received a release date alongside a brand-new trailer. The third and final installment in the remake trilogy is developed and published by Square Enix. Players on various platforms, including PlayStation 5, will get to enjoy Final Fantasy VII Revelation on",
+          "date": "2026-09-03T16:02:59+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Final-Fantasy-VII-Revelation-Trailer-Reveals-Release-Date-New-Gameplay-Systems.jpg?w=1024"
+        },
+        {
+          "title": "New Limited Edition GTA VI PlayStation 5 DualSense Controllers Announced",
+          "link": "https://www.playstationlifestyle.net/2026/09/03/gta-6-limited-edition-dualsense-controller-announced/",
+          "description": "PlayStation has unveiled Grand Theft Auto VI limited-edition DualSense controllers. These controllers capture the essence of the coastal metropolis within the GTA world. The DualSense controllers will be available in two themes. Pre-orders will open this September. At PlayStation’s State of Play, th",
+          "date": "2026-09-03T15:51:49+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/3.jpg?w=1024"
+        },
+        {
+          "title": "Popular PS4 Adventure Game Sequel Sets PlayStation 5 Release Date",
+          "link": "https://www.playstationlifestyle.net/2026/09/03/until-dawn-2-ps5-release-date-akishima-island-dead-true-crew/",
+          "description": "An iconic PS4 horror game sequel has officially received its PlayStation 5 release date. The next installment arrives more than a decade after Supermassive Games‘ original title. Until Dawn 2, the second chapter in the popular horror franchise, will launch exclusively for PS5 on January 28, 2027. A ",
+          "date": "2026-09-03T15:12:14+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Popular-PS4-Adventure-Game-Sequel-Sets-PlayStation-5-Release-Date.jpg?w=1024"
+        },
+        {
           "title": "Long-Forgotten PlayStation 3 Action Game’s PS5 Sequel Gets Release Date",
           "link": "https://www.playstationlifestyle.net/2026/09/03/ps3-game-caladrius-ps5-sequel-release-date/",
           "description": "A 2013 action game that was ported to the PS3 in 2014 is getting its PS5 sequel surprisingly soon. H2 Interactive’s scrolling shooter Caladrius will return on December 10, 2026, as Caladrius 2: Dark Element. The first game originally launched as a timed Xbox console exclusive. Its PS3 version was ti",
@@ -251,9 +279,9 @@
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/06/playstation-state-of-play-livestream.jpg?w=1024"
         },
         {
-          "title": "PlayStation 5 Getting Acclaimed 2025 Xbox Exclusive Adventure Game",
+          "title": "PlayStation 5 Getting Acclaimed 2025 Xbox Exclusive Adventure Game (Update)",
           "link": "https://www.playstationlifestyle.net/2026/09/03/xbox-adventure-game-keeper-coming-to-ps5/",
-          "description": "The PS5 port of an acclaimed 2025 Xbox console exclusive adventure game has leaked ahead of today’s PlayStation State of Play event(s). Psychonauts developer Double Fine, which recently gained independence from Xbox, is apparently bringing Keeper to the PS5 in the near future. PS5 trophies for adven",
+          "description": "Update: Keeper is out now for the PS5. Original story follows… The PS5 port of an acclaimed 2025 Xbox console exclusive adventure game has leaked ahead of today’s PlayStation State of Play event(s). Psychonauts developer Double Fine, which recently gained independence from Xbox, is apparently bringi",
           "date": "2026-09-03T12:01:42+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps5-adventure-game-keeper.jpg?w=1024"
         },
@@ -270,34 +298,6 @@
           "description": "Harry Potter fans can pick up two iconic game collections from the franchise on PlayStation for a killer price. Warner Bros. Interactive has heavily discounted the LEGO Harry Potter collection on the PlayStation Store. Developed by Traveller’s Tales, the collection originally released around the the",
           "date": "2026-09-02T20:32:45+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Untitled-Design-2026-09-03T014752.624.png?w=1024"
-        },
-        {
-          "title": "Beloved RPG’s PlayStation 5 Sequel Arrives Today on PS Store",
-          "link": "https://www.playstationlifestyle.net/2026/09/02/moonlighter-2-massive-playstation-5-expansion-update-hardcore-mode/",
-          "description": "A beloved RPG PlayStation 5 sequel is not available on the PlayStation Store. The action-packed game developed by Digital Sun is also available as a free demo on the store. It is also available for purchase on other modern consoles starting today. Moonlighter 2: The Endless Vault is available on the",
-          "date": "2026-09-02T19:51:40+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/8.jpg?w=1024"
-        },
-        {
-          "title": "Hit PlayStation 5 Game Getting Free Multiplayer Update With Battle Royale, Zombies & More",
-          "link": "https://www.playstationlifestyle.net/2026/09/02/teardown-multiplayer-ps5-release-date-huge-updates/",
-          "description": "A popular PlayStation 5 game is set to receive a free multiplayer update featuring zombies, Battle Royale, and more. Developed by Tuxedo Labs, the title was originally released as a single-player experience four years ago. The sandbox game Teardown will receive its multiplayer update on PS5 on Septe",
-          "date": "2026-09-02T18:11:19+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Hit-PlayStation-5-Game-Getting-Free-Multiplayer-Update-With-Battle-Royale-Zombies-More.jpg?w=1024"
-        },
-        {
-          "title": "Unique PS1 Game Gets PlayStation 5 Release This Week, Watch Trailer",
-          "link": "https://www.playstationlifestyle.net/2026/09/02/console-archives-the-conveni-2-switch-2-ps5-release/",
-          "description": "Hamster Corporation has announced that it is releasing Console Archives The Coveni 2 on PS5, originally released on 32-bit consoles in 1997. The post Unique PS1 Game Gets PlayStation 5 Release This Week, Watch Trailer appeared first on PlayStation LifeStyle .",
-          "date": "2026-09-02T16:14:04+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Untitled-design-2026-09-02T213943.095.png?w=1024"
-        },
-        {
-          "title": "Surprise Hit 2024 PS5 Action Game 70% Off on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/09/02/space-marine-2-ps-store-deal-september-2026/",
-          "description": "A surprise hit 2024 PS5 action game is 70% off on the PS Store in a limited-time deal that ends next week. Developed by Saber Interactive and published by Focus Entertainment, Warhammer 40,000: Space Marine 2 is heavily discounted until September 10. Warhammer 40,000: Space Marine 2 is at its lowest",
-          "date": "2026-09-02T15:03:54+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/space-marine-2-ps-store-deal.jpg?w=1024"
         }
       ]
     },
@@ -305,11 +305,46 @@
       "url": "https://blog.playstation.com/feed/",
       "articles": [
         {
+          "title": "State of Play & State of Play Japan: all announcements, trailers",
+          "link": "https://blog.playstation.com/2026/09/03/state-of-play-state-of-play-japan-all-announcements-trailers/",
+          "description": "Two shows, over 30 games. Today’s double-sized State of Play brings together creatives from the world over to debut new games, share deep gameplay dives and fresh insights, reveal release dates, and much more. We’ve wrapped up every single announcement into this recap, handily organised in alphabeti",
+          "date": "2026-09-03T15:05:55+00:00",
+          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
+        },
+        {
+          "title": "Rhapsody in Scarlet announced for PS5",
+          "link": "https://blog.playstation.com/2026/09/03/rhapsody-in-scarlet-announced-for-ps5/",
+          "description": "We’re thrilled to have revealed Rhapsody in Scarlet, a brand-new action game for PlayStation 5, during today’s State of Play and State of Play Japan. Set in the jazz-filled streets of 1920s New York, Rhapsody in Scarlet is an action game where players can enjoy exhilarating combos by wielding magic ",
+          "date": "2026-09-03T14:33:39+00:00",
+          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
+        },
+        {
+          "title": "Fate/Extra Record launches Jan 28 2027 on PS5 & PS4",
+          "link": "https://blog.playstation.com/2026/09/03/fate-extra-record-launches-jan-28-2027-on-ps5-ps4/",
+          "description": "During today’s State of Play, we announced that Fate/Extra Record, developed by Type-Moon, will be releasing worldwide on PlayStation 4 and PlayStation 5 on January 28, 2027! We know everyone’s been patiently waiting to learn more about this return to the Fate universe, so we’ve shared a thrilling n",
+          "date": "2026-09-03T14:04:38+00:00",
+          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
+        },
+        {
+          "title": "Final Fantasy VII Revelation launches on PS5 April 8, 2027",
+          "link": "https://blog.playstation.com/2026/09/03/final-fantasy-vii-revelation-launches-on-ps5-april-8-2027/",
+          "description": "During today’s PlayStation State of Play broadcast, we revealed substantial new gameplay footage for Final Fantasy VII Revelation, and confirmed that the game will launch for PlayStation 5 on April 8, 2027. The anticipated action RPG will be the final entry in the acclaimed Final Fantasy VII Remake ",
+          "date": "2026-09-03T13:57:19+00:00",
+          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
+        },
+        {
+          "title": "First look at the Grand Theft Auto VI Limited-Edition DualSense Wireless Controllers",
+          "link": "https://blog.playstation.com/2026/09/03/first-look-at-the-grand-theft-auto-vi-limited-edition-dualsense-wireless-controllers/",
+          "description": "Vice City has a style all its own. From its sun-soaked streets to its bright neon lights, the city will be Leonida’s ultimate destination when players jump into Grand Theft Auto VI on November 19. At today’s State of Play, we shared a first look at two new limited edition DualSense wireless controll",
+          "date": "2026-09-03T13:46:10+00:00",
+          "image": "https://live.staticflickr.com/65535/55505866143_cb4df88743_k.jpg"
+        },
+        {
           "title": "Until Dawn 2 launches January 28",
           "link": "https://blog.playstation.com/2026/09/03/until-dawn-2-launches-january-28/",
           "description": "Hi everyone! I’m Stu Tilley from Firesprite, and I’m thrilled to say it: Until Dawn 2 launches on PS5 on January 28, 2027. Get ready, because every choice you make is going to matter. Will you guide all the team of fake ghost hunting Youtubers “Dead True” (plus their plucky chicken companion!) safel",
           "date": "2026-09-03T13:42:04+00:00",
-          "image": ""
+          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
         },
         {
           "title": "Gran Turismo 7 Spec IV update launching in two parts later this year",
@@ -323,7 +358,7 @@
           "link": "https://blog.playstation.com/2026/09/03/uncover-the-secrets-of-uncanyon-a-new-ps5-adventure-game-coming-2027/",
           "description": "Hi everyone, it’s great to be back on the PlayStation.Blog. It’s been a few years since we shared Maquette with you, and while that game was about the shifting scale of perspective and memories, we’ve spent our time since then thinking about a different kind of shift: the shift of unparallel realiti",
           "date": "2026-09-03T13:28:54+00:00",
-          "image": ""
+          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
         },
         {
           "title": "Hunter’s Moon, an immersive historical folk-horror, launches October 26 on PS5",
@@ -338,41 +373,6 @@
           "description": "Today’s State of Play featured a new look at Final Fantasy Resonance, launching October 22, 2026. We’re also excited to announce the release of a free demo for PlayStation 5, featuring the entire first chapter of the game. Save data from the demo can be carried over to the full game. Final Fantasy R",
           "date": "2026-09-03T13:24:46+00:00",
           "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-        },
-        {
-          "title": "Building on 30 years of play: First look at the LEGO® PlayStation™",
-          "link": "https://blog.playstation.com/2026/09/03/building-on-30-years-of-play-first-look-at-the-lego-playstation/",
-          "description": "Today at State of Play, we shared the first look at an all-new collaboration with the LEGO Group – the LEGO PlayStation – that celebrates the games, experiences, and the feelings of play we have shared as a community for over 30 years. For the first time, players and LEGO fans will be able to […]",
-          "date": "2026-09-03T13:22:18+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-        },
-        {
-          "title": "Tear through Neptune’s Kingdom in Maneater 2, coming 2027",
-          "link": "https://blog.playstation.com/2026/09/03/tear-through-neptunes-kingdom-in-maneater-2-coming-2027/",
-          "description": "After keeping it submerged for years, we’re incredibly excited to finally give players a first look at Maneater 2 during today’s State of Play. The teams at Tripwire Interactive and Demiurge Studios are working hard to deliver the ShaRkPG of your wildest dreams. While we aren’t ready to dredge up ev",
-          "date": "2026-09-03T13:19:29+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-        },
-        {
-          "title": "Metro 2039 launches February 4 2027, PS5 Pro gameplay revealed",
-          "link": "https://blog.playstation.com/2026/09/03/metro-2039-launches-february-4-2027-ps5-pro-gameplay-revealed/",
-          "description": "Today we’re excited to finally confirm that Metro 2039 launches February 4 2027*. Being able to celebrate this announcement with you all during State of Play was a huge honour, so we wanted to offer something special for everyone watching – the world debut of console gameplay, captured exclusively o",
-          "date": "2026-09-03T13:17:58+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-        },
-        {
-          "title": "Monster Hunter Wilds: Ascendance reveals new monsters, story details, and gameplay",
-          "link": "https://blog.playstation.com/2026/09/03/monster-hunter-wilds-ascendance-reveals-new-monsters-story-details-and-gameplay/",
-          "description": "A brand-new trailer for Monster Hunter Wilds: Ascendance, the massive expansion to Monster Hunter Wilds, debuted in State of Play! Coming to PlayStation 5 in 2027, Ascendance evolves the hunting experience further with new monsters, a new locale, and a new story that goes beyond the ending of the ba",
-          "date": "2026-09-03T13:14:00+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-        },
-        {
-          "title": "Jin Sakai returns in Ghost of Yōtei: Most Wanted",
-          "link": "https://blog.playstation.com/2026/09/03/jin-sakai-returns-in-ghost-of-yotei-most-wanted/",
-          "description": "Just revealed in State of Play, Jin Sakai will be one of our playable characters in Ghost of Yōtei: Most Wanted! We are so excited to have the hero of Ghost of Tsushima back for this new mode, complete with all four of his signature stances. In case you missed our announcement last month, Ghost […]",
-          "date": "2026-09-03T13:13:00+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
         }
       ]
     },
@@ -380,74 +380,74 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
-          "title": "4 Upcoming PS Plus Extra, Premium Games for 2026 Announced",
-          "link": "https://www.pushsquare.com/news/2026/09/4-upcoming-ps-plus-extra-premium-games-for-2026-announced",
-          "description": "What to expect in the coming months. Sony has shared a glimpse at some of the upcoming PS Plus Extra and PS Plus Premium games you can expect on the subscription service for the rest of 2026. This is just a glimpse, but you can expect the following to arrive in the final four months of the year: Myc",
-          "date": "2026-09-03T13:30:00+00:00",
-          "image": "https://images.pushsquare.com/9c2b4847c6228/large.jpg"
+          "title": "Round Up: What Was Announced in Sony's State of Play Livestream for September 2026?",
+          "link": "https://www.pushsquare.com/features/round-up-what-was-announced-in-sonys-state-of-play-livestream-for-september-2026",
+          "description": "All the PS5 news from State of Play. In this Round Up article, we're covering not one State of Play livestream, but two! Sony put a general show back-to-back with a State of Play Japan event, so below you'll find all the announcements from the two showcases. All PS5 State of Play Announcements (Sept",
+          "date": "2026-09-03T17:30:00+00:00",
+          "image": "https://images.pushsquare.com/ac64c8cfa325e/large.jpg"
         },
         {
-          "title": "Double Fine Bringing Xbox, PC Game Keeper to PS5",
-          "link": "https://www.pushsquare.com/news/2026/09/double-fine-bringing-xbox-pc-game-keeper-to-ps5",
-          "description": "Confirmed for PS5 and out today. Psychonauts and Brutal Legend developer Double Fine is porting one of its lesser-known titles to PS5, seemingly with a view to launching it in the very near future. Keeper , the game where you play as a lighthouse, looks to be coming to PS5. Read the full article on ",
-          "date": "2026-09-03T13:25:00+00:00",
-          "image": "https://images.pushsquare.com/059e16708f526/large.jpg"
+          "title": "Poll: How Would You Rate State of Play for September 2026?",
+          "link": "https://www.pushsquare.com/features/poll-how-would-you-rate-state-of-play-for-september-2026",
+          "description": "Post your thoughts on two State of Play shows in one. For the first time ever, Sony has run two State of Play livestreams back-to-back: we got a standard SoP showcase with a load of general announcements, and then a State of Play Japan event covered Japanese and Asian developers. The two have brough",
+          "date": "2026-09-03T17:00:00+00:00",
+          "image": "https://images.pushsquare.com/300982d47fc0c/large.jpg"
         },
         {
-          "title": "Metro 2039 Locks Down 4th February 2027 Release Date in First PS5 Clips",
-          "link": "https://www.pushsquare.com/news/2026/09/metro-2039-locks-down-4th-february-2027-release-date-in-first-ps5-clips",
-          "description": "See it played on a PS5 Pro. We've known for a while now that Metro 2039 would be launching in February 2027, but now we can attach an exact date that: 4th February 2027. The release date was confirmed in a new trailer at State of Play that also featured the first PS5 Pro footage of the hardcore titl",
-          "date": "2026-09-03T13:20:00+00:00",
-          "image": "https://images.pushsquare.com/fcdf56707f5c8/large.jpg"
+          "title": "Seoul-Based Studio Announces a New Co-Op Anomaly Hunting Game for PS5",
+          "link": "https://www.pushsquare.com/news/2026/09/seoul-based-studio-announces-a-new-co-op-anomaly-hunting-game-for-ps5",
+          "description": "Meet the WPCA. It didn’t seem like there was going to be much content in the State of Play Japan , but looking back it may have been more stacked than the main show. If you switched off, then you may have missed the reveal of co-op anomaly hunting game WPCA: World Phasebound Control Authority , whic",
+          "date": "2026-09-03T15:45:00+00:00",
+          "image": "https://images.pushsquare.com/fbbe0b93efd14/large.jpg"
         },
         {
-          "title": "Juliet Starling Will Return in New Lollipop Chainsaw Game, Playable at TGS This Month",
-          "link": "https://www.pushsquare.com/news/2026/09/juliet-starling-will-return-in-new-lollipop-chainsaw-game-playable-at-tgs-this-month",
-          "description": "Oh my god! It's full of Starling. The new Lollipop Chainsaw title, officially announced earlier in the year by series custodians Dragami Games, will be playable at TGS later this month. The title will be on display at SEGA’s booth, as the publisher will act as the outing’s distributor across Japan a",
-          "date": "2026-09-03T12:30:00+00:00",
-          "image": "https://images.pushsquare.com/e8a9d00a37f02/large.jpg"
+          "title": "SlashZero Looks Like a Fantastic PS5 Side-Scroller, and You Can Play Its PS5 Demo Now",
+          "link": "https://www.pushsquare.com/news/2026/09/slashzero-looks-like-a-fantastic-ps5-side-scroller-and-you-can-play-its-ps5-demo-now",
+          "description": "But only for a limited time. I’ve been quietly keeping tabs on PS5 side-scrolling roguelike SlashZero for quite some time, so I’m excited to learn a time-limited demo is now live on the PS Store . It’s unclear exactly when this will expire, but you can download it and give it a try, ahead of the gam",
+          "date": "2026-09-03T15:40:00+00:00",
+          "image": "https://images.pushsquare.com/760369bcef9f1/large.jpg"
         },
         {
-          "title": "Live: Watch Sony's PS5 State of Play Here (September 2026)",
-          "link": "https://www.pushsquare.com/features/live-watch-sonys-ps5-state-of-play-here-september-2026",
-          "description": "Two big State of Play livestreams in one. For the first time ever, Sony is presenting two State of Play showcases back to back. The first will be a standard State of Play livestream you've come to expect over the years, which finishes off with a new look at Final Fantasy 7 Revelation . Straight afte",
-          "date": "2026-09-03T12:00:00+00:00",
-          "image": "https://images.pushsquare.com/ce1f65bff49f8/large.jpg"
+          "title": "The Eminence in Shadow Anime Gets Its Own PS5 Roguelite in 2027",
+          "link": "https://www.pushsquare.com/news/2026/09/the-eminence-in-shadow-anime-gets-its-own-ps5-roguelite-in-2027",
+          "description": "Phantom echoes. Fans of The Eminence in Shadow anime – which started life as a light novel, of course – may be excited to learn a roguelite adaptation is in development for the PS5. A collaboration between publisher Aiming with Team Caravan on dev duties, the title will be brought to the West courte",
+          "date": "2026-09-03T15:35:00+00:00",
+          "image": "https://images.pushsquare.com/6a76f59624ddd/large.jpg"
         },
         {
-          "title": "Planet Coaster Dev Announces Partnership with Disney on a New Management Sim",
-          "link": "https://www.pushsquare.com/news/2026/09/planet-coaster-dev-announces-partnership-with-disney-on-a-new-management-sim",
-          "description": "Planet Disneyland? Frontier Developments, the team behind the Planet Coaster and Planet Zoo series, has announced it's teaming up with Disney on a new game. In a press release, the company says it's partnered with Disney to \"develop and publish a new game which will draw on Disney’s iconic portfolio",
-          "date": "2026-09-03T11:45:00+00:00",
-          "image": "https://images.pushsquare.com/9de238086c297/large.jpg"
+          "title": "Try Two Hours of Stupid Never Dies on PS5 Now, with Your Progress Transferring to the Full Game",
+          "link": "https://www.pushsquare.com/news/2026/09/try-two-hours-of-stupid-never-dies-on-ps5-now-with-your-progress-transferring-to-the-full-game",
+          "description": "A hearty helping of idiocy. You can play a two hour demo of the zany PS5 action game Stupid Never Dies right now, with your progress transferring to the full release should you decide to purchase it on 22nd October. The First Bite Demo includes the entire opening hours of the campaign, and can be do",
+          "date": "2026-09-03T15:30:00+00:00",
+          "image": "https://images.pushsquare.com/5e9cde05c9108/large.jpg"
         },
         {
-          "title": "Guide: What Time Is PlayStation's State of Play for September 2026?",
-          "link": "https://www.pushsquare.com/guides/what-time-is-playstations-state-of-play-for-september-2026",
-          "description": "Dates, times, and what to expect. Sony has announced a double-bill of State of Play presentations , giving PS5 players updates on a wide range of games before focusing in on Japanese titles. It's all happening very soon, so let's go over the details in this guide. We'll tell you what time is PlaySta",
-          "date": "2026-09-03T08:30:00+00:00",
-          "image": "https://images.pushsquare.com/b5530ea1ca007/large.jpg"
+          "title": "You May Have Missed the Reveal of CONQ: Crown of No Quarter During State of Play Japan",
+          "link": "https://www.pushsquare.com/news/2026/09/you-may-have-missed-the-reveal-of-conq-crown-of-no-quarter-during-state-of-play-japan",
+          "description": "CONQ's bad fur day. Not everyone stuck around for State of Play Japan , so you may have missed the reveal of nautical action game CONQ: Crown of No Quarter . Billed as a “tactical action game”, this is set in the afterlife where you must “fight your way through a brutal melee frenzy, command bone-cl",
+          "date": "2026-09-03T15:25:00+00:00",
+          "image": "https://images.pushsquare.com/33db88ed40d82/large.jpg"
         },
         {
-          "title": "Dragon's Dogma 2 Frame Rates Massively Improved with Patch 3.2 on PS5, PS5 Pro",
-          "link": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-frame-rates-massively-improved-with-patch-3-2-on-ps5-ps5-pro",
-          "description": "Top Dogma. Patch 3.2 for Dragon's Dogma 2 released overnight, and it's made huge changes to the open world RPG. The update reworks fundamental bits and pieces of the game, while also improving the user experience in some pretty significant ways. You could argue that it verges on being a kind of re-r",
-          "date": "2026-09-02T18:00:00+00:00",
-          "image": "https://images.pushsquare.com/9e552972bfb94/large.jpg"
+          "title": "Sony Will Publish Promising PS5 Action RPG Daba: Land of Water Scar",
+          "link": "https://www.pushsquare.com/news/2026/09/sony-will-publish-promising-ps5-action-rpg-daba-land-of-water-scar",
+          "description": "Coming in 2027. Sony has snapped up publishing rights to the promising PS5 action RPG Daba: Land of Water Scar , which has been supported by its China Hero Project . China Hero Project is a support programme established by the platform holder to help bring Chinese titles to market, with new Shanghai",
+          "date": "2026-09-03T15:20:00+00:00",
+          "image": "https://images.pushsquare.com/8603b8f91b275/large.jpg"
         },
         {
-          "title": "The Witcher Remake Put on Ice as Dev Focuses on New Expansion and The Witcher 4",
-          "link": "https://www.pushsquare.com/news/2026/09/the-witcher-remake-put-on-ice-as-dev-focuses-on-new-expansion-and-the-witcher-4",
-          "description": "Songs of the Past. Fool's Theory, the development studio that was originally contracted to remake the first Witcher game, has changed trajectory over recent years. While the majority of CD Projekt Red is currently working on The Witcher 4 , Fool's Theory has been pouring its efforts into Songs of th",
-          "date": "2026-09-02T17:30:00+00:00",
-          "image": "https://images.pushsquare.com/8be9fbd9c17b3/large.jpg"
+          "title": "After Nearly a Decade of Delays, Anime RPG Fate/Extra Record Finally Releases for PS5 in January 2027",
+          "link": "https://www.pushsquare.com/news/2026/09/after-nearly-a-decade-of-delays-anime-rpg-fateextra-record-finally-releases-for-ps5-in-january-2027",
+          "description": "It must be Fate. Even the most optimistic of Fate fans will be shocked to hear that years-in-the-making RPG Fate/Extra Record actually has a release date — and it's coming relatively soon. This game's development cycle has been troubled to say the least. It's been delayed in some shape or form at le",
+          "date": "2026-09-03T15:15:00+00:00",
+          "image": "https://images.pushsquare.com/13d4f8ad6a800/large.jpg"
         },
         {
-          "title": "Square Enix Denies Rumours of Being Bought Out",
-          "link": "https://www.pushsquare.com/news/2026/09/square-enix-denies-rumours-of-being-bought-out",
-          "description": "Hip to buy Square. Rumours of a Square Enix buyout have been doing the rounds over the last 24 hours or so, and they actually got so loud that the publisher itself has had to come out and address them. The whispers stemmed from a Japanese business magazine, which suggested that Square Enix was on co",
-          "date": "2026-09-02T15:30:00+00:00",
-          "image": "https://images.pushsquare.com/436c797a09ce8/large.jpg"
+          "title": "Sony Set the Mood for Its Latest State of Play by Starting with the New Resident Evil Movie",
+          "link": "https://www.pushsquare.com/news/2026/09/sony-set-the-mood-for-its-latest-state-of-play-by-starting-with-the-new-resident-evil-movie",
+          "description": "But it does look good. It’s a Sony movie and it’s based on one of the most popular PlayStation franchises of all time, but I suppose we should have known this new State of Play would be light when it started with a clip of Zach Cregger’s upcoming horror flick, Resident Evil . In defence of the film,",
+          "date": "2026-09-03T15:10:00+00:00",
+          "image": "https://images.pushsquare.com/d4159f39dbffa/large.jpg"
         }
       ]
     },
