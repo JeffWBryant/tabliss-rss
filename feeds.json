@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T21:43:00.056743+00:00",
+  "updated": "2026-09-04T23:51:37.742268+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Free Horror Movies Streaming This Month",
+          "link": "https://www.fangoria.com/free-horror-movies-streaming-this-month/",
+          "description": "Free streaming is getting ready for Halloween with strong choices like John Carpenter's THE FOG, Adam Wingard's YOU'RE NEXT, Breck Eisner's remake of THE CRAZIES and that's not all. Get a good look at the new list at FANGORIA.",
+          "date": "2026-09-04T23:16:56+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2025/02/YoureNextTopper-Cropped.jpg"
+        },
+        {
           "title": "Exclusive Teaser: Found Footage Horror COMPLIANCE Goes Deep Down The Rabbit Hole",
           "link": "https://www.fangoria.com/exclusive-compliance-trailer/",
           "description": "Kyle Mangione-Smith's feature debut brings paranoid chills at Fantastic Fest later this month.",
@@ -216,19 +223,19 @@
           "description": "New month, new horror merch!",
           "date": "2026-09-01T19:00:55+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/08/Merch-September.png"
-        },
-        {
-          "title": "10 Of The Best Upcoming 4K And Blu-Ray Horror Releases",
-          "link": "https://www.fangoria.com/10-of-the-best-upcoming-4k-and-blu-ray-horror-releases-20/",
-          "description": "Cult comedy slashers, deranged Deadite horror, and a Stephen King classic are among the best 4K and Blu-ray releases coming this September. Read the full list within.",
-          "date": "2026-09-01T18:00:19+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2024/03/1._28_Days_Later_Fox_Searchlight_Pictures-e1765452272107.png"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "6 Classic NES & SNES Games Arrive on PlayStation 5 Store Today for Cheap",
+          "link": "https://www.playstationlifestyle.net/2026/09/04/jaleco-sports-faceoffs-ps5-nes-snes-games-launch/",
+          "description": "PlayStation 5 players can now experience six NES and SNES classics for cheap. The post 6 Classic NES & SNES Games Arrive on PlayStation 5 Store Today for Cheap appeared first on PlayStation LifeStyle .",
+          "date": "2026-09-04T21:54:18+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/game.jpg?w=1024"
+        },
         {
           "title": "Cult Classic RPG Gets PlayStation 5 Remake, Watch Reveal Trailer",
           "link": "https://www.playstationlifestyle.net/2026/09/04/astonishia-story-rpg-remake-trailer-nis-america/",
@@ -291,13 +298,6 @@
           "description": "The PS Store has just dropped a fun, free PS5 and PS4 game out of nowhere, and it comes with a full set of trophies. Developed by TapNation and published by QubicGames, Fortress Merge combines RPG, strategy, and tower defense mechanics in a casual package that’ll keep you busy for a while. Free PS5,",
           "date": "2026-09-04T11:28:14+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/11/free-ps5-ps4-game-ps-store.jpg?w=1024"
-        },
-        {
-          "title": "Acclaimed Capcom PS5 Action Game Out Now on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/09/04/ps5-action-game-onimusha-way-of-sword-out-now/",
-          "description": "A long-awaited Capcom PS5 action adventure game is finally out on the PS Store, launching to critical acclaim. Onimusha: Way of the Sword is the first main entry in the series since 2006’s Dawn of Dreams, and it’s delivered on fan expectations. PS5 action adventure game Onimusha: Way of the Sword co",
-          "date": "2026-09-04T11:12:09+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps5-action-game-onimusha-way-of-the-sword.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Talking Point: What Are You Playing This Weekend? - Issue 648",
+          "link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-648",
+          "description": "Stupid is as stupid does. Last week, I accidentally published WAYP 12 hours earlier than usual. A lot of you said you liked the change, as you consider Friday evening part of the weekend. So let's try this earlier publishing time and see how it goes, huh? Aaron Bayne This weekend I'm trying to wrap ",
+          "date": "2026-09-04T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/d38f7f325ce9e/large.jpg"
+        },
+        {
           "title": "After a Record Breaking State of Play in June, the Latest Edition Did Disappointing Numbers",
           "link": "https://www.pushsquare.com/news/2026/09/after-a-record-breaking-state-of-play-in-june-the-latest-edition-did-disappointing-numbers",
           "description": "The comedown. Sony’s previous State of Play in June is the second most watched PlayStation livestream ever , beaten only by the PS5’s reveal during the peak of the pandemic in 2020. To date, it’s attracted over 5.1 million views , with the bulk of those coming around its air date on 2nd June. (It of",
@@ -441,13 +448,6 @@
           "description": "May the Hawks be with you. It's almost impossible not to mention XCOM when talking about Star Wars Zero Company , as the similarities are clear and manifold. What developer Bit Reactor has done is apply a Star Wars veneer on top of the robust turn-based tactical gameplay from Firaxis' beloved series",
           "date": "2026-09-04T14:00:00+00:00",
           "image": "https://images.pushsquare.com/eb06a75ca3acc/large.jpg"
-        },
-        {
-          "title": "One of the Best PS5 Story Developers Has Helped Write Until Dawn 2's Plot",
-          "link": "https://www.pushsquare.com/news/2026/09/one-of-the-best-ps5-story-developers-has-helped-write-until-dawn-2s-plot",
-          "description": "Disptach developer AdHoc Studio involved. You can now be even more confident Until Dawn 2 will be a fantastic story experience, as it's been announced Dispatch developer AdHoc Studio helped write the PS5 sequel's story. Having revealed the 28th January 2027 release date, a PlayStation Blog post spok",
-          "date": "2026-09-04T11:15:00+00:00",
-          "image": "https://images.pushsquare.com/e5a978319fc15/large.jpg"
         }
       ]
     },
