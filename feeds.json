@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T23:09:43.421484+00:00",
+  "updated": "2026-09-04T01:14:04.514483+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Best New Horror Movies To Stream At Home",
+          "link": "https://www.fangoria.com/best-new-horror-movies-to-stream-at-home/",
+          "description": "Fall is approaching and you will have BACKROOMS, THE SERPENT'S SKIN, SCARY MOVIE and THE CREEP TAPES to get you in the mood for the scary season which is quickly approaching. Check out all the new titles, and there are a lot, at FANGORIA.",
+          "date": "2026-09-03T23:39:48+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/https___cdn.sanity.io_images_xq1bjtf4_production_0219068d85e46fafda7dbb3048ba09167829af22-1831x1030-1.jpg"
+        },
+        {
           "title": "The Best Houses And What To Eat At Halloween Horror Nights Orlando",
           "link": "https://www.fangoria.com/halloween-horror-nights-orlando-best-houses-food/",
           "description": "Come on in for your ultimate guide to snacks and scares.",
@@ -216,13 +223,6 @@
           "description": "Celebrate the 30th anniversary of SCREAM with Regal Cinemas, as they partner with star Matthew Lillard to bring the classic to life in a big way.",
           "date": "2026-09-01T16:50:16+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2024/03/Matthew-Lillard-Stu-Macher-Scream-6.jpeg"
-        },
-        {
-          "title": "A PG Version Of CANNIBAL HOLOCAUST Exists, Here’s Proof [Exclusive]",
-          "link": "https://www.fangoria.com/cannibal-holocaust-grindhouse-releasing-pg/",
-          "description": "The folks at Grindhouse Releasing are bringing CANNIBAL HOLOCAUST to 4K Ultra HD and we’ve got an exclusive look at the jam-packed release, including a PG cut of the controversial classic.",
-          "date": "2026-08-31T21:06:52+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/08/Screenshot-1775-Cropped.png"
         }
       ]
     },
