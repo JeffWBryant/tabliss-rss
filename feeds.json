@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T20:11:30.150720+00:00",
+  "updated": "2026-09-05T22:11:22.601577+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Need More Resident Evil? This Manga Will Bring an All-Star Ensemble to Print",
+          "link": "https://www.pushsquare.com/news/2026/09/need-more-resident-evil-this-manga-will-bring-an-all-star-ensemble-to-print",
+          "description": "Everyone's here. You may have already seen the CG movie Resident Evil: Death Island , which brings an all-star ensemble of Capcom’s zombie thwacking action heroes to Alcatraz. But if you’d like to read the misadventures of Leon S. Kennedy, Jill Valentine, Chris Redfield, Rebecca Chambers, and more i",
+          "date": "2026-09-05T22:00:00+00:00",
+          "image": "https://images.pushsquare.com/4c50f609e5b1d/large.jpg"
+        },
+        {
           "title": "Preview: This Free Animal Crossing Rival Could Give Nintendo a Serious Headache",
           "link": "https://www.pushsquare.com/previews/this-free-animal-crossing-rival-could-give-nintendo-a-serious-headache",
           "description": "Bell me up, buttercup. I imagine HoYoverse is not expecting to immediately overcome Animal Crossing’s cultural impact. Characters like Tom Nook and K.K. Slider are video game icons, and it’s going to be practically impossible for Petit Planet to displace them. Read the full article on pushsquare.com",
@@ -441,13 +448,6 @@
           "description": "Sam the man. Earlier this year, I said Sony needs to “ move mountains ” to get Samson: A Tyndalston Story on the PS5, the noir crime caper with GTA -esque inspirations. Then it released . Read the full article on pushsquare.com",
           "date": "2026-09-04T16:45:00+00:00",
           "image": "https://images.pushsquare.com/61dfd231ccf73/large.jpg"
-        },
-        {
-          "title": "State of Play's Live Chat Was a Total Mess, and I Wonder What Sony's Going to Do About It",
-          "link": "https://www.pushsquare.com/news/2026/09/state-of-plays-live-chat-was-a-total-mess-and-i-wonder-what-sonys-going-to-do-about-it",
-          "description": "This ain't fun anymore. I knew what the latest State of Play’s live chat was going to look like before I took a few screenshots, and it turns out I wasn’t far off the mark. In fact, if anything I miscalculated the strength of sentiment around Destiny 3 , as I’d say demand for the hypothetical Bungie",
-          "date": "2026-09-04T16:15:00+00:00",
-          "image": "https://images.pushsquare.com/c15c6fb9583a2/large.jpg"
         }
       ]
     },
