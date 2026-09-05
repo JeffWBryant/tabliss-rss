@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-05T15:04:38.178384+00:00",
+  "updated": "2026-09-05T17:30:26.986694+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Widow’s Bay’: Ranking The Characters Most Likely To Die In Season 2",
+          "link": "https://bloody-disgusting.com/editorials/3966214/widows-bay-ranking-the-characters-most-likely-to-die-in-season-2/",
+          "description": "After ten nail-biting episodes, one thing has become abundantly clear: no one is safe on Widow’s Bay. The Apple TV series follows a tiny New England community tormented by a mysterious curse. Fans of creator Katie Dippold’s quirky show have seen their fair share of deaths, both horrific and hilariou",
+          "date": "2026-09-05T16:00:48+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/MV5BMDExOTA3NTAtZDU0Yy00OTYxLWIzZjQtZGZlYmQ4NTkzNTFkXkEyXkFqcGc%40._V1_FMjpg_UX2160_.jpg?resize=1024%2C551&#038;ssl=1"
+        },
         {
           "title": "10 New Horror Movies Releasing In September 2026",
           "link": "https://bloody-disgusting.com/movie/3966446/10-horror-movies-releasing-in-september/",
@@ -66,13 +73,6 @@
           "description": "The Curiosity Engine has announced that their vampiric RPG visual novel Nighthawks will launch later this month on September 22 for PC via Steam. Accompanying the announcement is a new trailer for the game. Six months ago, you died and were reborn as a vampire. Unfortunately for you and your kind va",
           "date": "2026-09-04T17:30:11+00:00",
           "image": ""
-        },
-        {
-          "title": "Neil Druckmann Reveals Naughty Dog Has More ‘The Last of Us’ Plans After HBO Series Ends",
-          "link": "https://bloody-disgusting.com/tv/3966557/neil-druckmann-reveals-naughty-dog-has-more-the-last-of-us-plans-after-hbo-series-ends/",
-          "description": "The Last of Us video game co-creator Neil Druckmann stepped down as co-showrunner of the HBO series last year, and in a new chat with The Washington Post, reveals that Naughty Dog, the games’ developer, also took a step back from the series creatively. Druckmann teased that not only will HBO’s third",
-          "date": "2026-09-04T17:26:25+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/bella-ramsey_1.jpg?resize=1024%2C683&#038;ssl=1"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Preview: This Free Animal Crossing Rival Could Give Nintendo a Serious Headache",
+          "link": "https://www.pushsquare.com/previews/this-free-animal-crossing-rival-could-give-nintendo-a-serious-headache",
+          "description": "Bell me up, buttercup. I imagine HoYoverse is not expecting to immediately overcome Animal Crossing’s cultural impact. Characters like Tom Nook and K.K. Slider are video game icons, and it’s going to be practically impossible for Petit Planet to displace them. Read the full article on pushsquare.com",
+          "date": "2026-09-05T16:30:00+00:00",
+          "image": "https://images.pushsquare.com/779a9583c4707/large.jpg"
+        },
+        {
           "title": "Marvel's Venom Still in Dev for PS5, Will Surely Be Huge",
           "link": "https://www.pushsquare.com/news/2026/09/marvels-venom-still-in-dev-for-ps5-will-surely-be-huge",
           "description": "We are Venom. Insomniac is still working on its previously rumoured Marvel’s Venom game, according to dependable industry snoop NatetheHate2 . The unfortunately named leaker has accurately outed a number of projects over the years, and says Sony studio Insomniac is very much still beavering away on ",
@@ -441,13 +448,6 @@
           "description": "This ain't fun anymore. I knew what the latest State of Play’s live chat was going to look like before I took a few screenshots, and it turns out I wasn’t far off the mark. In fact, if anything I miscalculated the strength of sentiment around Destiny 3 , as I’d say demand for the hypothetical Bungie",
           "date": "2026-09-04T16:15:00+00:00",
           "image": "https://images.pushsquare.com/c15c6fb9583a2/large.jpg"
-        },
-        {
-          "title": "Poll: Vote for Your PS5 Game of the Month (August 2026)",
-          "link": "https://www.pushsquare.com/features/poll-vote-for-your-ps5-game-of-the-month-august-2026",
-          "description": "Decide Push Square's GOTM. Hmmm, it feels like August could give us one of the tightest Game of the Month votes that we've had in quite some time. That's mostly because there was no standout AAA heavy hitter — no massive release ready to crush the competition. Read the full article on pushsquare.com",
-          "date": "2026-09-04T16:00:00+00:00",
-          "image": "https://images.pushsquare.com/0b3fbbc8c0712/large.jpg"
         }
       ]
     },
