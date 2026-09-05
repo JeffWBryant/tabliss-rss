@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T23:51:37.742268+00:00",
+  "updated": "2026-09-05T03:57:38.541319+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -12,7 +12,7 @@
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Spider_Noir_S1_Static16x9_Ensemble_1920x1080_PRE_PV_FINAL_en-US_BOND_3000.jpg?resize=1024%2C576&#038;ssl=1"
         },
         {
-          "title": "Zach Cregger Says Steve Spielberg-Produced ‘The Flood’ Isn’t Pure Horror, But May Be His Most Unsettling Film Yet",
+          "title": "Zach Cregger Says Steven Spielberg-Produced ‘The Flood’ Isn’t Pure Horror, But May Be His Most Unsettling Film Yet",
           "link": "https://bloody-disgusting.com/movie/3966648/zach-cregger-says-steve-spielberg-produced-the-flood-isnt-pure-horror-but-may-be-his-most-unsettling-film-yet/",
           "description": "Following his upcoming Resident Evil movie, Zach Cregger (Barbarian, Weapons) will be directing the sci-fi horror movie The Flood for Warner Bros., and the filmmaker revealed new details about the project to Deadline. New Line/Warner Bros. will release The Flood in theaters August 11, 2028, with Ste",
           "date": "2026-09-04T20:52:13+00:00",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Preview: Honkai: Nexus Anima Is HoYoverse at Its Weirdest, and PS5 Owners Need to See It",
+          "link": "https://www.pushsquare.com/previews/honkai-nexus-anima-is-hoyoverse-at-its-weirdest-and-ps5-owners-need-to-see-it",
+          "description": "This Pokémon-inspired auto-battler is a treat. I’ve written a little bit about Honkai: Nexus Anima before, but I hope you’ll indulge me a little longer while I tell you about its latest build. I went hands-on at Gamescom , in Chinese dev HoYoverse’s business area. And while I was sceptical of this p",
+          "date": "2026-09-05T00:00:00+00:00",
+          "image": "https://images.pushsquare.com/131283b5f955d/large.jpg"
+        },
+        {
           "title": "Talking Point: What Are You Playing This Weekend? - Issue 648",
           "link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-648",
           "description": "Stupid is as stupid does. Last week, I accidentally published WAYP 12 hours earlier than usual. A lot of you said you liked the change, as you consider Friday evening part of the weekend. So let's try this earlier publishing time and see how it goes, huh? Aaron Bayne This weekend I'm trying to wrap ",
@@ -441,13 +448,6 @@
           "description": "Production will decline by 10%, not to 10%. An Austrian report published alongside confirmation that Sony will cease manufacturing physical discs in January 2028 suggested it would cut its production capacity to just 10%. The quote, attributable to Sony DADC’s Dietmar Tanzer , said: Read the full ar",
           "date": "2026-09-04T14:45:00+00:00",
           "image": "https://images.pushsquare.com/a2df77bed5863/large.jpg"
-        },
-        {
-          "title": "Review: Star Wars Zero Company (PS5) - A Perfect Pairing of Licence and Genre Imperfectly Executed",
-          "link": "https://www.pushsquare.com/reviews/ps5/star-wars-zero-company",
-          "description": "May the Hawks be with you. It's almost impossible not to mention XCOM when talking about Star Wars Zero Company , as the similarities are clear and manifold. What developer Bit Reactor has done is apply a Star Wars veneer on top of the robust turn-based tactical gameplay from Firaxis' beloved series",
-          "date": "2026-09-04T14:00:00+00:00",
-          "image": "https://images.pushsquare.com/eb06a75ca3acc/large.jpg"
         }
       ]
     },
