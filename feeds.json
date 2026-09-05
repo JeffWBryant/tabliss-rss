@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T08:17:30.111859+00:00",
+  "updated": "2026-09-05T11:58:28.530486+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Guide: These 21+ PS5 Games Are Coming Out Next Week (7th-13th September)",
+          "link": "https://www.pushsquare.com/guides/these-21plus-ps5-games-are-coming-out-next-week-7th-13th-september",
+          "description": "Hot Wheels! Mewgenics! Valheim! More! I thought next week was going to be a bit slower on the PS5, but there’s actually more than 20 new titles launching for another consecutive week. Highlights include the new Hot Wheels game, Mewgenics , and the long-awaited release of Valheim . Read the full arti",
+          "date": "2026-09-05T11:00:00+00:00",
+          "image": "https://images.pushsquare.com/4aa228adbe4f5/large.jpg"
+        },
+        {
           "title": "Preview: Honkai: Nexus Anima Is HoYoverse at Its Weirdest, and PS5 Owners Need to See It",
           "link": "https://www.pushsquare.com/previews/honkai-nexus-anima-is-hoyoverse-at-its-weirdest-and-ps5-owners-need-to-see-it",
           "description": "This Pokémon-inspired auto-battler is a treat. I’ve written a little bit about Honkai: Nexus Anima before, but I hope you’ll indulge me a little longer while I tell you about its latest build. I went hands-on at Gamescom , in Chinese dev HoYoverse’s business area. And while I was sceptical of this p",
@@ -441,13 +448,6 @@
           "description": "Space is filled with sentient frogs and bears, apparently. Up until I went hands-on with Exodus at Gamescom, I thought it looked fine. Another sci-fi RPG trying to capture the magic of the Mass Effect series, citing the experience of former BioWare, Naughty Dog, and EA developers — and somehow, Matt",
           "date": "2026-09-04T15:00:00+00:00",
           "image": "https://images.pushsquare.com/bd5e99d79625b/large.jpg"
-        },
-        {
-          "title": "Sony Factory Will Still Have Significant PS5 Disc Manufacturing Capacity After Physical Media Deadline",
-          "link": "https://www.pushsquare.com/news/2026/09/sony-factory-will-still-have-significant-ps5-disc-manufacturing-capacity-after-physical-media-deadline",
-          "description": "Production will decline by 10%, not to 10%. An Austrian report published alongside confirmation that Sony will cease manufacturing physical discs in January 2028 suggested it would cut its production capacity to just 10%. The quote, attributable to Sony DADC’s Dietmar Tanzer , said: Read the full ar",
-          "date": "2026-09-04T14:45:00+00:00",
-          "image": "https://images.pushsquare.com/a2df77bed5863/large.jpg"
         }
       ]
     },
