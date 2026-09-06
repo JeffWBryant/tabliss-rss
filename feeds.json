@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-06T16:24:00.334385+00:00",
+  "updated": "2026-09-06T18:34:14.791147+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "New ‘Voidwood’ Footage Details Gameplay Mechanics [Watch]",
+          "link": "https://bloody-disgusting.com/video-games/3966670/new-voidwood-footage-details-gameplay-mechanics-watch/",
+          "description": "Announced last month, Santa Barbara Games has followed up the reveal of its upcoming PC co-op survival horror game Voidwood with its appearance at PAX West, complete with new gameplay footage of the game in action. The new clips offers a better look at the game’s mechanics, from exploring and scaven",
+          "date": "2026-09-06T17:30:20+00:00",
+          "image": ""
+        },
         {
           "title": "‘Halloween: The Game’ Removes Controversial Mini Game Allowing Characters to Have Sex",
           "link": "https://bloody-disgusting.com/video-games/3966696/halloween-the-game-removes-controversial-mini-game-allowing-characters-to-have-sex/",
@@ -66,13 +73,6 @@
           "description": "Following his upcoming Resident Evil movie, Zach Cregger (Barbarian, Weapons) will be directing the sci-fi horror movie The Flood for Warner Bros., and the filmmaker revealed new details about the project to Deadline. New Line/Warner Bros. will release The Flood in theaters August 11, 2028, with Ste",
           "date": "2026-09-04T20:52:13+00:00",
           "image": ""
-        },
-        {
-          "title": "These 8 New Horror Movies Released This Week – Friday, September 4",
-          "link": "https://bloody-disgusting.com/movie/3966622/these-8-new-horror-movies-released-this-week-friday-september-4/",
-          "description": "It’s the first week of September and the Halloween season is officially underway as we head into the long Labor Day Weekend. Looking for a handful of fresh new horror movies to keep you company during the holiday weekend? We’ve got you covered with EIGHT brand new ones! Here are the new horror movie",
-          "date": "2026-09-04T19:44:04+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/TRB_SD07_A_1070-Enhanced-NR.jpg?resize=1600%2C900&#038;ssl=1"
         }
       ]
     },
