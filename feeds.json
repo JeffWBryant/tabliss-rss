@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T18:34:14.791147+00:00",
+  "updated": "2026-09-06T21:10:23.609652+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Preview: Mega Man: Dual Override Is Legit, and I Know Because I Died 100 Times",
+          "link": "https://www.pushsquare.com/previews/mega-man-dual-override-is-legit-and-i-know-because-i-died-100-times",
+          "description": "Same old Rush with a new touch. I’ve always appreciated Mega Man from afar, but I’ve got to be brutally honest with you, I’ve never been the best player. Capcom’s specific brand of action platforming has always been a trifle too difficult for my tastes, but I’ve persevered with many of the titles ov",
+          "date": "2026-09-06T19:30:00+00:00",
+          "image": "https://images.pushsquare.com/3308c2a4a3665/large.jpg"
+        },
+        {
           "title": "Wolverine PS5's Lady Deathstrike Design Sparks Psylocke Confusion",
           "link": "https://www.pushsquare.com/news/2026/09/wolverine-ps5s-lady-deathstrike-design-sparks-psylocke-confusion",
           "description": "But is it justified? Marvel’s Wolverine has been subject to some of the fiercest scrutiny I’ve seen since The Last of Us 2 , and days away from the game’s release, it ain’t going away. The release’s launch trailer showed a brief glimpse of previously announced villain Lady Deathstrike wielding a pur",
@@ -441,13 +448,6 @@
           "description": "This Pokémon-inspired auto-battler is a treat. I’ve written a little bit about Honkai: Nexus Anima before, but I hope you’ll indulge me a little longer while I tell you about its latest build. I went hands-on at Gamescom , in Chinese dev HoYoverse’s business area. And while I was sceptical of this p",
           "date": "2026-09-05T00:00:00+00:00",
           "image": "https://images.pushsquare.com/131283b5f955d/large.jpg"
-        },
-        {
-          "title": "Talking Point: What Are You Playing This Weekend? - Issue 648",
-          "link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-648",
-          "description": "Stupid is as stupid does. Last week, I accidentally published WAYP 12 hours earlier than usual. A lot of you said you liked the change, as you consider Friday evening part of the weekend. So let's try this earlier publishing time and see how it goes, huh? Aaron Bayne This weekend I'm trying to wrap ",
-          "date": "2026-09-04T23:00:00+00:00",
-          "image": "https://images.pushsquare.com/d38f7f325ce9e/large.jpg"
         }
       ]
     },
