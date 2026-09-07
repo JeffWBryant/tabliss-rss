@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-07T06:34:01.872366+00:00",
+  "updated": "2026-09-07T13:25:32.516870+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Original ‘Resident Evil 2’ Director Hideki Kamiya Says Current ‘Resident Evil’ Games Are Too Scary",
+          "link": "https://bloody-disgusting.com/video-games/3966710/original-resident-evil-2-director-hideki-kamiya-says-current-resident-evil-games-are-too-scary/",
+          "description": "If you thought that the Resident Evil series has become too scary, you’re not alone. Original Resident Evil 2 director (and notorious internet curmudgeon) Hideki Kamiya recently expressed his view that Capcom had become “completely numb” to how scary they’ve made the series. In a recent interview wi",
+          "date": "2026-09-07T11:30:47+00:00",
+          "image": ""
+        },
         {
           "title": "New ‘Voidwood’ Footage Details Gameplay Mechanics [Watch]",
           "link": "https://bloody-disgusting.com/video-games/3966670/new-voidwood-footage-details-gameplay-mechanics-watch/",
@@ -66,19 +73,68 @@
           "description": "Prime Video’s live-action Spider-Noir series earned 11 Emmy nominations, the most of any Prime Video series this year, but it’s not enough; Variety reports that the series has been canceled and won’t return for season two. Nicolas Cage starred as Ben Reilly, “a seasoned, down-on-his-luck private inv",
           "date": "2026-09-04T21:38:42+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Spider_Noir_S1_Static16x9_Ensemble_1920x1080_PRE_PV_FINAL_en-US_BOND_3000.jpg?resize=1024%2C576&#038;ssl=1"
-        },
-        {
-          "title": "Zach Cregger Says Steven Spielberg-Produced ‘The Flood’ Isn’t Pure Horror, But May Be His Most Unsettling Film Yet",
-          "link": "https://bloody-disgusting.com/movie/3966648/zach-cregger-says-steve-spielberg-produced-the-flood-isnt-pure-horror-but-may-be-his-most-unsettling-film-yet/",
-          "description": "Following his upcoming Resident Evil movie, Zach Cregger (Barbarian, Weapons) will be directing the sci-fi horror movie The Flood for Warner Bros., and the filmmaker revealed new details about the project to Deadline. New Line/Warner Bros. will release The Flood in theaters August 11, 2028, with Ste",
-          "date": "2026-09-04T20:52:13+00:00",
-          "image": ""
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "15 of the Best Shows To Binge In A Single Sitting",
+          "link": "https://www.denofgeek.com/msn/15-of-the-best-shows-to-binge-in-a-single-sitting/",
+          "description": "With the advent of streaming services, realising the season of a show in its entirety has become more of a norm than a rarity. Add to that the sheer number of things released at any given moment, and come the weekend, you are spoiled for choice when thinking about what to watch. But what if you want",
+          "date": "2026-09-07T13:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-2.jpg"
+        },
+        {
+          "title": "15 Movies With Action So Good, The Plot Doesn’t Matter",
+          "link": "https://www.denofgeek.com/msn/15-movies-with-action-so-good-the-plot-doesnt-matter/",
+          "description": "Why do we like action movies so much? We know, after all, that the main character will survive, and likely achieve all of their goals; once the opening scene is over, you can pretty much tell where everything is going. So clearly, it’s not the plot we’re here for. We’re here for the action, for the ",
+          "date": "2026-09-07T12:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-1.jpg"
+        },
+        {
+          "title": "15 Shows We Think of Instantly When We Hear the Word ‘Classic’",
+          "link": "https://www.denofgeek.com/msn/15-shows-we-think-of-instantly-when-we-hear-the-word-classic/",
+          "description": "There are some TV shows that seem to live outside of time. You hear their names and instantly remember the characters, the theme songs, the catchphrases, or that feeling of watching them when they were everywhere. They became so deeply embedded in pop culture that calling them classics almost feels ",
+          "date": "2026-09-07T12:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-19.jpg"
+        },
+        {
+          "title": "The Most Intense Sci-Fi Movie of the Year Began with a Fishing Trip Near the Korean DMZ",
+          "link": "https://www.denofgeek.com/movies/most-intense-sci-fi-movie-of-the-year-began-fishing-trip-near-korean-dmz/",
+          "description": "Director Na Hong-jin can be unexpectedly modest for a filmmaker who has a penchant for making near three-hour genre epics like The Wailing, 2016’s supernaturally-charged horror movie about mysterious killings in a small town that became the toast of Cannes. Before that, The Yellow Sea saw the South ",
+          "date": "2026-09-07T12:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/Hope-Korean-horror-movie.jpeg"
+        },
+        {
+          "title": "15 Iconic Movie Moments That Almost Never Happened",
+          "link": "https://www.denofgeek.com/msn/15-iconic-movie-moments-that-almost-never-happened/",
+          "description": "Some of the most unforgettable moments in movie history were never guaranteed to make it onto the screen. A line was changed at the last second, an actor improvised something unexpected, or a production problem forced filmmakers to rethink an entire scene. Sometimes, the moment existed only because ",
+          "date": "2026-09-07T11:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-18.jpg"
+        },
+        {
+          "title": "15 TV Characters Who Were Only Supposed to Be in One Episode, But Made Sure They Came Back for More",
+          "link": "https://www.denofgeek.com/msn/15-tv-characters-who-were-only-supposed-to-be-in-one-episode-but-made-sure-they-came-back-for-more/",
+          "description": "Some television characters arrive with a very simple purpose. They appear, cause a little trouble, deliver their lines and disappear when the episode ends. Then something unexpected happens. Audiences love them, writers find new stories for them, or an actor brings something to the role that makes l",
+          "date": "2026-09-07T11:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-17.jpg"
+        },
+        {
+          "title": "15 Movie Scenes That Became Famous for Reasons Nobody Expected",
+          "link": "https://www.denofgeek.com/msn/15-movie-scenes-that-became-famous-for-reasons-nobody-expected/",
+          "description": "Some movie scenes become iconic because they are brilliantly written or perfectly performed. Others find their way into pop culture for reasons nobody involved could have predicted. A line gets endlessly quoted, a tiny mistake becomes legendary, or a few seconds of footage take on a life completely ",
+          "date": "2026-09-07T10:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-16.jpg"
+        },
+        {
+          "title": "12 Doctors Share the Small Thing They Stopped Doing Once They Saw the Truth",
+          "link": "https://www.denofgeek.com/msn/12-doctors-share-the-small-thing-they-stopped-doing-once-they-saw-the-truth/",
+          "description": "Some health habits feel so ordinary that we barely question them. But doctors and nurses see what those habits can eventually lead to, often in ways most people never witness firsthand. In a recent Reddit discussion, medical professionals shared the everyday choices they stopped making after seeing ",
+          "date": "2026-09-07T10:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-15.jpg"
+        },
         {
           "title": "Lanterns: Who is Sinestro?",
           "link": "https://www.denofgeek.com/tv/lanterns-who-is-sinestro/",
@@ -92,62 +148,6 @@
           "description": "This article contains spoilers for Lanterns season 1 episode 4 It’s been 35 years since Clarice Starling offered quid pro quo with Hannibal Lecter in The Silence of the Lambs. And yet the “evil mastermind in prison” trope hasn’t lost any of its potency. That’s a good thing for Lanterns, as the show ",
           "date": "2026-09-07T02:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/aaron-pierre-kyle-chandler-2.jpg"
-        },
-        {
-          "title": "Oscar Season Now: Welcome to the Rest of the Year",
-          "link": "https://www.denofgeek.com/movies/oscar-season-now-welcome-to-the-rest-of-the-year/",
-          "description": "Early September is traditionally a quiet time at the multiplex. The last holdovers from the dog days of summer movie season—your Spider-Mans and Odysseys, as well as August risks like Coyote vs. Acme—continue to do dwindling business. Meanwhile new and skewed genre films are taking their chances in ",
-          "date": "2026-09-05T14:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Robert-Patinson-in-Primetime.jpg"
-        },
-        {
-          "title": "Dan Stevens Understands What Made RoboCop Work So Well",
-          "link": "https://www.denofgeek.com/movies/dan-stevens-understands-what-made-robocop-work-so-well/",
-          "description": "With the announcement of his RoboCop TV series for Prime Video, James Wan effectively told fans, “Dead or alive, you’re coming with me.” Okay, maybe that’s overstating it a little, but there’s no question that even the biggest RoboCop devotee has reason to be skeptical about another take on the clas",
-          "date": "2026-09-04T18:26:33+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Peter-Weller-as-RoboCop.jpg"
-        },
-        {
-          "title": "15 of the Best Shows Set In The 1970s",
-          "link": "https://www.denofgeek.com/msn/15-of-the-best-shows-set-in-the-1970s/",
-          "description": "There are many shows that are set in the past, either distant or recent, using what we know of that era to shape their stories. It can be used as a colorful background, or as a key aspect of the story due to historical events or limitations of the era. If your audience has nostalgia about it, all th",
-          "date": "2026-09-04T14:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/img_f4c408.jpg"
-        },
-        {
-          "title": "The 14 Best Shows Set in the 1990s",
-          "link": "https://www.denofgeek.com/msn/the-14-best-shows-set-in-the-1990s/",
-          "description": "For many of us, the 90s don’t feel that far away, at least not far away enough to justify turning the decade into a setting. And yet, the decade was over almost 30 years ago; you probably have coworkers that were born after 1999. While that alone is a harrowing prospect, it also means there are plen",
-          "date": "2026-09-04T13:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-4.jpg"
-        },
-        {
-          "title": "15 TV Shows That Somehow Got Away With the Weirdest Storylines",
-          "link": "https://www.denofgeek.com/msn/15-tv-shows-that-somehow-got-away-with-the-weirdest-storylines/",
-          "description": "Television has always been willing to take a strange turn, but some shows pushed their stories into territory nobody could have predicted. A perfectly normal episode could suddenly involve a bizarre disappearance, an unbelievable secret, a character making an absolutely wild decision, or an entire p",
-          "date": "2026-09-04T13:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-9.jpg"
-        },
-        {
-          "title": "11 Funny and Confusing Signs We’re Not Sure How to Obey",
-          "link": "https://www.denofgeek.com/msn/11-funny-and-confusing-signs-were-not-sure-how-to-obey/",
-          "description": "Signs are supposed to make life easier. They tell us where to go, what to avoid, and occasionally what absolutely must not happen. Then there are the signs that leave you standing there for a second, wondering who wrote them and whether following the instructions might somehow make things worse. Som",
-          "date": "2026-09-04T13:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-8.jpg"
-        },
-        {
-          "title": "15 Viral Movie Star Performances Before Anyone Had Social Media",
-          "link": "https://www.denofgeek.com/msn/15-viral-movie-star-performances-before-anyone-had-social-media/",
-          "description": "There was a time when becoming a movie star meant being seen everywhere without ever posting a single thing yourself. Their faces appeared on magazine covers, billboards, television interviews and theater marquees, and fans had to wait for the next movie to see them again. Some stars became househol",
-          "date": "2026-09-04T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-7.jpg"
-        },
-        {
-          "title": "Silo Season 3 Ending Explained: What Really Happened to Daniel?",
-          "link": "https://www.denofgeek.com/tv/silo-season-3-ending-explained/",
-          "description": "This article contains spoilers for “Troy,” the season 3 finale of Silo “How long?” asks Daniel Keene when he jolts awake from a period of cryosleep. “Seven years,” replies Dr. Victor Crnkovich, suggesting that he had to bring him back from cryosleep quickly this time. Daniel’s true identity has been",
-          "date": "2026-09-04T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/silo310.jpg"
         }
       ]
     },
@@ -230,6 +230,34 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "Hit New PS5 Adventure Game Already Discounted on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/09/07/keeper-launch-ps-store-deal-september-2026/",
+          "description": "A brand-new acclaimed PS5 adventure game has already received its first PS Store deal. Developed by Double Fine, Keeper was shadow-dropped on the PS5 last week following a leak ahead of the dual PlayStation State of Play events. PS5 port of former Xbox exclusive adventure game Keeper gets first-ever",
+          "date": "2026-09-07T12:18:56+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/keeper-ps-store-deal.jpg?w=1024"
+        },
+        {
+          "title": "PS5 Getting Collection of Beloved PlayStation Vita Adventure Games Soon",
+          "link": "https://www.playstationlifestyle.net/2026/09/07/yomawari-adventure-games-ps5-release-date/",
+          "description": "PS5 is soon getting a collection of fan-favorite PS Vita and PS4 adventure games, thanks to NIS America. 2015’s Yomawari: Night Alone, 2017’s Yomawari: Midnight Shadows, and 2022’s Yomawari: Lost in the Dark are all headed West for the PS5. NIS America bringing Yomawari horror adventure games to PS5",
+          "date": "2026-09-07T12:01:01+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps5-adventure-game-series-yomawari.jpg?w=1024"
+        },
+        {
+          "title": "Intriguing GTA-Like Action Adventure Game Gets PlayStation 5 Release Date",
+          "link": "https://www.playstationlifestyle.net/2026/09/07/ps5-action-adventure-game-samson-release-date/",
+          "description": "A “budget GTA” action adventure game by Liquid Swords has finally received a PS5 release date, and it’s out in two weeks. Spearheaded by Just Cause creator Christofer Sundberg, Samson: A Tyndalston Story is a noir game that, as we’ve said before, might also appeal to Max Payne fans. Noir action game",
+          "date": "2026-09-07T11:34:48+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/04/ps5-action-adventure-game-samson.jpg?w=1024"
+        },
+        {
+          "title": "PlayStation Exclusive Action Game Series Returning After 10+ Years – Report",
+          "link": "https://www.playstationlifestyle.net/2026/09/07/playstation-exclusive-action-game-killzone-may-return/",
+          "description": "A dormant, beloved PlayStation exclusive action game franchise is reportedly returning more than a decade after its last entry. Before Horizon Zero Dawn, Guerrilla Games was known for its Killzone series that debuted on the PS2 in 2004. The franchise hasn’t seen a new mainline entry since 2013 PS4 l",
+          "date": "2026-09-07T11:14:52+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/playstation-exclusive-game-series-killzone.jpg?w=1024"
+        },
+        {
           "title": "Hit PS5 Open World Game by Xbox 60% Off With DLC on PlayStation Store",
           "link": "https://www.playstationlifestyle.net/2026/09/06/forza-horizon-5-ps-store-deal-september-2026/",
           "description": "A critically acclaimed 2025 PS5 open-world game from Xbox Game Studios is 60% off with DLC in a limited-time PS Store deal. Playground Games’ Forza Horizon 5 Deluxe Edition is discounted until September 10, 2026. Forza Horizon 5 Deluxe Edition is at its lowest price in limited-time PS Store deal PS5",
@@ -270,34 +298,6 @@
           "description": "A new PlayStation 5 console-exclusive RPG has finally locked its official release window. Backed by Sony‘s China Hero Project, the game is currently in development at Shanghai studio Dark Star. Upcoming PS5 exclusive Daba: Land of Water Scar will launch in spring 2027, according to its official PS S",
           "date": "2026-09-04T20:04:42+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Intriguing-PlayStation-5-Console-Exclusive-RPG-Gets-Release-Date-Window.jpg?w=1024"
-        },
-        {
-          "title": "PlayStation 5 Players Can Now Try 2026 Sega RPG for Free",
-          "link": "https://www.playstationlifestyle.net/2026/09/04/stupid-never-dies-playstation-5-sega-rpg-free/",
-          "description": "A new Sega RPG for PlayStation 5 is now available as a free demo ahead of its official release. The upcoming title is being developed by GPTACK50, a studio founded by veteran action-game developers, including former Capcom developers. A free demo for Stupid Never Dies is now available on the PlaySta",
-          "date": "2026-09-04T18:37:52+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/PlayStation-5-Players-Can-Now-Try-2026-Sega-RPG-for-Free.jpg?w=1024"
-        },
-        {
-          "title": "Stunning New PlayStation 5 Action Game Revealed by Konami",
-          "link": "https://www.playstationlifestyle.net/2026/09/04/rhapsody-in-scarlet-playstation-5-action-game-konami/",
-          "description": "Konami has announced a brand new and gorgeous action-adventure PlayStation 5 game. The title is currently in development with no official release date. Rhapsody in Scarlet is an upcoming magick-themed action title revealed by Konami. It will feature high octane beast-and-magick combos, reports Gemat",
-          "date": "2026-09-04T16:14:13+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Untitled-design-2026-09-04T214119.045.png?w=1024"
-        },
-        {
-          "title": "Promising Konami PlayStation 5 RPG Gets Release Date Window",
-          "link": "https://www.playstationlifestyle.net/2026/09/04/rev-noir-konami-playstation-5-rpg-release-date-window/",
-          "description": "An awaited and highly promising PlayStation 5 RPG from Konami has finally received a release window. The brand-new game is being developed by a Tokyo-based team at ILCA. Announced earlier this year during the PlayStation State of Play, Konami’s Rev Noir will release in 2027 for PS5, alongside Xbox S",
-          "date": "2026-09-04T15:46:05+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Untitled-design-2026-09-04T211231.826.png?w=1024"
-        },
-        {
-          "title": "Award-Winning 2024 PS5 Adventure Game 60% Off With DLC on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/09/04/still-wakes-the-deep-ps-store-deal-september-2026/",
-          "description": "An award-winning 2024 PS5 adventure game is 60% off in a limited-time PS Store deal that includes its DLC. Developed by The Chinese Room, Still Wakes the Deep Complete Edition is currently at its lowest price on Sony’s storefront. Still Wakes the Deep Complete Edition is under $20 in fantastic-value",
-          "date": "2026-09-04T12:05:39+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/still-wakes-the-deep-ps-store-deal.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,41 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Capcom's Focused on Reviving Dormant Franchises, and That's Got Me All Excited About Ace Attorney",
+          "link": "https://www.pushsquare.com/news/2026/09/capcoms-focused-on-reviving-dormant-franchises-and-thats-got-me-all-excited-about-ace-attorney",
+          "description": "Come on Capcom. You may have read earlier today that Onimusha: Way of the Sword , the brilliant new action game from Capcom, has already sold more than a million copies . The publisher announced the news via social feeds, but it also put out an official press release on the data, and it's there wher",
+          "date": "2026-09-07T13:15:00+00:00",
+          "image": "https://images.pushsquare.com/26d914a464d3a/large.jpg"
+        },
+        {
+          "title": "A Massive Amount of Uncut Exodus Gameplay Has Appeared Online",
+          "link": "https://www.pushsquare.com/news/2026/09/a-massive-amount-of-uncut-exodus-gameplay-has-appeared-online",
+          "description": "Make some space. If you're at all interested in Exodus — the Mass Effect -style sci-fi RPG coming to PS5 next year — then you should definitely give these fresh gameplay videos a watch. Dropping over the weekend, this footage is brand new, showcasing uncut gameplay across a main story mission. Betwe",
+          "date": "2026-09-07T13:00:00+00:00",
+          "image": "https://images.pushsquare.com/8d3b1158a5356/large.jpg"
+        },
+        {
+          "title": "Guide: These 21+ PS5 Games Are Coming Out This Week (7th-13th September)",
+          "link": "https://www.pushsquare.com/guides/these-21plus-ps5-games-are-coming-out-this-week-7th-13th-september",
+          "description": "Hot Wheels! Mewgenics! Valheim! More! I thought this week was going to be a bit slower on the PS5, but there’s actually more than 20 new titles launching for another consecutive week. Highlights include the new Hot Wheels game, Mewgenics , and the long-awaited release of Valheim . Read the full arti",
+          "date": "2026-09-07T12:00:00+00:00",
+          "image": "https://images.pushsquare.com/4aa228adbe4f5/large.jpg"
+        },
+        {
+          "title": "New PS5 Releases Dawnwalker and Onimusha Both Top One Million Sales",
+          "link": "https://www.pushsquare.com/news/2026/09/new-ps5-releases-dawnwalker-and-onimusha-both-top-one-million-sales",
+          "description": "Onimusha manages it in just 24 hours. Despite releasing within a day of each other, it doesn't seem like The Blood of Dawnwalker and Onimusha: Way of the Sword have eaten into each other's sales all that much: both PS5 games have confirmed they've sold over one million copies since launch. Capcom re",
+          "date": "2026-09-07T09:15:00+00:00",
+          "image": "https://images.pushsquare.com/2894d220cc32a/large.jpg"
+        },
+        {
+          "title": "Feature: Last Chance to Get These 50+ PS5, PS4 Games in PS Store's Gamescom Sale",
+          "link": "https://www.pushsquare.com/features/last-chance-to-get-these-50plus-ps5-ps4-games-in-ps-stores-gamescom-sale",
+          "description": "Cheap PS5 and PS4 games we recommend. PS Store's Gamescom sale is almost over; you only have until 9th September 2026 to grab a bargain. As always, there are thousands of PS5 and PS4 games on offer, and browsing them all can take a while. Read the full article on pushsquare.com",
+          "date": "2026-09-07T09:00:00+00:00",
+          "image": "https://images.pushsquare.com/82adc4207fbd6/large.jpg"
+        },
+        {
           "title": "Rumour: Killzone Project in Early Development, Probably a Remake",
           "link": "https://www.pushsquare.com/news/2026/09/rumour-killzone-project-in-early-development-probably-a-remake",
           "description": "Bulletstorm dev People Can Fly linked. Some sort of Killzone project — most likely to be a remake of an older entry in the shooter franchise — is currently in the very early development stages, and Bulletstorm developer People Can Fly is probably making it. Sources speaking to outlet MP1st claim Gue",
@@ -413,41 +448,6 @@
           "description": "Pump the brakes. After two successful and highly regarded arcade racing games in the Hot Wheels Unleashed series, developer Milestone has taken that same formula and applied it across an open world structure in Hot Wheels: Infinite Rush — an addition that feels unnecessary. I really enjoyed the simp",
           "date": "2026-09-06T12:00:00+00:00",
           "image": "https://images.pushsquare.com/ec78c7aeacbbc/large.jpg"
-        },
-        {
-          "title": "Need More Resident Evil? This Manga Will Bring an All-Star Ensemble to Print",
-          "link": "https://www.pushsquare.com/news/2026/09/need-more-resident-evil-this-manga-will-bring-an-all-star-ensemble-to-print",
-          "description": "Everyone's here. You may have already seen the CG movie Resident Evil: Death Island , which brings an all-star ensemble of Capcom’s zombie thwacking action heroes to Alcatraz. But if you’d like to read the misadventures of Leon S. Kennedy, Jill Valentine, Chris Redfield, Rebecca Chambers, and more i",
-          "date": "2026-09-05T23:15:00+00:00",
-          "image": "https://images.pushsquare.com/4c50f609e5b1d/large.jpg"
-        },
-        {
-          "title": "Preview: I Didn't Expect This Alice in Wonderland Roguelite to Be This Deep",
-          "link": "https://www.pushsquare.com/previews/i-didnt-expect-this-alice-in-wonderland-roguelite-to-be-this-deep",
-          "description": "Curiouser and curiouser. Regular readers will know I’m a little bit obsessed with Alice in Wonderland , so I was always going to give CRYMELIGHT the time of day. Launching on 5th November, this is one of the few titles to occupy the GTA 6 exclusion zone, which I personally find hilarious. Read the f",
-          "date": "2026-09-05T23:00:00+00:00",
-          "image": "https://images.pushsquare.com/9f2e70a3f012c/large.jpg"
-        },
-        {
-          "title": "Preview: This Free Animal Crossing Rival Could Give Nintendo a Serious Headache",
-          "link": "https://www.pushsquare.com/previews/this-free-animal-crossing-rival-could-give-nintendo-a-serious-headache",
-          "description": "Bell me up, buttercup. I imagine HoYoverse is not expecting to immediately overcome Animal Crossing’s cultural impact. Characters like Tom Nook and K.K. Slider are video game icons, and it’s going to be practically impossible for Petit Planet to displace them. Read the full article on pushsquare.com",
-          "date": "2026-09-05T16:30:00+00:00",
-          "image": "https://images.pushsquare.com/779a9583c4707/large.jpg"
-        },
-        {
-          "title": "Marvel's Venom Still in Dev for PS5, Will Surely Be Huge",
-          "link": "https://www.pushsquare.com/news/2026/09/marvels-venom-still-in-dev-for-ps5-will-surely-be-huge",
-          "description": "We are Venom. Insomniac is still working on its previously rumoured Marvel’s Venom game, according to dependable industry snoop NatetheHate2 . The unfortunately named leaker has accurately outed a number of projects over the years, and says Sony studio Insomniac is very much still beavering away on ",
-          "date": "2026-09-05T13:45:00+00:00",
-          "image": "https://images.pushsquare.com/369d4f5542d71/large.jpg"
-        },
-        {
-          "title": "Guide: These 21+ PS5 Games Are Coming Out Next Week (7th-13th September)",
-          "link": "https://www.pushsquare.com/guides/these-21plus-ps5-games-are-coming-out-next-week-7th-13th-september",
-          "description": "Hot Wheels! Mewgenics! Valheim! More! I thought next week was going to be a bit slower on the PS5, but there’s actually more than 20 new titles launching for another consecutive week. Highlights include the new Hot Wheels game, Mewgenics , and the long-awaited release of Valheim . Read the full arti",
-          "date": "2026-09-05T11:00:00+00:00",
-          "image": "https://images.pushsquare.com/4aa228adbe4f5/large.jpg"
         }
       ]
     },
