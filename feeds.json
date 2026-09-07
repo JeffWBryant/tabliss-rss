@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T18:21:24.799487+00:00",
+  "updated": "2026-09-07T21:43:59.993108+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Where To Watch Every RESIDENT EVIL Movie (Including The Animated Ones)",
+          "link": "https://www.fangoria.com/where-to-watch-every-resident-evil-movie-including-the-animated-ones/",
+          "description": "Grab your green herbs and get caught up before Zach Cregger's latest take on the survival horror gaming series hits theaters.",
+          "date": "2026-09-07T20:00:31+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Resi-Death-Island.jpg"
+        },
+        {
           "title": "DRACULA, VICTORIAN PSYCHO And More Join Grimmfest’s Stacked Lineup",
           "link": "https://www.fangoria.com/grimmfest-opening-closing-lineup/",
           "description": "The Manchester horror fest will open with a special advanced screening of Hammer Films' uncensored 4K restoration of the vampire classic.",
@@ -216,19 +223,40 @@
           "description": "For your consideration, Freaky Nikki.",
           "date": "2026-09-02T16:36:06+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/05/Obsession4-Cropped-e1788366006204.jpg"
-        },
-        {
-          "title": "BOORMAN AND THE DEVIL Review: Requiem For A Cinematic Misfire",
-          "link": "https://www.fangoria.com/boorman-and-the-devil-review/",
-          "description": "David Kittredge’s new documentary examines a legendary horror bomb, and uncovers a story well worth telling.",
-          "date": "2026-09-02T15:07:43+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/boormandevil-scaled.jpg"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "Capcom’s New PlayStation 5 Action Game Achieves Impressive Sales Milestone",
+          "link": "https://www.playstationlifestyle.net/2026/09/07/onimusha-way-of-the-sword-1-million-sales-first-day/",
+          "description": "Capcom has scored a major day-one success with its latest samurai action game, proving that its strategy of reviving classic franchises is paying off. According to the latest update on its website, the publisher has confirmed that Onimusha: Way of the Sword sold more than one million copies worldwid",
+          "date": "2026-09-07T20:31:46+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Untitled-Design-2026-09-08T014951.241.png?w=1024"
+        },
+        {
+          "title": "Popular New PS Plus Action Game Getting a Major Update Soon",
+          "link": "https://www.playstationlifestyle.net/2026/09/07/ps5-ps-plus-action-game-hell-is-us-update/",
+          "description": "A popular PlayStation Plus action game has received a major update from its developers. This update comes a year after the game’s launch and will go live alongside the release of its Nintendo Switch 2 version. Rogue Factor, the developers of the 2025 PS game Hell is Us, announced that the action gam",
+          "date": "2026-09-07T19:21:55+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Untitled-Design-2026-09-08T003950.802.png?w=1024"
+        },
+        {
+          "title": "Popular PS4 & PS5 Shooter Game Gets 90% PlayStation Store Discount",
+          "link": "https://www.playstationlifestyle.net/2026/09/07/borderlands-3-ps5-ps4-playstation-store-90-percent-off-sale/",
+          "description": "A popular PlayStation 4 and PlayStation 5 game is now 90% off. The discount has now priced the game at less than $10 on the PlayStation Store, with another edition at 85% off. Gearbox Software’s Borderlands 3 is available for $5.99 on the PlayStation Store. It’s a limited-time offer that ends on Sep",
+          "date": "2026-09-07T19:02:00+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/borderlands-3.jpg?w=1024"
+        },
+        {
+          "title": "Another PlayStation Exclusive Marvel Game in Development – Report",
+          "link": "https://www.playstationlifestyle.net/2026/09/07/playstation-exclusive-marvel-game-in-development-update/",
+          "description": "A new report from a trusted industry insider indicates that Marvel’s standalone Venom game remains in active development for PlayStation. Fans previously feared the project had been canceled after long periods of silence following initial leaks. What is the Venom game update? According to a new repo",
+          "date": "2026-09-07T18:27:44+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Untitled-Design-2026-09-07T233936.136.png?w=1024"
+        },
         {
           "title": "Hit New PS5 Adventure Game Already Discounted on PlayStation Store",
           "link": "https://www.playstationlifestyle.net/2026/09/07/keeper-launch-ps-store-deal-september-2026/",
@@ -270,34 +298,6 @@
           "description": "Milestone, which is typically known for its simulation racing games, had no issue transitioning to arcade fun with its Hot Wheels Unleashed games. Now the Italian studio returns to the brand for an open-world spin on the license with Hot Wheels Infinite Rush, which adds four open-world islands to ex",
           "date": "2026-09-06T12:02:30+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/hot-wheels-infinite-rush-ps5-review.jpg?w=1024"
-        },
-        {
-          "title": "6 Classic NES & SNES Games Arrive on PlayStation 5 Store Today for Cheap",
-          "link": "https://www.playstationlifestyle.net/2026/09/04/jaleco-sports-faceoffs-ps5-nes-snes-games-launch/",
-          "description": "PlayStation 5 players can now experience six NES and SNES classics for cheap. The post 6 Classic NES & SNES Games Arrive on PlayStation 5 Store Today for Cheap appeared first on PlayStation LifeStyle .",
-          "date": "2026-09-04T21:54:18+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/game.jpg?w=1024"
-        },
-        {
-          "title": "Cult Classic RPG Gets PlayStation 5 Remake, Watch Reveal Trailer",
-          "link": "https://www.playstationlifestyle.net/2026/09/04/astonishia-story-rpg-remake-trailer-nis-america/",
-          "description": "NIS America has announced a remake of the Korean RPG Astonishia Story with multiple enhancements coming to modern consoles. The post Cult Classic RPG Gets PlayStation 5 Remake, Watch Reveal Trailer appeared first on PlayStation LifeStyle .",
-          "date": "2026-09-04T21:27:26+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Astonishia-Story.jpg?w=1024"
-        },
-        {
-          "title": "PlayStation 5 Remake of Beloved PSP RPG Gets Release Date",
-          "link": "https://www.playstationlifestyle.net/2026/09/04/fate-extra-record-playstation-5-remake-psp-rpg-release-date/",
-          "description": "An upcoming PlayStation 5 remake of an iconic PSP RPG has locked in its official release date. The game is co-developed by Meteorise and TYPE-MOON and published by Aniplex. Fate/Extra Record will release on January 28, 2027, for PS5, alongside PlayStation 4, Nintendo Switch 2, Nintendo Switch, and P",
-          "date": "2026-09-04T21:07:37+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Untitled-Design-2026-09-05T021651.960.png?w=1024"
-        },
-        {
-          "title": "Intriguing PlayStation 5 Console Exclusive RPG Gets Release Date Window",
-          "link": "https://www.playstationlifestyle.net/2026/09/04/playstation-5-console-exclusive-rpg-daba-release-date-window/",
-          "description": "A new PlayStation 5 console-exclusive RPG has finally locked its official release window. Backed by Sony‘s China Hero Project, the game is currently in development at Shanghai studio Dark Star. Upcoming PS5 exclusive Daba: Land of Water Scar will launch in spring 2027, according to its official PS S",
-          "date": "2026-09-04T20:04:42+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Intriguing-PlayStation-5-Console-Exclusive-RPG-Gets-Release-Date-Window.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,27 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "'It's Like Cultural Preservation': Persona Producer Mentions Persona 1 and 2 Remakes Yet Again",
+          "link": "https://www.pushsquare.com/news/2026/09/its-like-cultural-preservation-persona-producer-mentions-persona-1-and-2-remakes-yet-again",
+          "description": "Back to school. At this point Atlus might as well just officially announce that remakes or remasters of the original Persona and Persona 2 are in the pipeline, because series producer Kazuhisa Wada apparently can't stop acknowledging them. This time, the talkative boss didn't even have to be asked a",
+          "date": "2026-09-07T19:30:00+00:00",
+          "image": "https://images.pushsquare.com/2af658d135aaf/large.jpg"
+        },
+        {
+          "title": "You Should See Sony's Zelda Movie During Tomorrow's Anniversary Direct",
+          "link": "https://www.pushsquare.com/news/2026/09/you-should-see-sonys-zelda-movie-during-tomorrows-anniversary-direct",
+          "description": "There will be Tears (of the Kingdom). Nintendo is hosting a 40th Anniversary Direct for The Legend of Zelda tomorrow, which promises news and updates on the iconic franchise. The broadcast will of course include footage of its previously announced Ocarina of Time remake, which some expect to launch ",
+          "date": "2026-09-07T19:00:00+00:00",
+          "image": "https://images.pushsquare.com/9b72ad0ee7449/large.jpg"
+        },
+        {
+          "title": "Forza Horizon 6 Dev Reiterates 2026 Release for PS5 Version",
+          "link": "https://www.pushsquare.com/news/2026/09/forza-horizon-6-dev-reiterates-2026-release-for-ps5-version",
+          "description": "Excellent racer still on course for PS5. The PS5 version of Forza Horizon 6 is still on course to release later this year, Playground Games has confirmed. As part of its newest blog post detailing a new update themed around British cars, the developer said at the bottom: \"If you’re planning your tri",
+          "date": "2026-09-07T18:30:00+00:00",
+          "image": "https://images.pushsquare.com/b19d66159807a/large.jpg"
+        },
+        {
           "title": "If Things Don't Turn Around for DON'T NOD, It May Face Closure in a Matter of Months",
           "link": "https://www.pushsquare.com/news/2026/09/if-things-dont-turn-around-for-dont-nod-it-may-face-closure-in-a-matter-of-months",
           "description": "Studio braces for layoffs. Publisher and development studio DON'T NOD is in a precarious position. In a new press release focusing on its financials for the first half of 2026, the company has outlined its plans for necessary structural changes that it hopes will help it stay afloat. Read the full a",
@@ -427,27 +448,6 @@
           "description": "Make some space. If you're at all interested in Exodus — the Mass Effect -style sci-fi RPG coming to PS5 next year — then you should definitely give these fresh gameplay videos a watch. Dropping over the weekend, this footage is brand new, showcasing uncut gameplay across a main story mission. Betwe",
           "date": "2026-09-07T13:00:00+00:00",
           "image": "https://images.pushsquare.com/8d3b1158a5356/large.jpg"
-        },
-        {
-          "title": "Guide: These 21+ PS5 Games Are Coming Out This Week (7th-13th September)",
-          "link": "https://www.pushsquare.com/guides/these-21plus-ps5-games-are-coming-out-this-week-7th-13th-september",
-          "description": "Hot Wheels! Mewgenics! Valheim! More! I thought this week was going to be a bit slower on the PS5, but there’s actually more than 20 new titles launching for another consecutive week. Highlights include the new Hot Wheels game, Mewgenics , and the long-awaited release of Valheim . Read the full arti",
-          "date": "2026-09-07T12:00:00+00:00",
-          "image": "https://images.pushsquare.com/4aa228adbe4f5/large.jpg"
-        },
-        {
-          "title": "New PS5 Releases Dawnwalker and Onimusha Both Top One Million Sales",
-          "link": "https://www.pushsquare.com/news/2026/09/new-ps5-releases-dawnwalker-and-onimusha-both-top-one-million-sales",
-          "description": "Onimusha manages it in just 24 hours. Despite releasing within a day of each other, it doesn't seem like The Blood of Dawnwalker and Onimusha: Way of the Sword have eaten into each other's sales all that much: both PS5 games have confirmed they've sold over one million copies since launch. Capcom re",
-          "date": "2026-09-07T09:15:00+00:00",
-          "image": "https://images.pushsquare.com/2894d220cc32a/large.jpg"
-        },
-        {
-          "title": "Feature: Last Chance to Get These 50+ PS5, PS4 Games in PS Store's Gamescom Sale",
-          "link": "https://www.pushsquare.com/features/last-chance-to-get-these-50plus-ps5-ps4-games-in-ps-stores-gamescom-sale",
-          "description": "Cheap PS5 and PS4 games we recommend. PS Store's Gamescom sale is almost over; you only have until 9th September 2026 to grab a bargain. As always, there are thousands of PS5 and PS4 games on offer, and browsing them all can take a while. Read the full article on pushsquare.com",
-          "date": "2026-09-07T09:00:00+00:00",
-          "image": "https://images.pushsquare.com/82adc4207fbd6/large.jpg"
         }
       ]
     },
