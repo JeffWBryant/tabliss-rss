@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T21:43:59.993108+00:00",
+  "updated": "2026-09-08T00:07:09.413491+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,27 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Preview: Tomb Raider: Legacy of Atlantis Has the Right Lara, But Something's Missing",
+          "link": "https://www.pushsquare.com/previews/tomb-raider-legacy-of-atlantis-has-the-right-lara-but-somethings-missing",
+          "description": "Fool's gold? I was excited to see Tomb Raider: Legacy of Atlantis at Gamescom last month, because I wanted to see how Amazon was moving the franchise forward after the dour reboot saga from the PS4 generation. I got to watch a full 30-minute hands-off presentation, narrated by series stewards Crysta",
+          "date": "2026-09-08T00:00:00+00:00",
+          "image": "https://images.pushsquare.com/63a854dce2282/large.jpg"
+        },
+        {
+          "title": "Review: Aliens: Fireteam Elite 2 (PS5) - A Deeply Disappointing Downgrade of a Sequel",
+          "link": "https://www.pushsquare.com/reviews/ps5/aliens-fireteam-elite-2",
+          "description": "Just another bug hunt. Aliens: Fireteam Elite 2 is one of the most frustrating fumbles of 2026. I’m a huge Alien and Aliens fan, and I've loved the steady flow of video game adaptations over the years – everything from the daft Aliens Vs. Predator on the PS3, through to the iconic Alien Isolation on",
+          "date": "2026-09-07T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/1c3f52ec9da35/large.jpg"
+        },
+        {
+          "title": "You Can Now Play Your Physical PS3 Games on PC Straight from the Disc",
+          "link": "https://www.pushsquare.com/news/2026/09/you-can-now-play-your-physical-ps3-games-on-pc-straight-from-the-disc",
+          "description": "Fans do what Sony won't. When it rains it pours – and Sony’s probably going to need a new umbrella at this point! In an embarrassing strike against the platform holder, hobbyist PS3 emulator RPCS3 has added physical Blu-ray support, meaning you’ll be able to play the vast majority of your last-last-",
+          "date": "2026-09-07T22:00:00+00:00",
+          "image": "https://images.pushsquare.com/b154cc6dcc4e5/large.jpg"
+        },
+        {
           "title": "'It's Like Cultural Preservation': Persona Producer Mentions Persona 1 and 2 Remakes Yet Again",
           "link": "https://www.pushsquare.com/news/2026/09/its-like-cultural-preservation-persona-producer-mentions-persona-1-and-2-remakes-yet-again",
           "description": "Back to school. At this point Atlus might as well just officially announce that remakes or remasters of the original Persona and Persona 2 are in the pipeline, because series producer Kazuhisa Wada apparently can't stop acknowledging them. This time, the talkative boss didn't even have to be asked a",
@@ -427,27 +448,6 @@
           "description": "A pixelated blast from the past. Sprawl Zero is a Y2K tactical shooter that pays homage to the console classics like Halo and F.E.A.R , bringing that old-school shooter design to the modern age with slick controls. It’s so committed to the nostalgia factor that it sports this de-rezzed graphical sty",
           "date": "2026-09-07T15:00:00+00:00",
           "image": "https://images.pushsquare.com/5e17964121c4d/large.jpg"
-        },
-        {
-          "title": "Space Marine 3 Dev Tries to Put Generative AI Fears to Rest After Public Outcry",
-          "link": "https://www.pushsquare.com/news/2026/09/space-marine-3-dev-tries-to-put-generative-ai-fears-to-rest-after-public-outcry",
-          "description": "Heresy. Last month, Rideshare developer Saber Interactive came under some serious heat after an ex employee outed the game's use of generative AI. The whole thing devolved into a crazy public spat , in which Saber's CEO went overboard in the defence of his company. Read the full article on pushsquar",
-          "date": "2026-09-07T14:30:00+00:00",
-          "image": "https://images.pushsquare.com/42f9f9ed897ee/large.jpg"
-        },
-        {
-          "title": "Capcom's Focused on Reviving Dormant Franchises, and That's Got Me All Excited About Ace Attorney",
-          "link": "https://www.pushsquare.com/news/2026/09/capcoms-focused-on-reviving-dormant-franchises-and-thats-got-me-all-excited-about-ace-attorney",
-          "description": "Come on Capcom. You may have read earlier today that Onimusha: Way of the Sword , the brilliant new action game from Capcom, has already sold more than a million copies . The publisher announced the news via social feeds, but it also put out an official press release on the data, and it's there wher",
-          "date": "2026-09-07T13:15:00+00:00",
-          "image": "https://images.pushsquare.com/26d914a464d3a/large.jpg"
-        },
-        {
-          "title": "A Massive Amount of Uncut Exodus Gameplay Has Appeared Online",
-          "link": "https://www.pushsquare.com/news/2026/09/a-massive-amount-of-uncut-exodus-gameplay-has-appeared-online",
-          "description": "Make some space. If you're at all interested in Exodus — the Mass Effect -style sci-fi RPG coming to PS5 next year — then you should definitely give these fresh gameplay videos a watch. Dropping over the weekend, this footage is brand new, showcasing uncut gameplay across a main story mission. Betwe",
-          "date": "2026-09-07T13:00:00+00:00",
-          "image": "https://images.pushsquare.com/8d3b1158a5356/large.jpg"
         }
       ]
     },
