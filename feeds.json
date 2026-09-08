@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-08T21:21:20.294533+00:00",
+  "updated": "2026-09-08T23:35:16.092188+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Spawn’ Crossover With ‘Diablo Immortal’ Coming September 29 [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3966946/spawn-crossover-with-diablo-immortal-coming-september-29-trailer/",
+          "description": "Blizzard are once again dabbling in another crossover for Diablo, this time partnering with legendary comic creator Todd McFarlane‘s Spawn, which will be coming to Diablo Immortal. Launching launching in-game on September 29, details are still to come, but McFarlane will unveil the details later thi",
+          "date": "2026-09-08T21:37:54+00:00",
+          "image": ""
+        },
         {
           "title": "Viral Horror Creator Spencer Lackey To Direct ‘Lust’ For Blumhouse Atomic Monster And Neon",
           "link": "https://bloody-disgusting.com/movie/3966936/viral-horror-creator-spencer-lackey-to-direct-lust-for-blumhouse-atomic-monster-and-neon/",
@@ -66,13 +73,6 @@
           "description": "Capcom keeps on winning. They’ve announced that their return to the Onimusha series in Onimusha: Way of the Sword, surpassed 1 million units sold on the first day of its release. As a result, cumulative sales of the Onimusha series have now surpassed 10 million units. That might not seem like a lot,",
           "date": "2026-09-08T17:30:32+00:00",
           "image": ""
-        },
-        {
-          "title": "‘Halloween: The Game’ Day One Patch Notes – Here’s the Full List of Gameplay Improvements",
-          "link": "https://bloody-disgusting.com/video-games/3966885/halloween-the-game-day-one-patch-notes-heres-the-full-list-of-gameplay-improvements/",
-          "description": "After being released in Early Access this past Friday, Halloween: The Game is now digitally available to EVERYONE. Along with the launch comes a set of Day One Patch Notes. But first off, Illfonic has a special surprise for everyone who played in Early Access. The developers have announced, “We’re g",
-          "date": "2026-09-08T17:18:48+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/day-one-patch-notes-scaled.jpg?resize=2560%2C1440&#038;ssl=1"
         }
       ]
     },
@@ -96,7 +96,7 @@
         {
           "title": "Revisiting ‘90s Era Satanic Panic in Carry the Darkness",
           "link": "https://www.denofgeek.com/movies/revisiting-90s-era-satanic-panic-in-carry-the-darkness/",
-          "description": "Carry the Darkness recalls a time and place that should be intimately familiar for its writer-director. After all, Douglas Forrester shot the film literally in the small New York community he grew up in, which while hundreds of miles from West Memphis, Arkansas was nonetheless gripped by the same fe",
+          "description": "Carry the Darkness recalls a time and place that should be intimately familiar for its writer-director. After all, Douglas Forrester shot much of the film literally in the small Maryland community he grew up in, which while hundreds of miles from West Memphis, Arkansas was nonetheless gripped by the",
           "date": "2026-09-08T15:46:15+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Carry-the-DArkness-2026-copy.jpg"
         },
@@ -154,6 +154,13 @@
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "“You Did It. You Scared Them”: Josh Malerman Peers Into PICTURES OF YOU",
+          "link": "https://www.fangoria.com/pictures-of-you-josh-malerman/",
+          "description": "Ever wonder how a horror master gets their start? For BIRD BOX author Josh Malerman, it started with a book about weird animals in apple trees and a simple round of applause from his parents. His latest novel PICTURES OF YOU is out now.",
+          "date": "2026-09-08T21:54:48+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Malerman_credit-Miles-Marie-aka-Nomadic-Madam-e1788904614664.jpg"
+        },
         {
           "title": "Stern Pinball Opens Vault 33 With New FALLOUT Table",
           "link": "https://www.fangoria.com/fallout-pinball-table/",
@@ -216,13 +223,6 @@
           "description": "Kyle Mangione-Smith's feature debut brings paranoid chills at Fantastic Fest later this month.",
           "date": "2026-09-04T17:00:17+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Still_5-1.png"
-        },
-        {
-          "title": "Monstrous Musings: Chasing the High",
-          "link": "https://www.fangoria.com/monstrous-musings-chasing-the-high/",
-          "description": "In this week's TERROR TELETYPE editorial, we ponder how to recapture the magic of formative horror movie viewings.",
-          "date": "2026-09-04T11:11:56+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/bub-day.jpg"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Preview: Dragon Quest's Pokémon-Like Monster Game Could Be PS5's Perfect Cosy Escape",
+          "link": "https://www.pushsquare.com/previews/dragon-quests-pokemon-like-monster-game-could-be-ps5s-perfect-cosy-escape",
+          "description": "A nice change of pace. It’s looking like a “ Clash of the Titans ” kinda November, with both Zelda and GTA 6 duking it out. (Not to mention the dozens upon dozens of other titles vying for your attention in September and October.) Dragon Quest Monsters: The Withered World may be the cosy kind of com",
+          "date": "2026-09-08T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/1f150a0ee58c5/large.jpg"
+        },
+        {
           "title": "You Barely Saw Sony's Zelda Movie During Today's Anniversary Direct",
           "link": "https://www.pushsquare.com/news/2026/09/you-barely-saw-sonys-zelda-movie-during-todays-anniversary-direct",
           "description": "I cried Tears (of the Kingdom). Nintendo is hosting a 40th Anniversary Direct for The Legend of Zelda tomorrow, which promises news and updates on the iconic franchise. The broadcast will of course include footage of its previously announced Ocarina of Time remake, which some expect to launch on the",
@@ -441,13 +448,6 @@
           "description": "Fans do what Sony won't. When it rains it pours – and Sony’s probably going to need a new umbrella at this point! In an embarrassing strike against the platform holder, hobbyist PS3 emulator RPCS3 has added physical Blu-ray support, meaning you’ll be able to play the vast majority of your last-last-",
           "date": "2026-09-07T22:00:00+00:00",
           "image": "https://images.pushsquare.com/b154cc6dcc4e5/large.jpg"
-        },
-        {
-          "title": "'It's Like Cultural Preservation': Persona Producer Mentions Persona 1 and 2 Remakes Yet Again",
-          "link": "https://www.pushsquare.com/news/2026/09/its-like-cultural-preservation-persona-producer-mentions-persona-1-and-2-remakes-yet-again",
-          "description": "Back to school. At this point Atlus might as well just officially announce that remakes or remasters of the original Persona and Persona 2 are in the pipeline, because series producer Kazuhisa Wada apparently can't stop acknowledging them. This time, the talkative boss didn't even have to be asked a",
-          "date": "2026-09-07T19:30:00+00:00",
-          "image": "https://images.pushsquare.com/2af658d135aaf/large.jpg"
         }
       ]
     },
