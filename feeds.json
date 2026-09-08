@@ -1,9 +1,58 @@
 {
-  "updated": "2026-09-08T18:26:27.069619+00:00",
+  "updated": "2026-09-08T21:21:20.294533+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Viral Horror Creator Spencer Lackey To Direct ‘Lust’ For Blumhouse Atomic Monster And Neon",
+          "link": "https://bloody-disgusting.com/movie/3966936/viral-horror-creator-spencer-lackey-to-direct-lust-for-blumhouse-atomic-monster-and-neon/",
+          "description": "Hollywood’s search for the next Curry Barker or Kane Parsons continues with Lust, a new horror movie from social media and YouTube creator Spencer Lackey. What’s more is that THR reports that genre powerhouses Neon, Blumhouse Atomic Monster and Spooky Pictures are teaming up on the pic. Lackey, who ",
+          "date": "2026-09-08T21:06:01+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Other Mommy’ – Bloody New Look at Jessica Chastain in October’s Horror Movie",
+          "link": "https://bloody-disgusting.com/movie/3966938/other-mommy-bloody-new-look-at-jessica-chastain-in-octobers-horror-movie/",
+          "description": "Jessica Chastain stars in the upcoming horror movie Other Mommy this Halloween season, and the film was recently Rated R for “some bloody violence, and language.” We bring this up because Jessica Chastain is covered in blood in a brand new image from Other Mommy that was featured in Fandango’s Fall ",
+          "date": "2026-09-08T20:58:15+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/HRtYDktXIAACmIo.jpg?resize=1920%2C1080&#038;ssl=1"
+        },
+        {
+          "title": "‘Crush’ – Sarah Catherine Hook Starring in Horror Movie About a Woman Being Crushed By a Snake",
+          "link": "https://bloody-disgusting.com/movie/3966929/crush-sarah-catherine-hook-starring-in-horror-movie-about-a-woman-being-crushed-by-a-snake/",
+          "description": "Julius Avery (The Pope’s Exorcist, Overlord) will direct the upcoming python survival horror movie Crush for 20th Century Studios, and the film has now found its leading lady. Sarah Catherine Hook (“The White Lotus”) will lead the cast of Crush, Deadline reports. The survival thriller is said to fol",
+          "date": "2026-09-08T20:36:01+00:00",
+          "image": ""
+        },
+        {
+          "title": "Sarah Michelle Gellar Reunites With Ghost Face for Angry Orchard Halloween Ad [Video]",
+          "link": "https://bloody-disgusting.com/the-further/3966922/sarah-michelle-gellar-reunites-with-ghost-face-for-angry-orchard-halloween-ad-video/",
+          "description": "Angry Orchard has joined forces with the Scream franchise this Halloween, launching a limited release “Thriller Pack” of hard cider featuring a brand new Ghost Face flavor. In celebration of the new launch, Angry Orchard has released a short 60-second Halloween commercial that features Sarah Michell",
+          "date": "2026-09-08T20:20:30+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/HOed0opWAAE4v9N-1.jpg?resize=1024%2C1024&#038;ssl=1"
+        },
+        {
+          "title": "Five Horror Premieres We Can’t Wait To See At TIFF 2026",
+          "link": "https://bloody-disgusting.com/movie/3966912/five-horror-premieres-we-cant-wait-to-see-at-tiff-2026/",
+          "description": "The latest edition of the Toronto International Film Festival kicks off this Thursday and brings with it a plethora of buzzy new premieres and screenings. TIFF 2026 spreads its horror beyond the Midnight Madness programming section this year, with special Primetime spotlights on upcoming horror seri",
+          "date": "2026-09-08T19:46:54+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/HALF_Still.jpg?resize=1024%2C576&#038;ssl=1"
+        },
+        {
+          "title": "‘Buddy’ Made More Money in Its Second Weekend at the Box Office Than Its Debut Weekend!",
+          "link": "https://bloody-disgusting.com/movie/3966903/buddy-made-more-money-in-its-second-weekend-at-the-box-office-than-its-debut-weekend/",
+          "description": "Casper Kelly’s Buddy debuted in theaters the weekend of August 28 with a better than expected $5.3 million haul, which gave the Barney-inspired horror movie the highest opening this year for any movie showing on under 1,800 screens. In its second weekend of release, Buddy just did something very few",
+          "date": "2026-09-08T19:07:21+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/07/Buddy-scaled.png?resize=2560%2C1440&#038;ssl=1"
+        },
+        {
+          "title": "‘Pictures of You’ Review: Josh Malerman Muses On Creativity With A Gripping Hostage Thiller",
+          "link": "https://bloody-disgusting.com/reviews/3966901/pictures-of-you-review-josh-malerman-muses-on-creativity-with-a-gripping-hostage-thiller/",
+          "description": "Josh Malerman‘s prose has the persistent feel of discovery to it. The author of Bird Box, Daphne, and Incidents Around the House is never lacking in craft, but there’s something in his words that always generates the feeling that he’s writing straight from the gut, letting the narrative pull him alo",
+          "date": "2026-09-08T18:54:51+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/3-5skullrating-black.jpg.png?resize=226%2C63&#038;ssl=1"
+        },
         {
           "title": "‘Hope’ Review: Na Hong-jin’s Ambitious Alien Saga Starts With A Propulsive Bang",
           "link": "https://bloody-disgusting.com/reviews/3966895/hope-review-na-hong-jins-ambitious-alien-saga-starts-with-a-propulsive-bang/",
@@ -24,61 +73,19 @@
           "description": "After being released in Early Access this past Friday, Halloween: The Game is now digitally available to EVERYONE. Along with the launch comes a set of Day One Patch Notes. But first off, Illfonic has a special surprise for everyone who played in Early Access. The developers have announced, “We’re g",
           "date": "2026-09-08T17:18:48+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/day-one-patch-notes-scaled.jpg?resize=2560%2C1440&#038;ssl=1"
-        },
-        {
-          "title": "‘The End of Oak Street’ Comes Home to Digital Next Week",
-          "link": "https://bloody-disgusting.com/movie/3966878/the-end-of-oak-street-comes-home-to-digital-next-week/",
-          "description": "After passing $115 million at the worldwide box office, we’ve learned that dinosaur movie The End of Oak Street is headed home to Digital outlets beginning next week. The End of Oak Street comes home to Digital on September 15, 2026. Anne Hathaway and Ewan McGregor come face-to-face with a monstrous",
-          "date": "2026-09-08T17:05:42+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/HNyIAdsXkAA4lhq-1.jpg?resize=819%2C1024&#038;ssl=1"
-        },
-        {
-          "title": "‘Never After Dark’ – FREE Sneak Screenings of Japanese Horror Movie Stephen King Calls “Amazing and Haunting”",
-          "link": "https://bloody-disgusting.com/news/3966326/never-after-dark-bloody-sneaks/",
-          "description": "Never After Dark is conjuring major buzz ahead of Halloween season. Stephen King calls Dave Boyle’s Japanese horror movie “amazing and haunting,” while Scott Derrickson says it’s “intelligent, unpredictable, and bone chilling.” Sadly, the film doesn’t haunt theaters until September 25th, but we’ve g",
-          "date": "2026-09-08T17:00:42+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Halloween: The Game’ – First Impressions and Wicked Wishes [Halloweenies Podcast]",
-          "link": "https://bloody-disgusting.com/podcast-news/3966877/halloween-the-game-halloweenies-podcast/",
-          "description": "Halloween: The Game is finally out and the Halloweenies report back from Haddonfield, Illinois to share their first impressions on the highly anticipated title from Illfonic and Gun. Joining the gang is special guest Matt Sampere, filmmaker of Screambox’s Creeping Death. Together, they share their h",
-          "date": "2026-09-08T16:52:32+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘The Walking Dead: Daryl Dixon’ Final Season Gets First Look Teaser and Images",
-          "link": "https://bloody-disgusting.com/tv/3966859/the-walking-dead-daryl-dixon-final-season-gets-first-look-teaser-and-images/",
-          "description": "The upcoming fourth season of spinoff series “The Walking Dead: Daryl Dixon” will be the show’s final season, and AMC+ unveiled today a first look at the upcoming conclusion. The teaser below brings back an apocalypse-battered Daryl (Norman Reedus) and Carol (Melissa McBride) in Spain, ahead of the ",
-          "date": "2026-09-08T16:20:53+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/DARYLDIXON_407_AM_1030_00085-RT.jpg?resize=1024%2C683&#038;ssl=1"
-        },
-        {
-          "title": "‘Remain’ Teaser Trailer – Director M. Night Shyamalan’s Supernatural Romance Stars Jake Gyllenhaal",
-          "link": "https://bloody-disgusting.com/movie/3966863/remain-teaser-trailer-director-m-night-shyamalans-supernatural-romance-stars-jake-gyllenhaal/",
-          "description": "Billed as “an otherworldly collaboration,” M. Night Shyamalan and Nicholas Sparks join forces for Remain next Valentine’s Day, a brand new thriller from director M. Night Shyamalan. Watch the official teaser trailer for supernatural romance thriller Remain below. Warner Bros. will release Remain in ",
-          "date": "2026-09-08T16:19:24+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Screenshot-2026-09-08-121003.png?resize=1347%2C758&#038;ssl=1"
-        },
-        {
-          "title": "Subterranean Horror Game ‘The Well Is Not Empty’ Tests Your Digging Skills Today [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3966785/subterranean-horror-game-the-well-is-not-empty-tests-your-digging-skills-today-trailer/",
-          "description": "Announced way back in March, tweakEra’s subterranean horror game The Well Is Not Empty is finally out in the wild for those of you brave enough to venture into an “abandoned” underground structure with your trusty spoon. Available now on Steam with a 10% launch discount, there’s also a demo availabl",
-          "date": "2026-09-08T15:30:12+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Donnie Darko’ Returns to Theaters for the Film’s 25th Anniversary This October",
-          "link": "https://bloody-disgusting.com/movie/3966848/donnie-darko-returns-to-theaters-for-the-films-25th-anniversary-this-october/",
-          "description": "Director Richard Kelly expands the world of Donnie Darko with the upcoming sequel book Donnie Darko: The Philosophy of Time Travel, set to be released later this year. But before you read the sequel, you might want to revisit the original 2001 movie for its 25th anniversary. Donnie Darko is returnin",
-          "date": "2026-09-08T15:27:30+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Fathom-Ticket-Page-Poster-Press-Kit_1000x1480_V3.png?resize=1000%2C1480&#038;ssl=1"
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "Do We Really Need to Explain the Nazis Metaphor in Starship Troopers, Mr. Trump?",
+          "link": "https://www.denofgeek.com/movies/we-really-need-to-explain-nazis-metaphor-starship-troopers-trump/",
+          "description": "So over the long Labor Day weekend in the U.S.—a three-day respite that unofficially marks the end of summer with excursions to the beach or mountains, or at least hot dogs on the grill—President Donald Trump took to his personal social media app, Truth Social. Quite a lot. And among the President o",
+          "date": "2026-09-08T18:40:22+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Casper-Van-Dien-in-Starship-Troopers.jpg"
+        },
         {
           "title": "Did Godzilla Minus Zero Just Confirm King Ghidorah’s Return?",
           "link": "https://www.denofgeek.com/movies/godzilla-minus-zero-confirm-king-ghidorahs-return/",
@@ -141,13 +148,6 @@
           "description": "After The Matrix Resurrections debuted to an underwhelming box office and middling reviews in 2021, it became clear in the aftermath that the blockbuster franchise’s studio, Warner Bros., wanted a reset, with trades reporting that director Lana Wachowski would stay on as an executive producer of a p",
           "date": "2026-09-08T13:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/matrix4.png"
-        },
-        {
-          "title": "15 Movie Scenes That Were Almost Completely Different in the Final Cut",
-          "link": "https://www.denofgeek.com/msn/15-movie-scenes-that-were-almost-completely-different-in-the-final-cut/",
-          "description": "A movie can change dramatically before audiences ever get the chance to see it. Scenes are rewritten, reshot, shortened or removed entirely, sometimes because a studio wants something different and sometimes because filmmakers discover that an idea simply does not work. Some of the biggest changes h",
-          "date": "2026-09-08T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-12.jpg"
         }
       ]
     },
@@ -230,6 +230,20 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "PlayStation Store Update Worldwide September 8, 2026",
+          "link": "https://www.playstationlifestyle.net/2026/09/08/playstation-store-update-worldwide-september-8-2026/",
+          "description": "Each week Sony brings PlayStation 4, PlayStation 5, PlayStation VR, and PlayStation Plus owners new content, add-ons, games, and more. Here is the complete global PlayStation Store update. PlayStation LifeStyle catalogs the PlayStation Store updates for the major regions across the globe. Check back",
+          "date": "2026-09-08T21:00:00+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2023/03/psglobalupdate.jpg?w=1024"
+        },
+        {
+          "title": "Hit PlayStation 5 Shooter Gets Massive 50% Price Cut on PS Store",
+          "link": "https://www.playstationlifestyle.net/2026/09/08/battlefield-6-ps-store-sale-50-percent-discount/",
+          "description": "A hit PlayStation 5 shooter game is now available with a massive discount on the PlayStation Store. The beloved 2025 shooter game is available at a 50% discount. However, this comes with a limited-time offer that will end this September. Battlefield 6 is now available on the PlayStation Store at a 5",
+          "date": "2026-09-08T19:57:09+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/02/battlefield-6-gameplay.jpg?w=1024"
+        },
+        {
           "title": "GTA 6 Unlocks Early for Millions of Players Worldwide",
           "link": "https://www.playstationlifestyle.net/2026/09/08/gta-6-unlocks-early-playstation-global-release-times/",
           "description": "Players eagerly awaiting Rockstar Games’ GTA 6 may get their hands on Vice City slightly earlier than expected thanks to a regional digital unlock schedule. Rockstar Games’ highly anticipated open-world video game is set to launch globally in November. However, a new update has a loophole through wh",
@@ -284,26 +298,19 @@
           "description": "A popular PlayStation Plus action game has received a major update from its developers. This update comes a year after the game’s launch and will go live alongside the release of its Nintendo Switch 2 version. Rogue Factor, the developers of the 2025 PS game Hell is Us, announced that the action gam",
           "date": "2026-09-07T19:21:55+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Untitled-Design-2026-09-08T003950.802.png?w=1024"
-        },
-        {
-          "title": "Popular PS4 & PS5 Shooter Game Gets 90% PlayStation Store Discount",
-          "link": "https://www.playstationlifestyle.net/2026/09/07/borderlands-3-ps5-ps4-playstation-store-90-percent-off-sale/",
-          "description": "A popular PlayStation 4 and PlayStation 5 game is now 90% off. The discount has now priced the game at less than $10 on the PlayStation Store, with another edition at 85% off. Gearbox Software’s Borderlands 3 is available for $5.99 on the PlayStation Store. It’s a limited-time offer that ends on Sep",
-          "date": "2026-09-07T19:02:00+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/borderlands-3.jpg?w=1024"
-        },
-        {
-          "title": "Another PlayStation Exclusive Marvel Game in Development – Report",
-          "link": "https://www.playstationlifestyle.net/2026/09/07/playstation-exclusive-marvel-game-in-development-update/",
-          "description": "A new report from a trusted industry insider indicates that Marvel’s standalone Venom game remains in active development for PlayStation. Fans previously feared the project had been canceled after long periods of silence following initial leaks. What is the Venom game update? According to a new repo",
-          "date": "2026-09-07T18:27:44+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Untitled-Design-2026-09-07T233936.136.png?w=1024"
         }
       ]
     },
     "PlayStation Blog": {
       "url": "https://blog.playstation.com/feed/",
       "articles": [
+        {
+          "title": "Call of Duty: Black Ops 7 and Warzone Season 06 launches The Haunting September 17",
+          "link": "https://blog.playstation.com/2026/09/08/call-of-duty-black-ops-7-and-warzone-season-06-launches-the-haunting-september-17/",
+          "description": "The Haunting is spreading its evil throughout Season 06 with a supernatural update launching new maps, modes, weapons, events, and more across Call of Duty: Black Ops 7 and Call of Duty: Warzone, arriving Thursday, September 17. Black Ops 7 Endgame Overview Avalon Night, the forbidden summoning even",
+          "date": "2026-09-08T18:43:44+00:00",
+          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
+        },
         {
           "title": "Share of the Week: Trees",
           "link": "https://blog.playstation.com/2026/09/04/share-of-the-week-trees/",
@@ -366,19 +373,19 @@
           "description": "During today’s PlayStation State of Play broadcast, we revealed substantial new gameplay footage for Final Fantasy VII Revelation, and confirmed that the game will launch for PlayStation 5 on April 8, 2027. The anticipated action RPG will be the final entry in the acclaimed Final Fantasy VII Remake ",
           "date": "2026-09-03T13:57:19+00:00",
           "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-        },
-        {
-          "title": "First look at the Grand Theft Auto VI Limited-Edition DualSense Wireless Controllers",
-          "link": "https://blog.playstation.com/2026/09/03/first-look-at-the-grand-theft-auto-vi-limited-edition-dualsense-wireless-controllers/",
-          "description": "Vice City has a style all its own. From its sun-soaked streets to its bright neon lights, the city will be Leonida’s ultimate destination when players jump into Grand Theft Auto VI on November 19. At today’s State of Play, we shared a first look at two new limited edition DualSense wireless controll",
-          "date": "2026-09-03T13:46:10+00:00",
-          "image": "https://live.staticflickr.com/65535/55505866143_cb4df88743_k.jpg"
         }
       ]
     },
     "Push Square": {
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
+        {
+          "title": "You Barely Saw Sony's Zelda Movie During Today's Anniversary Direct",
+          "link": "https://www.pushsquare.com/news/2026/09/you-barely-saw-sonys-zelda-movie-during-todays-anniversary-direct",
+          "description": "I cried Tears (of the Kingdom). Nintendo is hosting a 40th Anniversary Direct for The Legend of Zelda tomorrow, which promises news and updates on the iconic franchise. The broadcast will of course include footage of its previously announced Ocarina of Time remake, which some expect to launch on the",
+          "date": "2026-09-08T20:45:00+00:00",
+          "image": "https://images.pushsquare.com/9b72ad0ee7449/large.jpg"
+        },
         {
           "title": "The Legend of Zelda Is the Only Big Name Willing to Go Up Against GTA 6 in November",
           "link": "https://www.pushsquare.com/news/2026/09/the-legend-of-zelda-is-the-only-big-name-willing-to-go-up-against-gta-6-in-november",
@@ -441,13 +448,6 @@
           "description": "Back to school. At this point Atlus might as well just officially announce that remakes or remasters of the original Persona and Persona 2 are in the pipeline, because series producer Kazuhisa Wada apparently can't stop acknowledging them. This time, the talkative boss didn't even have to be asked a",
           "date": "2026-09-07T19:30:00+00:00",
           "image": "https://images.pushsquare.com/2af658d135aaf/large.jpg"
-        },
-        {
-          "title": "You Should See Sony's Zelda Movie During Tomorrow's Anniversary Direct",
-          "link": "https://www.pushsquare.com/news/2026/09/you-should-see-sonys-zelda-movie-during-tomorrows-anniversary-direct",
-          "description": "There will be Tears (of the Kingdom). Nintendo is hosting a 40th Anniversary Direct for The Legend of Zelda tomorrow, which promises news and updates on the iconic franchise. The broadcast will of course include footage of its previously announced Ocarina of Time remake, which some expect to launch ",
-          "date": "2026-09-07T19:00:00+00:00",
-          "image": "https://images.pushsquare.com/9b72ad0ee7449/large.jpg"
         }
       ]
     },
