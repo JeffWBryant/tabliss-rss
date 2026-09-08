@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T05:04:40.677752+00:00",
+  "updated": "2026-09-08T10:00:24.350673+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,13 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "15 Shows Nobody Cares That You’re Watching",
+          "link": "https://www.denofgeek.com/msn/15-shows-nobody-cares-that-youre-watching/",
+          "description": "It’s hard to keep up with every good show that comes out, since you’re either watching something else, or too busy to even try. This means that you’re out of the loop when people discuss plot points and character arcs, and you’re left out of watercooler conversations entirely. You can always watch t",
+          "date": "2026-09-08T10:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-12.jpg"
+        },
+        {
           "title": "15 Photos Specifically for the History Nerds",
           "link": "https://www.denofgeek.com/msn/15-photos-specifically-for-the-history-nerds/",
           "description": "Human history is so vast and expansive, there’s likely an event we consider our favorite throughout it. Part of the fun of being a history nerd is being able to tell what’s going on in a picture without explanation; therefore, will you rise up to the challenge here? What we have here are several pic",
@@ -141,13 +148,6 @@
           "description": "Some television characters arrive with a very simple purpose. They appear, cause a little trouble, deliver their lines and disappear when the episode ends. Then something unexpected happens. Audiences love them, writers find new stories for them, or an actor brings something to the role that makes l",
           "date": "2026-09-07T11:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-17.jpg"
-        },
-        {
-          "title": "15 Movie Scenes That Became Famous for Reasons Nobody Expected",
-          "link": "https://www.denofgeek.com/msn/15-movie-scenes-that-became-famous-for-reasons-nobody-expected/",
-          "description": "Some movie scenes become iconic because they are brilliantly written or perfectly performed. Others find their way into pop culture for reasons nobody involved could have predicted. A line gets endlessly quoted, a tiny mistake becomes legendary, or a few seconds of footage take on a life completely ",
-          "date": "2026-09-07T10:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-16.jpg"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Here's Why SEGA Cancelled Its Big Live Service 'Super Game'",
+          "link": "https://www.pushsquare.com/news/2026/09/heres-why-sega-cancelled-its-big-live-service-super-game",
+          "description": "Not so super. SEGA's president has explained why the publisher decided to cancel its ambitious 'Super Game' project in a recent interview. Speaking to Nikkei , Shuji Utsumi talks about the live service venture and the reasoning behind it being canned, ultimately putting it down to limited resources.",
+          "date": "2026-09-08T09:45:00+00:00",
+          "image": "https://images.pushsquare.com/7a6320714741b/large.jpg"
+        },
+        {
           "title": "Preview: Tomb Raider: Legacy of Atlantis Has the Right Lara, But Something's Missing",
           "link": "https://www.pushsquare.com/previews/tomb-raider-legacy-of-atlantis-has-the-right-lara-but-somethings-missing",
           "description": "Fool's gold? I was excited to see Tomb Raider: Legacy of Atlantis at Gamescom recently, because I wanted to see how Amazon was moving the franchise forward after the dour reboot saga from the PS4 generation. I got to watch a full 30-minute hands-off presentation, narrated by series stewards Crystal ",
@@ -441,13 +448,6 @@
           "description": "As voted by you. Hmmm, it feels like August could give us one of the tightest Game of the Month votes that we've had in quite some time. That's mostly because there was no standout AAA heavy hitter — no massive release ready to crush the competition. Read the full article on pushsquare.com",
           "date": "2026-09-07T16:00:00+00:00",
           "image": "https://images.pushsquare.com/424bc0797a4e0/large.jpg"
-        },
-        {
-          "title": "Mini Review: Sprawl Zero (PS5) - A Fun Blast of PS2 Shooter Nostalgia",
-          "link": "https://www.pushsquare.com/reviews/ps5/sprawl-zero",
-          "description": "A pixelated blast from the past. Sprawl Zero is a Y2K tactical shooter that pays homage to the console classics like Halo and F.E.A.R , bringing that old-school shooter design to the modern age with slick controls. It’s so committed to the nostalgia factor that it sports this de-rezzed graphical sty",
-          "date": "2026-09-07T15:00:00+00:00",
-          "image": "https://images.pushsquare.com/5e17964121c4d/large.jpg"
         }
       ]
     },
