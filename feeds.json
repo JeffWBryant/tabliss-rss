@@ -1,13 +1,20 @@
 {
-  "updated": "2026-09-09T20:47:46.225909+00:00",
+  "updated": "2026-09-09T23:06:52.236836+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
         {
+          "title": "Horror Trivia Game Show ‘Better Luck Than Chuck’ Sets September Debut",
+          "link": "https://bloody-disgusting.com/tv/3967139/horror-trivia-game-show-better-luck-than-chuck-sets-september-debut/",
+          "description": "Horror trivia game show Better Luck than Chuck aims to test your insight into fright this Halloween; the series is set to debut later this month. The six-episode series will unleash a weekly competition to test your horror mettle on YouTube, beginning September 24 with new episodes on Thursdays. Bet",
+          "date": "2026-09-09T21:02:40+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/GameShow.png?resize=1024%2C579&#038;ssl=1"
+        },
+        {
           "title": "Universal Monsters x 19 Crimes Collab Is Back With ‘The Wolf Man’ Wine This Halloween",
           "link": "https://bloody-disgusting.com/the-further/3967133/universal-monsters-x-19-crimes-collab-is-back-with-the-wolf-man-wine-this-halloween/",
-          "description": "The label 19 Crimes has been celebrating Halloween the last four years with a licensed line of Universal Monsters wines, with Frankenstein and Dracula kicking off the collab in 2023. This year The Wolf Man joins the collection. The Wolf Man joins returning favorites Frankenstein, The Bride of Franke",
+          "description": "The label 19 Crimes has been celebrating Halloween the last four years with a licensed line of Universal Monsters wines, with Frankenstein and Dracula kicking off the collab in 2023. This year, The Wolf Man joins the collection. The Wolf Man joins returning favorites Frankenstein, The Bride of Frank",
           "date": "2026-09-09T20:43:35+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Universal-Monsters-Halloween-The-Wolfman-2.jpg?resize=2028%2C2038&#038;ssl=1"
         },
@@ -66,13 +73,6 @@
           "description": "Black Zombie isn’t your standard genre documentary. While horror stalwarts like Tom Savini and Tananarive Due appear as talking heads, the documentary instead takes a historical and social approach as it traces the cinematic zombie back to its Haitian origins and Black spiritual traditions. That has",
           "date": "2026-09-09T17:38:15+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/BlackZombie_Still_5.jpg?resize=1024%2C576&#038;ssl=1"
-        },
-        {
-          "title": "Cursed Board Game ‘Invokyr’ Launches Into Early Access on October 8th [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3966966/cursed-board-game-invokyr-launches-into-early-access-on-october-8th-trailer/",
-          "description": "Touted as R.E.P.O. meets Jumanji, those itching to play Ludogram’s Invokyr will get their chance next month when the game launches into Early Access on Steam on October 8. The co-op horror adventure invites players to step into the cursed world of its supernatural board game, where every roll brings",
-          "date": "2026-09-09T17:23:45+00:00",
-          "image": ""
         }
       ]
     },
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "ROT: Matthew Lillard And Amber Midthunder To Star In Mike Flanagan-Produced Body Horror",
+          "link": "https://www.fangoria.com/rot-matthew-lillard-amber-midthunder/",
+          "description": "The feature debut from Alexandra Magistro is described as \"REPULSION by way of Cronenberg.\" Sign us up.",
+          "date": "2026-09-09T20:57:14+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Lillard.avif"
+        },
+        {
           "title": "Supernatural Thriller Novel LOST ECHOES Has An Adaptation In The Works",
           "link": "https://www.fangoria.com/lost-echoes-adaptation/",
           "description": "Boston-based Chef Joe Gatto is trading kitchens for killers with a new take on Joe R. Lansdale's 2007 novel.",
@@ -216,19 +223,26 @@
           "description": "FALLOUT might be most famous as a video game, but Stern is bringing the franchise to new life with their latest Vault-Tec themed pinball table.",
           "date": "2026-09-08T18:04:29+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/fall103-1788309292167.jpg"
-        },
-        {
-          "title": "REMAIN Trailer: Jake Gyllenhaal Is Haunted In M. Night Shyamalan’s Ghostly Romance",
-          "link": "https://www.fangoria.com/remain-trailer-m-night-shyamalan/",
-          "description": "The collaboration with THE NOTEBOOK author Nicholas Sparks hits theaters next February.",
-          "date": "2026-09-08T16:47:39+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/REMAINtrailer.avif"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "Square Enix RPG Remake Returns on PlayStation 5 With New Visuals & Trailer",
+          "link": "https://www.playstationlifestyle.net/2026/09/09/classic-rpg-remake-returns-on-ps5-new-visuals-trailer/",
+          "description": "A remake of a Square Enix RPG for PlayStation 5 has released a new trailer. The original game was first released in Japan on November 11, 1995. In 2019, a worldwide remastered version was released for PC, PlayStation 4, Xbox One, Nintendo Switch, PS Vita, iOS, and Android. On February 16, 2027, Roma",
+          "date": "2026-09-09T22:22:27+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Untitled-Design-2026-09-10T033934.099.png?w=1024"
+        },
+        {
+          "title": "2026 PS5 Shooter Remaster Gets Massive Discount on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/09/09/call-of-duty-black-ops-playstation-store-discount-september-2026/",
+          "description": "The 2026 PS5 release of the iconic FPS game just got a major discount on the PlayStation Store. PlayStation owners can grab the remastered military shooter at a 50% discount. However, the offer is only available for a limited period. Call of Duty: Black Ops is now available for $19.99 on the officia",
+          "date": "2026-09-09T21:24:40+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/12_eab33a.jpg?w=1024"
+        },
         {
           "title": "Beloved Dragon Quest Game PlayStation 5 Remaster Out Now on PS Store",
           "link": "https://www.playstationlifestyle.net/2026/09/09/beloved-dragon-quest-game-playstation-5-remaster-out-now-ps-store/",
@@ -284,20 +298,6 @@
           "description": "One of the biggest and most beloved survival games of recent years on PC has finally launched on the PlayStation 5 today. After a long wait, Valheim 1.0 has arrived on September 9, 2026, and is available on the PlayStation Store for $29.99. The game will debut on PS5 and Nintendo Switch 2 alongside ",
           "date": "2026-09-09T15:00:00+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/14.jpg?w=1024"
-        },
-        {
-          "title": "New PS5 Action Game in Hit Franchise Gets Great PlayStation Store Rating",
-          "link": "https://www.playstationlifestyle.net/2026/09/09/ps5-action-game-halloween-ps-store-rating/",
-          "description": "The PS Store has dropped a brand-new PS5 action game in a fan-favorite franchise to an awesome player rating. Released yesterday, Halloween: The Game combines survival horror and stealth in a sandbox with both single-player and multiplayer modes. Halloween: The Game brings Illfonic’s trademark asymm",
-          "date": "2026-09-09T14:55:00+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps5-action-game-halloween.jpg?w=1024"
-        },
-        {
-          "title": "Popular 2025 PS5 RPG Half Price on PlayStation Store, All DLC Included",
-          "link": "https://www.playstationlifestyle.net/2026/09/09/borderlands-4-ps-store-deal-september-2026/",
-          "description": "A popular September 2025 PS5 RPG is 50% off in a limited-time PS Store deal, with all of its DLC included. Players don’t have long to snag Borderlands 4 Super Deluxe Edition, which typically costs $129.99, at half price. Borderlands 4 Super Deluxe Edition discounted in fantastic-value PS Store deal ",
-          "date": "2026-09-09T12:30:00+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/borderlands-4-ps-store-deal.jpg?w=1024"
         }
       ]
     },
