@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T04:12:05.144978+00:00",
+  "updated": "2026-09-09T09:06:42.707749+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Spoilers for Major Upcoming Games Made Public in Achievements Leak",
+          "link": "https://www.pushsquare.com/news/2026/09/spoilers-for-major-upcoming-games-made-public-in-achievements-leak",
+          "description": "Kingdom Hearts 4 worlds, Persona 6 story info all online. Spoilers for big upcoming PS5 games, and the existence of unannounced titles, have been posted online because of an achievements list leak from PC platform Steam. Overnight, the Exophase website — which we use to view Trophy lists as they go ",
+          "date": "2026-09-09T08:45:00+00:00",
+          "image": "https://images.pushsquare.com/db00cae902d1f/large.jpg"
+        },
+        {
           "title": "Preview: Dragon Quest's Pokémon-Like Monster Game Could Be PS5's Perfect Cosy Escape",
           "link": "https://www.pushsquare.com/previews/dragon-quests-pokemon-like-monster-game-could-be-ps5s-perfect-cosy-escape",
           "description": "A nice change of pace. It’s looking like a “ Clash of the Titans ” kinda November, with both Zelda and GTA 6 duking it out. (Not to mention the dozens upon dozens of other titles vying for your attention in September and October.) Dragon Quest Monsters: The Withered World may be the cosy kind of com",
@@ -441,13 +448,6 @@
           "description": "Just another bug hunt. Aliens: Fireteam Elite 2 is one of the most frustrating fumbles of 2026. I’m a huge Alien and Aliens fan, and I've loved the steady flow of video game adaptations over the years – everything from the daft Aliens Vs. Predator on the PS3, through to the iconic Alien Isolation on",
           "date": "2026-09-07T23:00:00+00:00",
           "image": "https://images.pushsquare.com/1c3f52ec9da35/large.jpg"
-        },
-        {
-          "title": "You Can Now Play Your Physical PS3 Games on PC Straight from the Disc",
-          "link": "https://www.pushsquare.com/news/2026/09/you-can-now-play-your-physical-ps3-games-on-pc-straight-from-the-disc",
-          "description": "Fans do what Sony won't. When it rains it pours – and Sony’s probably going to need a new umbrella at this point! In an embarrassing strike against the platform holder, hobbyist PS3 emulator RPCS3 has added physical Blu-ray support, meaning you’ll be able to play the vast majority of your last-last-",
-          "date": "2026-09-07T22:00:00+00:00",
-          "image": "https://images.pushsquare.com/b154cc6dcc4e5/large.jpg"
         }
       ]
     },
