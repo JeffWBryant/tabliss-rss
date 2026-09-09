@@ -1,9 +1,30 @@
 {
-  "updated": "2026-09-09T09:06:42.707749+00:00",
+  "updated": "2026-09-09T13:51:06.418871+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Insidious: Out of the Further’ Behind-The-Scenes Images Spotlight The New Demons’ Practical Effects",
+          "link": "https://bloody-disgusting.com/movie/3966947/insidious-out-of-the-further-behind-the-scenes-images-spotlight-the-new-demons-practical-effects/",
+          "description": "I’m of the opinion that each Insidious film brought something special to the table, and Jacob Chase’s sequel is no exception. Insidious: Out of the Further may have finally allowed the Lambert family some time off from dealing with paranormal activity, but it also makes a point of expanding the fran",
+          "date": "2026-09-09T13:44:41+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/792090401_18619454992026708_3230677042493688511_n.jpg?resize=768%2C1024&#038;ssl=1"
+        },
+        {
+          "title": "‘Carrie’ – Watch the Official Trailer for Mike Flanagan’s New Stephen King Series",
+          "link": "https://bloody-disgusting.com/tv/3966976/carrie-watch-the-official-trailer-for-mike-flanagans-new-stephen-king-series/",
+          "description": "If you think you know her story, you’re dead wrong. The eight-episode limited series “Carrie” is headed to Prime Video this October, and the brand new adaptation of Stephen King’s iconic story comes from horror master Mike Flanagan. All eight episodes will premiere October 7, 2026. Watch the officia",
+          "date": "2026-09-09T13:10:29+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/HRx1SnjasAAPC7v.jpg?resize=1080%2C1350&#038;ssl=1"
+        },
+        {
+          "title": "Catch Your Breath in Season 7.1 of ‘The Outlast Trials’ on Now [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3966963/catch-your-breath-in-season-7-1-of-the-outlast-trials-on-now-trailer/",
+          "description": "If “Project Boneyard” wasn’t enough for you, Red Barrels is set to up the ante with the new Season 7.1 “Chemical Leak” Limited-Time Event for The Outlast Trials. On now until Tuesday, October 6 at 10:00 ET, Chemical Leak will fill Trial environments with toxic gas, tasking Reagents with finding and ",
+          "date": "2026-09-09T11:30:05+00:00",
+          "image": ""
+        },
         {
           "title": "‘Spawn’ Crossover With ‘Diablo Immortal’ Coming September 29 [Trailer]",
           "link": "https://bloody-disgusting.com/video-games/3966946/spawn-crossover-with-diablo-immortal-coming-september-29-trailer/",
@@ -52,27 +73,6 @@
           "description": "Casper Kelly’s Buddy debuted in theaters the weekend of August 28 with a better than expected $5.3 million haul, which gave the Barney-inspired horror movie the highest opening this year for any movie showing on under 1,800 screens. In its second weekend of release, Buddy just did something very few",
           "date": "2026-09-08T19:07:21+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/07/Buddy-scaled.png?resize=2560%2C1440&#038;ssl=1"
-        },
-        {
-          "title": "‘Pictures of You’ Review: Josh Malerman Muses On Creativity With A Gripping Hostage Thiller",
-          "link": "https://bloody-disgusting.com/reviews/3966901/pictures-of-you-review-josh-malerman-muses-on-creativity-with-a-gripping-hostage-thiller/",
-          "description": "Josh Malerman‘s prose has the persistent feel of discovery to it. The author of Bird Box, Daphne, and Incidents Around the House is never lacking in craft, but there’s something in his words that always generates the feeling that he’s writing straight from the gut, letting the narrative pull him alo",
-          "date": "2026-09-08T18:54:51+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/3-5skullrating-black.jpg.png?resize=226%2C63&#038;ssl=1"
-        },
-        {
-          "title": "‘Hope’ Review: Na Hong-jin’s Ambitious Alien Saga Starts With A Propulsive Bang",
-          "link": "https://bloody-disgusting.com/reviews/3966895/hope-review-na-hong-jins-ambitious-alien-saga-starts-with-a-propulsive-bang/",
-          "description": "Hope, the crowd-pleasing latest from The Wailing filmmaker Na Hong-jin, hits the ground running and doesn’t stop for the entirety of its 160-minute runtime. From beginning to end, Hope moves at a rapid clip, delivering a propulsive genre-bender that only rarely pauses its nonstop gory action to catc",
-          "date": "2026-09-08T18:24:18+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/04/HOPE-STILL-6.jpg?resize=1024%2C683&#038;ssl=1"
-        },
-        {
-          "title": "‘Onimusha: Way of the Sword’ Sells One Million Units on Launch Day; Capcom Reiterates Commitment to Dormant Franchises",
-          "link": "https://bloody-disgusting.com/video-games/3966767/onimusha-way-of-the-sword-sells-one-million-units-on-launch-day-capcom-reiterates-commitment-to-dormant-franchises/",
-          "description": "Capcom keeps on winning. They’ve announced that their return to the Onimusha series in Onimusha: Way of the Sword, surpassed 1 million units sold on the first day of its release. As a result, cumulative sales of the Onimusha series have now surpassed 10 million units. That might not seem like a lot,",
-          "date": "2026-09-08T17:30:32+00:00",
-          "image": ""
         }
       ]
     },
@@ -80,80 +80,87 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
-          "title": "Do We Really Need to Explain the Nazis Metaphor in Starship Troopers, Mr. Trump?",
-          "link": "https://www.denofgeek.com/movies/we-really-need-to-explain-nazis-metaphor-starship-troopers-trump/",
-          "description": "So over the long Labor Day weekend in the U.S.—a three-day respite that unofficially marks the end of summer with excursions to the beach or mountains, or at least hot dogs on the grill—President Donald Trump took to his personal social media app, Truth Social. Quite a lot. And among the President o",
-          "date": "2026-09-08T18:40:22+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Casper-Van-Dien-in-Starship-Troopers.jpg"
+          "title": "15 People Share the ‘Zero Expectations’ Movie That Blew Them Away",
+          "link": "https://www.denofgeek.com/msn/15-people-share-the-zero-expectations-movie-that-blew-them-away/",
+          "description": "Sometimes the best movie experiences happen when you are expecting absolutely nothing. Maybe the trailer looked terrible, the premise sounded ridiculous, or you only bought a ticket because someone else wanted to go. Then the movie starts, and somewhere along the way you realize you have seriously u",
+          "date": "2026-09-09T13:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-9-1.jpg"
         },
         {
-          "title": "Did Godzilla Minus Zero Just Confirm King Ghidorah’s Return?",
-          "link": "https://www.denofgeek.com/movies/godzilla-minus-zero-confirm-king-ghidorahs-return/",
-          "description": "In the final seconds of the latest trailer for Godzilla Minus Zero, the humans look on in horror. Not surprisingly before them stands a returned Godzilla, the beast who they thought they destroyed in the previous movie, Godzilla Minus One. In fact, they are witnessing Godzilla fall to the ground, as",
-          "date": "2026-09-08T18:08:09+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/GMZ_KV1-Still_Godzilla-clean_2026-07-07_copyright.jpg"
+          "title": "12 People Sharing Their Unfortunate Misfortune",
+          "link": "https://www.denofgeek.com/msn/12-people-sharing-their-unfortunate-misfortune/",
+          "description": "Some days just seem determined to go wrong. A tiny mistake turns into a ridiculous problem, an innocent decision creates an unexpected disaster, or a perfectly normal moment suddenly becomes a story you will never forget. The funniest part is often how specific the bad luck can be. People online hav",
+          "date": "2026-09-09T13:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/9_9510c6.jpg"
         },
         {
-          "title": "Revisiting ‘90s Era Satanic Panic in Carry the Darkness",
-          "link": "https://www.denofgeek.com/movies/revisiting-90s-era-satanic-panic-in-carry-the-darkness/",
-          "description": "Carry the Darkness recalls a time and place that should be intimately familiar for its writer-director. After all, Douglas Forrester shot much of the film literally in the small Maryland community he grew up in, which while hundreds of miles from West Memphis, Arkansas was nonetheless gripped by the",
-          "date": "2026-09-08T15:46:15+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Carry-the-DArkness-2026-copy.jpg"
+          "title": "15 Awesome Photos Showing the Cool Parts of Our World",
+          "link": "https://www.denofgeek.com/msn/15-awesome-photos-showing-the-cool-parts-of-our-world/",
+          "description": "The world is full of things that are easy to overlook when we are busy with everyday life. A strange natural formation, an enormous structure, an unusual animal, or a tiny detail hidden in a familiar place can suddenly make everything feel a little more fascinating. Sometimes a single photograph is ",
+          "date": "2026-09-09T13:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-23.jpg"
         },
         {
-          "title": "15 Products That Were Invented for a Completely Different Purpose",
-          "link": "https://www.denofgeek.com/msn/15-products-that-were-invented-for-a-completely-different-purpose/",
-          "description": "Some products seem so perfectly suited to their jobs that it is hard to imagine anyone ever using them for something else. Their inventors, however, did not always have the final use in mind. A children's toy started out cleaning dirty walls, a familiar household spray was developed for aerospace eq",
-          "date": "2026-09-08T15:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-8-1.jpg"
+          "title": "15 Movie Details That Make More Sense Once You Know the Backstory",
+          "link": "https://www.denofgeek.com/msn/15-movie-details-that-make-more-sense-once-you-know-the-backstory/",
+          "description": "Movies are filled with little details that can seem random when you first see them. A strange costume choice, an unusual piece of dialogue, or a seemingly unnecessary moment can suddenly make perfect sense once you know what happened behind the scenes. Sometimes the explanation comes from the direct",
+          "date": "2026-09-09T13:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-22.jpg"
         },
         {
-          "title": "15 Things That Quietly Disappeared From Everyday Life",
-          "link": "https://www.denofgeek.com/msn/15-things-that-quietly-disappeared-from-everyday-life/",
-          "description": "Not everything that vanishes gets a proper goodbye. Plenty of things that once felt completely ordinary simply became less common year after year, until suddenly it was strange to see someone using them at all. Technology explains some of it, but changing habits, new laws, and different ways of shop",
-          "date": "2026-09-08T14:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-7-1.jpg"
+          "title": "Star Trek-Loving Billionaires Just Don’t Seem to Get Gene Roddenberry",
+          "link": "https://www.denofgeek.com/movies/star-trek-loving-billionaires-just-dont-seem-to-get-gene-roddenberry/",
+          "description": "“You wanna know what my vision is? Dollar signs, money! I didn’t build this ship to usher in a new era for humanity.” You would be forgiven for thinking those words were spoken by Jeff Bezos, the megabillionaire who owns Amazon and the aerospace company Blue Origin. But as most Trekkies could tell y",
+          "date": "2026-09-09T13:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2024/05/star-trek-first-contact.jpg"
         },
         {
-          "title": "Spider-Noir Is Canceled, But Nicolas Cage Isn’t Complaining",
-          "link": "https://www.denofgeek.com/tv/spider-noir-canceled-nicolas-cage-isnt-complaining/",
-          "description": "In the current streaming landscape, there’s no such thing as a sure thing. Even an Emmy-winning Spider-Man series with a 92% Rotten Tomatoes score can get canceled after just one season, as proven by last week’s confirmation of Spider-Noir’s disappointing fate on Prime Video. If star Nicolas Cage is",
-          "date": "2026-09-08T14:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/02/Spider-Noir.jpg"
+          "title": "15 People Share Their Favorite Ever Quote from ‘The Simpsons’",
+          "link": "https://www.denofgeek.com/msn/15-people-share-their-favorite-ever-quote-from-the-simpsons/",
+          "description": "Some TV quotes become so memorable that they stop feeling like lines from a show and start becoming part of everyday language. The Simpsons has been doing that for decades, giving fans an almost endless supply of ridiculous one liners, accidental life advice, and perfectly timed insults. Ask someone",
+          "date": "2026-09-09T12:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-20.jpg"
         },
         {
-          "title": "15 TV Shows That Got Cancelled Off the Back of a Massive Cliffhanger",
-          "link": "https://www.denofgeek.com/msn/15-tv-shows-that-got-cancelled-off-the-back-of-a-massive-cliffhanger/",
-          "description": "A season finale can get away with leaving a few unanswered questions when everyone assumes another batch of episodes is coming. The problem starts when a network or streaming service has other plans. Some shows have introduced new characters, revealed alternate realities, put their heroes in serious",
-          "date": "2026-09-08T14:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-6-1.jpg"
+          "title": "15 Everyday Things That Used to Be Status Symbols",
+          "link": "https://www.denofgeek.com/msn/15-everyday-things-that-used-to-be-status-symbols/",
+          "description": "It is easy to forget that plenty of things we barely notice today once came with serious bragging rights. Before mass production made technology and household conveniences widely affordable, owning the newest gadget or appliance could immediately say something about your income. Even objects as ordi",
+          "date": "2026-09-09T12:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/12_ffd808.jpg"
         },
         {
-          "title": "15 People Who Didn’t Let Age Stop Them from Accomplishing Great Things",
-          "link": "https://www.denofgeek.com/msn/15-people-who-didnt-let-age-stop-them-from-accomplishing-great-things/",
-          "description": "There is a strange idea that major accomplishments are supposed to arrive on a schedule. Start a career when you are young, reach your peak somewhere in the middle, and spend the later years taking it easy. Plenty of people have ignored that timeline completely. Some found success in fields they bar",
-          "date": "2026-09-08T13:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-5-1.jpg"
+          "title": "15 Historical Photos With Much Stranger Backstories Than it Seems",
+          "link": "https://www.denofgeek.com/msn/15-historical-photos-with-much-stranger-backstories-than-it-seems/",
+          "description": "A historical photograph can preserve a moment perfectly while still leaving out almost everything that makes the story interesting. A group of construction workers eating lunch, an empty space on a museum wall, or a celebrity getting a routine injection might not seem particularly mysterious at firs",
+          "date": "2026-09-09T12:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-3-2.jpg"
         },
         {
-          "title": "15 Fun Photos Taken From Behind the Scenes of Your Favorite Movies",
-          "link": "https://www.denofgeek.com/msn/15-fun-photos-taken-from-behind-the-scenes-of-your-favorite-movies/",
-          "description": "The finished movie is usually what stays with us, but the people making it saw something completely different. Between takes, actors were joking around, enormous sets looked surprisingly ordinary, and terrifying creatures turned out to be people in costumes standing under studio lights. Behind the s",
-          "date": "2026-09-08T13:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-14.jpg"
+          "title": "20 Photos of 2001 Covering All Walks of Life",
+          "link": "https://www.denofgeek.com/msn/20-photos-of-2001-covering-all-walks-of-life/",
+          "description": "There is something about an ordinary photo from 2001 that makes it hard not to stare at every little detail. The clothes, the haircuts, the giant computers, even the way people posed for a camera can instantly bring the era back. These were not necessarily important moments, either. Most were just r",
+          "date": "2026-09-09T11:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-2-2.jpg"
         },
         {
-          "title": "The Wachowskis May Decide the Fate of The Matrix 5",
-          "link": "https://www.denofgeek.com/movies/the-wachowskis-may-decide-fate-the-matrix-5/",
-          "description": "After The Matrix Resurrections debuted to an underwhelming box office and middling reviews in 2021, it became clear in the aftermath that the blockbuster franchise’s studio, Warner Bros., wanted a reset, with trades reporting that director Lana Wachowski would stay on as an executive producer of a p",
-          "date": "2026-09-08T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/matrix4.png"
+          "title": "15 Photos Where the Job is Simply Not Getting Done Properly",
+          "link": "https://www.denofgeek.com/msn/15-photos-where-the-job-is-simply-not-getting-done-properly/",
+          "description": "There is doing a job badly, and then there is doing it so badly that strangers stop to take a picture. Somehow, these mistakes made it past the planning stage, the person actually doing the work, and apparently anyone who might have been around to point out the fairly obvious problem. The results in",
+          "date": "2026-09-09T11:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/11_df527a.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "Barbara Crampton, Meet Dexter Morgan",
+          "link": "https://www.fangoria.com/barbara-crampton-meet-dexter-morgan/",
+          "description": "The Fango Fave has announced her latest role, and she's sharing the screen with TV's favorite serial killer.",
+          "date": "2026-09-09T13:23:24+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Barbara-Crampton.webp"
+        },
         {
           "title": "“You Did It. You Scared Them”: Josh Malerman Peers Into PICTURES OF YOU",
           "link": "https://www.fangoria.com/pictures-of-you-josh-malerman/",
@@ -216,19 +223,26 @@
           "description": "Free streaming is getting ready for Halloween with strong choices like John Carpenter's THE FOG, Adam Wingard's YOU'RE NEXT, Breck Eisner's remake of THE CRAZIES and that's not all. Get a good look at the new list at FANGORIA.",
           "date": "2026-09-04T23:16:56+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2025/02/YoureNextTopper-Cropped.jpg"
-        },
-        {
-          "title": "Exclusive Teaser: Found Footage Horror COMPLIANCE Goes Deep Down The Rabbit Hole",
-          "link": "https://www.fangoria.com/exclusive-compliance-trailer/",
-          "description": "Kyle Mangione-Smith's feature debut brings paranoid chills at Fantastic Fest later this month.",
-          "date": "2026-09-04T17:00:17+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Still_5-1.png"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "Popular 2025 PS5 RPG Half Price on PlayStation Store, All DLC Included",
+          "link": "https://www.playstationlifestyle.net/2026/09/09/borderlands-4-ps-store-deal-september-2026/",
+          "description": "A popular September 2025 PS5 RPG is 50% off in a limited-time PS Store deal, with all of its DLC included. Players don’t have long to snag Borderlands 4 Super Deluxe Edition, which typically costs $129.99, at half price. Borderlands 4 Super Deluxe Edition discounted in fantastic-value PS Store deal ",
+          "date": "2026-09-09T12:30:00+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/borderlands-4-ps-store-deal.jpg?w=1024"
+        },
+        {
+          "title": "Major Upcoming & Unannounced PlayStation 5 Games Spoiled in Big Leak",
+          "link": "https://www.playstationlifestyle.net/2026/09/09/major-upcoming-ps5-games-trophies-leaked/",
+          "description": "A massive blooper has resulted in dozens of upcoming and unannounced PS5 games being spoiled via leaked trophy lists. Achievement and trophy tracking website Exophase picked up lists for titles like Persona 6, Kingdom Hearts IV, an unannounced The Walking Dead Collection, and more! Valve blooper lea",
+          "date": "2026-09-09T09:19:22+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/upcoming-ps5-games-trophies-leaked.jpg?w=1024"
+        },
         {
           "title": "PlayStation Store Update Worldwide September 8, 2026",
           "link": "https://www.playstationlifestyle.net/2026/09/08/playstation-store-update-worldwide-september-8-2026/",
@@ -284,26 +298,26 @@
           "description": "PS5 is getting a promising new historical RPG set in 2027, publisher Justdan International has announced. Tianji: Shadow of the Ancients is brought to us by the mind behind the Xuan-Yuan Sword series. It’ll also be available on the Nintendo Switch 1 & 2 and PC. An Xbox version was not announced. PS5",
           "date": "2026-09-08T13:38:04+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps5-rpg-Tianji-Shadow-of-the-Ancients.jpg?w=1024"
-        },
-        {
-          "title": "Capcom’s New PlayStation 5 Action Game Achieves Impressive Sales Milestone",
-          "link": "https://www.playstationlifestyle.net/2026/09/07/onimusha-way-of-the-sword-1-million-sales-first-day/",
-          "description": "Capcom has scored a major day-one success with its latest samurai action game, proving that its strategy of reviving classic franchises is paying off. According to the latest update on its website, the publisher has confirmed that Onimusha: Way of the Sword sold more than one million copies worldwid",
-          "date": "2026-09-07T20:31:46+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Untitled-Design-2026-09-08T014951.241.png?w=1024"
-        },
-        {
-          "title": "Popular New PS Plus Action Game Getting a Major Update Soon",
-          "link": "https://www.playstationlifestyle.net/2026/09/07/ps5-ps-plus-action-game-hell-is-us-update/",
-          "description": "A popular PlayStation Plus action game has received a major update from its developers. This update comes a year after the game’s launch and will go live alongside the release of its Nintendo Switch 2 version. Rogue Factor, the developers of the 2025 PS game Hell is Us, announced that the action gam",
-          "date": "2026-09-07T19:21:55+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Untitled-Design-2026-09-08T003950.802.png?w=1024"
         }
       ]
     },
     "PlayStation Blog": {
       "url": "https://blog.playstation.com/feed/",
       "articles": [
+        {
+          "title": "Introducing No Man’s Sky: Cosmos update, live on PS5 today",
+          "link": "https://blog.playstation.com/2026/09/09/introducing-no-mans-sky-cosmos-update-live-on-ps5-today/",
+          "description": "Hello, it has been ten years now since the release of No Man’s Sky, and we wanted to do something special to mark the moment. The Cosmos update brings a massive overhaul to space itself and is free to download for existing PlayStation players today, and it’s a massive one. Space is such a huge […]",
+          "date": "2026-09-09T13:00:28+00:00",
+          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
+        },
+        {
+          "title": "Introducing Dead or Alive 6 Last Round’s new fighter, Minato",
+          "link": "https://blog.playstation.com/2026/09/09/introducing-dead-or-alive-6-last-rounds-new-fighter-minato/",
+          "description": "When we launched Dead or Alive 6 Last Round back in June, we promised that the game’s launch was just the beginning. Tomorrow, the next evolution of the title begins as we introduce the highly anticipated new character, Minato, into the mix. We can’t wait to see what everyone thinks of the new chara",
+          "date": "2026-09-09T12:00:06+00:00",
+          "image": "https://live.staticflickr.com/65535/55508644453_d409331ebf_k.jpg"
+        },
         {
           "title": "Call of Duty: Black Ops 7 and Warzone Season 06 launches The Haunting September 17",
           "link": "https://blog.playstation.com/2026/09/08/call-of-duty-black-ops-7-and-warzone-season-06-launches-the-haunting-september-17/",
@@ -359,26 +373,47 @@
           "description": "We’re thrilled to have revealed Rhapsody in Scarlet, a brand-new action game for PlayStation 5, during today’s State of Play and State of Play Japan. Set in the jazz-filled streets of 1920s New York, Rhapsody in Scarlet is an action game where players can enjoy exhilarating combos by wielding magic ",
           "date": "2026-09-03T14:33:39+00:00",
           "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-        },
-        {
-          "title": "Fate/Extra Record launches Jan 28 2027 on PS5 & PS4",
-          "link": "https://blog.playstation.com/2026/09/03/fate-extra-record-launches-jan-28-2027-on-ps5-ps4/",
-          "description": "During today’s State of Play, we announced that Fate/Extra Record, developed by Type-Moon, will be releasing worldwide on PlayStation 4 and PlayStation 5 on January 28, 2027! We know everyone’s been patiently waiting to learn more about this return to the Fate universe, so we’ve shared a thrilling n",
-          "date": "2026-09-03T14:04:38+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-        },
-        {
-          "title": "Final Fantasy VII Revelation launches on PS5 April 8, 2027",
-          "link": "https://blog.playstation.com/2026/09/03/final-fantasy-vii-revelation-launches-on-ps5-april-8-2027/",
-          "description": "During today’s PlayStation State of Play broadcast, we revealed substantial new gameplay footage for Final Fantasy VII Revelation, and confirmed that the game will launch for PlayStation 5 on April 8, 2027. The anticipated action RPG will be the final entry in the acclaimed Final Fantasy VII Remake ",
-          "date": "2026-09-03T13:57:19+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
         }
       ]
     },
     "Push Square": {
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
+        {
+          "title": "Dawnwalker Dev Gearing Up for Sequel After Promising a Franchise",
+          "link": "https://www.pushsquare.com/news/2026/09/dawnwalker-dev-gearing-up-for-sequel-after-promising-a-franchise",
+          "description": "A new dawn. Long before The Blood of Dawnwalker even released, developer Rebel Wolves made its intentions clear: this game was going to be the starting point for an entire franchise. At the time, it felt like a pretty arrogant statement to make, but now that Dawnwalker's here and racking up healthy ",
+          "date": "2026-09-09T13:30:00+00:00",
+          "image": "https://images.pushsquare.com/7878217419739/large.jpg"
+        },
+        {
+          "title": "No Man's Sky Evolves Yet Again, Overhauling Space in Another Huge Free Update",
+          "link": "https://www.pushsquare.com/news/2026/09/no-mans-sky-evolves-yet-again-overhauling-space-in-another-huge-free-update",
+          "description": "Available today. Hello Games has just unveiled its latest game-changing update for No Man's Sky , available to all players from today. Entitled 'Cosmos', this free update to the space exploration and survival game focuses on, well, space, making significant additions that once again expand how you'l",
+          "date": "2026-09-09T13:00:00+00:00",
+          "image": "https://images.pushsquare.com/b2b108bef783e/large.jpg"
+        },
+        {
+          "title": "PS6 Could Be the Last PlayStation Console Designed by Iconic Architect",
+          "link": "https://www.pushsquare.com/news/2026/09/ps6-could-be-the-last-playstation-console-designed-by-iconic-architect",
+          "description": "Mark Cerny \"nearing the end\" of his career. A new PlayStation console generation only really begins when Mark Cerny appears at an event to introduce an absurdly in-depth breakdown of the technology going into the new system. Sony has partnered with the architect for generations now, and if all is we",
+          "date": "2026-09-09T12:00:00+00:00",
+          "image": "https://images.pushsquare.com/ea7b514f55b92/large.jpg"
+        },
+        {
+          "title": "Mini Review: No More Room in Hell 2 (PS5) - This Co-op Shooter Makes Zombies Scary Again",
+          "link": "https://www.pushsquare.com/reviews/ps5/no-more-room-in-hell-2",
+          "description": "Night of the Dead. No More Room in Hell 2 isn’t your typical zombie experience. Instead, it’s a slow-paced, horror-induced trek through densely detailed maps that are filled with the ambling corpses of the undead. Read the full article on pushsquare.com",
+          "date": "2026-09-09T11:00:00+00:00",
+          "image": "https://images.pushsquare.com/4b569a68cd3bb/large.jpg"
+        },
+        {
+          "title": "Beloved Undersea Adventure Dave the Diver Has Sold a Whopping 10 Million Copies",
+          "link": "https://www.pushsquare.com/news/2026/09/beloved-undersea-adventure-dave-the-diver-has-sold-a-whopping-10-million-copies",
+          "description": "Landed a big one. Publisher and developer Mintrocket has announced its acclaimed debut title, Dave the Diver , has now surpassed 10 million total sales. The studio has celebrated the milestone with new artwork, shared across its socials: Read the full article on pushsquare.com",
+          "date": "2026-09-09T09:30:00+00:00",
+          "image": "https://images.pushsquare.com/3ca9ede7618dc/large.jpg"
+        },
         {
           "title": "Spoilers for Major Upcoming Games Made Public in Achievements Leak",
           "link": "https://www.pushsquare.com/news/2026/09/spoilers-for-major-upcoming-games-made-public-in-achievements-leak",
@@ -413,41 +448,6 @@
           "description": "Mega64 does it again. Over the last day or so, social media platform X (formerly known as Twitter) has been awash with crazy PlayStation-based rumours — and they all stem from a single post by Mega64 . On the 7th September, the comedy outfit presented a fairly provocative post, writing: \"We are hear",
           "date": "2026-09-08T13:15:00+00:00",
           "image": "https://images.pushsquare.com/2369309802980/large.jpg"
-        },
-        {
-          "title": "Turn-Based RPG Fans Will Want to Keep an Eye on This New PS5 Adventure from Taiwan",
-          "link": "https://www.pushsquare.com/news/2026/09/turn-based-rpg-fans-will-want-to-keep-an-eye-on-this-new-ps5-adventure-from-taiwan",
-          "description": "Tianji's out next year. Just announced for PS5, Tianji: Shadow of the Ancients is a promising RPG from Taiwanese developer Justdan. The title's getting a worldwide release at some point next year. Interestingly, Tianji's combat system blends turn-based commands with combos, as you can chain various ",
-          "date": "2026-09-08T11:30:00+00:00",
-          "image": "https://images.pushsquare.com/8869ce59025c7/large.jpg"
-        },
-        {
-          "title": "Ace Combat 8's Online Hub Has Multiple Classic Arcade Games to Play While You're Grounded",
-          "link": "https://www.pushsquare.com/news/2026/09/ace-combat-8s-online-hub-has-multiple-classic-arcade-games-to-play-while-youre-grounded",
-          "description": "Game-ception. Last week, Bandai Namco shined a light on the online multiplayer aspect of Ace Combat 8: Wings of Theve , and it looks like the most robust the series has ever had . Part of it is down to a hub, where you can meet and interact with other players in between matches or missions. Read the",
-          "date": "2026-09-08T10:30:00+00:00",
-          "image": "https://images.pushsquare.com/5df0f1f1c4eda/large.jpg"
-        },
-        {
-          "title": "Here's Why SEGA Cancelled Its Big Live Service 'Super Game'",
-          "link": "https://www.pushsquare.com/news/2026/09/heres-why-sega-cancelled-its-big-live-service-super-game",
-          "description": "Not so super. SEGA's president has explained why the publisher decided to cancel its ambitious 'Super Game' project in a recent interview. Speaking to Nikkei , Shuji Utsumi talks about the live service venture and the reasoning behind it being canned, ultimately putting it down to limited resources.",
-          "date": "2026-09-08T09:45:00+00:00",
-          "image": "https://images.pushsquare.com/7a6320714741b/large.jpg"
-        },
-        {
-          "title": "Preview: Tomb Raider: Legacy of Atlantis Has the Right Lara, But Something's Missing",
-          "link": "https://www.pushsquare.com/previews/tomb-raider-legacy-of-atlantis-has-the-right-lara-but-somethings-missing",
-          "description": "Fool's gold? I was excited to see Tomb Raider: Legacy of Atlantis at Gamescom recently, because I wanted to see how Amazon was moving the franchise forward after the dour reboot saga from the PS4 generation. I got to watch a full 30-minute hands-off presentation, narrated by series stewards Crystal ",
-          "date": "2026-09-08T00:00:00+00:00",
-          "image": "https://images.pushsquare.com/63a854dce2282/large.jpg"
-        },
-        {
-          "title": "Review: Aliens: Fireteam Elite 2 (PS5) - A Deeply Disappointing Downgrade of a Sequel",
-          "link": "https://www.pushsquare.com/reviews/ps5/aliens-fireteam-elite-2",
-          "description": "Just another bug hunt. Aliens: Fireteam Elite 2 is one of the most frustrating fumbles of 2026. I’m a huge Alien and Aliens fan, and I've loved the steady flow of video game adaptations over the years – everything from the daft Aliens Vs. Predator on the PS3, through to the iconic Alien Isolation on",
-          "date": "2026-09-07T23:00:00+00:00",
-          "image": "https://images.pushsquare.com/1c3f52ec9da35/large.jpg"
         }
       ]
     },
