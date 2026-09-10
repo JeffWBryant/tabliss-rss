@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T23:06:52.236836+00:00",
+  "updated": "2026-09-10T01:21:48.498007+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,13 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "TV Episodes That Left Viewers Completely Confused",
+          "link": "https://www.denofgeek.com/msn/tv-episodes-that-left-viewers-completely-confused/",
+          "description": "Some TV episodes end with answers. Others end with viewers staring at the screen, wondering what just happened. A strange final scene, an unexplained twist, or a story that suddenly refuses to make sense can leave an audience debating the episode long after the credits roll. Television has produced ",
+          "date": "2026-09-10T00:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-21.jpg"
+        },
+        {
           "title": "Hachette Unveils the Ultimate Dungeons & Dragons Novel Collection",
           "link": "https://www.denofgeek.com/games/hachette-unveils-the-ultimate-dungeons-dragons-novel-collection/",
           "description": "This article is sponsored by Hachette Partworks. For over 50 years, Dungeons & Dragons has brought together fantasy fans of all ages with everything from tabletop gameplay to stories based on its epic realms. Now Hachette Partworks is sharing a whole treasure trove of Dungeons & Dragons literary sto",
@@ -141,13 +148,6 @@
           "description": "Some days just seem determined to go wrong. A tiny mistake turns into a ridiculous problem, an innocent decision creates an unexpected disaster, or a perfectly normal moment suddenly becomes a story you will never forget. The funniest part is often how specific the bad luck can be. People online hav",
           "date": "2026-09-09T13:30:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/9_9510c6.jpg"
-        },
-        {
-          "title": "15 Awesome Photos Showing the Cool Parts of Our World",
-          "link": "https://www.denofgeek.com/msn/15-awesome-photos-showing-the-cool-parts-of-our-world/",
-          "description": "The world is full of things that are easy to overlook when we are busy with everyday life. A strange natural formation, an enormous structure, an unusual animal, or a tiny detail hidden in a familiar place can suddenly make everything feel a little more fascinating. Sometimes a single photograph is ",
-          "date": "2026-09-09T13:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-23.jpg"
         }
       ]
     },
