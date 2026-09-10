@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T01:21:48.498007+00:00",
+  "updated": "2026-09-10T06:32:11.251329+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -305,6 +305,13 @@
       "url": "https://blog.playstation.com/feed/",
       "articles": [
         {
+          "title": "(For Southeast Asia) Tokyo Game Show promotion comes to PlayStation Store",
+          "link": "https://blog.playstation.com/2026/09/09/20260910-tgs/",
+          "description": "Tokyo Game Show promotion comes to PlayStation Store on 9 September*! Enjoy up to 75% off on a huge range of incredible games until 23 September. Highlighted titles include Stellar Blade™ Complete Edition, Forza Horizon 5 and Monster Hunter Wilds. Head to PlayStation Store to enjoy savings now! *Tok",
+          "date": "2026-09-10T05:14:25+00:00",
+          "image": ""
+        },
+        {
           "title": "PlayStation Plus Game Catalog for September: RuneScape: Dragonwilds, WWE 2K26, Ball x Pit, Date Everything! and more",
           "link": "https://blog.playstation.com/2026/09/09/playstation-plus-game-catalog-for-september-runescape-dragonwilds-wwe-2k26-ball-x-pit-date-everything-and-more/",
           "description": "This month, master survival and uncover ancient secrets in RuneScape: Dragonwilds, run the squared circle your way in WWE 2K26, descend into the monster-filled ruins of Ballbylon in Ball x Pit, or turn everyday household objects into lovers, friends or enemies in Date Everything!. All these titles a",
@@ -366,13 +373,6 @@
           "description": "Vice City has a style all its own. From its sun-soaked streets to its bright neon lights, the city will be Leonida’s ultimate destination when players jump into Grand Theft Auto VI on November 19. At today’s State of Play, we shared a first look at two new limited edition DualSense wireless controll",
           "date": "2026-09-04T02:47:41+00:00",
           "image": "https://live.staticflickr.com/65535/55505866143_cb4df88743_k.jpg"
-        },
-        {
-          "title": "State of Play & State of Play Japan: all announcements, trailers",
-          "link": "https://blog.playstation.com/2026/09/03/state-of-play-state-of-play-japan-all-announcements-trailers/",
-          "description": "Two shows, over 30 games. Today’s double-sized State of Play brings together creatives from the world over to debut new games, share deep gameplay dives and fresh insights, reveal release dates, and much more. We’ve wrapped up every single announcement into this recap, handily organised in alphabeti",
-          "date": "2026-09-03T15:05:55+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
         }
       ]
     },
