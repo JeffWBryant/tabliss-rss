@@ -1,9 +1,23 @@
 {
-  "updated": "2026-09-10T16:37:12.504097+00:00",
+  "updated": "2026-09-10T19:30:25.070958+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Metroid Ravenous’ Announced for Switch 2, Coming January 28 [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3967170/metroid-ravenous-announced-for-switch-2-coming-january-28-trailer/",
+          "description": "With the Metroid series celebrating its 40th anniversary this year, it was obvious that Nintendo wouldn’t let it pass without some sort of surprise. That surprise is a new entry in Metroid Ravenous. Developed by Metroid Dread developer MercurySteam, the sixth 2D entry in the series will arrive next ",
+          "date": "2026-09-10T17:30:56+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/metroidravnousbox.jpg?resize=1920%2C1057&#038;ssl=1"
+        },
+        {
+          "title": "Underseen French Survival Horror ‘High Lane’ Finds Terror at Great Heights",
+          "link": "https://bloody-disgusting.com/editorials/3965382/underseen-french-survival-horror-high-lane-finds-terror-at-great-heights/",
+          "description": "You can usually count on the French to go all in with the horror genre. Even those turn-of-the-century horror movies not considered part of the New French Extremity—a wave of homegrown cinema that pushes the envelope and then some—offer their own extremes. In the case of Abel Ferry’s High Lane (a.k.",
+          "date": "2026-09-10T17:00:04+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/High-Lane-Vertige-2009-Abel-Ferry.jpg?resize=1024%2C580&#038;ssl=1"
+        },
         {
           "title": "‘Whalefall’ Trailer 2 – What If An Entire Horror Movie Took Place Inside a Sperm Whale?",
           "link": "https://bloody-disgusting.com/movie/3967228/whalefall-trailer-what-if-an-entire-horror-movie-took-place-inside-a-sperm-whale/",
@@ -59,20 +73,6 @@
           "description": "The Hellraiser franchise hasn’t always had the direct involvement of creator Clive Barker, and it’s fair to say that the franchise has suffered without Barker in control. But the upcoming video game is a little different, with Clive Barker’s name directly featured in the title. It’s called Clive Bar",
           "date": "2026-09-10T13:46:32+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/20036352-680826cd.jpg?resize=1955%2C2260&#038;ssl=1"
-        },
-        {
-          "title": "Remakes of ‘Resident Evil 2’, ‘Resident Evil 3’ and ‘Resident Evil 4’ Launch October 16 for Switch 2 [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3967167/remakes-of-resident-evil-2-resident-evil-3-and-resident-evil-4-launch-october-16-for-switch-2-trailer/",
-          "description": "If you’ve been waiting on Capcom’s ports of the Resident Evil 2: Deluxe Edition, Resident Evil 3, and Resident Evil 4: Gold Edition remakes for the Nintendo Switch 2, you’ll be in for a busy time next month. Capcom announced during the Nintendo Direct that the trio games will arrive for the Switch 2",
-          "date": "2026-09-10T13:30:08+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Ithaqua’ Trailer – Hammer Films Unleashes Its First New Monster in Over 60 Years",
-          "link": "https://bloody-disgusting.com/movie/3967180/ithaqua-trailer-hammer-films-unleashes-its-first-new-monster-in-over-60-years/",
-          "description": "Fourteen years in the making, Hammer Films’ brand new monster movie Ithaqua is finally on the way, and the revived horror label has released the official trailer this week. The legendary brand Hammer Films is plotting a return with a brand new slate of movies under the ownership of British theater p",
-          "date": "2026-09-10T13:11:57+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/HRpnoOLbEAAYUyh.jpg?resize=1000%2C1481&#038;ssl=1"
         }
       ]
     },
@@ -115,13 +115,6 @@
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-29.jpg"
         },
         {
-          "title": "15 People Share the Funniest Movie They’ve Ever Seen",
-          "link": "https://www.denofgeek.com/msn/15-people-share-the-funniest-movie-theyve-ever-seen/",
-          "description": "There is always that one movie that makes people laugh harder than anything else. It might be a comedy everyone knows, an old favorite that somehow never gets boring, or a completely unexpected choice that someone remembers because they could barely breathe while watching it. Reddit recently asked p",
-          "date": "2026-09-10T13:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-28.jpg"
-        },
-        {
           "title": "Star Trek: Strange New Worlds Season 4 Episode 8 Review — Orders of Magnitude",
           "link": "https://www.denofgeek.com/tv/star-trek-strange-new-worlds-season-4-episode-8-review/",
           "description": "The following contains spoilers for Star Trek: Strange New Worlds season 4, episode 8. Bad admirals appear throughout Star Trek, from The Original Series (“The Doomsday Machine”) and The Next Generation (“The Pegasus”) to Deep Space Nine (the “Homefront”/”Paradise Lost” two-parter). It was probably ",
@@ -148,12 +141,33 @@
           "description": "There are moments when nature looks so spectacular that a photograph almost feels unbelievable. A landscape suddenly transforms, thousands of animals gather in one place, or a fleeting natural event creates a scene that may never happen in quite the same way again. The people behind these photograph",
           "date": "2026-09-10T12:30:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-25.jpg"
+        },
+        {
+          "title": "The 15 Movies We Think of When We Hear the Word ‘Classic’",
+          "link": "https://www.denofgeek.com/msn/the-15-movies-we-think-of-when-we-hear-the-word-classic/",
+          "description": "Some movies are great, some are iconic, and then there are the ones that simply feel like the definition of a classic. They are the films people reference decades later, the ones that constantly appear on must-watch lists, and the ones even non-movie fans can usually recognize from a single scene or",
+          "date": "2026-09-10T12:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-4-3.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "SINNERS Star Li Jun Li Leads New Hulu Thriller Series VICTORIA",
+          "link": "https://www.fangoria.com/li-jun-li-series-victoria/",
+          "description": "Li Jun Li, star of SINNERS and THE LAST OF US Season 3, is set to lead Hulu's new thriller series VICTORIA. Get all the details here.",
+          "date": "2026-09-10T17:32:02+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/lijunli-sinners.jpg.webp"
+        },
+        {
+          "title": "It’s An AMERICAN HORROR STORY Family Reunion In New Season 13 Trailer",
+          "link": "https://www.fangoria.com/american-horror-story-season-13-trailer-2/",
+          "description": "Watch the new trailer for AMERICAN HORROR STORY Season 13, and see how many familiar faces you can spot.",
+          "date": "2026-09-10T17:02:44+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Screenshot-2026-09-10-at-12.51.16-PM.png"
+        },
         {
           "title": "Something Lurks BELOW In New Trailer For Josh Hartnett-Starring Sea Monster Series",
           "link": "https://www.fangoria.com/below-josh-hartnett-trailer/",
@@ -209,26 +223,40 @@
           "description": "Watch the first trailer for THE ONES WHO GRIEVE, which has its world premiere at Fantastic Fest this month.",
           "date": "2026-09-09T17:15:43+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/AmesEnPeine_ENG-1.jpg"
-        },
-        {
-          "title": "V/H/S/MIXTAPE, KEN RUSSELL’S THE DEVILS & More Headline Beyond Fest’s 2026 Lineup",
-          "link": "https://www.fangoria.com/beyond-fest-2026-lineup/",
-          "description": "Los Angeles’ biggest film festival returns later this month with a massive 81 feature films.",
-          "date": "2026-09-09T17:01:43+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/BeyondFest_DateAnnounce_2026-1.jpg"
-        },
-        {
-          "title": "Explore The Jurassic Coast With Gemma Amor’s New Novel AMMONITE",
-          "link": "https://www.fangoria.com/ammonite-gemma-amor/",
-          "description": "ITCH! author Gemma Amor is back with her next novel AMMONITE, the first from the new genre imprint Rapture Trade.",
-          "date": "2026-09-09T16:00:04+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Untitled-design.png"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "New PS5 Exclusive Action Game Divides Critics in First Reviews",
+          "link": "https://www.playstationlifestyle.net/2026/09/10/wolverine-review-scores-vs-spider-man-insomniac/",
+          "description": "A new PlayStation 5 exclusive game has received divisive first reviews from critics. Although the game is set to release on September 15 this year, early reviews from critics have already poured in. Moreover, the upcoming video game has received lower review scores than the developer’s previous game",
+          "date": "2026-09-10T18:50:40+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/7.jpg?w=1024"
+        },
+        {
+          "title": "Fun Open-World PS5 Racing Game Out Today on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/09/10/hot-wheels-infinite-rush-open-world-racer-out-today-playstation-store/",
+          "description": "An Open-World Racing Game for the PlayStation 5 is now available for players to play on the PlayStation Store. The game is a collaboration between one of the leading racing game developers in the industry, Milestone, and Mattel Inc. It will also be released on XBOX Series X|S, Nintendo Switch 2, ROG",
+          "date": "2026-09-10T18:40:12+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/6.jpg?w=1024"
+        },
+        {
+          "title": "Beloved Ubisoft Game Series Makes Surprise PlayStation 5 Return Next Month",
+          "link": "https://www.playstationlifestyle.net/2026/09/10/just-dance-decades-of-hits-ps5-return-october-2026/",
+          "description": "A beloved game from Ubisoft is set to make a return next month on the PlayStation 5. The game will also be available on other modern consoles, such as Nintendo and Xbox. This new standalone title will be the 18th mainline installment in the Just Dance franchise. The upcoming game’s official descript",
+          "date": "2026-09-10T18:03:21+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Untitled-Design-2026-09-10T232343.095.png?w=1024"
+        },
+        {
+          "title": "Massive PlayStation 5 Compilation of Classic Action Games Coming in 2027",
+          "link": "https://www.playstationlifestyle.net/2026/09/10/playstation-5-action-game-compilation-2027/",
+          "description": "SNK has announced the Metal Slug Ultimate Collection, which brings together 10 games from the franchise's storied history in one package. The post Massive PlayStation 5 Compilation of Classic Action Games Coming in 2027 appeared first on PlayStation LifeStyle .",
+          "date": "2026-09-10T17:03:42+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/5.jpg?w=1024"
+        },
         {
           "title": "PS5 Remake of Popular 2002 Action Game Out on PlayStation Store",
           "link": "https://www.playstationlifestyle.net/2026/09/10/ps5-remake-2002-action-game-playstation-store-touhou-koumakyou/",
@@ -270,34 +298,6 @@
           "description": "A major 2026 PS5 game that was released last week, on September 4, has already received a server shutdown date from its publisher. 2K has a policy of scheduling server closures for its annual franchises, giving players plenty of notice. NBA 2K27 players have been told that they have just over two ye",
           "date": "2026-09-10T12:30:00+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps5-game-shutdown-date.jpg?w=1024"
-        },
-        {
-          "title": "PlayStation 5 Getting Beautiful Adventure Game Based on Acclaimed Anime",
-          "link": "https://www.playstationlifestyle.net/2026/09/10/ps5-adventure-game-the-apothecary-diaries-anime/",
-          "description": "An unexpected adventure game based on an acclaimed anime has been announced for the PS5. Developed by Gust and published by Koei Tecmo, The Apothecary Diaries: The False Imperial Brother is a gorgeous adaptation of the anime, featuring a brand-new story by Hyuganatsu, the author behind the light nov",
-          "date": "2026-09-10T12:00:00+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps5-adventure-game-The-Apothecary-Diaries-The-False-Imperial-Brother.jpg?w=1024"
-        },
-        {
-          "title": "PlayStation Shockingly Loses Anticipated Exclusive Game to Xbox",
-          "link": "https://www.playstationlifestyle.net/2026/09/10/playstation-loses-exclusive-game-physint-to-xbox/",
-          "description": "In a shocking development, Sony Interactive Entertainment has lost a highly anticipated PlayStation exclusive game to Xbox. Kojima Productions‘ promising Physint, which Sony announced in January 2024, is now likely to be an Xbox exclusive game after Microsoft stepped in to save the project. PlayStat",
-          "date": "2026-09-10T11:00:00+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/playstation-exclusive-game-physint.jpg?w=1024"
-        },
-        {
-          "title": "Square Enix RPG Remake Returns on PlayStation 5 With New Visuals & Trailer",
-          "link": "https://www.playstationlifestyle.net/2026/09/09/classic-rpg-remake-returns-on-ps5-new-visuals-trailer/",
-          "description": "A remake of a Square Enix RPG for PlayStation 5 has released a new trailer. The original game was first released in Japan on November 11, 1995. In 2019, a worldwide remastered version was released for PC, PlayStation 4, Xbox One, Nintendo Switch, PS Vita, iOS, and Android. On February 16, 2027, Roma",
-          "date": "2026-09-09T22:22:27+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Untitled-Design-2026-09-10T033934.099.png?w=1024"
-        },
-        {
-          "title": "2026 PS5 Shooter Remaster Gets Massive Discount on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/09/09/call-of-duty-black-ops-playstation-store-discount-september-2026/",
-          "description": "The 2026 PS5 release of the iconic FPS game just got a major discount on the PlayStation Store. PlayStation owners can grab the remastered military shooter at a 50% discount. However, the offer is only available for a limited period. Call of Duty: Black Ops is now available for $19.99 on the officia",
-          "date": "2026-09-09T21:24:40+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/12_eab33a.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,34 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Wolverine PS5 Is One of the Lowest Rated First-Party Sony Games of the Generation",
+          "link": "https://www.pushsquare.com/news/2026/09/wolverine-ps5-is-one-of-the-lowest-rated-first-party-sony-games-of-the-generation",
+          "description": "How Logan you go. Reviews for Marvel's Wolverine have dropped, and it's fair to say that many of them are a bit disappointing. At the time of writing, Insomniac Games' big budget action title sits at an eyebrow-raising 77 on Metacritic , based on just over 100 evaluations. Read the full article on p",
+          "date": "2026-09-10T19:00:00+00:00",
+          "image": "https://images.pushsquare.com/922c336b153dd/large.jpg"
+        },
+        {
+          "title": "Promising Detective RPG Decapolice Officially Delayed into 2027",
+          "link": "https://www.pushsquare.com/news/2026/09/promising-detective-rpg-decapolice-officially-delayed-into-2027",
+          "description": "Will it ever come out? Publisher and developer Level-5 has officially pushed back Decapolice , its sci-fi detective RPG. The game, which was most recently slated for 2026, is now scheduled for sometime in 2027. Read the full article on pushsquare.com",
+          "date": "2026-09-10T18:00:00+00:00",
+          "image": "https://images.pushsquare.com/a9ddeb0beb2f1/large.jpg"
+        },
+        {
+          "title": "First Professor Layton Game Gets PS5 Remake, Curious Village Out in 2027",
+          "link": "https://www.pushsquare.com/news/2026/09/first-professor-layton-game-gets-ps5-remake-curious-village-out-in-2027",
+          "description": "Layton overload on PS5. You'll be able to play the latest Professor Layton title, the New World of Steam , on PS5 this December as the character makes his PlayStation debut. However, also, the original title that started the series is being remade. Level-5 has announced today in its latest livestrea",
+          "date": "2026-09-10T17:30:00+00:00",
+          "image": "https://images.pushsquare.com/b53fba62e1cb4/large.jpg"
+        },
+        {
+          "title": "Josh Holloway Stars in Live Action Ace Combat 8 Prequel Series, 'Hour Zero'",
+          "link": "https://www.pushsquare.com/news/2026/09/josh-holloway-stars-in-live-action-ace-combat-8-prequel-series-hour-zero",
+          "description": "Lost in the clouds. Bandai Namco really is going all-out for Ace Combat 8: Wings of Theve . Not only is the title itself stepping things up with big jumps in visuals and the largest multiplayer component the series has ever seen, but the publisher is splashing the cash on things like this: a live ac",
+          "date": "2026-09-10T17:00:00+00:00",
+          "image": "https://images.pushsquare.com/d44aae6f467e9/large.jpg"
+        },
+        {
           "title": "Review: Marvel's Wolverine (PS5) - The Ultimate Wolverine Simulator",
           "link": "https://www.pushsquare.com/reviews/ps5/marvels-wolverine",
           "description": "Bloody nora, bub. Marvel’s Wolverine is a great video game. If such a thing could be looked up in the dictionary, you’d find Logan and his bared claws staring back. In fact, I can’t remember a time when our own review scoring policy has described a game better: Read the full article on pushsquare.co",
@@ -420,34 +448,6 @@
           "description": "New gameplay revealed. Announced for PS5 a few months back, Muramasa: Revenant Blades now has a confirmed 4th February release date. Yes, it's yet another game coming out in the first quarter of next year, but surely you can find the time for this Vanillaware masterpiece. Read the full article on pu",
           "date": "2026-09-10T13:00:00+00:00",
           "image": "https://images.pushsquare.com/0b731b761f8d2/large.jpg"
-        },
-        {
-          "title": "Romancing SaGa 3's PS5 Remake Looks Amazing, But Its Release Date Is a Problem",
-          "link": "https://www.pushsquare.com/news/2026/09/romancing-saga-3s-ps5-remake-looks-amazing-but-its-release-date-is-a-problem",
-          "description": "Romance is dead. Square Enix has announced a full-on 3D remake of Romancing SaGa 3, titled Romancing SaGa 3: Destinies United . Going by the above trailer and the associated press release, this is set to be a brilliant revival. It retains everything that made the 1995 original unique, while also bol",
-          "date": "2026-09-10T12:30:00+00:00",
-          "image": "https://images.pushsquare.com/5c94813ff8d45/large.jpg"
-        },
-        {
-          "title": "Preview: Final Fantasy 7 Revelation on PS5 Is So Huge I Got Lost in Its Demo",
-          "link": "https://www.pushsquare.com/previews/final-fantasy-7-revelation-on-ps5-is-so-huge-i-got-lost-in-its-demo",
-          "description": "Revelatory. I’ve touched Final Fantasy 7 Revelation on PS5 Pro, but I’ll be brutally honest with you: I’m not entirely sure how to approach this preview. At an event in London last week, Square Enix put me in control of the Highwind and set me free to explore the concluding instalment in its well-re",
-          "date": "2026-09-10T12:00:00+00:00",
-          "image": "https://images.pushsquare.com/811f413ca4dd7/large.jpg"
-        },
-        {
-          "title": "Play the First Dragon Quest Monsters on PlayStation in Over 20 Years with PS5 Demo",
-          "link": "https://www.pushsquare.com/news/2026/09/play-the-first-dragon-quest-monsters-on-playstation-in-over-20-years-with-ps5-demo",
-          "description": "Sample the Withered World. Square Enix has released a free playable demo for its upcoming RPG, Dragon Quest Monsters: The Withered World , available now on PS5. A quick trailer shows off what you'll be able to check out: Read the full article on pushsquare.com",
-          "date": "2026-09-10T11:00:00+00:00",
-          "image": "https://images.pushsquare.com/72f6eb42e04f6/large.jpg"
-        },
-        {
-          "title": "PS5 Fighter Avatar Legends Gets Ranked Play, Low Latency Mode, More in Major Update",
-          "link": "https://www.pushsquare.com/news/2026/09/ps5-fighter-avatar-legends-gets-ranked-play-low-latency-mode-more-in-major-update",
-          "description": "Getting the Aang of it. Avatar Legends: The Fighting Game recently received patch 2.5, a pretty significant update on PS5 that adds some nice new features to the fighter. Most notably, ranked online matches are now available on PS5 as well as other platforms, with full cross platform play available.",
-          "date": "2026-09-10T10:30:00+00:00",
-          "image": "https://images.pushsquare.com/ab503f68a2ece/large.jpg"
         }
       ]
     },
