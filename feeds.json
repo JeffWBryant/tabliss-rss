@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-10T06:32:11.251329+00:00",
+  "updated": "2026-09-10T12:09:31.426426+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Bloober Team Reveals Supernatural Horror Game ‘Onyx: The Dark Grip’ for Switch 2",
+          "link": "https://bloody-disgusting.com/video-games/3967164/bloober-team-reveals-supernatural-horror-game-onyx-the-dark-grip-for-switch-2/",
+          "description": "The mystery behind Bloober Team’s Nintendo exclusive known as “Project M” has been revealed. During yesterday’s Nintendo Direct, Bloober Team and their development studio Broken Mirror Games announced Onyx: The Dark Grip, a 2.5D supernatural horror game coming to the Switch 2 next year. Details on t",
+          "date": "2026-09-10T11:30:20+00:00",
+          "image": ""
+        },
         {
           "title": "Horror Trivia Game Show ‘Better Luck Than Chuck’ Sets September Debut",
           "link": "https://bloody-disgusting.com/tv/3967139/horror-trivia-game-show-better-luck-than-chuck-sets-september-debut/",
@@ -66,13 +73,6 @@
           "description": "Guillermo del Toro’s masterpiece Pan’s Labyrinth is back in theaters for its 20th anniversary this Halloween season, being presented for the first time in 3D and non-3D 4K. Bloody Disgusting’s parent company Cineverse is teaming up with Fathom Entertainment for the Guillermo del Toro’s Pan’s Labyrin",
           "date": "2026-09-09T17:49:14+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/HRtoIP-XAAEw3AN.jpg?resize=1080%2C1350&#038;ssl=1"
-        },
-        {
-          "title": "‘Black Zombie’ Director Maya Annik Bedward On The 10-Year Journey To Uncover The Zombie’s Origins",
-          "link": "https://bloody-disgusting.com/interviews/3966952/black-zombie-interview/",
-          "description": "Black Zombie isn’t your standard genre documentary. While horror stalwarts like Tom Savini and Tananarive Due appear as talking heads, the documentary instead takes a historical and social approach as it traces the cinematic zombie back to its Haitian origins and Black spiritual traditions. That has",
-          "date": "2026-09-09T17:38:15+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/BlackZombie_Still_5.jpg?resize=1024%2C576&#038;ssl=1"
         }
       ]
     },
@@ -80,74 +80,74 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "15 Fun Historical Photos Perfect for the History Nerds",
+          "link": "https://www.denofgeek.com/msn/15-fun-historical-photos-perfect-for-the-history-nerds/",
+          "description": "The best historical photographs are not always the ones documenting world-changing events. Sometimes, they simply capture a detail of everyday life that makes the past feel considerably less distant. People had strange solutions to familiar problems, celebrities occasionally behaved like regular tou",
+          "date": "2026-09-10T12:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/8_b719a3.jpg"
+        },
+        {
+          "title": "15 Photos Sharing ‘Hard to Believe’ Historical Moments",
+          "link": "https://www.denofgeek.com/msn/15-photos-sharing-hard-to-believe-historical-moments/",
+          "description": "Photography has been around long enough to provide evidence for plenty of historical stories that would otherwise sound suspiciously exaggerated. Buildings have been moved while hundreds of people continued working inside, airplanes have landed beside some of the world's most recognizable landmarks,",
+          "date": "2026-09-10T11:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-2-3.jpg"
+        },
+        {
+          "title": "15 Photos Giving Us a New Perspective on History",
+          "link": "https://www.denofgeek.com/msn/15-photos-giving-us-a-new-perspective-on-history/",
+          "description": "History can start to feel strangely polished when we only see the same famous photographs over and over again. Everyday life was considerably messier, funnier, and more inventive than a textbook can usually capture. People experimented with bizarre gadgets, found creative ways to do ordinary jobs, a",
+          "date": "2026-09-10T11:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-1-4.jpg"
+        },
+        {
+          "title": "15 People Share the Dumbest Interview Question They’ve Ever Heard",
+          "link": "https://www.denofgeek.com/msn/15-people-share-the-dumbest-interview-question-theyve-ever-heard/",
+          "description": "Job interviews are already stressful enough when the questions actually have something to do with the position. Unfortunately, some interviewers apparently prefer to find out what color you would be, how you would react to an unexpected elephant, or whether you have strong opinions about training tu",
+          "date": "2026-09-10T11:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/7_558e54.jpg"
+        },
+        {
+          "title": "14 Photos Where People Enact Their Petty Revenge",
+          "link": "https://www.denofgeek.com/msn/14-photos-where-people-enact-their-petty-revenge/",
+          "description": "Revenge, whether served hot or cold, should never be the answer. We need to understand that forgiveness, inner peace and mindfulness are the aspects that will push us forward as a society. Images of petty revenges, however, continue to be infinitely amusing for anyone not involved in them. Neighbour",
+          "date": "2026-09-10T11:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-15-1.jpg"
+        },
+        {
+          "title": "14 Fantastic Photos Specifically for the Science Nerds",
+          "link": "https://www.denofgeek.com/msn/14-fantastic-photos-specifically-for-the-science-nerds/",
+          "description": "The scientific community is constantly sharing papers, knowledge, and discoveries all around the world, be it by amateur seekers of truth on the internet or celebrated researchers in laboratories. Not all of their end results have some photogenic component, but they can all be represented by some fo",
+          "date": "2026-09-10T10:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/6_2856fd.jpg"
+        },
+        {
+          "title": "15 People Share Their Car’s Most Useless Feature",
+          "link": "https://www.denofgeek.com/msn/15-people-share-their-cars-most-useless-feature/",
+          "description": "Innovation is a prevalent thing in today’s world, with companies trying to beat each other to having the most sought-after product. This is true for cars as anything else, and we have this competitive nature to thank for many of the breakthroughs in safety and convenience modern cars have. Not every",
+          "date": "2026-09-10T10:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-13-1.jpg"
+        },
+        {
+          "title": "15 Iconic Movie Lines That Accidentally Turned into Memes",
+          "link": "https://www.denofgeek.com/msn/15-iconic-movie-lines-that-accidentally-turned-into-memes/",
+          "description": "Iconic movie lines have been a thing since the dawn of cinema, so people repeating them whenever they get the chance is nothing new. The advent of the internet, though, turned this tried and true way of celebrating movies into recurring jokes, or rather, memetic ones: internet memes. Not every line ",
+          "date": "2026-09-10T10:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-12-1.jpg"
+        },
+        {
+          "title": "15 of the Strangest Ever Sitcom Episodes",
+          "link": "https://www.denofgeek.com/msn/15-of-the-strangest-ever-sitcom-episodes/",
+          "description": "Sitcoms are the comfort food of television, at least the healthy kind when compared to reality shows. You know the characters, understand the rhythm, and generally have a pretty good idea what kind of joke is coming next. That is, unless the show decides to throw that formula straight out the window",
+          "date": "2026-09-10T10:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-11-1.jpg"
+        },
+        {
           "title": "TV Episodes That Left Viewers Completely Confused",
           "link": "https://www.denofgeek.com/msn/tv-episodes-that-left-viewers-completely-confused/",
           "description": "Some TV episodes end with answers. Others end with viewers staring at the screen, wondering what just happened. A strange final scene, an unexplained twist, or a story that suddenly refuses to make sense can leave an audience debating the episode long after the credits roll. Television has produced ",
           "date": "2026-09-10T00:45:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-21.jpg"
-        },
-        {
-          "title": "Hachette Unveils the Ultimate Dungeons & Dragons Novel Collection",
-          "link": "https://www.denofgeek.com/games/hachette-unveils-the-ultimate-dungeons-dragons-novel-collection/",
-          "description": "This article is sponsored by Hachette Partworks. For over 50 years, Dungeons & Dragons has brought together fantasy fans of all ages with everything from tabletop gameplay to stories based on its epic realms. Now Hachette Partworks is sharing a whole treasure trove of Dungeons & Dragons literary sto",
-          "date": "2026-09-09T19:11:29+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/DnD-Sponcon.jpg"
-        },
-        {
-          "title": "The Legend of Zelda Ocarina of Time Reminds Remakes Are Interpretations, Not Copies",
-          "link": "https://www.denofgeek.com/games/the-legend-of-zelda-ocarina-of-time-reminds-remakes-are-interpretations-not-copies/",
-          "description": "“Hey, listen!” Just reading those words is enough to make anyone who has played The Legend of Zelda: Ocarina of Time sit up and pay attention. Link’s fairy guide Navi says those words approximately ten billion times while traversing across Hyrule’s past and present to prevent Ganondorf from using th",
-          "date": "2026-09-09T17:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/The-Legend-of-Zelda_-The-Ocarina-of-Time.jpg"
-        },
-        {
-          "title": "Paul Greengrass Reveals The Uprising Began With the Title ‘The Hood’",
-          "link": "https://www.denofgeek.com/movies/paul-greengrass-reveals-the-uprising-began-with-title-the-hood/",
-          "description": "Paul Greengrass knew he always wanted to make a quasi-Robin Hood movie well before his deeply naturalistic historical epic, The Uprising, had the famous rogue’s name added to the poster. The film is still very much in the vein of the realpolitik thrillers Greengrass made his bones on early in his ca",
-          "date": "2026-09-09T15:40:05+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Andrew-Garfield-in-The-Uprising-1.jpg"
-        },
-        {
-          "title": "Movies With Action So Good, The Plot Doesn’t Matter",
-          "link": "https://www.denofgeek.com/msn/15-movies-with-action-so-good-the-plot-doesnt-matter/",
-          "description": "Why do we like action movies so much? We know, after all, that the main character will survive, and likely achieve all of their goals; once the opening scene is over, you can pretty much tell where everything is going. So clearly, it’s not the plot we’re here for. We’re here for the action, for the ",
-          "date": "2026-09-09T15:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-1.jpg"
-        },
-        {
-          "title": "Famous Movie Scenes Audiences Continue to Misunderstand",
-          "link": "https://www.denofgeek.com/msn/15-famous-movie-scenes-audiences-continue-to-misunderstand/",
-          "description": "Movies can leave a lot of room for interpretation, but sometimes audiences settle on an explanation that the filmmakers never intended. A character gets remembered as the villain, a scene is treated as a plot hole, or a famous moment becomes shorthand for an idea the movie was actually criticizing. ",
-          "date": "2026-09-09T14:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/7_612bd8.jpg"
-        },
-        {
-          "title": "The Best Movie Reboots That Were Actually Worth Watching",
-          "link": "https://www.denofgeek.com/movies/the-best-movie-reboots-that-were-actually-worth-watching/",
-          "description": "Hard reboots, soft reboots, remakes, legacy sequels… Hollywood uses many tactics to keep valuable IP alive. Yet those tactics have also made the definition of “reboot” fairly muddy. Mad Max: Fury Road stretches the limits of what we consider a “soft” reboot, in that director George Miller engineered",
-          "date": "2026-09-09T14:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/riseplanet.png"
-        },
-        {
-          "title": "Movie Details That Stick in Your Brain Once You See Them",
-          "link": "https://www.denofgeek.com/msn/15-movie-details-that-stick-in-your-brain-once-you-see-them/",
-          "description": "Some movie details are so small that you could easily miss them the first time, yet once someone points them out, they become impossible to ignore. A background object, a strange piece of dialogue, a visual clue, or a tiny continuity choice can suddenly change the way you watch an entire scene. The ",
-          "date": "2026-09-09T14:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/Diseno-sin-titulo-100.jpg"
-        },
-        {
-          "title": "15 People Share the ‘Zero Expectations’ Movie That Blew Them Away",
-          "link": "https://www.denofgeek.com/msn/15-people-share-the-zero-expectations-movie-that-blew-them-away/",
-          "description": "Sometimes the best movie experiences happen when you are expecting absolutely nothing. Maybe the trailer looked terrible, the premise sounded ridiculous, or you only bought a ticket because someone else wanted to go. Then the movie starts, and somewhere along the way you realize you have seriously u",
-          "date": "2026-09-09T13:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-9-1.jpg"
-        },
-        {
-          "title": "12 People Sharing Their Unfortunate Misfortune",
-          "link": "https://www.denofgeek.com/msn/12-people-sharing-their-unfortunate-misfortune/",
-          "description": "Some days just seem determined to go wrong. A tiny mistake turns into a ridiculous problem, an innocent decision creates an unexpected disaster, or a perfectly normal moment suddenly becomes a story you will never forget. The funniest part is often how specific the bad luck can be. People online hav",
-          "date": "2026-09-09T13:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/9_9510c6.jpg"
         }
       ]
     },
@@ -230,6 +230,20 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "PlayStation 5 Getting Beautiful Adventure Game Based on Acclaimed Anime",
+          "link": "https://www.playstationlifestyle.net/2026/09/10/ps5-adventure-game-the-apothecary-diaries-anime/",
+          "description": "An unexpected adventure game based on an acclaimed anime has been announced for the PS5. Developed by Gust and published by Koei Tecmo, The Apothecary Diaries: The False Imperial Brother is a gorgeous adaptation of the anime, featuring a brand-new story by Hyuganatsu, the author behind the light nov",
+          "date": "2026-09-10T12:00:00+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps5-adventure-game-The-Apothecary-Diaries-The-False-Imperial-Brother.jpg?w=1024"
+        },
+        {
+          "title": "PlayStation Shockingly Loses Anticipated Exclusive Game to Xbox",
+          "link": "https://www.playstationlifestyle.net/2026/09/10/playstation-loses-exclusive-game-physint-to-xbox/",
+          "description": "In a shocking development, Sony Interactive Entertainment has lost a highly anticipated PlayStation exclusive game to Xbox. Kojima Productions‘ promising Physint, which Sony announced in January 2024, is now likely to be an Xbox exclusive game after Microsoft stepped in to save the project. PlayStat",
+          "date": "2026-09-10T11:00:00+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/playstation-exclusive-game-physint.jpg?w=1024"
+        },
+        {
           "title": "Square Enix RPG Remake Returns on PlayStation 5 With New Visuals & Trailer",
           "link": "https://www.playstationlifestyle.net/2026/09/09/classic-rpg-remake-returns-on-ps5-new-visuals-trailer/",
           "description": "A remake of a Square Enix RPG for PlayStation 5 has released a new trailer. The original game was first released in Japan on November 11, 1995. In 2019, a worldwide remastered version was released for PC, PlayStation 4, Xbox One, Nintendo Switch, PS Vita, iOS, and Android. On February 16, 2027, Roma",
@@ -284,26 +298,33 @@
           "description": "Sony has revealed the list of PS Plus Extra and Premium September 2026 games. As previously confirmed, popular Jagex IP RuneScape is making its console debut, with RuneScape: Dragonwilds launching straight into the catalog on day one. Complete list of games joining PS Plus Extra, Premium catalog in ",
           "date": "2026-09-09T15:41:46+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/08/ps-plus-september.jpg?w=1024"
-        },
-        {
-          "title": "Beloved Fantasy PlayStation Game’s Movie Gets Exciting Rumor",
-          "link": "https://www.playstationlifestyle.net/2026/09/09/jak-and-daxter-movie-still-in-development-rumor/",
-          "description": "A new rumor claims that the movie adaptation of a popular PlayStation game franchise may still be in development. The Naughty Dog title was first reported to be in development for a big-screen adaptation nearly five years ago. The film adaptation of Jak & Daxter is “still in development,” according ",
-          "date": "2026-09-09T15:41:09+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Beloved-Fantasy-PlayStation-Games-Movie-Gets-Exciting-Rumor.jpg?w=1024"
-        },
-        {
-          "title": "Beloved Survival Game Finally Comes to PS5 Today",
-          "link": "https://www.playstationlifestyle.net/2026/09/09/valheim-1-0-console-launch-ps5-release-day/",
-          "description": "One of the biggest and most beloved survival games of recent years on PC has finally launched on the PlayStation 5 today. After a long wait, Valheim 1.0 has arrived on September 9, 2026, and is available on the PlayStation Store for $29.99. The game will debut on PS5 and Nintendo Switch 2 alongside ",
-          "date": "2026-09-09T15:00:00+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/14.jpg?w=1024"
         }
       ]
     },
     "PlayStation Blog": {
       "url": "https://blog.playstation.com/feed/",
       "articles": [
+        {
+          "title": "Play your way with Control Resonant’s expanded Assist Mode",
+          "link": "https://blog.playstation.com/2026/09/10/play-your-way-with-control-resonants-expanded-assist-mode/",
+          "description": "Hi everyone. I’m Sergey, Lead Gameplay Designer on Control Resonant. We’re getting very close to our September 24 launch, and the team here in Espoo (and Stockholm) is incredibly excited to finally share what we’ve been building. With Control Resonant, we’re introducing a new combat system built aro",
+          "date": "2026-09-10T12:00:17+00:00",
+          "image": "https://live.staticflickr.com/65535/55508659423_c0cbabbc3b_k.jpg"
+        },
+        {
+          "title": "Muramasa: Revenant Blades launches February 4, 2027",
+          "link": "https://blog.playstation.com/2026/09/10/muramasa-revenant-blades-launches-february-4-2027/",
+          "description": "Hello, PlayStation players! Today we revealed that Muramasa: Revenant Blades, the stunning Japanese-inspired action-RPG from Vanillaware and Marvelous, will launch on February 4, 2027. Along with the release date, we also shared a new gameplay video that offers a closer look at the game’s exciting f",
+          "date": "2026-09-10T11:30:45+00:00",
+          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
+        },
+        {
+          "title": "[For Asia] PlayStation Store: August 2026’s top downloads",
+          "link": "https://blog.playstation.com/2026/09/09/20260910-top/",
+          "description": "It’s time to see which PS5, PS4, PS VR2, and free-to-play games topped last month’s download charts. In August, Black Myth Wukong, NBA 2K27 and Marvel’s Spider-Man 2 topped the charts in Asia, while EA Sports Madden NFL 27 and MARVEL Tōkon: Fighting Souls led the PS5 charts in the US.. Check out the",
+          "date": "2026-09-10T06:55:05+00:00",
+          "image": ""
+        },
         {
           "title": "(For Southeast Asia) Tokyo Game Show promotion comes to PlayStation Store",
           "link": "https://blog.playstation.com/2026/09/09/20260910-tgs/",
@@ -352,33 +373,54 @@
           "description": "It’s time to see which PS5, PS4, PS VR2, and free-to-play games topped last month’s download charts. In August, EA Sports Madden NFL 27 and MARVEL Tōkon: Fighting Souls led the PS5 charts in the US. In the EU, Call of Duty: Black Ops II continues to hold the top spot. Check out the full […]",
           "date": "2026-09-04T11:59:16+00:00",
           "image": ""
-        },
-        {
-          "title": "(For Southeast Asia) Jin Sakai returns in Ghost of Yōtei: Most Wanted",
-          "link": "https://blog.playstation.com/2026/09/03/20260904-goy/",
-          "description": "Just revealed in State of Play, Jin Sakai will be one of our playable characters in Ghost of Yōtei: Most Wanted! We are so excited to have the hero of Ghost of Tsushima back for this new mode, complete with all four of his signature stances. In case you missed our announcement last month, Ghost […]",
-          "date": "2026-09-04T05:00:58+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-        },
-        {
-          "title": "(For Southeast Asia) Until Dawn 2 launches January 28",
-          "link": "https://blog.playstation.com/2026/09/03/20260904-ud/",
-          "description": "Hi everyone! I’m Stu Tilley from Firesprite, and I’m thrilled to say it: Until Dawn 2 launches on PS5 on January 28, 2027. Get ready, because every choice you make is going to matter. Will you guide all the team of fake ghost hunting Youtubers “Dead True” (plus their plucky chicken companion!) safel",
-          "date": "2026-09-04T03:45:39+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-        },
-        {
-          "title": "(For Southeast Asia) First look at the Grand Theft Auto VI Limited-Edition DualSense Wireless Controllers",
-          "link": "https://blog.playstation.com/2026/09/03/20260904-gta/",
-          "description": "Vice City has a style all its own. From its sun-soaked streets to its bright neon lights, the city will be Leonida’s ultimate destination when players jump into Grand Theft Auto VI on November 19. At today’s State of Play, we shared a first look at two new limited edition DualSense wireless controll",
-          "date": "2026-09-04T02:47:41+00:00",
-          "image": "https://live.staticflickr.com/65535/55505866143_cb4df88743_k.jpg"
         }
       ]
     },
     "Push Square": {
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
+        {
+          "title": "Preview: Final Fantasy 7 Revelation on PS5 Is So Huge I Got Lost in Its Demo",
+          "link": "https://www.pushsquare.com/previews/final-fantasy-7-revelation-on-ps5-is-so-huge-i-got-lost-in-its-demo",
+          "description": "Revelatory. I’ve touched Final Fantasy 7 Revelation on PS5 Pro, but I’ll be brutally honest with you: I’m not entirely sure how to approach this preview. At an event in London last week, Square Enix put me in control of the Highwind and set me free to explore the concluding instalment in its well-re",
+          "date": "2026-09-10T12:00:00+00:00",
+          "image": "https://images.pushsquare.com/811f413ca4dd7/large.jpg"
+        },
+        {
+          "title": "Play the First Dragon Quest Monsters on PlayStation in Over 20 Years with PS5 Demo",
+          "link": "https://www.pushsquare.com/news/2026/09/play-the-first-dragon-quest-monsters-on-playstation-in-over-20-years-with-ps5-demo",
+          "description": "Sample the Withered World. Square Enix has released a free playable demo for its upcoming RPG, Dragon Quest Monsters: The Withered World , available now on PS5. A quick trailer shows off what you'll be able to check out: Read the full article on pushsquare.com",
+          "date": "2026-09-10T11:00:00+00:00",
+          "image": "https://images.pushsquare.com/72f6eb42e04f6/large.jpg"
+        },
+        {
+          "title": "PS5 Fighter Avatar Legends Gets Ranked Play, Low Latency Mode, More in Major Update",
+          "link": "https://www.pushsquare.com/news/2026/09/ps5-fighter-avatar-legends-gets-ranked-play-low-latency-mode-more-in-major-update",
+          "description": "Getting the Aang of it. Avatar Legends: The Fighting Game recently received patch 2.5, a pretty significant update on PS5 that adds some nice new features to the fighter. Most notably, ranked online matches are now available on PS5 as well as other platforms, with full cross platform play available.",
+          "date": "2026-09-10T10:30:00+00:00",
+          "image": "https://images.pushsquare.com/ab503f68a2ece/large.jpg"
+        },
+        {
+          "title": "Until Dawn 2 PS5 Price Is Lower Than Expected at £45",
+          "link": "https://www.pushsquare.com/news/2026/09/until-dawn-2-ps5-price-is-lower-than-expected-at-p45",
+          "description": "Cheaper yet still high quality. Pre-orders for Until Dawn 2 have gone live today , and they finally reveal the price you shall have to pay for the upcoming PS5 exclusive. And it's good news on that front: Until Dawn 2 is priced at £44.99 in the UK for the base digital version. Read the full article ",
+          "date": "2026-09-10T09:45:00+00:00",
+          "image": "https://images.pushsquare.com/48afcf4bac645/large.jpg"
+        },
+        {
+          "title": "Guide: Where to Pre-Order GTA 6 Controllers for PS5",
+          "link": "https://www.pushsquare.com/guides/where-to-pre-order-gta-6-controllers-for-ps5",
+          "description": "USA, UK links to pre-order GTA 6 limited edition PS5 controllers. Ahead of the title's release on 19th November 2026, Sony and Rockstar have teamed up to offer two PS5 limited-edition controllers themed around GTA 6 . There's a black one and a white one, with both sporting a blue / purple faceplate ",
+          "date": "2026-09-10T09:20:00+00:00",
+          "image": "https://images.pushsquare.com/db097012c3002/large.jpg"
+        },
+        {
+          "title": "Sony Cancels Physint Development, Xbox Picks Up Project",
+          "link": "https://www.pushsquare.com/news/2026/09/sony-cancels-physint-development-xbox-picks-up-project",
+          "description": "Hideo Kojima game now under Xbox's wing. PlayStation has confirmed its decision to \"step away\" from the development of Physint , the new Metal Gear Solid -esque project from Kojima Productions that was announced a few years ago. In a statement posted to social media, Sony explained: \"After careful c",
+          "date": "2026-09-10T06:45:00+00:00",
+          "image": "https://images.pushsquare.com/62adbd2b2fb1c/large.jpg"
+        },
         {
           "title": "The Surprisingly Good Twisted Metal TV Series Wraps Filming on Season 3",
           "link": "https://www.pushsquare.com/news/2026/09/the-surprisingly-good-twisted-metal-tv-series-wraps-filming-on-season-3",
@@ -406,48 +448,6 @@
           "description": "Slayhem mode detailed. Publisher Spike Chunsoft has revealed the release date for Danganronpa 2x2 , the expanded remake of the second instalment in the visual novel series. Check out the new trailer, which ends with a release date of 14th January 2027: Read the full article on pushsquare.com",
           "date": "2026-09-09T16:30:00+00:00",
           "image": "https://images.pushsquare.com/59c4313a54d22/large.jpg"
-        },
-        {
-          "title": "10 PS Plus Extra, Premium Games for September 2026 Announced",
-          "link": "https://www.pushsquare.com/news/2026/09/10-ps-plus-extra-premium-games-for-september-2026-announced",
-          "description": "A scattershot approach. Sony has confirmed that ten PS5 and PS4 titles will be heading to PS Plus Extra and PS Plus Premium this month. The games are as follows: Read the full article on pushsquare.com",
-          "date": "2026-09-09T15:30:00+00:00",
-          "image": "https://images.pushsquare.com/a853bf4d2f9be/large.jpg"
-        },
-        {
-          "title": "Metal Slug Ultimate Collection Brings All the Classics to PS5, and a Brand New Game Is in the Works",
-          "link": "https://www.pushsquare.com/news/2026/09/metal-slug-ultimate-collection-brings-all-the-classics-to-ps5-and-a-brand-new-game-is-in-the-works",
-          "description": "That's a lot of Metal Slug. Publisher SNK has announced Metal Slug Ultimate Collection , as well as a brand new entry in the arcade shooter series. The news comes via today's Nintendo Direct , but the collection has also been confirmed for PS5 via this new trailer: Read the full article on pushsquar",
-          "date": "2026-09-09T15:10:00+00:00",
-          "image": "https://images.pushsquare.com/da4e17a0f55c4/large.jpg"
-        },
-        {
-          "title": "Long Lost Dragon Quest Spin-Off Torneko's Mystery Dungeon Is Remastered on PS5 Today",
-          "link": "https://www.pushsquare.com/news/2026/09/long-lost-dragon-quest-spin-off-tornekos-mystery-dungeon-is-remastered-on-ps5-today",
-          "description": "Golden oldies. Well here's an announcement I don't think anyone saw coming. Square Enix has remastered an ancient Dragon Quest spin-off, and it's releasing today on PS5. Read the full article on pushsquare.com",
-          "date": "2026-09-09T15:05:00+00:00",
-          "image": "https://images.pushsquare.com/42d1e4a682b1a/large.jpg"
-        },
-        {
-          "title": "Feature: 40+ PS5, PS4 Games to Buy in PS Store's Tokyo Game Show Sale",
-          "link": "https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-ps-stores-tokyo-game-show-sale",
-          "description": "Recommended games going cheap. Tokyo Game Show is due to get started very soon, and Sony's latest sale promotes the show. On from now until 23rd September, the Tokyo Game Show sale includes thousands of PS5 and PS4 games going cheap, and that can be a lot to look through. Read the full article on pu",
-          "date": "2026-09-09T15:00:00+00:00",
-          "image": "https://images.pushsquare.com/046eae3ea24de/large.jpg"
-        },
-        {
-          "title": "Professor Layton Debuts on PS5 This December, New World of Steam Gets Release Date",
-          "link": "https://www.pushsquare.com/news/2026/09/professor-layton-debuts-on-ps5-this-december-new-world-of-steam-gets-release-date",
-          "description": "Puzzler offers something different after GTA 6. Level-5 has announced that Professor Layton's debut on PS5 will round out the year, with Professor Layton and the New World of Steam now confirmed for a 10th December 2026 release. If you need to play something completely different after GTA 6 , why no",
-          "date": "2026-09-09T14:45:00+00:00",
-          "image": "https://images.pushsquare.com/a16226bae2b02/large.jpg"
-        },
-        {
-          "title": "Dawnwalker Dev Gearing Up for Sequel After Promising a Franchise",
-          "link": "https://www.pushsquare.com/news/2026/09/dawnwalker-dev-gearing-up-for-sequel-after-promising-a-franchise",
-          "description": "A new dawn. Long before The Blood of Dawnwalker even released, developer Rebel Wolves made its intentions clear: this game was going to be the starting point for an entire franchise. At the time, it felt like a pretty arrogant statement to make, but now that Dawnwalker's here and racking up healthy ",
-          "date": "2026-09-09T13:30:00+00:00",
-          "image": "https://images.pushsquare.com/7878217419739/large.jpg"
         }
       ]
     },
