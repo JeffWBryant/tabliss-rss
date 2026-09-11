@@ -1,9 +1,30 @@
 {
-  "updated": "2026-09-11T20:48:06.964982+00:00",
+  "updated": "2026-09-11T23:07:55.607377+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘V/H/S: SCP’ Sets 2027 Theatrical Relase As A24 Boards",
+          "link": "https://bloody-disgusting.com/movie/3967426/v-h-s-scp-sets-2027-theatrical-relase-as-a24-boards/",
+          "description": "V/H/S/MIXTAPE is arriving this October, but the next installment, V/H/S: SCP, has officially been set for 2027. It’ll be the first entry to receive a theatrical release. What’s more, A24 has boarded the new installment of the long-running anthology series, Deadline reports. V/H/S: SCP will be framed",
+          "date": "2026-09-11T22:25:55+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Stuffed’ Review: Jodie Comer & Harry Melling Find Love In Macabre Taxidermy Musical [TIFF 2026]",
+          "link": "https://bloody-disgusting.com/reviews/3967419/stuffed-review-jodie-comer-harry-melling-find-love-in-macabre-taxidermy-musical-tiff-2026/",
+          "description": "A lonely man seeking an escape from mundanity volunteers to become taxidermized in Stuffed, a morbid musical feature debut from director Theo Rhys, who co-writes with Joss Holden-Rea. Jodie Comer (28 Years Later) and Harry Melling (The Pale Blue Eye) delight as a quirky pair of oddballs courting lif",
+          "date": "2026-09-11T21:57:04+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/3skullrating-black.png?resize=224%2C60&#038;ssl=1"
+        },
+        {
+          "title": "‘Halloween: The Game’ Rolls Out Second Patch Update – Here’s the Full List of Changes",
+          "link": "https://bloody-disgusting.com/video-games/3967412/halloween-the-game-rolls-out-second-patch-update-heres-the-full-list-of-changes/",
+          "description": "Halloween: The Game has been available for a full week at this point, and developers Illfonic have announced a second patch update for the game that will be rolling out today. The team explains, “Since our Early Access launch, our team has been working hard to quickly address reported bugs, improve ",
+          "date": "2026-09-11T20:48:36+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/patch-notes-102-scaled.jpg?resize=2560%2C1440&#038;ssl=1"
+        },
         {
           "title": "‘The Mandela Catalogue’ – Steven Spielberg Produced Horror Movie Will Release in Summer 2028",
           "link": "https://bloody-disgusting.com/movie/3967402/the-mandela-catalogue-steven-spielberg-produced-horror-movie-will-release-in-summer-2028/",
@@ -52,27 +73,6 @@
           "description": "Jane Levy makes a triumphant return to the genre in writer/director Joshua Giuliano‘s suspenseful feature, River, which pits a trio of siblings against a relentless masked killer. Levy’s ferocious commitment to the physical demands of horror’s visceral nature elevates a fairly standard, but edge-of-",
           "date": "2026-09-11T18:03:46+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/River_PRImage21-Shannon-Attaway.jpg?resize=1024%2C427&#038;ssl=1"
-        },
-        {
-          "title": "‘Capturing Bigfoot’ Trailer – New Documentary Promises to Change the Bigfoot Game Forever",
-          "link": "https://bloody-disgusting.com/movie/3967328/capturing-bigfoot-trailer-new-documentary-promises-to-change-the-bigfoot-game-forever/",
-          "description": "In 1967, fifty-nine seconds of footage was captured in Northern California, and it became the single most infamous piece of cryptozoological footage in the history of the field. We’re of course referring to the famous Patterson-Gimlin footage, which allegedly captures a real-life Bigfoot in the wild",
-          "date": "2026-09-11T17:42:40+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Wrong Number’ – Kid Cudi Directing and Starring in Stalker Horror Movie",
-          "link": "https://bloody-disgusting.com/movie/3967312/wrong-number-kid-cudi-directing-and-starring-in-stalker-horror-movie/",
-          "description": "Scott “Kid Cudi” Mescudi is headed back into the director’s chair for his second movie, with Deadline revealing that it’s a horror project that Mescudi himself will also be starring in. The film is titled Wrong Number, and Barbie Ferreira (Faces of Death) will also star. Director Scott Mescudi’s Wro",
-          "date": "2026-09-11T17:17:53+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/03/facesofdeath-BarbieFerreira.jpg?resize=1280%2C720&#038;ssl=1"
-        },
-        {
-          "title": "Slender Man’s Original Appearance Was an Edited Photo of a ‘Phantasm’ Action Figure?!",
-          "link": "https://bloody-disgusting.com/news/3967311/slender-mans-original-appearance-was-an-edited-photo-of-a-phantasm-action-figure/",
-          "description": "One of the coolest aspects of collective online storytelling is how the mythology behind our favorite internet-based monsters and Creepypastas is constantly evolving. Even the fan-appointed mascot of internet horror himself has changed a lot over the years, with the iconic Slender Man first showing ",
-          "date": "2026-09-11T17:07:11+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/image_2026-09-11_135544606.png?resize=1000%2C881&#038;ssl=1"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Talking Point: What Are You Playing This Weekend? - Issue 649",
+          "link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-649",
+          "description": "Cool kids. There's loads to play on PS5 right now, and even more is right around the corner. Here are the games that are keeping all of us entertained this weekend. Jamie O'Neill I'm carving my way through UEP Systems' PS1 Cool Boarders on my PS Vita to belatedly celebrate the Japanese release's 30t",
+          "date": "2026-09-11T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/46d97151e13a1/large.jpg"
+        },
+        {
           "title": "Moss PSVR2 Dev Polyarc Closed After 12 Years of Games",
           "link": "https://www.pushsquare.com/news/2026/09/moss-psvr2-dev-polyarc-closed-after-12-years-of-games",
           "description": "\"Our work is now finished\". Polyarc, the studio behind PSVR classics Moss and its Book II sequel, has shut down as of today, 11th September 2026. The developer's LinkedIn page broke the news, stating: \"After nearly 12 years riding the joyous rollercoaster of emotions that is making video games, our ",
@@ -441,13 +448,6 @@
           "description": "Lost in the clouds. Bandai Namco really is going all-out for Ace Combat 8: Wings of Theve . Not only is the title itself stepping things up with big jumps in visuals and the largest multiplayer component the series has ever seen, but the publisher is splashing the cash on things like this: a live ac",
           "date": "2026-09-10T17:00:00+00:00",
           "image": "https://images.pushsquare.com/d44aae6f467e9/large.jpg"
-        },
-        {
-          "title": "Review: Marvel's Wolverine (PS5) - The Ultimate Wolverine Simulator",
-          "link": "https://www.pushsquare.com/reviews/ps5/marvels-wolverine",
-          "description": "Bloody nora, bub. Marvel’s Wolverine is a great video game. If such a thing could be looked up in the dictionary, you’d find Logan and his bared claws staring back. In fact, I can’t remember a time when our own review scoring policy has described a game better: Read the full article on pushsquare.co",
-          "date": "2026-09-10T15:00:00+00:00",
-          "image": "https://images.pushsquare.com/351f11f76d30f/large.jpg"
         }
       ]
     },
