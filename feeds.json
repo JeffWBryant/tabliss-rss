@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-10T22:23:33.664653+00:00",
+  "updated": "2026-09-11T00:25:36.675197+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Stung’ – Odeya Rush and More Join Justin Long in Killer Bee Horror Movie",
+          "link": "https://bloody-disgusting.com/movie/3967259/stung-odeya-rush-and-more-join-justin-long-in-killer-bee-horror-movie/",
+          "description": "Justin Long (Barbarian) and Iris Apatow (Pretty Lethal) will lead the cast of the killer bee horror movie Stung, and Deadline reports that Odeya Rush (Goosebumps) also stars. Additionally, Annarah Cymone and Neela Jolene will co-star. Colin Minihan (Grave Encounters, Extraterrestrial) directs the fi",
+          "date": "2026-09-10T23:58:39+00:00",
+          "image": ""
+        },
         {
           "title": "‘Buzzkill’ Trailer – Getting Drunk Is the Only Way to Stay Alive in Tubi’s Slasher Movie",
           "link": "https://bloody-disgusting.com/movie/3967253/buzzkill-trailer-getting-drunk-is-the-only-way-to-stay-alive-in-tubis-slasher-movie/",
@@ -65,13 +72,6 @@
           "link": "https://bloody-disgusting.com/video-games/3967161/go-behind-the-genesis-of-end-of-abyss-in-new-developer-video-watch/",
           "description": "With Section 9 Interactive’s upcoming sci-fi horror shooter End of Abyss launching just in time for the Halloween season, the devteam has dropped a behind-the-scenes video as a way to get to know the team behind the action adventure title. Titled “Entering the Facility: Meet the Creators”, the video",
           "date": "2026-09-10T16:00:06+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Black Sheeps’ First Look – Sequel to Horror-Comedy ‘Black Sheep’ Will World Premiere This October",
-          "link": "https://bloody-disgusting.com/movie/3967219/black-sheeps-first-look-sequel-to-horror-comedy-black-sheep-will-world-premiere-this-october/",
-          "description": "Writer/Director Jonathan King’s 2006 wacky zombie comedy Black Sheep is finally getting a sequel, and we’ve got the official title along with a first look image from the upcoming film. It’s titled Black Sheeps, and it’s set to World Premiere at the Sitges Film Festival in October! 20 years after the",
-          "date": "2026-09-10T15:14:45+00:00",
           "image": ""
         }
       ]
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Top Horror Movies Streaming This Week",
+          "link": "https://www.fangoria.com/top-horror-movies-streaming-this-week/",
+          "description": "This week brings scary movies from the past to the forefront, with EDEN LAKE, IN THE EARTH, THE VISIT, and ALIENS among the most-streamed films this week. Take a look at the newest list at FANGORIA.",
+          "date": "2026-09-11T00:12:01+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/MV5BYWNhMTIyMjAtODlkOC00MjcxLWE1OTUtZTc1YTlkZTYzZmYyXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
           "title": "SINNERS Star Li Jun Li Leads New Hulu Thriller Series VICTORIA",
           "link": "https://www.fangoria.com/li-jun-li-series-victoria/",
           "description": "Li Jun Li, star of SINNERS and THE LAST OF US Season 3, is set to lead Hulu's new thriller series VICTORIA. Get all the details here.",
@@ -216,13 +223,6 @@
           "description": "Sad boy mage Jace is screwing everything up in the multiverse, and he’s recreating the powerful, big, mean Ghalta the dinosaur in his own image.",
           "date": "2026-09-09T18:06:03+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/MTG-reality-fracture-header.jpg"
-        },
-        {
-          "title": "A Black Veil Is Cast Over France In THE ONES WHO GRIEVE Trailer",
-          "link": "https://www.fangoria.com/the-ones-who-grieve-trailer/",
-          "description": "Watch the first trailer for THE ONES WHO GRIEVE, which has its world premiere at Fantastic Fest this month.",
-          "date": "2026-09-09T17:15:43+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/AmesEnPeine_ENG-1.jpg"
         }
       ]
     },
