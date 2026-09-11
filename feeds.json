@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T05:04:43.742524+00:00",
+  "updated": "2026-09-11T09:56:54.295727+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Monstrous Musings: We Have Such Sights to Show You… Cool, Bro… But Could You Describe Them Too?",
+          "link": "https://www.fangoria.com/monstrous-musings-audio-descriptions/",
+          "description": "How audio description is waving more fright fans into the fold.",
+          "date": "2026-09-11T07:00:09+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/TinaGrey.webp"
+        },
+        {
           "title": "Top Horror Movies Streaming This Week",
           "link": "https://www.fangoria.com/top-horror-movies-streaming-this-week/",
           "description": "This week brings scary movies from the past to the forefront, with EDEN LAKE, IN THE EARTH, THE VISIT, and ALIENS among the most-streamed films this week. Take a look at the newest list at FANGORIA.",
@@ -216,13 +223,6 @@
           "description": "Boston-based Chef Joe Gatto is trading kitchens for killers with a new take on Joe R. Lansdale's 2007 novel.",
           "date": "2026-09-09T18:45:06+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/LOST-ECHOES.jpg.avif"
-        },
-        {
-          "title": "Magic: The Gathering’s REALITY FRACTURE: Jace, What Have You Done to Ghalta?!",
-          "link": "https://www.fangoria.com/magic-the-gatherings-reality-fracture-jace-what-have-you-done-to-ghalta/",
-          "description": "Sad boy mage Jace is screwing everything up in the multiverse, and he’s recreating the powerful, big, mean Ghalta the dinosaur in his own image.",
-          "date": "2026-09-09T18:06:03+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/MTG-reality-fracture-header.jpg"
         }
       ]
     },
