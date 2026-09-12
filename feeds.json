@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T14:18:57.639439+00:00",
+  "updated": "2026-09-12T17:23:32.263939+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Poll: Are You Hyped for These 10 New PS Plus Games?",
+          "link": "https://www.pushsquare.com/features/poll-are-you-hyped-for-these-10-new-ps-plus-games1",
+          "description": "Plus or minus? 10 new games are being added across PS Plus Extra and PS Plus Premium this month, but compared to August's super strong offering , I can see September's lineup being met with some criticism. Honestly I'm not quite sure what the headline act is for Extra this time around. Co-op surviva",
+          "date": "2026-09-12T16:00:00+00:00",
+          "image": "https://images.pushsquare.com/698f67f39a2ab/large.jpg"
+        },
+        {
           "title": "Guide: These 25+ PS5 Games Are Coming Out Next Week (14th-20th September)",
           "link": "https://www.pushsquare.com/guides/these-25plus-ps5-games-are-coming-out-next-week-14th-20th-september",
           "description": "Wolverine! RuneScape! Trails! We're properly in the thick of the September madness now. Next week on PS Store sees the release of another 25 or so games, coming off the back of last week's list of 20-odd titles. There are a couple of big ones in the crowd to watch out for, most notably Marvel's Wolv",
@@ -441,13 +448,6 @@
           "description": "Will it ever come out? Publisher and developer Level-5 has officially pushed back Decapolice , its sci-fi detective RPG. The game, which was most recently slated for 2026, is now scheduled for sometime in 2027. Read the full article on pushsquare.com",
           "date": "2026-09-10T18:00:00+00:00",
           "image": "https://images.pushsquare.com/a9ddeb0beb2f1/large.jpg"
-        },
-        {
-          "title": "First Professor Layton Game Gets PS5 Remake, Curious Village Out in 2027",
-          "link": "https://www.pushsquare.com/news/2026/09/first-professor-layton-game-gets-ps5-remake-curious-village-out-in-2027",
-          "description": "Layton overload on PS5. You'll be able to play the latest Professor Layton title, the New World of Steam , on PS5 this December as the character makes his PlayStation debut. However, also, the original title that started the series is being remade. Level-5 has announced today in its latest livestrea",
-          "date": "2026-09-10T17:30:00+00:00",
-          "image": "https://images.pushsquare.com/b53fba62e1cb4/large.jpg"
         }
       ]
     },
