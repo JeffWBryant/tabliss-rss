@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T19:35:41.147875+00:00",
+  "updated": "2026-09-12T22:06:24.882575+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -378,8 +378,78 @@
     },
     "Push Square": {
       "url": "https://www.pushsquare.com/feeds/latest",
-      "articles": [],
-      "error": "403 Client Error: Forbidden for url: https://www.pushsquare.com/feeds/latest"
+      "articles": [
+        {
+          "title": "Feature: Going Platinum: I've Still Not Played Anything Else Quite Like Paradise Killer",
+          "link": "https://www.pushsquare.com/features/going-platinum-ive-still-not-played-anything-else-quite-like-paradise-killer",
+          "description": "A unique case. Platinum Trophy #36: Paradise Killer Date Earned: 22nd March 2022 Read the full article on pushsquare.com",
+          "date": "2026-09-12T19:00:00+00:00",
+          "image": "https://images.pushsquare.com/0f5fcff689120/large.jpg"
+        },
+        {
+          "title": "Poll: Are You Hyped for These 10 New PS Plus Games?",
+          "link": "https://www.pushsquare.com/features/poll-are-you-hyped-for-these-10-new-ps-plus-games1",
+          "description": "Plus or minus? 10 new games are being added across PS Plus Extra and PS Plus Premium this month, but compared to August's super strong offering , I can see September's lineup being met with some criticism. Honestly I'm not quite sure what the headline act is for Extra this time around. Co-op surviva",
+          "date": "2026-09-12T16:00:00+00:00",
+          "image": "https://images.pushsquare.com/698f67f39a2ab/large.jpg"
+        },
+        {
+          "title": "Guide: These 35+ PS5 and PS Plus Games Are Coming Out Next Week (14th-20th September)",
+          "link": "https://www.pushsquare.com/guides/these-35plus-ps5-and-ps-plus-games-are-coming-out-next-week-14th-20th-september",
+          "description": "Wolverine! RuneScape! Trails! We're properly in the thick of the September madness now. Next week on PS Store sees the release of another 25 or so games, coming off the back of last week's list of 20-odd titles. There are a couple of big ones in the crowd to watch out for, most notably Marvel's Wolv",
+          "date": "2026-09-12T11:00:00+00:00",
+          "image": "https://images.pushsquare.com/0fd286f81cb6a/large.jpg"
+        },
+        {
+          "title": "Talking Point: What Are You Playing This Weekend? - Issue 649",
+          "link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-649",
+          "description": "Cool kids. There's loads to play on PS5 right now, and even more is right around the corner. Here are the games that are keeping all of us entertained this weekend. Jamie O'Neill I'm carving my way through UEP Systems' PS1 Cool Boarders on my PS Vita to belatedly celebrate the Japanese release's 30t",
+          "date": "2026-09-11T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/46d97151e13a1/large.jpg"
+        },
+        {
+          "title": "Moss PSVR2 Dev Polyarc Closed After 12 Years of Games",
+          "link": "https://www.pushsquare.com/news/2026/09/moss-psvr2-dev-polyarc-closed-after-12-years-of-games",
+          "description": "\"Our work is now finished\". Polyarc, the studio behind PSVR classics Moss and its Book II sequel, has shut down as of today, 11th September 2026. The developer's LinkedIn page broke the news, stating: \"After nearly 12 years riding the joyous rollercoaster of emotions that is making video games, our ",
+          "date": "2026-09-11T20:45:00+00:00",
+          "image": "https://images.pushsquare.com/062420aa4d5a6/large.jpg"
+        },
+        {
+          "title": "Multiplayer Shooter Wardogs Confirmed for PS5 as Early Access Launch Goes Nuclear",
+          "link": "https://www.pushsquare.com/news/2026/09/multiplayer-shooter-wardogs-confirmed-for-ps5-as-early-access-launch-goes-nuclear",
+          "description": "Boom. Publisher Team 17 and developer BULKHEAD have confirmed console versions of Wardogs , which is proving to be extremely popular in its early stages. The game launched into Early Access on Steam yesterday, 10th September 2026, and it has already sold more than 1.25 million copies. Read the full ",
+          "date": "2026-09-11T16:00:00+00:00",
+          "image": "https://images.pushsquare.com/1d0b8f85b3239/large.jpg"
+        },
+        {
+          "title": "Sony Stopped Physint Development Over Budget, Exclusivity Concerns",
+          "link": "https://www.pushsquare.com/news/2026/09/sony-stopped-physint-development-over-budget-exclusivity-concerns",
+          "description": "Project missed deadlines and on track to go over budget. Missed deadlines, being on track to go over budget, and a lack of permanent exclusivity are reportedly the reasons Sony decided to stop development of Physint , a new Bloomberg report claims. Speaking to sources familiar with the project, jour",
+          "date": "2026-09-11T14:15:00+00:00",
+          "image": "https://images.pushsquare.com/d42c411333ad2/large.jpg"
+        },
+        {
+          "title": "You Can Get Phantom Blade Zero's PS5 Platinum Trophy on Its Easiest Difficulty",
+          "link": "https://www.pushsquare.com/news/2026/09/you-can-get-phantom-blade-zeros-ps5-platinum-trophy-on-its-easiest-difficulty",
+          "description": "Hard mode optional. If you've been wondering about the Trophies for upcoming action game Phantom Blade Zero , it's been revealed it won't be as tough to complete as you may have thought. The PS5 console-exclusive will of course have a full set of trinkets to unlock, including the all-important plati",
+          "date": "2026-09-11T14:00:00+00:00",
+          "image": "https://images.pushsquare.com/440ffddc7ddd7/large.jpg"
+        },
+        {
+          "title": "This PS5 Gameplay Trailer Is Our Best Look Yet at Fairgames",
+          "link": "https://www.pushsquare.com/news/2026/09/this-ps5-gameplay-trailer-is-our-best-look-yet-at-fairgames",
+          "description": "Project Espresso playtest incoming. A trailer has been doing the rounds for a game known only as Project Espresso, which is the codename for Sony's live service multiplayer shooter, Fairgames . Fairgames — which might have changed its name to Break In — was announced during a State of Play years ago",
+          "date": "2026-09-11T10:45:00+00:00",
+          "image": "https://images.pushsquare.com/f2c47f85efde9/large.jpg"
+        },
+        {
+          "title": "Wolverine PS5 Is One of the Lowest Rated First-Party Sony Games of the Generation",
+          "link": "https://www.pushsquare.com/news/2026/09/wolverine-ps5-is-one-of-the-lowest-rated-first-party-sony-games-of-the-generation",
+          "description": "How Logan you go. Reviews for Marvel's Wolverine have dropped, and it's fair to say that many of them are a bit disappointing. At the time of writing, Insomniac Games' big budget action title sits at an eyebrow-raising 77 on Metacritic , based on just over 100 evaluations. Read the full article on p",
+          "date": "2026-09-10T19:00:00+00:00",
+          "image": "https://images.pushsquare.com/922c336b153dd/large.jpg"
+        }
+      ]
     },
     "Steam": {
       "url": "https://store.steampowered.com/feeds/news.xml",
