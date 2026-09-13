@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-13T21:03:47.893782+00:00",
+  "updated": "2026-09-13T23:23:41.556814+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Zach Cregger’s ‘Resident Evil’ Features Practical Monsters, Including A 2000 Lbs Puppet Built By A SFX Legend",
+          "link": "https://bloody-disgusting.com/interviews/3967450/resident-evil-practical-effects-interview/",
+          "description": "The first 30 minutes of Zach Cregger‘s original take on Resident Evil that was screened for the press bears many familiar earmarks of the video games, from the intense first zombie encounter to the search for weapons and ammo. Fans of the games know that means the nightmare is only warming up for Au",
+          "date": "2026-09-13T21:35:00+00:00",
+          "image": ""
+        },
         {
           "title": "Ranking All 12 ‘The Creep Tapes’ Episodes Ahead of Season 3",
           "link": "https://bloody-disgusting.com/editorials/3930500/ranking-all-12-the-creep-tapes-episodes-ahead-of-season-3/",
@@ -65,13 +72,6 @@
           "link": "https://bloody-disgusting.com/movie/3967394/the-last-kiss-trailer-mckenna-grace-stars-in-romantic-blumhouse-slasher-releasing-next-week/",
           "description": "Every so often, a new horror movie comes out of nowhere. That’s definitely the case with Blumhouse Atomic Monster’s The Last Kiss, which is headed straight to Digital on September 15. Less than a week before the film premieres, the official trailer has arrived this afternoon. Slash into the official",
           "date": "2026-09-11T20:12:56+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘River’ Director To Helm ‘Occupant’ For Blumhouse Atomic Monster And Focus Features",
-          "link": "https://bloody-disgusting.com/movie/3967392/river-director-to-helm-occupant-for-blumhouse-atomic-monster-and-focus-features/",
-          "description": "Hot off a successful world premiere at TIFF for his feature debut, River filmmaker Josh Giuliano has been set to direct Occupant. Blumhouse Atomic Monster, Focus Features, Divide/Conquer and Spooky Pictures have signed on for Josh Giuliano’s next film. Focus Features has worldwide rights, with Unive",
-          "date": "2026-09-11T20:03:49+00:00",
           "image": ""
         }
       ]
