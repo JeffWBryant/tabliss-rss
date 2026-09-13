@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-13T10:32:09.594565+00:00",
+  "updated": "2026-09-13T14:52:32.971378+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘L’AUTRE’ Review: A Paranoid Medical Satire Highlights Hospital Horrors [TIFF 2026]",
+          "link": "https://bloody-disgusting.com/reviews/3966998/lautre-review-a-paranoid-medical-satire-highlights-hospital-horrors-tiff-2026/",
+          "description": "If there’s one reason for horror fans to check out writer/director Alexandre Franchi’s L’AUTRE, it’s the medical horror. The film opens with an extended surgery sequence, filmed in gory close-up with excruciating foley work, as protagonist Stan (Pierre-Yves Cardinal) has the bones in his kneecap and",
+          "date": "2026-09-13T14:00:04+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/LAUTRE-Still_03.jpg?resize=1024%2C431&#038;ssl=1"
+        },
         {
           "title": "‘V/H/S: SCP’ Sets 2027 Theatrical Release As A24 Boards",
           "link": "https://bloody-disgusting.com/movie/3967426/v-h-s-scp-sets-2027-theatrical-relase-as-a24-boards/",
@@ -66,13 +73,6 @@
           "description": "If you’re into spider horror, you’re in luck this week. Two brand new arachnid nightmares released this week, one available on Digital outlets at home and one now playing only in theaters. And they’re not the only new horror movies this week has offered up… Here are the new horror movies that releas",
           "date": "2026-09-11T19:05:38+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Portal-To-Hell-Still-9-scaled-1.png?resize=1600%2C900&#038;ssl=1"
-        },
-        {
-          "title": "‘River’ Review: Jane Levy Makes A Ferocious Horror Return In Throwback Slasher [TIFF 2026]",
-          "link": "https://bloody-disgusting.com/reviews/3967317/river-review-jane-levy-makes-a-ferocious-horror-return-in-throwback-slasher-tiff-2026/",
-          "description": "Jane Levy makes a triumphant return to the genre in writer/director Joshua Giuliano‘s suspenseful feature, River, which pits a trio of siblings against a relentless masked killer. Levy’s ferocious commitment to the physical demands of horror’s visceral nature elevates a fairly standard, but edge-of-",
-          "date": "2026-09-11T18:03:46+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/River_PRImage21-Shannon-Attaway.jpg?resize=1024%2C427&#038;ssl=1"
         }
       ]
     },
@@ -230,6 +230,20 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "Hit PS5 Adventure Game by Xbox Half Price on PS Store With DLC",
+          "link": "https://www.playstationlifestyle.net/2026/09/13/indiana-jones-great-circle-ps-store-deal-september-2026/",
+          "description": "An acclaimed 2024 Xbox Game Studios PS5 action-adventure game is half price in a limited-time PS Store deal that includes all of its DLC. Developed by MachineGames, Indiana Jones and the Great Circle Premium Edition is part of PS Store’s Tokyo Game Show 2026 promotion. Indiana Jones and the Great Ci",
+          "date": "2026-09-13T11:43:15+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/indiana-jones-great-circle-ps-store-deal.jpg?w=1024"
+        },
+        {
+          "title": "PlayStation Makes Sneaky Update to Celebrate Wolverine PS5",
+          "link": "https://www.playstationlifestyle.net/2026/09/13/playstation-app-update-wolverine-ps5-themed-icon/",
+          "description": "PlayStation has sneaked in a nifty little update to celebrate the launch of Insomniac Games’ PS5 exclusive Marvel’s Wolverine. Yesterday, Sony Interactive Entertainment pushed out an update to the PS App that changes its trademark blue icon to a Wolverine-themed one. PlayStation App update with new ",
+          "date": "2026-09-13T11:16:33+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/playstation-app-update.jpg?w=1024"
+        },
+        {
           "title": "2 Beloved Resident Evil Games Are 80% Off on PlayStation Store",
           "link": "https://www.playstationlifestyle.net/2026/09/11/resident-evil-games-80-percent-off-playstation-store/",
           "description": "Two beloved Resident Evil games have been heavily discounted on the PlayStation Store. The post 2 Beloved Resident Evil Games Are 80% Off on PlayStation Store appeared first on PlayStation LifeStyle .",
@@ -284,20 +298,6 @@
           "description": "PS5 is getting a complete, enhanced port of an acclaimed PS Vita RPG soon, and its price won’t break the bank. Muramasa: Revenant Blades brings a ‘refined’ version of 2013’s Muramasa: Rebirth and its DLC, Genroku Legends, in a single package. Acclaimed PS Vita RPG Muramasa: Revenant Blades coming to",
           "date": "2026-09-11T12:10:37+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/06/ps5-rpg-muramasa.jpg?w=1024"
-        },
-        {
-          "title": "2 PS5 RPGs in Legendary Series Arrive Today on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/09/10/trails-from-zero-trails-to-azure-ps5-launch/",
-          "description": "NIS America has announced that it is bringing updated versions of The Legend of Heroes Crossbell JRPG duology to PlayStation 5. The post 2 PS5 RPGs in Legendary Series Arrive Today on PlayStation Store appeared first on PlayStation LifeStyle .",
-          "date": "2026-09-10T21:05:27+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/2-PS5-RPGs-in-Legendary-Series-Arrives-Today-on-PlayStation-Store.jpg?w=1024"
-        },
-        {
-          "title": "New PS5 Exclusive Action Game Divides Critics in First Reviews",
-          "link": "https://www.playstationlifestyle.net/2026/09/10/wolverine-review-scores-vs-spider-man-insomniac/",
-          "description": "A new PlayStation 5 exclusive game has received divisive first reviews from critics. Although the game is set to release on September 15 this year, early reviews from critics have already poured in. Moreover, the upcoming video game has received lower review scores than the developer’s previous game",
-          "date": "2026-09-10T18:50:40+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/14_a2fa0b.jpg?w=1024"
         }
       ]
     },
