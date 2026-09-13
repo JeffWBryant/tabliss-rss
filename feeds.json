@@ -1,9 +1,30 @@
 {
-  "updated": "2026-09-13T14:52:32.971378+00:00",
+  "updated": "2026-09-13T18:02:04.701416+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Ranking All 12 ‘The Creep Tapes’ Episodes Ahead of Season 3",
+          "link": "https://bloody-disgusting.com/editorials/3930500/ranking-all-12-the-creep-tapes-episodes-ahead-of-season-3/",
+          "description": "Plenty of horrific subgenres have successfully made the transition to TV over the years, but found footage has rarely made a significant splash on the small screen. That’s why I was thrilled when Patrick Brice and Mark Duplass’s Creep Tapes became just as popular as the movies it’s based on, with Sh",
+          "date": "2026-09-13T17:00:00+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/01/creep-tapes-elliot-1024x576.jpg?resize=740%2C416&#038;ssl=1"
+        },
+        {
+          "title": "Netflix’s ‘Scooby-Doo: Origins’ Wraps Production",
+          "link": "https://bloody-disgusting.com/tv/3967446/netflixs-scooby-doo-origins-wraps-production/",
+          "description": "Netflix has announced today that “Scooby-Doo: Origins” has officially wrapped production. The series will launch globally on Netflix in 2027. “Scooby-Doo: Origins” marks the first time in the Scooby-Doo franchise that the character of Scooby-Doo will be portrayed by a real Great Dane, as seen in the",
+          "date": "2026-09-13T15:53:25+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/EN-US_SCO-S1_Teaser_Vertical_4x5.jpg?resize=820%2C1024&#038;ssl=1"
+        },
+        {
+          "title": "‘Crystal Lake’ Trailer – Find Out What Jason Voorhees Really Is This Halloween Season",
+          "link": "https://bloody-disgusting.com/tv/3967272/crystal-lake-trailer-find-out-what-jason-voorhees-really-is-this-halloween-season/",
+          "description": "The original horror classic Friday the 13th gets a brand new prequel series with A24 and Peacock’s “Crystal Lake” this Halloween season, and the official trailer has arrived. Before Jason, there was Pamela… The official trailer begins in Summer 1971, with a young Jason Voorhees drowning in Crystal L",
+          "date": "2026-09-13T15:30:22+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/NUP_207979_01517_RF-scaled.jpg?resize=2560%2C1707&#038;ssl=1"
+        },
         {
           "title": "‘L’AUTRE’ Review: A Paranoid Medical Satire Highlights Hospital Horrors [TIFF 2026]",
           "link": "https://bloody-disgusting.com/reviews/3966998/lautre-review-a-paranoid-medical-satire-highlights-hospital-horrors-tiff-2026/",
@@ -52,27 +73,6 @@
           "description": "Hot off a successful world premiere at TIFF for his feature debut, River filmmaker Josh Giuliano has been set to direct Occupant. Blumhouse Atomic Monster, Focus Features, Divide/Conquer and Spooky Pictures have signed on for Josh Giuliano’s next film. Focus Features has worldwide rights, with Unive",
           "date": "2026-09-11T20:03:49+00:00",
           "image": ""
-        },
-        {
-          "title": "‘Crystal Lake’ – First Look at Linda Cardellini in the Iconic Blue Mrs. Voorhees Sweater",
-          "link": "https://bloody-disgusting.com/tv/3967380/crystal-lake-first-look-at-linda-cardellini-in-the-iconic-blue-mrs-voorhees-sweater/",
-          "description": "Linda Cardellini takes on the role of Mrs. Pamela Voorhees in the upcoming Friday the 13th prequel series “Crystal Lake,” but will she be rocking that iconic blue cable knit sweater that the late Betsy Palmer wore in the original 1980 horror classic? Yes, she will! The events of “Crystal Lake” take ",
-          "date": "2026-09-11T19:38:05+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/789700612_18620440036051639_4045402114979047994_n.jpg?resize=800%2C1039&#038;ssl=1"
-        },
-        {
-          "title": "‘The Devils’ Review: Ken Russell’s Masterpiece Has Never Been More Relevant Or Beautiful [TIFF 2026]",
-          "link": "https://bloody-disgusting.com/reviews/3967266/the-devils-review-ken-russells-masterpiece-has-never-been-more-relevant-or-beautiful-tiff-2026/",
-          "description": "Writer/Director Ken Russell is nothing if not audacious. His films have been decried, censored, cut to ribbons, and outright banned. It’s no real surprise considering how often violence and sexuality intersect in his movies. Add in religion, and you get the trifecta of politically and culturally sen",
-          "date": "2026-09-11T19:09:04+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/the-devils-1.jpg?resize=1024%2C683&#038;ssl=1"
-        },
-        {
-          "title": "These 7 New Horror Movies Released This Week – Friday, September 11",
-          "link": "https://bloody-disgusting.com/movie/3967335/these-7-new-horror-movies-released-this-week-friday-september-11/",
-          "description": "If you’re into spider horror, you’re in luck this week. Two brand new arachnid nightmares released this week, one available on Digital outlets at home and one now playing only in theaters. And they’re not the only new horror movies this week has offered up… Here are the new horror movies that releas",
-          "date": "2026-09-11T19:05:38+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Portal-To-Hell-Still-9-scaled-1.png?resize=1600%2C900&#038;ssl=1"
         }
       ]
     },
@@ -155,6 +155,20 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "KYLGOR Lives! This Puppet Horror-Fantasy Just Shot Straight To The Top Of Our Watchlist",
+          "link": "https://www.fangoria.com/kylgor-in-the-grisly-abyss-goodbye-monster-fantastic-fest/",
+          "description": "Mason Jeffrey Newton-DeRushie's directorial debut screens alongside FANGORIA Studios' GOODBYE, MONSTER at Fantastic Fest next week.",
+          "date": "2026-09-13T16:00:57+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/images.jpeg"
+        },
+        {
+          "title": "New CRYSTAL LAKE Trailer Teases The Bloody Origins Of A Slasher Legend",
+          "link": "https://www.fangoria.com/new-crystal-lake-trailer-teases-the-bloody-origins-of-a-slasher-legend/",
+          "description": "It's almost time to go back to camp, as Peacock's FRIDAY THE 13TH prequel series premieres next month.",
+          "date": "2026-09-13T15:31:46+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/image_high-scaled.jpg"
+        },
+        {
           "title": "Jack In The Box Enters The Treehouse Of Horror For SIMPSONS-Inspired Halloween Menu",
           "link": "https://www.fangoria.com/jack-in-the-box-simpsons-halloween-menu/",
           "description": "Jack in the Box is partnering with THE SIMPSONS to bring their Treehouse of Horror episodes to life through a special Halloween menu.",
@@ -209,20 +223,6 @@
           "description": "Li Jun Li, star of SINNERS and THE LAST OF US Season 3, is set to lead Hulu's new thriller series VICTORIA. Get all the details here.",
           "date": "2026-09-10T17:32:02+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/lijunli-sinners.jpg.webp"
-        },
-        {
-          "title": "It’s An AMERICAN HORROR STORY Family Reunion In New Season 13 Trailer",
-          "link": "https://www.fangoria.com/american-horror-story-season-13-trailer-2/",
-          "description": "Watch the new trailer for AMERICAN HORROR STORY Season 13, and see how many familiar faces you can spot.",
-          "date": "2026-09-10T17:02:44+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Screenshot-2026-09-10-at-12.51.16-PM.png"
-        },
-        {
-          "title": "Something Lurks BELOW In New Trailer For Josh Hartnett-Starring Sea Monster Series",
-          "link": "https://www.fangoria.com/below-josh-hartnett-trailer/",
-          "description": "The small town horror mystery hits Netflix this October.",
-          "date": "2026-09-10T15:18:25+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/BELOW.png.webp"
         }
       ]
     },
