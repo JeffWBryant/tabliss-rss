@@ -1,9 +1,23 @@
 {
-  "updated": "2026-09-14T19:10:38.810783+00:00",
+  "updated": "2026-09-14T22:40:45.065520+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘River’ – Universal & Blumhouse Atomic Monster Closing Deal to Acquire Jane Levy & Jessica Rothe Slasher Movie",
+          "link": "https://bloody-disgusting.com/movie/3967572/river-universal-blumhouse-atomic-monster-closing-deal-to-acquire-jane-levy-jessica-rothe-slasher-movie/",
+          "description": "Hot off the film’s premiere at the Toronto International Film Festival, Indiewire reports that Universal and Blumhouse Atomic Monster are “closing a huge deal” to acquire River. Indiewire details, “River was originally backed by Independent Film Company and Shudder, but Universal and Blumhouse Atomi",
+          "date": "2026-09-14T21:05:00+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/image-2026-09-10T162355.819-scaled-1.jpg?resize=1600%2C900&#038;ssl=1"
+        },
+        {
+          "title": "The Three H.P. Lovecraft Stories Guillermo del Toro Wants to Adapt for Television",
+          "link": "https://bloody-disgusting.com/movie/3967553/guillermo-del-toro-h-p-lovecraft-adaptation-future/",
+          "description": "Long before winning an Oscar for The Shape of Water, Guillermo del Toro regularly expressed his interest in adapting H.P. Lovecraft‘s novella At the Mountains of Madness. Even with James Cameron and Tom Cruise reportedly getting on board the adaptation, del Toro ultimately confessed that, not only w",
+          "date": "2026-09-14T20:43:30+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2017/12/Guillermo-del-toro-faun-Pan.jpg?resize=2000%2C1359&#038;ssl=1"
+        },
         {
           "title": "‘American Horror Story 13’ Gets Immersive Sneak Peek Experience This Weekend",
           "link": "https://bloody-disgusting.com/the-further/3967543/american-horror-story-13-gets-immersive-sneak-peek-experience-this-weekend/",
@@ -59,26 +73,19 @@
           "description": "Premiering at Fantastic Fest next week is Godmother, a psychological horror feature produced by creators Jacksepticeye and Alanah Pearce. Ahead of its festival debut, we have a trio of exclusive mini teasers that introduce a twisted trip to the desert. Godmother centers on “a young woman named Theo ",
           "date": "2026-09-14T15:00:57+00:00",
           "image": ""
-        },
-        {
-          "title": "‘Crystal Lake’ – ‘Friday the 13th’ Icon Harry Manfredini Created Original Music for the Opening Title Sequence",
-          "link": "https://bloody-disgusting.com/tv/3967479/crystal-lake-friday-the-13th-icon-harry-manfredini-created-new-original-music-for-the-opening-title-sequence/",
-          "description": "The upcoming prequel series “Crystal Lake” is bringing back a handful of key characters from the original Friday the 13th movie, including Pamela Voorhees, Jason Voorhees, and even Crazy Ralph. But what about key behind the scenes players who helped make the 1980 slasher an enduring horror classic? ",
-          "date": "2026-09-14T14:37:58+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Crystal-Lake-Vertical-Key-Art-1-scaled.jpg?resize=1920%2C2560&#038;ssl=1"
-        },
-        {
-          "title": "‘Crystal Lake’ – The Upcoming Series Takes Place Eight Years Before the Original ‘Friday the 13th’",
-          "link": "https://bloody-disgusting.com/tv/3967469/crystal-lake-the-upcoming-series-takes-place-eight-years-before-the-original-friday-the-13th/",
-          "description": "This past weekend’s official trailer revealed that the events of “Crystal Lake” begin in Summer 1971, with a young Jason Voorhees drowning in Crystal Lake during that fateful summer. But the original Friday the 13th movie revealed that Jason Voorhees drowned in the late 1950s, which suggests that th",
-          "date": "2026-09-14T14:07:54+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Crystal-Lake-Vertical-Key-Art-1-scaled.jpg?resize=1920%2C2560&#038;ssl=1"
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "A24’s Crystal Lake Trailer Promises to Solve the Biggest Friday the 13th Mystery",
+          "link": "https://www.denofgeek.com/tv/a24-crystal-lake-trailer-promises-solve-biggest-friday-the-13th-mystery/",
+          "description": "For the most part, the latest trailer for the Friday the 13th prequel series Crystal Lake tells us what we already knew. Set in 1971, the series stars Linda Cardellini as Pamela Voorhees, a few years after her son Jason drowned to death at Camp Crystal Lake, but a few years before she started killin",
+          "date": "2026-09-14T20:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/NUP_207980_01941_RF-2.jpg"
+        },
         {
           "title": "Zack Snyder Admits His DC Approach May Have Been a Mistake",
           "link": "https://www.denofgeek.com/movies/zack-snyder-admits-his-dc-approach-may-have-been-mistake/",
@@ -141,13 +148,6 @@
           "description": "This article contains light spoilers for the first several episodes of Lanterns. DC’s Green Lantern mantle has been shared and passed down across generations. With each new Lantern, whether it be the original Golden Age of comics character Alan Scott, the most recognizable Lantern Corps member Hal J",
           "date": "2026-09-14T13:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/redlanterns_1_5b22b34f825ea0.34166622.jpg"
-        },
-        {
-          "title": "15 Strange Things People Found in Old Family Photos",
-          "link": "https://www.denofgeek.com/msn/15-strange-things-people-found-in-old-family-photos/",
-          "description": "Old family photos can preserve much more than the people who posed for them. Every so often, someone looks closely at a picture taken decades ago and notices something nobody remembered, an unfamiliar person in the background, a bizarre object, an unexpected expression, or a detail that raises far m",
-          "date": "2026-09-14T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-36.jpg"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule",
+          "link": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
+          "description": "Don't shoot. Marathon's viability as a live service product is once again under scrutiny, as Bungie has revealed its plans to effectively reduce the frequency at which it'll update the game. The developer delivered the news in a blog post, which also confirms that the shooter's next big update has b",
+          "date": "2026-09-14T19:30:00+00:00",
+          "image": "https://images.pushsquare.com/fd5035adfaf38/large.jpg"
+        },
+        {
           "title": "Poll: 10 Years Later, Is Persona 5 a True JRPG Masterpiece?",
           "link": "https://www.pushsquare.com/features/poll-10-years-later-is-persona-5-a-true-jrpg-masterpiece",
           "description": "Take your heart. 10 years ago tomorrow (technically today in Japan), on the 15th September 2016, Persona 5 was first unleashed upon the world. At the time, I don't think anyone quite knew how big of an impact the game would have. Persona 3 and Persona 4 had propelled Atlus' series beyond its Shin Me",
@@ -441,13 +448,6 @@
           "description": "It'll follow through on that ending tease. The name of the Lies of P sequel Round8 Studio has in the works may have made its way online from a trademark filing made by publisher Neowiz. For those who have finished the excellent Souls-like title, what the follow-up might be about has already been tea",
           "date": "2026-09-14T14:30:00+00:00",
           "image": "https://images.pushsquare.com/2a1626969e3b4/large.jpg"
-        },
-        {
-          "title": "Here's Your First Look at Kingdom Hearts' Sora as He Joins Fortnite 'This Week'",
-          "link": "https://www.pushsquare.com/news/2026/09/heres-your-first-look-at-kingdom-hearts-sora-as-he-joins-fortnite-this-week",
-          "description": "What the heart wants. Fortnite's current season, entitled Override , is celebrating numerous games and characters with many crossovers, and a major player in the season is Kingdom Hearts . Epic Games has now officially unveiled how Sora will look in its massively popular shooter with the below video",
-          "date": "2026-09-14T14:00:00+00:00",
-          "image": "https://images.pushsquare.com/e514be1ade21f/large.jpg"
         }
       ]
     },
