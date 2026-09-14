@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T23:23:41.556814+00:00",
+  "updated": "2026-09-14T01:28:12.094631+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,20 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Sony Shuts Down The Last of Us 2 PC Multiplayer Fan Mod",
+          "link": "https://www.pushsquare.com/news/2026/09/sony-shuts-down-the-last-of-us-2-pc-multiplayer-fan-mod",
+          "description": "Nine months of work down the drain. Sony has sent a letter to PC modder Speclizer requesting they don't release a multiplayer mod that they have had in the works for The Last of Us 2 for the past nine months. The modder shared the news on social media , stating: \"Hey everyone, as you all know, the T",
+          "date": "2026-09-14T01:00:00+00:00",
+          "image": "https://images.pushsquare.com/1975023bd4c09/large.jpg"
+        },
+        {
+          "title": "Diablo 5 and a New Starcraft Game Revealed, But Will They Be on PS6?",
+          "link": "https://www.pushsquare.com/news/2026/09/diablo-5-and-a-new-starcraft-game-revealed-but-will-they-be-on-ps6",
+          "description": "Diablo 5 in 2029, Starcraft in 2030. Over the weekend, veteran studio Blizzard hosted its annual BlizzCon fan event and announced two new games: Diablo 5 and an open world StarCraft shooter. The former is coming in 2029 while the latter is slated for 2030, so from a home-system perspective, these ar",
+          "date": "2026-09-14T00:00:00+00:00",
+          "image": "https://images.pushsquare.com/bdd8ffe6761c0/large.jpg"
+        },
+        {
           "title": "Feature: Going Platinum: I've Still Not Played Anything Else Quite Like Paradise Killer",
           "link": "https://www.pushsquare.com/features/going-platinum-ive-still-not-played-anything-else-quite-like-paradise-killer",
           "description": "A unique case. Platinum Trophy #36: Paradise Killer Date Earned: 22nd March 2022 Read the full article on pushsquare.com",
@@ -434,20 +448,6 @@
           "description": "Hard mode optional. If you've been wondering about the Trophies for upcoming action game Phantom Blade Zero , it's been revealed it won't be as tough to complete as you may have thought. The PS5 console-exclusive will of course have a full set of trinkets to unlock, including the all-important plati",
           "date": "2026-09-11T14:00:00+00:00",
           "image": "https://images.pushsquare.com/440ffddc7ddd7/large.jpg"
-        },
-        {
-          "title": "This PS5 Gameplay Trailer Is Our Best Look Yet at Fairgames",
-          "link": "https://www.pushsquare.com/news/2026/09/this-ps5-gameplay-trailer-is-our-best-look-yet-at-fairgames",
-          "description": "Project Espresso playtest incoming. A trailer has been doing the rounds for a game known only as Project Espresso, which is the codename for Sony's live service multiplayer shooter, Fairgames . Fairgames — which might have changed its name to Break In — was announced during a State of Play years ago",
-          "date": "2026-09-11T10:45:00+00:00",
-          "image": "https://images.pushsquare.com/f2c47f85efde9/large.jpg"
-        },
-        {
-          "title": "Wolverine PS5 Is One of the Lowest Rated First-Party Sony Games of the Generation",
-          "link": "https://www.pushsquare.com/news/2026/09/wolverine-ps5-is-one-of-the-lowest-rated-first-party-sony-games-of-the-generation",
-          "description": "How Logan you go. Reviews for Marvel's Wolverine have dropped, and it's fair to say that many of them are a bit disappointing. At the time of writing, Insomniac Games' big budget action title sits at an eyebrow-raising 77 on Metacritic , based on just over 100 evaluations. Read the full article on p",
-          "date": "2026-09-10T19:00:00+00:00",
-          "image": "https://images.pushsquare.com/922c336b153dd/large.jpg"
         }
       ]
     },
