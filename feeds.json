@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T01:28:12.094631+00:00",
+  "updated": "2026-09-14T06:57:32.060520+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,20 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "Lanterns Rewrites the Worst Moment in Green Lantern History",
+          "link": "https://www.denofgeek.com/tv/lanterns-rewrites-worst-moment-green-lantern-history/",
+          "description": "This article contains spoilers for Lanterns season 1 episode 5 From episode one, Lanterns has made it clear that Hal Jordan and John Stewart don’t trust each other. But we really thought that when the chips are down and things get bad, these guys would pull it together and figure out how to work wit",
+          "date": "2026-09-14T02:01:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/kyle-chandler-in-Lanterns.jpg"
+        },
+        {
+          "title": "Lanterns Episode 5 Review: Emerald Twilight",
+          "link": "https://www.denofgeek.com/tv/lanterns-episode-5-review/",
+          "description": "This article contains spoilers for Lanterns season 1 episode 5 At the climax of “Lights Out,” the fifth episode of Lanterns, every conflict the show has been building to boils over. Macon activates his men and his defenses to protect the Manhunter Zoe from not just the Green Lanterns, but also Antaa",
+          "date": "2026-09-14T02:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/poorna-jagannathan-2.jpg"
+        },
+        {
           "title": "The 10 Best Spike Lee Movies Ranked",
           "link": "https://www.denofgeek.com/movies/best-spike-lee-movies-ranked/",
           "description": "Spike Lee demanded immediate attention with his 1986 debut feature She’s Gotta Have It, and filmgoers have not been able to look away since. Not only has Lee established himself as one of the most distinctive filmmakers in cinema history—known for signatures such as his double dolly shot and declari",
@@ -134,20 +148,6 @@
           "description": "Famous people spend so much of their lives being photographed that it is easy to forget how different they can look when they are not posing for the camera. The best celebrity photos often happen when nobody is ready for them, capturing a strange reaction, a hilarious expression, an awkward interact",
           "date": "2026-09-11T13:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-32.jpg"
-        },
-        {
-          "title": "15 Every Day Things Nobody Knows Are Killing Them",
-          "link": "https://www.denofgeek.com/msn/15-every-day-things-nobody-knows-are-killing-them/",
-          "description": "Some of the things we encounter every day feel so ordinary that we rarely stop to think about what they might contain or cause. Yet everyday environments can expose people to substances and conditions that carry real health risks, sometimes without any obvious warning. A recent Reddit discussion abo",
-          "date": "2026-09-11T12:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-31.jpg"
-        },
-        {
-          "title": "15 People Share the New Shows That Are 10/10",
-          "link": "https://www.denofgeek.com/msn/15-people-share-the-new-shows-that-are-10-10/",
-          "description": "Finding a new show worth getting completely hooked on is harder than it should be. There are endless options, plenty of hype, and somehow still very few series that make people genuinely excited to recommend them. Reddit recently asked people which newer shows deserve a perfect 10 out of 10, and the",
-          "date": "2026-09-11T12:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-30.jpg"
         }
       ]
     },
