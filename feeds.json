@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T01:18:31.192873+00:00",
+  "updated": "2026-09-15T06:34:55.361875+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -230,6 +230,13 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "PS Plus Extra, Premium September 2026 Games Rolling Out Now",
+          "link": "https://www.playstationlifestyle.net/2026/09/14/ps-plus-extra-premium-september-2026-games-out-now/",
+          "description": "PS Plus Extra and Premium September 2026 games have begun rolling out in regions where it’s now Tuesday the 15th, with their release staggered by region. As a reminder, Sony has a different release schedule in the US, UK, and Japan, so players in these three regions will not be able to access the fu",
+          "date": "2026-09-15T02:05:05+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/08/ps-plus-september.jpg?w=1024"
+        },
+        {
           "title": "Acclaimed 2026 RPG With Great Reviews Out Now on PlayStation 5",
           "link": "https://www.playstationlifestyle.net/2026/09/14/mewgenics-ps5-launch-great-reviews/",
           "description": "A highly acclaimed RPG has finally made it to PS5. The latest game comes from The Binding of Isaac creator Edmund McMillen. Mewgenics, the best-reviewed action role-playing title, is now available for PlayStation 5. The turn-based adventure lets players breed the ultimate cat army and send them into",
@@ -291,13 +298,6 @@
           "description": "PlayStation has sneaked in a nifty little update to celebrate the launch of Insomniac Games’ PS5 exclusive Marvel’s Wolverine. Yesterday, Sony Interactive Entertainment pushed out an update to the PS App that changes its trademark blue icon to a Wolverine-themed one. PlayStation App update with new ",
           "date": "2026-09-13T11:16:33+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/playstation-app-update.jpg?w=1024"
-        },
-        {
-          "title": "2 Beloved Resident Evil Games Are 80% Off on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/09/11/resident-evil-games-80-percent-off-playstation-store/",
-          "description": "Two beloved Resident Evil games have been heavily discounted on the PlayStation Store. The post 2 Beloved Resident Evil Games Are 80% Off on PlayStation Store appeared first on PlayStation LifeStyle .",
-          "date": "2026-09-11T20:42:57+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/re.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Guide: Marvel's Wolverine Guide: 100% Collectibles Walkthrough",
+          "link": "https://www.pushsquare.com/guides/marvels-wolverine-guide-100percent-collectibles-walkthrough",
+          "description": "The ultimate Wolverine PS5 collectibles resource. In this Marvel's Wolverine guide , we will reveal a 100% collectibles walkthrough that documents where to find all of the Nightmare Doors , Material Crates , and Whisky Bottles in every Mission. We'll highlight all Suits and how to get them as well a",
+          "date": "2026-09-15T04:00:00+00:00",
+          "image": "https://images.pushsquare.com/895b09527224d/large.jpg"
+        },
+        {
           "title": "Marathon's Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule",
           "link": "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
           "description": "Don't shoot. Marathon's viability as a live service product is once again under scrutiny, as Bungie has revealed its plans to effectively reduce the frequency at which it'll update the game. The developer delivered the news in a blog post, which also confirms that the shooter's next big update has b",
@@ -441,13 +448,6 @@
           "description": "Mobile suit fun-dam. Over the weekend, a bunch of Gundam Rogue Orbit previews dropped from various YouTube channels, giving us our first proper look at the game in action. Indeed, there's now loads of gameplay footage to pick through, and while I think Rogue Orbit has shown plenty of promise in its ",
           "date": "2026-09-14T15:30:00+00:00",
           "image": "https://images.pushsquare.com/53a00e61f93b9/large.jpg"
-        },
-        {
-          "title": "Lies of P Sequel Name Potentially Outed in Trademark Filing",
-          "link": "https://www.pushsquare.com/news/2026/09/lies-of-p-sequel-name-potentially-outed-in-trademark-filing",
-          "description": "It'll follow through on that ending tease. The name of the Lies of P sequel Round8 Studio has in the works may have made its way online from a trademark filing made by publisher Neowiz. For those who have finished the excellent Souls-like title, what the follow-up might be about has already been tea",
-          "date": "2026-09-14T14:30:00+00:00",
-          "image": "https://images.pushsquare.com/2a1626969e3b4/large.jpg"
         }
       ]
     },
