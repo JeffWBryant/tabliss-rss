@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-14T22:40:45.065520+00:00",
+  "updated": "2026-09-15T01:18:31.192873+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Crystal Lake’ – Is Jason an MK Ultra Experiment in Peacock’s ‘Friday the 13th’ Prequel?!",
+          "link": "https://bloody-disgusting.com/tv/3967556/crystal-lake-is-jason-an-mk-ultra-experiment-in-peacocks-friday-the-13th-prequel/",
+          "description": "The Friday the 13th franchise has always had an unspoken rule about not looking back too closely on the mythology established by the original film. In a way, the open-ended (not to mention contradictory) lore behind the drowning and subsequent return of Jason Voorhees is supposed to harken back to t",
+          "date": "2026-09-14T23:56:09+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Screenshot-2026-09-14-195223.png?resize=1769%2C809&#038;ssl=1"
+        },
         {
           "title": "‘River’ – Universal & Blumhouse Atomic Monster Closing Deal to Acquire Jane Levy & Jessica Rothe Slasher Movie",
           "link": "https://bloody-disgusting.com/movie/3967572/river-universal-blumhouse-atomic-monster-closing-deal-to-acquire-jane-levy-jessica-rothe-slasher-movie/",
@@ -65,13 +72,6 @@
           "link": "https://bloody-disgusting.com/movie/3967493/session-1-brad-anderson-reveals-that-hes-developing-a-session-9-prequel-movie/",
           "description": "Director Brad Anderson’s Session 9 is celebrating its 25th anniversary this year, with a special anniversary screening taking place at Mass Mini Con over the weekend. The screening featured a Q&A with writer/director Brad Anderson and writer/actor Stephen Gevedon, and the duo announced at the event ",
           "date": "2026-09-14T15:40:06+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Godmother’ Exclusive Mini Teasers Embark On Nightmarish Trip Into The Desert",
-          "link": "https://bloody-disgusting.com/exclusives/3967344/godmother-exclusive-mini-teasers-embark-on-nightmarish-trip-into-the-desert/",
-          "description": "Premiering at Fantastic Fest next week is Godmother, a psychological horror feature produced by creators Jacksepticeye and Alanah Pearce. Ahead of its festival debut, we have a trio of exclusive mini teasers that introduce a twisted trip to the desert. Godmother centers on “a young woman named Theo ",
-          "date": "2026-09-14T15:00:57+00:00",
           "image": ""
         }
       ]
