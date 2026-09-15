@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-15T21:07:14.591956+00:00",
+  "updated": "2026-09-15T23:37:35.559466+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Nick Nolte Faces the Curse of the Full Moon in First Look at ‘Vested’",
+          "link": "https://bloody-disgusting.com/movie/3967813/vested-horror-movie-nick-nolte-first-look/",
+          "description": "Thanks to Apple TV’s new adaptation of Cape Fear, a lot of audiences have been revisiting Martin Scorsese‘s 1991 movie, in which Robert De Niro starred as Max Cady. The cast of that version is what helped make it such a success, as De Niro squared off against Nick Nolte, as well as Jessica Lange. […",
+          "date": "2026-09-15T21:42:10+00:00",
+          "image": ""
+        },
         {
           "title": "‘Black Sheeps’ Trailer – 20 Years Later, the Killer Sheep Horror Movie Gets a Bonkers Sequel",
           "link": "https://bloody-disgusting.com/movie/3967799/black-sheeps-trailer-20-years-later-the-killer-sheep-horror-movie-gets-a-bonkers-sequel/",
@@ -66,13 +73,6 @@
           "description": "A new trailer for the Friday the 13th prequel series Crystal Lake debuted over the weekend and it immediately sparked speculation about Jason Voorhees and his life before attending Camp Crystal Lake. Namely, rather than being an average child, this trailer implied that he had a connection to a resea",
           "date": "2026-09-15T17:36:17+00:00",
           "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f914.png"
-        },
-        {
-          "title": "‘The Chaser’: Revisiting ‘Hope’ Director Na Hong-jin’s Brutal Serial Killer Thriller Debut",
-          "link": "https://bloody-disgusting.com/editorials/3967155/the-chaser-revisiting-hope-director-na-hong-jins-brutal-serial-killer-thriller-debut/",
-          "description": "While some serial killer movies would rather focus on just a single perspective, be that of the detective, the culprit, or the victim, 2008’s The Chaser (a.k.a. Chugyeokja) goes after several. In Na Hong-jin’s first movie, an exemplar of the cat-and-mouse genre, the story sees all sides of a heinous",
-          "date": "2026-09-15T17:27:19+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/The-Chaser-Na-Hong-jin-Kim-Yoon-seok.jpg?resize=1200%2C800&#038;ssl=1"
         }
       ]
     },
@@ -305,6 +305,13 @@
       "url": "https://blog.playstation.com/feed/",
       "articles": [
         {
+          "title": "Introducing the next line of PS5 audio products: PlayStation Pulse and Pulse Edge Wireless Headsets",
+          "link": "https://blog.playstation.com/2026/09/15/introducing-the-next-line-of-ps5-audio-products-playstation-pulse-and-pulse-edge-wireless-headsets/",
+          "description": "When we introduced Pulse Elite in 2024, our first wireless headset featuring planar magnetic drivers and PlayStation Link connectivity, we saw positive feedback from players who enjoyed the greater precision, clarity, and level of detail it brought to their games and entertainment. Today, we’re exci",
+          "date": "2026-09-15T22:00:20+00:00",
+          "image": "https://blog.playstation.com/tachyon/2026/09/c017bfe4f7365ee887a7cf8bb1a85d447bf704f6-scaled.jpg"
+        },
+        {
           "title": "Gear up for the launch of Marvel’s Wolverine with new official merchandise",
           "link": "https://blog.playstation.com/2026/09/15/gear-up-for-the-launch-of-marvels-wolverine-with-new-official-merchandise/",
           "description": "Marvel’s Wolverine launches today on PS5, bringing players an all-new, action-packed adventure from Insomniac Games, developed in collaboration with Marvel Games. To celebrate the game’s launch, here’s a look at the range of official Marvel’s Wolverine | PlayStation merchandise* available starting t",
@@ -366,19 +373,19 @@
           "description": "Hi everyone. I’m Sergey, Lead Gameplay Designer on Control Resonant. We’re getting very close to our September 24 launch, and the team here in Espoo (and Stockholm) is incredibly excited to finally share what we’ve been building. With Control Resonant, we’re introducing a new combat system built aro",
           "date": "2026-09-10T12:00:17+00:00",
           "image": "https://live.staticflickr.com/65535/55508659423_c0cbabbc3b_k.jpg"
-        },
-        {
-          "title": "Muramasa: Revenant Blades launches February 4, 2027",
-          "link": "https://blog.playstation.com/2026/09/10/muramasa-revenant-blades-launches-february-4-2027/",
-          "description": "Hello, PlayStation players! Today we revealed that Muramasa: Revenant Blades, the stunning Japanese-inspired action-RPG from Vanillaware and Marvelous, will launch on February 4, 2027. Along with the release date, we also shared a new gameplay video that offers a closer look at the game’s exciting f",
-          "date": "2026-09-10T11:30:45+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
         }
       ]
     },
     "Push Square": {
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
+        {
+          "title": "New PS5 Pulse Headsets Revealed by Sony with Better Sound and Comfort",
+          "link": "https://www.pushsquare.com/news/2026/09/new-ps5-pulse-headsets-revealed-by-sony-with-better-sound-and-comfort",
+          "description": "Pulse headset this year, Pulse Edge headset in 2027. PlayStation has announced it's updating its line of PS5 Pulse headsets with two new models providing improved sound, comfort, and noise-rejection features for chat that filter out background noise. There will be two new models on offer supporting ",
+          "date": "2026-09-15T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/1c3ae38006de6/large.jpg"
+        },
         {
           "title": "Marvel's Wolverine PS5 Launch Marked with Celebratory Art from Other PS Studios",
           "link": "https://www.pushsquare.com/news/2026/09/marvels-wolverine-ps5-launch-marked-with-celebratory-art-from-other-ps-studios",
@@ -441,13 +448,6 @@
           "description": "Stupid (me) does die. Stupid Never Dies is a much deeper game than it initially seemed. I’d only briefly come across some promotional material for GPTRACK50’s zombie-based roguelike by the time I sat down to play it at Gamescom. So to say I was surprised when some of its developers walked me through",
           "date": "2026-09-15T14:00:00+00:00",
           "image": "https://images.pushsquare.com/c8403d5d10304/large.jpg"
-        },
-        {
-          "title": "Get Indie Cracker 'The Alters' on a PS5 Disc in Physical Complete Edition",
-          "link": "https://www.pushsquare.com/news/2026/09/get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-complete-edition",
-          "description": "Base game + Last Variable DLC for £35/$40. 11 Bit Studios has shared it's pressing The Alters onto a PS5 disc and selling a complete physical edition that contains the base game and its Last Variable expansion. Dubbed the Complete Edition, it releases in boxed form for PS5 on 20th November 2026, pri",
-          "date": "2026-09-15T13:00:00+00:00",
-          "image": "https://images.pushsquare.com/bb28d0de48228/large.jpg"
         }
       ]
     },
