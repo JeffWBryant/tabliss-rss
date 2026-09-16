@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-15T23:37:35.559466+00:00",
+  "updated": "2026-09-16T04:22:26.680077+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Cannibalism Is Now Legal in New French Horror Movie ‘Sunnyside’",
+          "link": "https://bloody-disgusting.com/movie/3967826/sunnyside-movie-french-cannibals/",
+          "description": "A growing concern among the entire world is overpopulation, not only in cultural hotbeds and communities, but also for the entire planet. Just how long can the world sustain the population that seems to be losing resources and increasing its population at an exponential rate? Well, in the new French",
+          "date": "2026-09-15T23:47:57+00:00",
+          "image": ""
+        },
         {
           "title": "Nick Nolte Faces the Curse of the Full Moon in First Look at ‘Vested’",
           "link": "https://bloody-disgusting.com/movie/3967813/vested-horror-movie-nick-nolte-first-look/",
@@ -66,13 +73,6 @@
           "description": "Jason Voorhees is finally slashing back onto our screens next month in the new Friday the 13th prequel series “Crystal Lake,” with the Jason Universe bringing the beloved horror icon back to life with all kinds of new initiatives. Now, Jason gets his very own popcorn bucket! Based on the Jason Unive",
           "date": "2026-09-15T18:14:26+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Jason_SNoW_Jason_Bust_Bucket_Q_082126.1788458754262.jpg?resize=1000%2C1000&#038;ssl=1"
-        },
-        {
-          "title": "‘Crystal Lake’ Showrunner Weighs in on Viral Jason Voorhees Theory",
-          "link": "https://bloody-disgusting.com/tv/3967721/crystal-lake-jason-voorhees-theory-brad-caleb-kane/",
-          "description": "A new trailer for the Friday the 13th prequel series Crystal Lake debuted over the weekend and it immediately sparked speculation about Jason Voorhees and his life before attending Camp Crystal Lake. Namely, rather than being an average child, this trailer implied that he had a connection to a resea",
-          "date": "2026-09-15T17:36:17+00:00",
-          "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f914.png"
         }
       ]
     },
@@ -305,11 +305,18 @@
       "url": "https://blog.playstation.com/feed/",
       "articles": [
         {
+          "title": "Wo Long 2: Wings of Ember launches March 4, 2027, demo live today",
+          "link": "https://blog.playstation.com/2026/09/15/wo-long-2-wings-of-ember-launches-march-4-2027-demo-live-today/",
+          "description": "Today is a big day for the Wo Long team and fans alike, as we have two incredible announcements to share. First off, we can finally let everyone know that Wo Long 2: Wings of Ember is scheduled to launch on March 4, 2027. Even better? If you want to jump into the dark action […]",
+          "date": "2026-09-16T01:00:22+00:00",
+          "image": "https://live.staticflickr.com/65535/55518890323_f7ec7649b8_4k.jpg"
+        },
+        {
           "title": "Introducing the next line of PS5 audio products: PlayStation Pulse and Pulse Edge Wireless Headsets",
           "link": "https://blog.playstation.com/2026/09/15/introducing-the-next-line-of-ps5-audio-products-playstation-pulse-and-pulse-edge-wireless-headsets/",
           "description": "When we introduced Pulse Elite in 2024, our first wireless headset featuring planar magnetic drivers and PlayStation Link connectivity, we saw positive feedback from players who enjoyed the greater precision, clarity, and level of detail it brought to their games and entertainment. Today, we’re exci",
           "date": "2026-09-15T22:00:20+00:00",
-          "image": "https://blog.playstation.com/tachyon/2026/09/c017bfe4f7365ee887a7cf8bb1a85d447bf704f6-scaled.jpg"
+          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
         },
         {
           "title": "Gear up for the launch of Marvel’s Wolverine with new official merchandise",
@@ -366,13 +373,6 @@
           "description": "Your votes have spoken: Star Wars Zero Company wins Players’ Choice for August. Congrats to Bit Reactor and Electronic Arts! What games have you been playing this month so far? Share predictions on September’s winner in the comments below. Last month was filled with superhero spectacles, bonding wit",
           "date": "2026-09-10T13:00:02+00:00",
           "image": ""
-        },
-        {
-          "title": "Play your way with Control Resonant’s expanded Assist Mode",
-          "link": "https://blog.playstation.com/2026/09/10/play-your-way-with-control-resonants-expanded-assist-mode/",
-          "description": "Hi everyone. I’m Sergey, Lead Gameplay Designer on Control Resonant. We’re getting very close to our September 24 launch, and the team here in Espoo (and Stockholm) is incredibly excited to finally share what we’ve been building. With Control Resonant, we’re introducing a new combat system built aro",
-          "date": "2026-09-10T12:00:17+00:00",
-          "image": "https://live.staticflickr.com/65535/55508659423_c0cbabbc3b_k.jpg"
         }
       ]
     },
