@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T04:22:26.680077+00:00",
+  "updated": "2026-09-16T09:27:41.620352+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,20 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Feature: 50+ PS5, PS4 Games to Buy in PS Store's Tokyo Game Show Sale (North America/Europe)",
+          "link": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-tokyo-game-show-sale-north-americaeurope",
+          "description": "Recommended games going cheap. It's time for Tokyo Game Show 2026, and Sony's latest sale promotes the show while dropping prices on thousands of games. Live until 23rd September, the Tokyo Game Show sale includes a boatload of PS5 and PS4 games going cheap, and it's a lot to look through. Read the ",
+          "date": "2026-09-16T09:45:00+00:00",
+          "image": "https://images.pushsquare.com/046eae3ea24de/large.jpg"
+        },
+        {
+          "title": "PS5's New Firmware Update Available to Download Now, Here's What It Does",
+          "link": "https://www.pushsquare.com/news/2026/09/ps5s-new-firmware-update-available-to-download-now-heres-what-it-does",
+          "description": "What does version 26.06-14.00.00 do? Sony has announced version 26.06-14.00.00 of the PS5 system software has begun rolling out, and should be available to download to your console within the next 24 hours or so. This update is more than just a stability improvement, so let's take a look at the full",
+          "date": "2026-09-16T09:15:00+00:00",
+          "image": "https://images.pushsquare.com/e2a4e091dca6e/large.jpg"
+        },
+        {
           "title": "New PS5 Pulse Headsets Revealed by Sony with Better Sound and Comfort",
           "link": "https://www.pushsquare.com/news/2026/09/new-ps5-pulse-headsets-revealed-by-sony-with-better-sound-and-comfort",
           "description": "Pulse headset this year, Pulse Edge headset in 2027. PlayStation has announced it's updating its line of PS5 Pulse headsets with two new models providing improved sound, comfort, and noise-rejection features for chat that filter out background noise. There will be two new models on offer supporting ",
@@ -434,20 +448,6 @@
           "description": "Now this is Trophy hunting. The Trophy list for Star Wars: Galactic Racer has appeared online, and it looks like it'll force you to get good if you want that platinum. You can view the full list via PSNProfiles ahead of the game's PS5 launch on 6th October — not far away now. Read the full article o",
           "date": "2026-09-15T14:30:00+00:00",
           "image": "https://images.pushsquare.com/4ccae50a4b572/large.jpg"
-        },
-        {
-          "title": "Josh Holloway Stars in First Episode of Live Action Ace Combat 8 Prequel Series",
-          "link": "https://www.pushsquare.com/news/2026/09/josh-holloway-stars-in-first-episode-of-live-action-ace-combat-8-prequel-series",
-          "description": "Available to watch now. Bandai Namco really is going all-out for Ace Combat 8: Wings of Theve . Not only is the title itself stepping things up with big jumps in visuals and the largest multiplayer component the series has ever seen, but the publisher is splashing the cash on things like this: a liv",
-          "date": "2026-09-15T14:15:00+00:00",
-          "image": "https://images.pushsquare.com/d44aae6f467e9/large.jpg"
-        },
-        {
-          "title": "Preview: Stupid Never Dies Is a Hard Sell, But It Could Offer Weird Action Unlike Anything Else on PS5",
-          "link": "https://www.pushsquare.com/previews/stupid-never-dies-is-a-hard-sell-but-it-could-offer-weird-action-unlike-anything-else-on-ps5",
-          "description": "Stupid (me) does die. Stupid Never Dies is a much deeper game than it initially seemed. I’d only briefly come across some promotional material for GPTRACK50’s zombie-based roguelike by the time I sat down to play it at Gamescom. So to say I was surprised when some of its developers walked me through",
-          "date": "2026-09-15T14:00:00+00:00",
-          "image": "https://images.pushsquare.com/c8403d5d10304/large.jpg"
         }
       ]
     },
