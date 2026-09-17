@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T05:11:39.137846+00:00",
+  "updated": "2026-09-17T10:19:44.243547+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,20 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "The World’s Most Famous Directors, and Their Signature Styles",
+          "link": "https://www.denofgeek.com/msn/the-worlds-most-famous-directors-and-their-signature-styles/",
+          "description": "Nearly all film directors have a signature style, something that lets you tell it was made by them. It isn’t always done on purpose, since at times that vision just pours to the lens. The directors we’re covering today, though, definitely do it on purpose; it’s part of their brand at this point. Fro",
+          "date": "2026-09-17T10:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/2_d99aa9.jpg"
+        },
+        {
+          "title": "14 Good Movies Made By Otherwise Notoriously Bad Directors",
+          "link": "https://www.denofgeek.com/msn/14-good-movies-made-by-otherwise-notoriously-bad-directors/",
+          "description": "It’s a strange thing when a director who is, let's be honest, not known for quality work, somehow manages to create a genuinely great movie. Is it a fluke? A happy accident? Did all the stars align just right with the script, the cast, and the studio? Whatever the reason, these films exist as shiny ",
+          "date": "2026-09-17T10:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-11-2.jpg"
+        },
+        {
           "title": "Zack Snyder Is Overestimating the Movie-Going Public’s Desire for Erotic Thrillers",
           "link": "https://www.denofgeek.com/movies/zack-snyder-overestimating-movie-going-public-erotic-thrillers/",
           "description": "For years now, film fans have been complaining about the lack of sex in movies. As writer RS Benedict perfectly put it in the essay, “Everyone is Beautiful and No One Is Horny,” Marvel movies in particular feature people with idealized, perfect bodies, but no signs of sexual desire. “Even when they ",
@@ -134,20 +148,6 @@
           "description": "What does it mean for something to be so bad, it’s actually good? Well, there’s a certain level of cringe, bad acting, and poor execution that, when combined in just the right way, become hilarious. This is true for horror movies as well, although the end product is never something that scares. What",
           "date": "2026-09-16T13:45:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-22.jpg"
-        },
-        {
-          "title": "9 Internet Series That Deserve Movie or TV Screen Adaptations",
-          "link": "https://www.denofgeek.com/culture/internet-series-that-deserve-movie-tv-adaptations/",
-          "description": "The internet is a scary place. It’s filled with deviants, unicorn cake-decorating tutorials, and D&D cosplays. It’s also the hub for pure imagination, creating a land for the craziest entertainment known to man. Now the internet has made its way into movie studios. While it has been a rocky start fo",
-          "date": "2026-09-16T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Pretty-Please-I-Dont-Want-to-be-a-Magical-Girl.png"
-        },
-        {
-          "title": "15 Times the Cheapest Solution Became the Best",
-          "link": "https://www.denofgeek.com/msn/15-times-the-cheapest-solution-became-the-best/",
-          "description": "Throwing money at a problem is always an option, but history has repeatedly shown that the clever solution can be surprisingly cheap. Some familiar products, inventions, movie tricks, and everyday fixes exist because somebody had limited time, a tiny budget, or simply no interest in building somethi",
-          "date": "2026-09-16T12:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-18.jpg"
         }
       ]
     },
@@ -305,6 +305,13 @@
       "url": "https://blog.playstation.com/feed/",
       "articles": [
         {
+          "title": "Final Fantasy VII Revelation hands-on report: Into the Whirlwind Maze where Sephiroth awaits",
+          "link": "https://blog.playstation.com/2026/09/17/final-fantasy-vii-revelation-hands-on-report-into-the-whirlwind-maze-where-sephiroth-awaits/",
+          "description": "Final Fantasy VII Revelation, launching April 8, 2027 on PlayStation 5, marks the epic final chapter in the remake trilogy following Final Fantasy VII Remake and Final Fantasy VII Rebirth. At Tokyo Game Show 2026, we had our first chance to play a hands-on demo of the PS5 title, featuring a combat-f",
+          "date": "2026-09-17T08:00:09+00:00",
+          "image": "https://live.staticflickr.com/65535/55529774677_a52b613243_k.jpg"
+        },
+        {
           "title": "(For Southeast Asia) PlayStation Plus Tokyo Game Show promotion starts 17 September",
           "link": "https://blog.playstation.com/2026/09/16/20260917-psplus/",
           "description": "Players who join PlayStation Plus during 17 September to 30 September can save up to 25% on a PS Plus 12-month membership! Current PlayStation Plus members can save big on the remainder of their membership when upgrading a current plan to PlayStation Plus Extra or Deluxe.* With PlayStation Plus Extr",
@@ -319,7 +326,7 @@
           "image": "https://live.staticflickr.com/65535/55528926972_92e4da8a0e_4k.jpg"
         },
         {
-          "title": "A Close Quarters Look at Proto Man in Mega Man: Dual Override",
+          "title": "A close quarters look at Proto Man in Mega Man: Dual Override",
           "link": "https://blog.playstation.com/2026/09/16/a-close-quarters-look-at-proto-man-in-mega-man-dual-override/",
           "description": "At long last, the Blue Bomber is leaping back into action with Mega Man: Dual Override. However, he’s not the only one making a return in the highly anticipated game. Capcom’s latest evolution of the Mega Man series also features a second playable character! Proto Man is making his comeback in Mega ",
           "date": "2026-09-17T01:00:12+00:00",
@@ -366,19 +373,26 @@
           "description": "Control Resonant is almost here, so it’s the perfect time to talk about how we are taking advantage of the unique opportunities provided by the PlayStation 5 hardware and the DualSense controller. The sequel to Control takes place in our twisted own version of Manhattan, which, I dare say, provides ",
           "date": "2026-09-15T14:00:58+00:00",
           "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-        },
-        {
-          "title": "Helldivers 2 Ironclad Democracy Warbond launches Sept 22",
-          "link": "https://blog.playstation.com/2026/09/15/helldivers-2-ironclad-democracy-warbond-launches-sept-22/",
-          "description": "Helldivers, the quickest route from tyranny to Liberty is one straight line of righteous operational advancement. And today you have been granted clearance to forge a path clean through anti-Democratic resistance in your own creative way, armed with the brand-new Ironclad Democracy Warbond, deployin",
-          "date": "2026-09-15T13:00:39+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
         }
       ]
     },
     "Push Square": {
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
+        {
+          "title": "Lollipop Chainsaw 2 Officially Announced for PS5, Early Gameplay Looks Rough as Heck",
+          "link": "https://www.pushsquare.com/news/2026/09/lollipop-chainsaw-2-officially-announced-for-ps5-early-gameplay-looks-rough-as-heck",
+          "description": "Juliet returns. As expected, Nada Holdings and Dragami Games have officially unveiled Lollipop Chainsaw 2 Back2Back , a sequel to the cult favourite PS3 action game. Dragami Games revived the original with the remake Lollipop Chainsaw RePOP, and it's now working on a direct follow-up. Read the full ",
+          "date": "2026-09-17T10:00:00+00:00",
+          "image": "https://images.pushsquare.com/38a1f46a450be/large.jpg"
+        },
+        {
+          "title": "Rumour: Media Molecule's Next Game Is Out Next Year and Unlike Anything It's Made Before",
+          "link": "https://www.pushsquare.com/news/2026/09/rumour-media-molecules-next-game-is-out-next-year-and-unlike-anything-its-made-before",
+          "description": "New horizons. If you're anything like me, you'll have been dying to know what's going on over at Media Molecule since it wound down active development on Dreams . Well, a new report from MP1st claims to know what it's making, and when it's coming. Read the full article on pushsquare.com",
+          "date": "2026-09-17T09:15:00+00:00",
+          "image": "https://images.pushsquare.com/ecc7d0dff2bcd/large.jpg"
+        },
         {
           "title": "Preview: Silver Palace Is a Gorgeous Gothic PS5 RPG, But So Far I've Played It Before",
           "link": "https://www.pushsquare.com/previews/silver-palace-is-a-gorgeous-gothic-ps5-rpg-but-so-far-ive-played-it-before",
@@ -434,20 +448,6 @@
           "description": "More year two details teased. SEGA has announced the next freebie character joining the playable roster in its ever-growing kart racer, Sonic Racing: CrossWorlds . Bayonetta, sporting her original design, will be coming \"soon\" to the game in a future update, free to all players, as is the case with ",
           "date": "2026-09-16T11:45:00+00:00",
           "image": "https://images.pushsquare.com/9b99f25cebda7/large.jpg"
-        },
-        {
-          "title": "Try Team Ninja's Next PS5 Action RPG, Wo Long 2, Six Months Early with New Playable Demo",
-          "link": "https://www.pushsquare.com/news/2026/09/try-team-ninjas-next-ps5-action-rpg-wo-long-2-six-months-early-with-new-playable-demo",
-          "description": "Wings of Ember launches in March. Publisher Koei Tecmo and developer Team Ninja have announced the release date for their next big action RPG, Wo Long 2: Wings of Ember . The game was officially revealed just a few months ago, and it's now slated for launch on PS5 on 4th March, 2027. Read the full a",
-          "date": "2026-09-16T10:30:00+00:00",
-          "image": "https://images.pushsquare.com/771c8eb453ba3/large.jpg"
-        },
-        {
-          "title": "Feature: 50+ PS5, PS4 Games to Buy in PS Store's Tokyo Game Show Sale (North America/Europe)",
-          "link": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-tokyo-game-show-sale-north-americaeurope",
-          "description": "Recommended games going cheap. It's time for Tokyo Game Show 2026, and Sony's latest sale promotes the show while dropping prices on thousands of games. Live until 23rd September, the Tokyo Game Show sale includes a boatload of PS5 and PS4 games going cheap, and it's a lot to look through. Read the ",
-          "date": "2026-09-16T09:45:00+00:00",
-          "image": "https://images.pushsquare.com/046eae3ea24de/large.jpg"
         }
       ]
     },
