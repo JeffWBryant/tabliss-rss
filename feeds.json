@@ -1,9 +1,23 @@
 {
-  "updated": "2026-09-16T21:36:01.089993+00:00",
+  "updated": "2026-09-17T00:15:20.310362+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘A Nightmare on Elm Street’s Jackie Earle Haley Reflects on the Divisive Reboot",
+          "link": "https://bloody-disgusting.com/news/3967903/a-nightmare-on-elm-street-reboot-freddy-krueger-jackie-earle-haley-reaction/",
+          "description": "Even though it feels like we’re forever caught in an endless cycle of reboots, remakes, reimaginings, and “requels,” we’re admittedly in a much safer time for horror where people are typically pursuing revivals only when they have something new to say. In the 2000s, though, it was a much different s",
+          "date": "2026-09-16T22:50:59+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/a-nightmare-on-elm-street-reboot-freddy-krueger-jackie-earle-haley-1.jpg?resize=1920%2C1080&#038;ssl=1"
+        },
+        {
+          "title": "Ripcord Launches Inaugural Halloween Film Festival for Indie Filmmakers",
+          "link": "https://bloody-disgusting.com/news/3967878/ripcord-halloween-2026/",
+          "description": "Ripcord, a fan-powered platform that connects independent filmmakers to audiences, has officially launched its inaugural Halloween Film Festival. The shorts festival runs Monday, October 19 through Thursday, October 29, and will consist of 50 horror, sci-fi, thriller, and fantasy short films in comp",
+          "date": "2026-09-16T21:43:48+00:00",
+          "image": ""
+        },
         {
           "title": "Kanopy Releases Its Slate of Streaming Horror Titles for October",
           "link": "https://bloody-disgusting.com/movie/3967934/kanopy-free-streaming-horror-movies-october-2026/",
@@ -59,20 +73,6 @@
           "description": "For over sixteen years now, the Insidious film series has remained one of the most consistent franchises in all of horror. While some fans prefer the Lin Shaye-centric entries and others prefer to keep tabs on the spooky struggles of the Lambert family, I’d argue that every single one of these scary",
           "date": "2026-09-16T17:00:22+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2015/04/4092_D21_06723_R.jpg?resize=1024%2C682&#038;ssl=1"
-        },
-        {
-          "title": "Netflix’s ‘Haunted Hotel’ Officially Reopens With New Season 2 Trailer",
-          "link": "https://bloody-disgusting.com/news/3967891/haunted-hotel-season-2-trailer-netflix/",
-          "description": "Just in time for the best time of year, Netflix is bringing back its animated series Haunted Hotel for a fresh batch of adventures. Ahead of Season 2’s premiere on the streamer on October 9, Netflix has unleashed an all-new trailer for the upcoming eight episodes, which you can see below. The stream",
-          "date": "2026-09-16T16:57:48+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Hokum’: Damian McCarthy’s Atmospheric Horror Movie Arrives On Hulu For Halloween",
-          "link": "https://bloody-disgusting.com/movie/3967885/hokum-damian-mccarthys-atmospheric-horror-movie-arrives-on-hulu-for-halloween/",
-          "description": "Oddity director Damian McCarthy’s Hokum is bringing its frights to streaming this Halloween, after a a strong theatrical run and home release. NEON’s horror mystery begins streaming on Hulu starting October 10, 2026. Adam Scott (“Severance”) stars in Hokum as reclusive novelist Ohm Bauman. When he r",
-          "date": "2026-09-16T16:24:56+00:00",
-          "image": ""
         }
       ]
     },
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "LITTERMATES: Siblings Have To Stick Together In First Trailer",
+          "link": "https://www.fangoria.com/littermates-trailer/",
+          "description": "Watch the first trailer for LITTERMATES, a new horror film from the producer of OBSESSION premiering at Fantastic Fest.",
+          "date": "2026-09-16T22:24:01+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Still-2_LITTERMATES_Drafthouse-Exclusives.jpg"
+        },
+        {
           "title": "HOKUM Arrives On Streaming This Halloween Season",
           "link": "https://www.fangoria.com/hokum-streaming-release-date-hulu/",
           "description": "Nearly half a year after it premiered in theaters, Damian McCarthy's HOKUM is coming to streaming. Get all the details here.",
@@ -216,13 +223,6 @@
           "description": "The duo behind the cult found footage series talk psychosexual madness, doomed bromances, and bringing to life what might be the most chilling episode of the show so far.",
           "date": "2026-09-15T13:00:51+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/08/THE-CREEP-TAPES-S3-scaled.png"
-        },
-        {
-          "title": "THE CREEP TAPES Season 3 Review: Peachfuzz’s Reign Of Terror Is Far From Finished",
-          "link": "https://www.fangoria.com/the-creep-tapes-season-3-review/",
-          "description": "Everyone's favorite wolf-masked weirdo is back with a bang (quite literally).",
-          "date": "2026-09-15T13:00:03+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/NkkxJKmg.jpeg"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Preview: Silver Palace Is a Gorgeous Gothic PS5 RPG, But So Far I've Played It Before",
+          "link": "https://www.pushsquare.com/previews/silver-palace-is-a-gorgeous-gothic-ps5-rpg-but-so-far-ive-played-it-before",
+          "description": "London's burning. Oh no, here I am again writing about another upcoming free-to-play RPG that’s sure to attract some sensible comments. Well, look, I pressed pause on Silver Palace for over a week so you’ve had plenty of time to recover from my Ananta and Honkai: Nexus Anima reports. Read the full a",
+          "date": "2026-09-16T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/3c090c9ab4431/large.jpg"
+        },
+        {
           "title": "The Disastrous MindsEye Saga Comes to a Close as Studio Is Reportedly Shutting Down",
           "link": "https://www.pushsquare.com/news/2026/09/the-disastrous-mindseye-saga-comes-to-a-close-as-studio-is-reportedly-shutting-down",
           "description": "MindsEye for an eye. MindsEye , the deeply troubled PS5 action-shooter that launched back in June of last year, will soon be laid to rest. That's according to a number of new reports from people who very recently lost their jobs at developer Build A Rocket Boy, which is said to be on the cusp of shu",
@@ -441,13 +448,6 @@
           "description": "Recommended games going cheap. It's time for Tokyo Game Show 2026, and Sony's latest sale promotes the show while dropping prices on thousands of games. Live until 23rd September, the Tokyo Game Show sale includes a boatload of PS5 and PS4 games going cheap, and it's a lot to look through. Read the ",
           "date": "2026-09-16T09:45:00+00:00",
           "image": "https://images.pushsquare.com/046eae3ea24de/large.jpg"
-        },
-        {
-          "title": "PS5's New Firmware Update Available to Download Now, Here's What It Does",
-          "link": "https://www.pushsquare.com/news/2026/09/ps5s-new-firmware-update-available-to-download-now-heres-what-it-does",
-          "description": "What does version 26.06-14.00.00 do? Sony has announced version 26.06-14.00.00 of the PS5 system software has begun rolling out, and should be available to download to your console within the next 24 hours or so. This update is more than just a stability improvement, so let's take a look at the full",
-          "date": "2026-09-16T09:15:00+00:00",
-          "image": "https://images.pushsquare.com/e2a4e091dca6e/large.jpg"
         }
       ]
     },
