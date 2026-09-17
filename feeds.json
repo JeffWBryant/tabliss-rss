@@ -1,9 +1,23 @@
 {
-  "updated": "2026-09-17T19:12:32.676856+00:00",
+  "updated": "2026-09-17T22:23:20.863409+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Werewolf by Night 2’: Gael García Bernal Wants Fans to “Push Marvel” to Make Sequel Happen",
+          "link": "https://bloody-disgusting.com/movie/3968124/werewolf-by-night-2-gael-garcia-bernal-fans-push-marvel/",
+          "description": "Mahershala Ali broke the news to fans of the supernatural corner of the Marvel Universe recently that, seven years after he was announced to be starring as Blade, the studio took too long to move forward with the project and he had cut his ties with Marvel Studios. In the years since that announceme",
+          "date": "2026-09-17T21:27:14+00:00",
+          "image": ""
+        },
+        {
+          "title": "First ‘Play House’ Clip Released Ahead of Fantastic Fest Premiere",
+          "link": "https://bloody-disgusting.com/movie/3968113/play-house-horror-movie-clip/",
+          "description": "Thanks to movies like Backrooms, Buddy, and the V/H/S series, as well as the TV show Channel Zero: Candle Cove, there’s a certain type of terror that can be offered through analog horror that other filmmaking techniques can’t. One reason this approach to horror is so unsettling is that analog horror",
+          "date": "2026-09-17T19:38:29+00:00",
+          "image": ""
+        },
         {
           "title": "Zack Snyder Gives First Story Details on ‘Escape From New York’ Reboot and Casting Update",
           "link": "https://bloody-disgusting.com/movie/3968102/escape-from-new-york-zack-snyder-update-story-casting/",
@@ -33,7 +47,7 @@
           "image": ""
         },
         {
-          "title": "Martin Scorsese Joins Eva Green’s Psychological Thriller “Trees Are Watching",
+          "title": "Martin Scorsese Joins Eva Green’s Psychological Thriller ‘Trees Are Watching’ As Producer",
           "link": "https://bloody-disgusting.com/movie/3968080/martin-scorsese-trees-are-watching-eva-green/",
           "description": "This year’s Toronto International Film Festival is in full swing and has already seen a handful of thrilling debuts for horror fans. From Vintage Violence to The Spiral to River, audiences are getting their first looks at what will likely be some of the best genre titles of the coming year. Another ",
           "date": "2026-09-17T17:20:20+00:00",
@@ -59,26 +73,33 @@
           "description": "Thanks to this week’s Resident Evil, and then continued with Other Mommy, Whalefall, and Clayface, there are plenty of new horror movie releases we’ll be able to check out on the big screen as we head towards Halloween. Additionally, smaller regional theaters will typically bring back a number of cl",
           "date": "2026-09-17T16:40:16+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2025/11/theshining-danny.jpg?resize=1600%2C900&#038;ssl=1"
-        },
-        {
-          "title": "AMC Theatres, Bloody Disgusting, and Ice Nine Kills Announce Thrills and Chills October Lineup",
-          "link": "https://bloody-disgusting.com/news/3967944/amc-thrills-chills-october-2026/",
-          "description": "This October, AMC Theatres, the largest theatrical exhibitor in the world, is teaming up with the No. 1 voice in horror Bloody Disgusting and horror metal icons Ice Nine Kills to bring some of horror’s most unforgettable films back to the big screen for “Welcome to Horrorwood,” a monthlong AMC Thril",
-          "date": "2026-09-17T16:04:40+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/FLM_4088_WELCOME_TO_HORRORWOOD_Social_1080x1350_V5.jpg?resize=1080%2C1350&#038;ssl=1"
-        },
-        {
-          "title": "‘V/H/S/MIXTAPE’ Debuts First Poster Ahead of Shudder Premiere",
-          "link": "https://bloody-disgusting.com/movie/3968061/v-h-s-mixtape-new-poster-shudder/",
-          "description": "Regardless of what the calendar says, it doesn’t really feel like the Halloween season until we get a new V/H/S movie on Shudder, and this year is no different. Ever since the streamer revived the dormant series back in 2021 with V/H/S/94, we’ve gotten a new entry of the found-footage anthology fran",
-          "date": "2026-09-17T15:53:49+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/VHS-Mixtape-Poster-Full-Size-scaled.jpg?resize=1707%2C2560&#038;ssl=1"
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "FocusFest 2026 Line-Up Celebrates Obsession and Gives First Looks at New Titles",
+          "link": "https://www.denofgeek.com/movies/focusfest-2026-line-up-obsession-first-looks-new-titles/",
+          "description": "FocusFest is returning this fall on October 10 in Los Angeles after its successful debut in 2025, which featured an advance screening of the global phenomenon Obsession. The festival will be hosted by television personality Justin Sylvester and will feature special guest appearances from Daisy Edgar",
+          "date": "2026-09-17T22:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/05/Obsession-Ending.jpg"
+        },
+        {
+          "title": "VisionQuest Posters Introduce Another Member of the Young Avengers",
+          "link": "https://www.denofgeek.com/tv/visionquest-posters-introduce-young-avengers-speed/",
+          "description": "Ever since Captain America: Brave New World and Thunderbolts*, we’ve known that the Marvel Cinematic Universe currently has two sets of Avengers, two versions of Earth’s Mightiest Heroes, who don’t necessarily get along. Sam Wilson’s Avengers and the New Avengers are sure to clash in the upcoming Av",
+          "date": "2026-09-17T21:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Vision-and-Speed-in-VisionQuest.jpg"
+        },
+        {
+          "title": "The 10 Best ‘70s Crime Movies Ever Made",
+          "link": "https://www.denofgeek.com/movies/10-best-70s-crime-movies-ever-made/",
+          "description": "The New Hollywood movement may have broken the classic studio system and opened the way for the smaller, more personal films of the 1960s and ’70s, but they never forgot about genre movies. In fact, the first proper New Hollywood film was Arthur Penn’s Bonnie and Clyde (1967), a crime movie. It’s no",
+          "date": "2026-09-17T20:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2022/03/Marlon-Brando-as-Vito-Corleone-in-The-Godfather-Movie.jpg"
+        },
         {
           "title": "15 Times People Accidentally Created Something Brilliant",
           "link": "https://www.denofgeek.com/msn/15-times-people-accidentally-created-something-brilliant/",
@@ -127,27 +148,6 @@
           "description": "The following contains spoilers for Star Trek: Strange New Worlds season 4 episode 9. The penultimate episode of Star Trek: Strange New Worlds’ fourth season is an unexpected follow-up to an installment from its first, just probably not the one that any of us might initially have predicted. Season 1",
           "date": "2026-09-17T13:12:44+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/star-trek-strange-new-worlds-season-4-episode-9.jpg"
-        },
-        {
-          "title": "The 15 Best War Movies Ever Made",
-          "link": "https://www.denofgeek.com/msn/the-15-best-war-movies-ever-made/",
-          "description": "War movies have a unique ability to turn enormous historical events into intensely personal stories. The best ones can put you inside a battlefield, a military unit, a civilian home, or the mind of someone simply trying to survive, while also showing the human cost behind the history. Some are bruta",
-          "date": "2026-09-17T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/1_82e019.jpg"
-        },
-        {
-          "title": "15 Photos That Capture the Exact Moment Everything Went Wrong",
-          "link": "https://www.denofgeek.com/msn/15-photos-that-capture-the-exact-moment-everything-went-wrong/",
-          "description": "There is a special kind of photograph that tells an entire story in a single frame. Everything looks normal for a split second, then something goes wrong, and the camera captures that exact moment before anyone can react. A drink starts falling, a carefully balanced object gives way, someone realize",
-          "date": "2026-09-17T12:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-51.jpg"
-        },
-        {
-          "title": "14 Movie Details That Only Make Sense After You Know the Ending",
-          "link": "https://www.denofgeek.com/msn/14-movie-details-that-only-make-sense-after-you-know-the-ending/",
-          "description": "Some movie details seem completely ordinary until you know how the story ends. A line of dialogue, a background prop, a strange reaction, or a seemingly unimportant visual choice can take on an entirely different meaning once the final reveal is no longer a secret. Great filmmakers often plant these",
-          "date": "2026-09-17T12:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-49.jpg"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Japanese Game Development Is Now Riddled with Generative AI, Industry Survey Finds",
+          "link": "https://www.pushsquare.com/news/2026/09/japanese-game-development-is-now-riddled-with-generative-ai-industry-survey-finds",
+          "description": "A massive surge since 2025. The mere mention of generative AI prompts an immediate backlash these days, but there's no escaping the reality that it's now a recognised tool across the video game industry. The fingerprints of gen-AI have been found throughout numerous projects over the last few years,",
+          "date": "2026-09-17T20:15:00+00:00",
+          "image": "https://images.pushsquare.com/eb8a083a08591/large.jpg"
+        },
+        {
           "title": "Preview: I'm One of the First People in the World to Play Lollipop Chainsaw 2 on PS5, But You Don't Need to Be Jealous",
           "link": "https://www.pushsquare.com/previews/im-one-of-the-first-people-in-the-world-to-play-lollipop-chainsaw-2-on-ps5-but-you-dont-need-to-be-jealous",
           "description": "Bittersweet. Even though I don’t think its PS5 re-release is very good , I’ll always have a soft spot for Lollipop Chainsaw on the PS3. Written by James Gunn and directed by Suda51, the crass Grasshopper Manufacture bubblegum beat-’em-up had an intoxicating identity – with an inexplicable budget fro",
@@ -441,13 +448,6 @@
           "description": "Several tracks revealed. Rockstar Games has announced the official GTA 6 album, and it's now available for pre-order via Atlantic Records. Via the official site , you can pre-purchase the album on CD or vinyl, with the latter available in two options — a standard edition and a limited edition. You c",
           "date": "2026-09-17T12:20:00+00:00",
           "image": "https://images.pushsquare.com/e05d0fb54f770/large.jpg"
-        },
-        {
-          "title": "'It's Devastating': Hyper Light Drifter Dev Lays Off Nearly All Staff After Publisher Pulls Funding",
-          "link": "https://www.pushsquare.com/news/2026/09/its-devastating-hyper-light-drifter-dev-lays-off-nearly-all-staff-after-publisher-pulls-funding",
-          "description": "Future of Heart Machine uncertain. Alx Preston, head of developer Heart Machine, has announced some unfortunate news for the studio. Via a post on LinkedIn , he has shared that \"nearly everyone\" at Heart Machine has been laid off, and the developer's future is uncertain. Read the full article on pus",
-          "date": "2026-09-17T12:00:00+00:00",
-          "image": "https://images.pushsquare.com/1732f37ddf4ff/large.jpg"
         }
       ]
     },
