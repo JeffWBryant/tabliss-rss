@@ -1,11 +1,32 @@
 {
-  "updated": "2026-09-18T10:57:53.667168+00:00",
+  "updated": "2026-09-18T14:54:28.808575+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
         {
-          "title": "‘Beware Boiúna’ Review: Giant Snake Horror Slithers To The Top Of 2026’s Creature Feature Food Chain [Fantastic Fest 2026]",
+          "title": "Nightdive Studios CEO Teases Potential ‘Eternal Darkness’ Remaster",
+          "link": "https://bloody-disgusting.com/video-games/3968191/nightdive-studios-ceo-teases-potential-eternal-darkness-remaster/",
+          "description": "Nightdive Studios has worked their black magic with obscure cult classic title in the past to get them remastered for modern audiences. And now, Nightdive CEO Stephen Kick has tossed fans a bone, teasing a potential remaster of the cult GameCube Lovecratian horror title Eternal Darkness. When someon",
+          "date": "2026-09-18T14:04:54+00:00",
+          "image": ""
+        },
+        {
+          "title": "Celebrate 20 Years of Guillermo del Toro’s ‘Pan’s Labyrinth’ With Deluxe Complete Screenplay Book",
+          "link": "https://bloody-disgusting.com/books/3968174/celebrate-20-years-of-guillermo-del-toros-pans-labyrinth-with-deluxe-complete-screenplay-book/",
+          "description": "This year marks the 20th anniversary of Guillermo del Toro’s Oscar-winning masterpiece Pan’s Labyrinth, and the celebration is just getting started. Tickets are now on sale for the Pan’s Labyrinth 20th Anniversary theatrical release – in 4K and 3D for the very first time – and we’ve learned this wee",
+          "date": "2026-09-18T13:36:06+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/8190wIprMcL._SL1500_.jpg?resize=1500%2C970&#038;ssl=1"
+        },
+        {
+          "title": "‘Control Resonant’ Provides a Visual Feast With a Compelling Narrative and Engaging Combat [Review]",
+          "link": "https://bloody-disgusting.com/video-games/3968150/control-resonant-provides-a-visual-feast-with-a-compelling-narrative-and-engaging-combat-review/",
+          "description": "Control is a game I think is really special, despite acknowledging its flaws. It can be a strange feeling loving a game while also knowing there are parts of it that make it frustrating to revisit. The outstanding worldbuilding, exploration, and gamefeel make up for combat encounters that frequently",
+          "date": "2026-09-18T13:00:02+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/resonant01.jpg?resize=900%2C580&#038;ssl=1"
+        },
+        {
+          "title": "‘Beware Boiúna’ Review: Snake Horror Slithers To The Top Of 2026’s Creature Feature Food Chain [Fantastic Fest 2026]",
           "link": "https://bloody-disgusting.com/reviews/3967900/beware-boiuna-review-giant-snake-horror-slithers-to-the-top-of-2026s-creature-feature-food-chain-fantastic-fest-2026/",
           "description": "Giant snake creature feature Beware Boiúna isn’t a reboot of Anaconda, though it bears obvious similarities, but it so effectively captures the sweaty Amazonian thrills and mean-spirited kills that it serves as a far better representation of what this subgenre has to offer than Anaconda‘s actual reb",
           "date": "2026-09-18T03:15:03+00:00",
@@ -52,27 +73,6 @@
           "description": "Juliet Starling is back in a new Lollipop Chainsaw video game, and we’ve learned this week that the upcoming sequel game now has an official title: Lollipop Chainsaw 2 Back2Back. IGN details the upcoming Dragami Games release this afternoon, “Set to launch on PlayStation 5 at some point in 2027, thi",
           "date": "2026-09-17T17:48:58+00:00",
           "image": ""
-        },
-        {
-          "title": "‘Seeker’ – ‘Carolina Caroline’ Filmmaker Adam Carter Rehmeier Directing Road Thriller",
-          "link": "https://bloody-disgusting.com/movie/3968076/seeker-carolina-caroline-filmmaker-adam-carter-rehmeier-directing-road-thriller/",
-          "description": "Adam Carter Rehmeier (Snack Shack, Carolina Caroline) is headed back into the director’s chair for the upcoming Seeker, which is being described as a darkly comedic thriller. Deadline reports that Michael Learner wrote the script and Rehmeier will direct. Seeker follows Grant, a man haunted by the u",
-          "date": "2026-09-17T17:33:54+00:00",
-          "image": ""
-        },
-        {
-          "title": "Martin Scorsese Joins Eva Green’s Psychological Thriller ‘Trees Are Watching’ As Producer",
-          "link": "https://bloody-disgusting.com/movie/3968080/martin-scorsese-trees-are-watching-eva-green/",
-          "description": "This year’s Toronto International Film Festival is in full swing and has already seen a handful of thrilling debuts for horror fans. From Vintage Violence to The Spiral to River, audiences are getting their first looks at what will likely be some of the best genre titles of the coming year. Another ",
-          "date": "2026-09-17T17:20:20+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Halloween: The Game’ Developers Tease What’s Next…",
-          "link": "https://bloody-disgusting.com/video-games/3968083/halloween-the-game-developers-tease-whats-next/",
-          "description": "Over 1 million players have already explored Haddonfield in just the first week of release for Halloween: The Game, and the developers at Illfonic are now giving us a taste of what’s next. In a blog post over on the game’s official website this afternoon, Illfonic explains that their “efforts to con",
-          "date": "2026-09-17T17:14:11+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/halloween-the-game-michael-myers.jpg?resize=1600%2C1080&#038;ssl=1"
         }
       ]
     },
@@ -80,80 +80,87 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
-          "title": "15 Movie Moments That Became More Interesting Once You Learn What Was Happening Off Camera",
-          "link": "https://www.denofgeek.com/msn/15-movie-moments-that-became-more-interesting-once-you-learn-what-was-happening-off-camera/",
-          "description": "What happens on screen is only part of the story behind a movie. A normal scene may have taken dozens of takes, an actor might have been dealing with something completely unexpected, or a seemingly simple moment could have required an enormous technical effort just outside the frame. Once you learn ",
-          "date": "2026-09-18T10:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-56.jpg"
+          "title": "15 Photos of Things You Almost Never Get to See",
+          "link": "https://www.denofgeek.com/msn/15-photos-of-things-you-almost-never-get-to-see/",
+          "description": "There are countless things happening around us that most people will never see in person. Some are hidden inside familiar objects, others happen in places normally closed to the public, and some are simply rare moments that exist for only a few seconds. That is what makes photographs of them so fasc",
+          "date": "2026-09-18T14:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-48.jpg"
         },
         {
-          "title": "15 Tiny Details in Old Photos That Tell a Much Bigger Story",
-          "link": "https://www.denofgeek.com/msn/15-tiny-details-in-old-photos-that-tell-a-much-bigger-story/",
-          "description": "Old photographs can look simple at first, especially when they show ordinary people going about their lives. But the smallest details can reveal things the photographer never intended to document, especially in the future. A newspaper headline, an object sitting on a table, a sign in the background,",
-          "date": "2026-09-18T10:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-55.jpg"
+          "title": "12 Photos That Look Completely Normal Until You Notice One Thing",
+          "link": "https://www.denofgeek.com/msn/12-photos-that-look-completely-normal-until-you-notice-one-thing/",
+          "description": "Most photographs seem easy to understand at first glance. You see a street, a group of people, a family gathering, or an ordinary moment and think you know exactly what is happening. Then one tiny detail catches your attention, and suddenly the entire image feels different. Maybe someone in the back",
+          "date": "2026-09-18T13:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-44.jpg"
         },
         {
-          "title": "15 Famous Movie Scenes That Were Almost Completely Improvised",
-          "link": "https://www.denofgeek.com/msn/15-famous-movie-scenes-that-were-almost-completely-improvised/",
-          "description": "Some of the most memorable movie moments were never fully written the way audiences eventually saw them. Sometimes choices in the moment created a better joke, a more natural reaction, or an unforgettable character moment that could never have been planned perfectly in advance. Improvisation can be ",
-          "date": "2026-09-18T10:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-54.jpg"
+          "title": "Your Favorite Movie Based On Your Zodiac Sign",
+          "link": "https://www.denofgeek.com/msn/your-favorite-movie-based-on-your-zodiac-sign/",
+          "description": "Even if you’re not into Zodiac signs at all, it’s still a fun exercise to see what is being arbitrarily assigned to you based on your birth date. It doesn’t hurt anyone to have a little bit of fun after all, and that’s what we’re doing today: selecting a movie we believe you would love based solely ",
+          "date": "2026-09-18T13:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/5_f8f5bb.jpg"
         },
         {
-          "title": "15 Strange Historical Photos That Raise More Questions Than They Answer",
-          "link": "https://www.denofgeek.com/msn/15-strange-historical-photos-that-raise-more-questions-than-they-answer/",
-          "description": "Some historical photographs leave you with more questions than answers. A strange outfit, an unfamiliar machine, an unusual gathering, or a moment that seems completely out of place can make you wonder what was happening just before the picture was taken. The fascinating part is that these images ca",
-          "date": "2026-09-18T10:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/ST.jpg"
+          "title": "15 Horror Shows That Aren’t Scary, But Are Still Good",
+          "link": "https://www.denofgeek.com/msn/15-horror-shows-that-arent-scary-but-are-still-good/",
+          "description": "If you like the idea of horror but hate actually being scared, you’re not alone. Sometimes you just want the spooky atmosphere, the supernatural creatures, and the dark aesthetic without the jump scares that make you spill your drink all over the couch. Fortunately, there's a whole category of \"horr",
+          "date": "2026-09-18T13:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-17-1.jpg"
         },
         {
-          "title": "FocusFest 2026 Line-Up Celebrates Obsession and Gives First Looks at New Titles",
-          "link": "https://www.denofgeek.com/movies/focusfest-2026-line-up-obsession-first-looks-new-titles/",
-          "description": "FocusFest is returning this fall on October 10 in Los Angeles after its successful debut in 2025, which featured an advance screening of the global phenomenon Obsession. The festival will be hosted by television personality Justin Sylvester and will feature special guest appearances from Daisy Edgar",
-          "date": "2026-09-17T22:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/05/Obsession-Ending.jpg"
+          "title": "5 Classic Movies That Aged Well, and 5 That Didn’t",
+          "link": "https://www.denofgeek.com/msn/5-classic-movies-that-aged-well-and-5-that-didnt/",
+          "description": "When we think about timeless movies, we all have that one specific example in our minds, movies that have aged like fine wine and get better with every rewatch. Immediately after that, we often think about the ones that aged like warm milk, and that ends up being up to how much technology and social",
+          "date": "2026-09-18T13:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-18-1.jpg"
         },
         {
-          "title": "VisionQuest Posters Introduce Another Member of the Young Avengers",
-          "link": "https://www.denofgeek.com/tv/visionquest-posters-introduce-young-avengers-speed/",
-          "description": "Ever since Captain America: Brave New World and Thunderbolts*, we’ve known that the Marvel Cinematic Universe currently has two sets of Avengers, two versions of Earth’s Mightiest Heroes, who don’t necessarily get along. Sam Wilson’s Avengers and the New Avengers are sure to clash in the upcoming Av",
-          "date": "2026-09-17T21:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Vision-and-Speed-in-VisionQuest.jpg"
+          "title": "The 10 Best Slasher Movies Ever Made",
+          "link": "https://www.denofgeek.com/movies/best-slasher-movies-ever-made/",
+          "description": "Every year, as spooky season sets in, people go looking for scary movies to watch. For cinema fans, this is a golden opportunity, a chance to get your movie-agnostic friends to actually sit through something with subtitles or a film in black and white, so we rush to recommend oddities like Carnival ",
+          "date": "2026-09-18T13:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2019/10/ghostface_mask_in_scream.jpg"
         },
         {
-          "title": "The 10 Best ‘70s Crime Movies Ever Made",
-          "link": "https://www.denofgeek.com/movies/10-best-70s-crime-movies-ever-made/",
-          "description": "The New Hollywood movement may have broken the classic studio system and opened the way for the smaller, more personal films of the 1960s and ’70s, but they never forgot about genre movies. In fact, the first proper New Hollywood film was Arthur Penn’s Bonnie and Clyde (1967), a crime movie. It’s no",
-          "date": "2026-09-17T20:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2022/03/Marlon-Brando-as-Vito-Corleone-in-The-Godfather-Movie.jpg"
+          "title": "15 Celebrities Who Made the Perfect Switch to Podcaster",
+          "link": "https://www.denofgeek.com/msn/15-celebrities-who-made-the-perfect-switch-to-podcaster/",
+          "description": "It seems like every celebrity has a podcast these days. For every actor, musician, or reality star, a microphone and a \"tell-all\" interview format seems to be the next logical career step. Of course, it's not as simple as just hitting the record button, since many of these shows come and go. The one",
+          "date": "2026-09-18T12:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/4_fefb72.jpg"
         },
         {
-          "title": "15 Times People Accidentally Created Something Brilliant",
-          "link": "https://www.denofgeek.com/msn/15-times-people-accidentally-created-something-brilliant/",
-          "description": "Some of the cleverest ideas are not the result of careful planning. They happen because someone runs into a problem, grabs whatever is nearby, and tries something that probably should not work. Sometimes the result is a temporary fix that is surprisingly effective, while other times an accidental co",
-          "date": "2026-09-17T15:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/6_4971fb.jpg"
+          "title": "15 Celebrities You Didn’t Know Have Stage Names",
+          "link": "https://www.denofgeek.com/msn/15-celebrities-you-didnt-know-have-stage-names/",
+          "description": "What's in a name? For a lot of celebrities, not much truth. It's a tradition almost as old as Hollywood itself for an aspiring star to pick a new name. Sometimes their birth name is too common or already taken, and other times it just doesn't have that 'star quality.' From action heroes to pop super",
+          "date": "2026-09-18T12:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-20-1.jpg"
         },
         {
-          "title": "12 Photos Showing the Depths of Everyday Problems",
-          "link": "https://www.denofgeek.com/msn/12-photos-showing-the-depths-of-everyday-problems/",
-          "description": "Some everyday problems are so specific that you almost have to see them to understand just how bad they can get. A small inconvenience can turn into a ridiculous mess, a simple repair can create an even bigger problem, and something that should take five minutes can suddenly require an entirely new ",
-          "date": "2026-09-17T14:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-46.jpg"
+          "title": "5 Classic Movies We Loved as a Kid, and 5 We Absolutely Didn’t",
+          "link": "https://www.denofgeek.com/msn/5-classic-movies-we-loved-as-a-kid-and-5-we-absolutely-didnt/",
+          "description": "Rewatching a childhood favorite can be dangerous. Some movies instantly bring back the feeling of sitting too close to the television with a snack, while others make you wonder how anyone convinced you to sit through them more than once. Maybe they were too slow, too sad, or simply the movie adults ",
+          "date": "2026-09-18T12:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-22.jpg"
         },
         {
-          "title": "15 Photos That Capture the Moment Something Went Slightly Wrong",
-          "link": "https://www.denofgeek.com/msn/15-photos-that-capture-the-moment-something-went-slightly-wrong/",
-          "description": "There is something strangely satisfying about seeing the exact moment when a perfectly ordinary situation starts going wrong. A drink tips over, an object breaks, someone misses a step, or a carefully planned moment takes an unexpected turn, all within a fraction of a second. The best photographs ca",
-          "date": "2026-09-17T14:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-45.jpg"
+          "title": "15 Famous Actors Who Were Already Related, But Nobody Seems to Notice",
+          "link": "https://www.denofgeek.com/msn/15-famous-actors-who-were-already-related-but-nobody-seems-to-notice/",
+          "description": "Hollywood family connections are hardly a secret, but some are much easier to spot than others. Everyone knows a few famous acting dynasties, especially when relatives share a last name or spend years appearing together. The more entertaining discoveries are the ones hiding in plain sight. Sometimes",
+          "date": "2026-09-18T12:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-3-7.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "K-Pop Killers, Cursed Clowns And More Descend On Los Angeles For Beyond Fest’s 2026 Shorts Lineup",
+          "link": "https://www.fangoria.com/beyond-fest-2026-shorts-lineup/",
+          "description": "The highest-attended genre film festival in the U.S kicks off on September 23.",
+          "date": "2026-09-18T14:00:53+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/AYFKM.png"
+        },
         {
           "title": "Monstrous Musings: How To Put the Fantastic in Fantastic Fest",
           "link": "https://www.fangoria.com/monstrous-musings-how-to-ff-2026/",
@@ -216,19 +223,47 @@
           "description": "Shudder has announced the release date for Season 7 of THE BOULET BROTHERS' DRAGULA as the show celebrates 10 years on the streamer.",
           "date": "2026-09-17T15:31:17+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/TheBouletBrothersDragula_S7_KeyArt_4x5.jpg"
-        },
-        {
-          "title": "CLIVE BARKER’S HELLRAISER: REVIVAL Takes Us To The Scarlet Church With NSFW New Trailer",
-          "link": "https://www.fangoria.com/clive-barkers-hellraiser-revival-scarlet-church-trailer/",
-          "description": "A hellish new demo for the upcoming horror action video game is now playable.",
-          "date": "2026-09-17T13:29:10+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/HELLRAISER-REVIVAL-scaled.png"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "Surprise Hit 2020 PS5 RPG Under $5 on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/09/18/maneater-ps-store-deal-september-2026/",
+          "description": "A hit 2020 PS5 and PS4 action RPG is 90% off in a limited-time PS Store deal that ends next week. Developed and published by Tripwire Interactive, Maneater is under $5 ahead of its highly anticipated sequel scheduled for launch in 2027. PS5, PS4 RPG Maneater is just $3.99 in limited-time PS Store de",
+          "date": "2026-09-18T14:19:05+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/maneater-ps-store-deal.jpg?w=1024"
+        },
+        {
+          "title": "PlayStation 5 Pro Stock Shortage to Continue Into 2027 – Report",
+          "link": "https://www.playstationlifestyle.net/2026/09/18/ps5-pro-stock-shortage-supply-fall-2026-2027/",
+          "description": "The ongoing global PS5 Pro stock shortage will last beyond the holiday 2026 season, if a new rumor is to be believed. The console has been out of stock at major retailers and Sony‘s online storefront, PS Direct, with random inventory drops. A fresh report claims that Sony has communicated the supply",
+          "date": "2026-09-18T13:52:13+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps5-pro-stock.jpg?w=1024"
+        },
+        {
+          "title": "PS5 Getting Promising AAA RPG in October 2026 for a Great Price",
+          "link": "https://www.playstationlifestyle.net/2026/09/18/ps5-rpg-valor-mortis-price-explained/",
+          "description": "PS5 is getting an intriguing new historical action RPG soon, and despite being AAA quality, its publisher is opting for an affordable price tag. Brought to us by One More Level (Ghostrunner games), Valor Mortis will launch on October 13, 2026. Valor Mortis is a AAA PS5 RPG with the price tag of a AA",
+          "date": "2026-09-18T13:20:39+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps5-rpg-valor-mortis.jpg?w=1024"
+        },
+        {
+          "title": "Control Resonant (PS5) Review: Risky Sequel Doesn’t Fully Succeed",
+          "link": "https://www.playstationlifestyle.net/review/936455-control-resonant-review-risky-sequel/",
+          "description": "Control Resonant is a risky sequel that isn’t fully successful. Trading in its gun for melee combat, the sequel to Control has you playing as Jesse’s brother instead. It’s not all unsuccessful, as the art design and some story elements still shine, but going from an acclaimed shooter to a middling c",
+          "date": "2026-09-18T13:05:02+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ss_195a46fccb4276003092c87c9d6d034a0dfbe355.1920x1080.jpg?w=1024"
+        },
+        {
+          "title": "PlayStation Plus Essential Users Surprised With Free PS5 RPG",
+          "link": "https://www.playstationlifestyle.net/2026/09/18/ps5-rpg-fallout-76-free-ps-plus-essential-upgrade/",
+          "description": "PS Plus Essential users will get a free PS5 RPG after being told that they were not eligible to claim it. As reported yesterday, Fallout 76‘s native PS5 upgrade launched a day ago, but only those who previously purchased the PS4 version or have a PS Plus Extra/Premium membership are currently able t",
+          "date": "2026-09-18T12:57:20+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/free-ps-plus-rpg-upgrade-fallout-76.jpg?w=1024"
+        },
         {
           "title": "Bill Skarsgård Goes From Pennywise to Leading Hideo Kojima’s Physint Spy Game",
           "link": "https://www.playstationlifestyle.net/2026/09/17/bill-skarsgard-hideo-kojima-physint-spy-action-game/",
@@ -263,47 +298,19 @@
           "description": "A promising game, set in the Ni no Kuni universe, has been confirmed for PlayStation 5. The upcoming project comes from developer Netmarble Neo and publisher Netmarble. It’s been announced that Bloomwalker, Netmarble’s next adventure title, will also launch for PS5, alongside Nintendo Switch 2, and ",
           "date": "2026-09-17T16:19:33+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Bloomwalker.jpg?w=1024"
-        },
-        {
-          "title": "Acclaimed PS5 Fantasy Game Sequel Is Out Today on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/09/17/endless-legend-2-out-today-playstation-5/",
-          "description": "An acclaimed PlayStation 5 strategy game sequel finally comes out of early access today. The game is now available in the PlayStation Store for players ot purchase and enjoy. Endless Legend 2, after spending the past year marinating in player feedback, has finally released its 1.0 version. With the ",
-          "date": "2026-09-17T16:14:46+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/endless-legend-2.jpg?w=1024"
-        },
-        {
-          "title": "PlayStation Store Adds Intriguing New PS5 Adventure Game for Free",
-          "link": "https://www.playstationlifestyle.net/2026/09/17/legendary-tales-playstation-store-new-ps5-adventure-game-free/",
-          "description": "The PlayStation Store has added an intriguing new adventure game for PS5 players for free, which was previously available on other platforms. The post PlayStation Store Adds Intriguing New PS5 Adventure Game for Free appeared first on PlayStation LifeStyle .",
-          "date": "2026-09-17T15:59:29+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/4.jpg?w=1024"
-        },
-        {
-          "title": "New Venom PlayStation 5 Game Details Hint at What Fans Wanted All Along",
-          "link": "https://www.playstationlifestyle.net/2026/09/17/venom-playstation-5-game-details-eddie-brock-fans-wanted/",
-          "description": "New details about Insomniac Games' rumored Venom PlayStation 5 game have surfaced online. The post New Venom PlayStation 5 Game Details Hint at What Fans Wanted All Along appeared first on PlayStation LifeStyle .",
-          "date": "2026-09-17T15:38:49+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/venom.jpg?w=1024"
-        },
-        {
-          "title": "GTA VI: The Album Launched Out of Nowhere, Featuring Travis Scott & More",
-          "link": "https://www.playstationlifestyle.net/2026/09/17/gta-vi-the-album-released-travis-scott-more/",
-          "description": "Two months before the game's release, Rockstar Games announced the official GTA VI album, which features music from Travis Scott, Metro Boomin, and more The post GTA VI: The Album Launched Out of Nowhere, Featuring Travis Scott & More appeared first on PlayStation LifeStyle .",
-          "date": "2026-09-17T15:21:27+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/GTA-6-1.jpg?w=1024"
-        },
-        {
-          "title": "Stunning 2023 PS5 RPG Is Half Price on PS Store Ahead of Sequel",
-          "link": "https://www.playstationlifestyle.net/2026/09/17/wo-long-fallen-dynasty-ps-store-deal-september-2026/",
-          "description": "A surprise hit 2023 PS5 and PS4 historical fantasy RPG is half price on the PS Store ahead of its sequel’s launch. Developed by Team Ninja and published by Koei Tecmo, Wo Long: Fallen Dynasty is on sale until next week. Wo Long: Fallen Dynasty is under $20 in limited-time PS Store deal PS5 and […] T",
-          "date": "2026-09-17T12:50:21+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/wo-long-fallen-dynasty-ps-store-deal.jpg?w=1024"
         }
       ]
     },
     "PlayStation Blog": {
       "url": "https://blog.playstation.com/feed/",
       "articles": [
+        {
+          "title": "Control Resonant: How Remedy is going bigger and weirder with its paranatural horror sequel on September 24",
+          "link": "https://blog.playstation.com/2026/09/18/control-resonant-how-remedy-is-going-bigger-and-weirder-with-its-paranatural-horror-sequel-on-september-24/",
+          "description": "Control was just the beginning. The paranatural realm established in Remedy Entertainment’s sci-fi action adventure thriller gets a full sequel in Control Resonant on PlayStation 5, which leaves the confines of the mysterious Oldest House and ventures into a world of terrifying entities, mind-bendin",
+          "date": "2026-09-18T13:00:08+00:00",
+          "image": ""
+        },
         {
           "title": "Co-op roguelite Shape of Dreams launches today on PS5",
           "link": "https://blog.playstation.com/2026/09/17/co-op-roguelite-shape-of-dreams-launches-today-on-ps5/",
@@ -366,19 +373,33 @@
           "description": "When we introduced Pulse Elite in 2024, our first wireless headset featuring planar magnetic drivers and PlayStation Link connectivity, we saw positive feedback from players who enjoyed the greater precision, clarity, and level of detail it brought to their games and entertainment. Today, we’re exci",
           "date": "2026-09-15T22:00:20+00:00",
           "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-        },
-        {
-          "title": "Gear up for the launch of Marvel’s Wolverine with new official merchandise",
-          "link": "https://blog.playstation.com/2026/09/15/gear-up-for-the-launch-of-marvels-wolverine-with-new-official-merchandise/",
-          "description": "Marvel’s Wolverine launches today on PS5, bringing players an all-new, action-packed adventure from Insomniac Games, developed in collaboration with Marvel Games. To celebrate the game’s launch, here’s a look at the range of official Marvel’s Wolverine | PlayStation merchandise* available starting t",
-          "date": "2026-09-15T17:00:02+00:00",
-          "image": "https://live.staticflickr.com/65535/55528470699_7dce40e6f5_b.jpg"
         }
       ]
     },
     "Push Square": {
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
+        {
+          "title": "Modern AAA Games Are 'Boring', Says The Last of Us Game Director",
+          "link": "https://www.pushsquare.com/news/2026/09/modern-aaa-games-are-boring-says-the-last-of-us-game-director",
+          "description": "Bruce Straley weighs in on big budget titles. Bruce Straley, formerly a key senior staff member at Naughty Dog, has aired his grievances with modern AAA games. In a feature from Edge magazine, which examines the \"broken\" state of the industry's big budget productions, he shares his distaste for how ",
+          "date": "2026-09-18T14:45:00+00:00",
+          "image": "https://images.pushsquare.com/35bce9a003dc2/large.jpg"
+        },
+        {
+          "title": "Review: Control Resonant (PS5) - A Wildly Inventive and Drop-Dead Gorgeous Sequel",
+          "link": "https://www.pushsquare.com/reviews/ps5/control-resonant",
+          "description": "You mustn't be afraid to dream a little bigger, darling. I’m fighting a possessed bus with a weapon that morphs from an axe to a whip whilst the skyscrapers of Manhattan fold in on themselves like I’m in a dream from Inception. Nowhere else could this be the case than in a Remedy game. Releasing its",
+          "date": "2026-09-18T13:00:00+00:00",
+          "image": "https://images.pushsquare.com/reviews/ps5/control-resonant/large.jpg"
+        },
+        {
+          "title": "Preview: I Ferried a Soba Noodles Fan Around Tokyo in Crazy Taxi: World Tour, But I Have a Lingering Nitpick with This PS5 Revival",
+          "link": "https://www.pushsquare.com/previews/i-ferried-a-soba-noodles-fan-around-tokyo-in-crazy-taxi-world-tour-but-i-have-a-lingering-nitpick-with-this-ps5-revival",
+          "description": "Shibuya cross. SEGA’s really giving us unprecedented pre-release access to Crazy Taxi: World Tour , the 2027 revival of AM3’s all-time classic arcade ferry-’em-up. Back at Gamescom I spoke to director Kenji Kanno before getting my hands on the new Germany map , while my colleague Stephen Tailby test",
+          "date": "2026-09-18T11:30:00+00:00",
+          "image": "https://images.pushsquare.com/4a83cca699ce8/large.jpg"
+        },
         {
           "title": "Japanese Game Development Is Now Riddled with Generative AI, Industry Survey Finds",
           "link": "https://www.pushsquare.com/news/2026/09/japanese-game-development-is-now-riddled-with-generative-ai-industry-survey-finds",
@@ -427,27 +448,6 @@
           "description": "CDPR wants it to \"shine again\". The Witcher 3 Remastered's announcement took everyone by surprise at Gamescom, especially since CD Projekt Red appears to be packing it with so many improvements (while also making it a free upgrade for existing owners). The developer's already detailed most of these ",
           "date": "2026-09-17T14:00:00+00:00",
           "image": "https://images.pushsquare.com/2f39e853cd7fb/large.jpg"
-        },
-        {
-          "title": "Movie Review: Resident Evil - The Best Resident Evil Film Ever",
-          "link": "https://www.pushsquare.com/features/movie-review-resident-evil-the-best-resident-evil-film-ever",
-          "description": "Barbarian Biohazard. I already know what you're thinking: after six Milla Jovovich-led movies and Welcome to Raccoon City , calling something \"the best Resident Evil film ever\" isn't exactly saying very much. The flicks based on Capcom's iconic horror series have been fun but ultimately poor for alm",
-          "date": "2026-09-17T13:00:00+00:00",
-          "image": "https://images.pushsquare.com/4622961428b87/large.jpg"
-        },
-        {
-          "title": "There's a New Ni no Kuni Game, Kind of, and It's Now Confirmed for PS5",
-          "link": "https://www.pushsquare.com/news/2026/09/theres-a-new-ni-no-kuni-game-kind-of-and-its-now-confirmed-for-ps5",
-          "description": "Bloomwalker drops Xbox exclusivity. Bloomwalker , a Studio Ghibli-looking adventure from South Korean developer Netmarble, was announced for Xbox and PC last year — and now we've got confirmation that it's also coming to PS5. The game's a mix of exploration and crafting, as you clean away a kind of ",
-          "date": "2026-09-17T12:30:00+00:00",
-          "image": "https://images.pushsquare.com/cf27edd765b6c/large.jpg"
-        },
-        {
-          "title": "GTA 6: The Album Announced, Pre-Orders Available Now",
-          "link": "https://www.pushsquare.com/news/2026/09/gta-6-the-album-announced-pre-orders-available-now",
-          "description": "Several tracks revealed. Rockstar Games has announced the official GTA 6 album, and it's now available for pre-order via Atlantic Records. Via the official site , you can pre-purchase the album on CD or vinyl, with the latter available in two options — a standard edition and a limited edition. You c",
-          "date": "2026-09-17T12:20:00+00:00",
-          "image": "https://images.pushsquare.com/e05d0fb54f770/large.jpg"
         }
       ]
     },
