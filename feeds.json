@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-17T22:23:20.863409+00:00",
+  "updated": "2026-09-18T00:42:34.898329+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "First ‘What Happened to Doris?’ Clip Revealed Before Fantastic Fest Debut",
+          "link": "https://bloody-disgusting.com/movie/3968136/what-happened-to-doris-clip-heather-graham/",
+          "description": "We doubt anyone saw Heather Graham‘s genre movie resurgence coming, but we’re very much here for it. One of her earliest roles came in Twin Peaks, so it’s not much of a surprise that she has a passion for unconventional storytelling, but after appearances in Scream 2 and From Hell, she was largely a",
+          "date": "2026-09-17T23:25:41+00:00",
+          "image": ""
+        },
         {
           "title": "‘Werewolf by Night 2’: Gael García Bernal Wants Fans to “Push Marvel” to Make Sequel Happen",
           "link": "https://bloody-disgusting.com/movie/3968124/werewolf-by-night-2-gael-garcia-bernal-fans-push-marvel/",
@@ -66,13 +73,6 @@
           "description": "With huge hits like Iron Lung, Obsession, and Backrooms, 2026 has been a watershed year for indie horror developed by filmmakers who originally started as online content creators. That’s why Hollywood has been desperately combing the internet for fresh talent capable of delivering the next billion d",
           "date": "2026-09-17T17:00:09+00:00",
           "image": ""
-        },
-        {
-          "title": "Regal’s Full “31 Screams on Screen” Schedule Released for October",
-          "link": "https://bloody-disgusting.com/movie/3968070/regal-31-screams-on-screen-full-schedule-halloween/",
-          "description": "Thanks to this week’s Resident Evil, and then continued with Other Mommy, Whalefall, and Clayface, there are plenty of new horror movie releases we’ll be able to check out on the big screen as we head towards Halloween. Additionally, smaller regional theaters will typically bring back a number of cl",
-          "date": "2026-09-17T16:40:16+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2025/11/theshining-danny.jpg?resize=1600%2C900&#038;ssl=1"
         }
       ]
     },
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Top Horror Movies Streaming This Week",
+          "link": "https://www.fangoria.com/top-horror-movies-streaming-this-week/",
+          "description": "Na Hong-jin's THE WAILING and two John Carpenter films, along with HOST, are here to amp up the excitement as scary season approaches. Find out what other scary movies hit the top ten this week at FANGORIA.",
+          "date": "2026-09-17T22:30:08+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/05/MV5BYWRjNzlmY2EtMGI1OS00ZjllLTk1NTktODk5YzRhYTdkYThlXkEyXkFqcGc@._V1_-1.jpg"
+        },
+        {
           "title": "Angry Orchard & Skeet Ulrich Team For Special SCREAM-Inspired Experience In NYC",
           "link": "https://www.fangoria.com/angry-orchard-scream-pop-up/",
           "description": "Angry Orchard is teaming up with Skeet Ulrich for a special SCREAM-inspired, 21+ experience in New York City next month.",
@@ -216,13 +223,6 @@
           "description": "Check out our exclusive set preview of the wacky, gnarly, independent horror-comedy Flapjax - premiering this week at Fantastic Fest.",
           "date": "2026-09-17T11:00:06+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/FANGO-EXCLUSIVE-STILL-web.jpg"
-        },
-        {
-          "title": "LITTERMATES: Siblings Have To Stick Together In First Trailer",
-          "link": "https://www.fangoria.com/littermates-trailer/",
-          "description": "Watch the first trailer for LITTERMATES, a new horror film from the producer of OBSESSION premiering at Fantastic Fest.",
-          "date": "2026-09-16T22:24:01+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Still-2_LITTERMATES_Drafthouse-Exclusives.jpg"
         }
       ]
     },
