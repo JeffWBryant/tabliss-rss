@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-18T00:42:34.898329+00:00",
+  "updated": "2026-09-18T05:43:31.746794+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Beware Boiúna’ Review: Giant Snake Horror Slithers To The Top Of 2026’s Creature Feature Food Chain [Fantastic Fest 2026]",
+          "link": "https://bloody-disgusting.com/reviews/3967900/beware-boiuna-review-giant-snake-horror-slithers-to-the-top-of-2026s-creature-feature-food-chain-fantastic-fest-2026/",
+          "description": "Giant snake creature feature Beware Boiúna isn’t a reboot of Anaconda, though it bears obvious similarities, but it so effectively captures the sweaty Amazonian thrills and mean-spirited kills that it serves as a far better representation of what this subgenre has to offer than Anaconda‘s actual reb",
+          "date": "2026-09-18T03:15:03+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/DSF0888RC2-2.jpg?resize=1024%2C683&#038;ssl=1"
+        },
         {
           "title": "First ‘What Happened to Doris?’ Clip Revealed Before Fantastic Fest Debut",
           "link": "https://bloody-disgusting.com/movie/3968136/what-happened-to-doris-clip-heather-graham/",
@@ -66,13 +73,6 @@
           "description": "Over 1 million players have already explored Haddonfield in just the first week of release for Halloween: The Game, and the developers at Illfonic are now giving us a taste of what’s next. In a blog post over on the game’s official website this afternoon, Illfonic explains that their “efforts to con",
           "date": "2026-09-17T17:14:11+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/halloween-the-game-michael-myers.jpg?resize=1600%2C1080&#038;ssl=1"
-        },
-        {
-          "title": "5 Viral Horror Shorts That Could Become the Next ‘Iron Lung’ or ‘Backrooms’",
-          "link": "https://bloody-disgusting.com/editorials/3967345/5-viral-horror-shorts-that-could-become-the-next-iron-lung-or-backrooms/",
-          "description": "With huge hits like Iron Lung, Obsession, and Backrooms, 2026 has been a watershed year for indie horror developed by filmmakers who originally started as online content creators. That’s why Hollywood has been desperately combing the internet for fresh talent capable of delivering the next billion d",
-          "date": "2026-09-17T17:00:09+00:00",
-          "image": ""
         }
       ]
     },
