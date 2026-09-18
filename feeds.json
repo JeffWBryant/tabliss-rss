@@ -1,9 +1,23 @@
 {
-  "updated": "2026-09-18T21:09:32.633054+00:00",
+  "updated": "2026-09-18T23:31:24.159773+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Zach Cregger’s ‘Resident Evil’ Soundtrack Officially Out Now",
+          "link": "https://bloody-disgusting.com/movie/3968352/resident-evil-reboot-soundtrack-score-streaming/",
+          "description": "The last time there was an attempt to reboot Resident Evil, we got 2021’s Resident Evil: Welcome to Raccoon City. The movie wasn’t entirely without merit, but it ultimately failed to capture what makes the games so special, even if it was a welcome tonal shift from the Milla Jovovich-starring Paul W",
+          "date": "2026-09-18T23:06:29+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Resident-Evil-Reboot-Soundtrack-Cover.jpg?resize=1500%2C1500&#038;ssl=1"
+        },
+        {
+          "title": "‘Flapjax’ Review: Fast Food Body Horror Serves Plenty Of Slime But Few Laughs [Fantastic Fest 2026]",
+          "link": "https://bloody-disgusting.com/reviews/3968288/flapjax-review-fantastic-fest-2026/",
+          "description": "John Waters famously said that there’s no such thing as a good, long joke. The filmmakers behind Flapjax, a campy horror comedy that too often mistakes enthusiasm for ingenuity, have clearly not taken that pearl of wisdom to heart. What few jokes there are wear thin long before the credits roll, des",
+          "date": "2026-09-18T22:35:56+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/unnamed.png?resize=1024%2C636&#038;ssl=1"
+        },
         {
           "title": "‘The Glorious Dead’ Review: The Adams Family Gets Weird with Intimate Cosmic Horror [Fantastic Fest 2026]",
           "link": "https://bloody-disgusting.com/reviews/3968312/the-glorious-dead-review-the-adams-family-cosmic-horror-fantastic-fest-2026/",
@@ -58,20 +72,6 @@
           "link": "https://bloody-disgusting.com/video-games/3968218/bash-walker-brains-in-the-walking-dead-streets-of-survival-today-trailer/",
           "description": "Grab a baseball bat and get ready to bash some Walkers in old-school beat-’em-up action. TRAILMARK Games, developer Odaclick Game Studio and AMC Global Media have digitally released The Walking Dead: Streets of Survival today on PC via Steam, PlayStation 5, Xbox Series, the Nintendo Switch and Ninte",
           "date": "2026-09-18T18:27:07+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘World War Z 2’ Bringing Back Brad Pitt With Director Edward Berger",
-          "link": "https://bloody-disgusting.com/news/3968266/world-war-z-2-brad-pitt-return-official/",
-          "description": "The original World War Z movie, adapted from the Max Brooks novel of the same name, was one of the most successful and also one of the most challenging zombie movies of the 21st century. It seemed like a no-brainer (pun intended) that adapting the popular book into a movie would be a straightforward",
-          "date": "2026-09-18T17:39:36+00:00",
-          "image": ""
-        },
-        {
-          "title": "Explore Gameplay Philosophies in New ‘End of Abyss’ Development Video [Watch]",
-          "link": "https://bloody-disgusting.com/video-games/3968200/explore-gameplay-philosophies-in-new-end-of-abyss-development-video-watch/",
-          "description": "Section 9 Interactive has followed up last week’s behind-the-scenes video on End of Abyss with a second entry. Entitled “Where I Hide The Secrets”, this new video provides a closer look at the devteam’s journey to bringing the game to life. Co-founder of Section 9 Interactive Mattias Ottvall is back",
-          "date": "2026-09-18T17:30:15+00:00",
           "image": ""
         }
       ]
@@ -230,6 +230,20 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "Marvel’s Wolverine Sets PS5 Sales Record Despite Massive Criticism",
+          "link": "https://www.playstationlifestyle.net/2026/09/18/marvel-wolverine-ps5-sales-record-criticism/",
+          "description": "Insomniac’s most recent offering, Marvel’s Wolverine, faced a lukewarm reception upon its release. However, that did not stop the game from setting a PlayStation 5 sales record. Aliena Analytics estimated that Marvel’s Wolverine has sold about 1.9 million copies, putting it well ahead of some of the",
+          "date": "2026-09-18T21:39:40+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/11.jpg?w=1024"
+        },
+        {
+          "title": "Canceled PS2 Grand Theft Auto Game Nearly Took Series to Japan, Gets Details",
+          "link": "https://www.playstationlifestyle.net/2026/09/18/rockstar-developer-gta-tokyo-ps2-game-details/",
+          "description": "A former Rockstar Games director has shed light on the developer's original plans for an open-world GTA: Tokyo game planned for the PS2. The post Canceled PS2 Grand Theft Auto Game Nearly Took Series to Japan, Gets Details appeared first on PlayStation LifeStyle .",
+          "date": "2026-09-18T21:19:26+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/gta_141a3f.jpg?w=1024"
+        },
+        {
           "title": "Cozy PlayStation 5 Adventure Game Out Today on PS Store",
           "link": "https://www.playstationlifestyle.net/2026/09/18/moomintroll-winters-warmth-out-today-ps5/",
           "description": "Norwegian independent studio Hyper Games has released its cozy adventure game for PlayStation 5. The game is based on the popular Moomins franchise and focuses on gentle exploration and puzzle-solving with a comfy feel. It was previously launched for PC and Nintendo Switch in April 2026. Moomintroll",
@@ -284,20 +298,6 @@
           "description": "PS5 is getting an intriguing new historical action RPG soon, and despite being AAA quality, its publisher is opting for an affordable price tag. Brought to us by One More Level (Ghostrunner games), Valor Mortis will launch on October 13, 2026. Valor Mortis is a AAA PS5 RPG with the price tag of a AA",
           "date": "2026-09-18T13:20:39+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps5-rpg-valor-mortis.jpg?w=1024"
-        },
-        {
-          "title": "Control Resonant (PS5) Review: Risky Sequel Doesn’t Fully Succeed",
-          "link": "https://www.playstationlifestyle.net/review/936455-control-resonant-review-risky-sequel/",
-          "description": "Control Resonant is a risky sequel that isn’t fully successful. Trading in its gun for melee combat, the sequel to Control has you playing as Jesse’s brother instead. It’s not all unsuccessful, as the art design and some story elements still shine, but going from an acclaimed shooter to a middling c",
-          "date": "2026-09-18T13:05:02+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ss_195a46fccb4276003092c87c9d6d034a0dfbe355.1920x1080.jpg?w=1024"
-        },
-        {
-          "title": "PlayStation Plus Essential Users Surprised With Free PS5 RPG",
-          "link": "https://www.playstationlifestyle.net/2026/09/18/ps5-rpg-fallout-76-free-ps-plus-essential-upgrade/",
-          "description": "PS Plus Essential users will get a free PS5 RPG after being told that they were not eligible to claim it. As reported yesterday, Fallout 76‘s native PS5 upgrade launched a day ago, but only those who previously purchased the PS4 version or have a PS Plus Extra/Premium membership are currently able t",
-          "date": "2026-09-18T12:57:20+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/free-ps-plus-rpg-upgrade-fallout-76.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Talking Point: What Are You Playing This Weekend? - Issue 650",
+          "link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-650",
+          "description": "Cool. Wow, it's a milestone issue of WAYP yet again. But we'll save the big celebration for 700 next year. This week, we're keeping things short and sweet. Aaron Bayne I've got a review game on the go which I can't talk about yet, but I'll also be quite keen to check out RuneScape Dragonwilds with s",
+          "date": "2026-09-18T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/ca4ec2933f032/large.jpg"
+        },
+        {
           "title": "Former Sony Suits Recreate Infamous PS4 Game Sharing Skit, Only without the Disc",
           "link": "https://www.pushsquare.com/news/2026/09/former-sony-suits-recreate-infamous-ps4-game-sharing-skit-only-without-the-disc",
           "description": "Hits different these days. Back in 2013, then-PlayStation executives Shuhei Yoshida and Adam Boyes made history with a silly little video that made a mockery of Xbox One's much-maligned DRM plans. 13 years later, a lot has changed , and the video has a completely different effect — but it's still an",
@@ -441,13 +448,6 @@
           "description": "Extra story, dialogue, modes, and more. ZA/UM has shared the PS5 version of Zero Parades: For Dead Spies will launch on 3rd November 2026 as an expanded Director's Cut containing new content, dialogue, modes, and additional improvements. This will build on the well-received original version, which i",
           "date": "2026-09-17T15:15:00+00:00",
           "image": "https://images.pushsquare.com/3ceb222883d99/large.jpg"
-        },
-        {
-          "title": "Fortnite's Kingdom Hearts Crossover Is Live Now, and There's Plenty for Fans to Discover",
-          "link": "https://www.pushsquare.com/news/2026/09/fortnites-kingdom-hearts-crossover-is-live-now-and-theres-plenty-for-fans-to-discover",
-          "description": "What the heart wants. Fortnite's current season, entitled Override , is celebrating numerous games and characters with many crossovers, and a major player in the season is Kingdom Hearts . Epic Games has now officially unveiled how Sora will look in its massively popular shooter with the below video",
-          "date": "2026-09-17T15:00:00+00:00",
-          "image": "https://images.pushsquare.com/e514be1ade21f/large.jpg"
         }
       ]
     },
