@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-19T08:55:36.681571+00:00",
+  "updated": "2026-09-19T13:01:58.098869+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘The Cat and the Hatchet’ Trailer – ‘The Cat in the Hat’ Horror Movie Coming Soon",
+          "link": "https://bloody-disgusting.com/the-further/3968369/the-cat-and-the-hatchet-trailer-twisted-horror-take-on-the-cat-in-the-hat-is-coming-soon/",
+          "description": "Mickey Mouse. Bambi. Pinocchio. Winnie the Pooh. All your favorite childhood icons have been turned into slasher maniacs in recent years, and The Cat in the Hat is the next to get twisted. Coming soon, Scratches the Cat will be unleashed in The Cat and the Hatchet. A horror short from director Camer",
+          "date": "2026-09-19T12:42:56+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/The-Cat-And-The-Hatchet-First-Look-Scratches-The-Cat.jpeg?resize=1920%2C1038&#038;ssl=1"
+        },
         {
           "title": "Live Action ‘Lollipop Chainsaw’ Film Adaptation Announced",
           "link": "https://bloody-disgusting.com/movie/3968362/live-action-lollipop-chainsaw-film-adaptation-announced/",
@@ -66,13 +73,6 @@
           "description": "HorrOrigins and Legendary Fest are returning to Tucson for six days of cinema, filmmaker networking and industry programming, September 23–28, 2026, with theatrical screenings at Galaxy Theatres Tucson, and we’ve learned that two A24 horror hits are included in the mix. Now in its eighth year, HorrO",
           "date": "2026-09-18T18:56:13+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2023/09/midsommar-feature.jpg?resize=1200%2C675&#038;ssl=1"
-        },
-        {
-          "title": "‘I Am Legend 2’ Writer Reveals a “Series of Obstacles” Has Slowed Sequel Development",
-          "link": "https://bloody-disgusting.com/movie/3968265/i-am-legend-2-update-akiva-goldsman-will-smith-dog/",
-          "description": "Virtually ever since the release of I Am Legend in 2007, there have been reports that there would be a sequel. Depending on who you talked to and when, the project was either a wishful idea or something that was actually in the works. One of the most substantial updates on the project came when […] ",
-          "date": "2026-09-18T18:52:01+00:00",
-          "image": ""
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (21st - 27th September)",
+          "link": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-21st-27th-september",
+          "description": "Silent Hill! Control Resonant! Dune! September continues to be ridiculous; next week sees the arrival of another 26 games on PS5 and PS4. As we often say in our staff chat, there are simply too many games. Among the chaos are a handful of bigger titles to look out for. They include the likes of Cont",
+          "date": "2026-09-19T11:00:00+00:00",
+          "image": "https://images.pushsquare.com/87b3a8449b272/large.jpg"
+        },
+        {
           "title": "Preview: Don't Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise",
           "link": "https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise",
           "description": "Yes, master. I've been keeping an eye on Fate/Extra Record for years at this point, so when the game was finally handed a confirmed release date a couple of weeks back, I was over the moon (pun very slightly intended). The good news didn't stop there, though. Not long after the big reveal, publisher",
@@ -441,13 +448,6 @@
           "description": "Bittersweet. Even though I don’t think its PS5 re-release is very good , I’ll always have a soft spot for Lollipop Chainsaw on the PS3. Written by James Gunn and directed by Suda51, the crass Grasshopper Manufacture bubblegum beat-’em-up had an intoxicating identity – with an inexplicable budget fro",
           "date": "2026-09-17T17:00:00+00:00",
           "image": "https://images.pushsquare.com/b3e212291a060/large.jpg"
-        },
-        {
-          "title": "With the 'Quality, Fidelity, and Play Time' of a $70 PS5 Game, Valor Mortis Asks for $40",
-          "link": "https://www.pushsquare.com/news/2026/09/with-the-quality-fidelity-and-play-time-of-a-usd70-ps5-game-valor-mortis-asks-for-usd40",
-          "description": "Recognises the competition for your cash. Valor Mortis team One More Level believes it's created a first-person Soulslike with the \"quality, fidelity, and play time\" of a full-priced PS5 release, so it's decided to price its upcoming game at $39.99 instead. In a statement posted to social media, the",
-          "date": "2026-09-17T15:45:00+00:00",
-          "image": "https://images.pushsquare.com/ad6dc47ae557b/large.jpg"
         }
       ]
     },
