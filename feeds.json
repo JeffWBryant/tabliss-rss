@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T16:43:01.542156+00:00",
+  "updated": "2026-09-19T19:15:15.275507+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Shudder Acquires The Adams Family’s THE GLORIOUS DEAD out of Fantastic Fest [EXCLUSIVE]",
+          "link": "https://www.fangoria.com/shudder-acquires-the-adams-familys-the-glorious-dead-exclusive/",
+          "description": "The Adams Family's THE GLORIOUS DEAD, has been acquired by Shudder. The deal marks the fourth collaboration between the first family of indie horror.",
+          "date": "2026-09-19T18:30:00+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Deb-end-hank-bg-1-copy-2-scaled.jpeg"
+        },
+        {
           "title": "A Former Fango Editor-in-Chief Is Performing With Iconic Giallo Composer Fabio Frizzi",
           "link": "https://www.fangoria.com/fabio-frizzi-concert-chris-alexander/",
           "description": "Former FANGORIA Editor-in-Chief Chris Alexander is opening for legendary horror composer Fabio Frizzi this month. Get all the details here.",
@@ -216,13 +223,6 @@
           "description": "CAROLINA CAROLINE and DINNER IN AMERICA director Adam Carter Rehmeier is set to direct the new dark comedy thriller SEEKER.",
           "date": "2026-09-17T17:31:15+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/carolina-caroline_v4Qo7S.jpg"
-        },
-        {
-          "title": "RESIDENT EVIL Review: A Blistering, Bloody Survival Horror Reboot With Heart",
-          "link": "https://www.fangoria.com/resident-evil-zach-cregger-review/",
-          "description": "Zach Cregger’s new take on the iconic gaming series is pretty (itchy) tasty.",
-          "date": "2026-09-17T16:15:51+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/RESIDENT-EVIL.jpeg.avif"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Feature: Going Platinum: Unpacking's Obsession with Possessions Makes Me Think of All My Random Stuff",
+          "link": "https://www.pushsquare.com/features/going-platinum-unpackings-obsession-with-possessions-makes-me-think-of-all-my-random-stuff",
+          "description": "There arose such a clutter. Platinum Trophy #37: Unpacking Date Earned: 14th May 2022 Read the full article on pushsquare.com",
+          "date": "2026-09-19T19:00:00+00:00",
+          "image": "https://images.pushsquare.com/ee0b83d67b62f/large.jpg"
+        },
+        {
           "title": "Longest-Ever Tokyo Game Show Curtailed Due to Typhoon Warning in Japan",
           "link": "https://www.pushsquare.com/news/2026/09/longest-ever-tokyo-game-show-curtailed-due-to-typhoon-warning-in-japan",
           "description": "Safety first. This year’s Tokyo Game Show was scheduled to be the biggest in the long-running event’s history, with activities scheduled to run for a full five days, as opposed to its usual four. But a typhoon warning in Japan has curtailed activities , and in the interest of public safety, organise",
@@ -441,13 +448,6 @@
           "description": "Best clear some space then. Planning on playing Final Fantasy 7 Revelation ? You'd best be ready to get your PS5's SSD in order. Naoki Hamaguchi, director of the upcoming third and final entry in the FF7 remake project, has estimated the game will amount to a whopping 200GB, or thereabouts. Read the",
           "date": "2026-09-18T16:00:00+00:00",
           "image": "https://images.pushsquare.com/899a167650a4d/large.jpg"
-        },
-        {
-          "title": "Review: Control Resonant (PS5) - A Wildly Inventive and Drop-Dead Gorgeous Sequel",
-          "link": "https://www.pushsquare.com/reviews/ps5/control-resonant",
-          "description": "You mustn't be afraid to dream a little bigger, darling. I’m fighting a possessed bus with a weapon that morphs from an axe to a whip whilst the skyscrapers of Manhattan fold in on themselves like I’m in a dream from Inception. Nowhere else could this be the case than in a Remedy game. Releasing its",
-          "date": "2026-09-18T13:00:00+00:00",
-          "image": "https://images.pushsquare.com/reviews/ps5/control-resonant/large.jpg"
         }
       ]
     },
