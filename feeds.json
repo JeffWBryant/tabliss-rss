@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T19:15:15.275507+00:00",
+  "updated": "2026-09-19T21:39:12.169456+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,27 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "REVIEW: GODMOTHER Is A Twisty, Turny Horror Flick About the Perils of Vacation Rentals",
+          "link": "https://www.fangoria.com/review-godmother/",
+          "description": "The world premiere of the indie horror gem Godmother delivered one of the best films out of Fantastic Fest so far.",
+          "date": "2026-09-19T21:25:58+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/godmother-2-copy.jpg"
+        },
+        {
+          "title": "REVIEW: IN A VIOLENT NATURE 2 Doesn’t Retread Too Many Steps in this Gory Camp Slasher",
+          "link": "https://www.fangoria.com/review-in-a-violent-nature-2/",
+          "description": "Johnny's back to hack and dismember camp counselors in the sequel to IFC and Shudder's hit slasher.",
+          "date": "2026-09-19T20:30:15+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/in-a-violent-nature-sequel-1280x720-1.jpg"
+        },
+        {
+          "title": "Exactly Why Are We All So Thirsty For RESIDENT EVIL’s Leon Kennedy?",
+          "link": "https://www.fangoria.com/exactly-why-are-we-all-so-thirsty-for-resident-evils-leon-kennedy/",
+          "description": "There’s something infectious in the air - and it ain't just the T-Virus.",
+          "date": "2026-09-19T20:00:46+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Leon-header.jpg"
+        },
+        {
           "title": "Shudder Acquires The Adams Family’s THE GLORIOUS DEAD out of Fantastic Fest [EXCLUSIVE]",
           "link": "https://www.fangoria.com/shudder-acquires-the-adams-familys-the-glorious-dead-exclusive/",
           "description": "The Adams Family's THE GLORIOUS DEAD, has been acquired by Shudder. The deal marks the fourth collaboration between the first family of indie horror.",
@@ -202,27 +223,6 @@
           "description": "Na Hong-jin's THE WAILING and two John Carpenter films, along with HOST, are here to amp up the excitement as scary season approaches. Find out what other scary movies hit the top ten this week at FANGORIA.",
           "date": "2026-09-17T22:30:08+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/05/MV5BYWRjNzlmY2EtMGI1OS00ZjllLTk1NTktODk5YzRhYTdkYThlXkEyXkFqcGc@._V1_-1.jpg"
-        },
-        {
-          "title": "Angry Orchard & Skeet Ulrich Team For Special SCREAM-Inspired Experience In NYC",
-          "link": "https://www.fangoria.com/angry-orchard-scream-pop-up/",
-          "description": "Angry Orchard is teaming up with Skeet Ulrich for a special SCREAM-inspired, 21+ experience in New York City next month.",
-          "date": "2026-09-17T18:04:26+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/scream_rhR4KD.jpg"
-        },
-        {
-          "title": "Classic Horror Stories Come To Life In New Podcast THE HAUNTED LIBRARY",
-          "link": "https://www.fangoria.com/the-haunted-library-podcast/",
-          "description": "The BBC is bringing some of horror's most beloved novels to life with their new podcast, THE HAUNTED LIBRARY. Get all the details here.",
-          "date": "2026-09-17T17:50:32+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/The-Haunted-Library-artwork-scaled.jpg"
-        },
-        {
-          "title": "CAROLINA CAROLINE Director Joins New Dark Comedy Thriller SEEKER",
-          "link": "https://www.fangoria.com/seeker-adam-carter-rehmeier/",
-          "description": "CAROLINA CAROLINE and DINNER IN AMERICA director Adam Carter Rehmeier is set to direct the new dark comedy thriller SEEKER.",
-          "date": "2026-09-17T17:31:15+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/carolina-caroline_v4Qo7S.jpg"
         }
       ]
     },
