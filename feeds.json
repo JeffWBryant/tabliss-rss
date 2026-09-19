@@ -1,9 +1,30 @@
 {
-  "updated": "2026-09-19T13:01:58.098869+00:00",
+  "updated": "2026-09-19T16:43:01.542156+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Run Like Hell: Did You Catch A24’s ‘Slayground’ Trailer Ahead of ‘Resident Evil’?",
+          "link": "https://bloody-disgusting.com/movie/3968384/run-like-hell-did-you-catch-a24s-slayground-trailer-ahead-of-resident-evil/",
+          "description": "A24 dropped a mysterious and unexpected teaser for an upcoming horror movie ahead of Resident Evil in theaters this weekend, loaded with what looks like security camera footage from inside a terrifying haunted attraction. “A24 invites you,” the teaser trailer explains, “to an experience you’ll never",
+          "date": "2026-09-19T13:38:48+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Scream’ – Sidney, Gale & Dewey Getting Vinyl Toys from Funko!",
+          "link": "https://bloody-disgusting.com/toys/3968378/scream-sidney-gale-dewey-getting-vinyl-toys-from-funko/",
+          "description": "The original trio of horror icons from Wes Craven’s Scream franchise are being immortalized with their own POP! vinyl toys from Funko, and they’re going up for grabs next week. Based on their appearances in the recent Scream trilogy, Sidney Prescott, Gale Weathers, and Dewey Riley will be available ",
+          "date": "2026-09-19T13:04:24+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/HSh0gXWWQAAxl0A.jpg?resize=1200%2C1200&#038;ssl=1"
+        },
+        {
+          "title": "‘Half’ Review: Vampire Twins Paint The Desert Red In Gory Revenge Actioner [TIFF 2026]",
+          "link": "https://bloody-disgusting.com/reviews/3968342/half-review-vampire-twins-paint-the-desert-red-in-gory-revenge-actioner-tiff-2026/",
+          "description": "Ruthless vampires splattering blood in the desert continue to be a winning combo in writer-director Samjad’s Half. Only this time, the vampires in question are the protagonists enacting vicious vengeance in a gory genre-hybrid that enlists the talents of Very Tri Yulisman (The Raid 2, The Night Come",
+          "date": "2026-09-19T13:00:56+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/4skullrating-black.png?resize=225%2C61&#038;ssl=1"
+        },
         {
           "title": "‘The Cat and the Hatchet’ Trailer – ‘The Cat in the Hat’ Horror Movie Coming Soon",
           "link": "https://bloody-disgusting.com/the-further/3968369/the-cat-and-the-hatchet-trailer-twisted-horror-take-on-the-cat-in-the-hat-is-coming-soon/",
@@ -14,7 +35,7 @@
         {
           "title": "Live Action ‘Lollipop Chainsaw’ Film Adaptation Announced",
           "link": "https://bloody-disgusting.com/movie/3968362/live-action-lollipop-chainsaw-film-adaptation-announced/",
-          "description": "Lollipop Chainsaw fans not only have a new entry in the series to look forward to next year, but there’s also a new film adaptation to go along with it. Per Deadline, the new film will actually be an R-rated action comedy prequel to the events of the original game. Announced at this year’s Tokyo […]",
+          "description": "Lollipop Chainsaw fans not only have a new entry in the series to look forward to next year, but there’s also a new film adaptation to go along with it. Per Deadline, the new film will be an R-rated action comedy prequel to the events of the original game, centering around the game’s protagonist, Ju",
           "date": "2026-09-19T02:48:43+00:00",
           "image": ""
         },
@@ -52,27 +73,6 @@
           "description": "We always appreciate when a horror movie can take complex themes and find new ways to shed insight into the human experience, but we don’t always need complex ideas, and sometimes we are just as happy watching what happens when someone is trapped with a deadly animal. That’s exactly the case of Alex",
           "date": "2026-09-18T19:53:20+00:00",
           "image": ""
-        },
-        {
-          "title": "‘Heart Eyes 2’ Gets New February 2028 Release Date",
-          "link": "https://bloody-disgusting.com/movie/3968308/heart-eyes-2-gets-new-february-2028-release-date/",
-          "description": "Josh Ruben’s Valentine’s Day-themed slasher movie Heart Eyes is getting a sequel, and we recently learned that Heart Eyes 2 will be slashing into theaters in early 2028. While it was originally set for theatrical release on February 11, 2028, however, Paramount has announced this week that Heart Eye",
-          "date": "2026-09-18T19:26:20+00:00",
-          "image": ""
-        },
-        {
-          "title": "Gerrit Graham, ‘Phantom of the Paradise’ and ‘TerrorVision’ Star, Passes Away at 77",
-          "link": "https://bloody-disgusting.com/movie/3968300/gerrit-graham-phantom-of-the-paradise-and-terrorvision-star-passes-away-at-77/",
-          "description": "Actor Gerrit Graham, star of a number of beloved horror titles like Phantom of the Paradise, TerrorVision, and Child’s Play 2, has sadly passed away at the age of 77, per Variety. He is survived by his brother, Sam; his sons, Jack and Henry, and their wives, Talia and Joelle; and his four grandchild",
-          "date": "2026-09-18T19:14:54+00:00",
-          "image": ""
-        },
-        {
-          "title": "HorrOrigins and Legendary Fest Return to Tucson With ‘Backrooms’ and ‘Midsommar’ This Month",
-          "link": "https://bloody-disgusting.com/movie/3968292/horrorigins-and-legendary-fest-return-to-tucson-with-backrooms-and-midsommar-this-month/",
-          "description": "HorrOrigins and Legendary Fest are returning to Tucson for six days of cinema, filmmaker networking and industry programming, September 23–28, 2026, with theatrical screenings at Galaxy Theatres Tucson, and we’ve learned that two A24 horror hits are included in the mix. Now in its eighth year, HorrO",
-          "date": "2026-09-18T18:56:13+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2023/09/midsommar-feature.jpg?resize=1200%2C675&#038;ssl=1"
         }
       ]
     },
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "A Former Fango Editor-in-Chief Is Performing With Iconic Giallo Composer Fabio Frizzi",
+          "link": "https://www.fangoria.com/fabio-frizzi-concert-chris-alexander/",
+          "description": "Former FANGORIA Editor-in-Chief Chris Alexander is opening for legendary horror composer Fabio Frizzi this month. Get all the details here.",
+          "date": "2026-09-19T14:00:14+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/image-copy.jpg"
+        },
+        {
           "title": "Get an Exclusive First Look at the Terrifying Treats of Shudder’s Season of Screams",
           "link": "https://www.fangoria.com/exclusive-shudder-season-of-screams-2026/",
           "description": "Shudder has yet another fantastic Season of Screams planned for 2026, and we’ve got an exclusive first look at all of the horror goodies.",
@@ -216,13 +223,6 @@
           "description": "Zach Cregger’s new take on the iconic gaming series is pretty (itchy) tasty.",
           "date": "2026-09-17T16:15:51+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/RESIDENT-EVIL.jpeg.avif"
-        },
-        {
-          "title": "GOODY GOODY: There’s Something Wrong With This Baby [Exclusive]",
-          "link": "https://www.fangoria.com/goody-goody-shudder-horror-movie-clip/",
-          "description": "We’ve got an exclusive clip from Shudder’s upcoming horror movie GOODY GOODY, which sees a home birth go horribly wrong. Get a glimpse of the horrors within before it begins streaming this Friday.",
-          "date": "2026-09-17T16:00:05+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Screenshot-481-Cropped.png"
         }
       ]
     },
@@ -380,6 +380,27 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Longest-Ever Tokyo Game Show Curtailed Due to Typhoon Warning in Japan",
+          "link": "https://www.pushsquare.com/news/2026/09/longest-ever-tokyo-game-show-curtailed-due-to-typhoon-warning-in-japan",
+          "description": "Safety first. This year’s Tokyo Game Show was scheduled to be the biggest in the long-running event’s history, with activities scheduled to run for a full five days, as opposed to its usual four. But a typhoon warning in Japan has curtailed activities , and in the interest of public safety, organise",
+          "date": "2026-09-19T16:30:00+00:00",
+          "image": "https://images.pushsquare.com/a4e6244729179/large.jpg"
+        },
+        {
+          "title": "Wolverine PS5 Tones Down 'Fart Trails' as Title Tipped to Be a Huge Sales Success",
+          "link": "https://www.pushsquare.com/news/2026/09/wolverine-ps5-tones-down-fart-trails-as-title-tipped-to-be-a-huge-sales-success",
+          "description": "May add toggle to remove it entirely. As it promised , Marvel’s Wolverine dev Insomniac has already started responding to the intense criticism aimed at its latest PS5 exclusive – as sales analysts predict the title is on track to be a major Sony success. A new hotfix , available to download now, re",
+          "date": "2026-09-19T15:30:00+00:00",
+          "image": "https://images.pushsquare.com/d16505832afea/large.jpg"
+        },
+        {
+          "title": "Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again",
+          "link": "https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again",
+          "description": "Mmm, so tasty! When Capcom announced Monster Hunter Wilds’ upcoming expansion, Ascendance , would be playable at Tokyo Game Show, it immediately became the top title on my list to get my claws into. Monster Hunter has been one of my favourite video game series since Monster Hunter 3 Ultimate launche",
+          "date": "2026-09-19T14:00:00+00:00",
+          "image": "https://images.pushsquare.com/f810c8c771786/large.jpg"
+        },
+        {
           "title": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (21st - 27th September)",
           "link": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-21st-27th-september",
           "description": "Silent Hill! Control Resonant! Dune! September continues to be ridiculous; next week sees the arrival of another 26 games on PS5 and PS4. As we often say in our staff chat, there are simply too many games. Among the chaos are a handful of bigger titles to look out for. They include the likes of Cont",
@@ -427,27 +448,6 @@
           "description": "You mustn't be afraid to dream a little bigger, darling. I’m fighting a possessed bus with a weapon that morphs from an axe to a whip whilst the skyscrapers of Manhattan fold in on themselves like I’m in a dream from Inception. Nowhere else could this be the case than in a Remedy game. Releasing its",
           "date": "2026-09-18T13:00:00+00:00",
           "image": "https://images.pushsquare.com/reviews/ps5/control-resonant/large.jpg"
-        },
-        {
-          "title": "Preview: I Ferried a Soba Noodles Fan Around Tokyo in Crazy Taxi: World Tour, But I Have a Lingering Nitpick with This PS5 Revival",
-          "link": "https://www.pushsquare.com/previews/i-ferried-a-soba-noodles-fan-around-tokyo-in-crazy-taxi-world-tour-but-i-have-a-lingering-nitpick-with-this-ps5-revival",
-          "description": "Shibuya cross. SEGA’s really giving us unprecedented pre-release access to Crazy Taxi: World Tour , the 2027 revival of AM3’s all-time classic arcade ferry-’em-up. Back at Gamescom I spoke to director Kenji Kanno before getting my hands on the new Germany map , while my colleague Stephen Tailby test",
-          "date": "2026-09-18T11:30:00+00:00",
-          "image": "https://images.pushsquare.com/4a83cca699ce8/large.jpg"
-        },
-        {
-          "title": "Japanese Game Development Is Now Riddled with Generative AI, Industry Survey Finds",
-          "link": "https://www.pushsquare.com/news/2026/09/japanese-game-development-is-now-riddled-with-generative-ai-industry-survey-finds",
-          "description": "A massive surge since 2025. The mere mention of generative AI prompts an immediate backlash these days, but there's no escaping the reality that it's now a recognised tool across the video game industry. The fingerprints of gen-AI have been found throughout numerous projects over the last few years,",
-          "date": "2026-09-17T20:15:00+00:00",
-          "image": "https://images.pushsquare.com/eb8a083a08591/large.jpg"
-        },
-        {
-          "title": "Preview: I'm One of the First People in the World to Play Lollipop Chainsaw 2 on PS5, But You Don't Need to Be Jealous",
-          "link": "https://www.pushsquare.com/previews/im-one-of-the-first-people-in-the-world-to-play-lollipop-chainsaw-2-on-ps5-but-you-dont-need-to-be-jealous",
-          "description": "Bittersweet. Even though I don’t think its PS5 re-release is very good , I’ll always have a soft spot for Lollipop Chainsaw on the PS3. Written by James Gunn and directed by Suda51, the crass Grasshopper Manufacture bubblegum beat-’em-up had an intoxicating identity – with an inexplicable budget fro",
-          "date": "2026-09-17T17:00:00+00:00",
-          "image": "https://images.pushsquare.com/b3e212291a060/large.jpg"
         }
       ]
     },
