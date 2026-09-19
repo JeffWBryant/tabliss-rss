@@ -1,9 +1,23 @@
 {
-  "updated": "2026-09-18T23:31:24.159773+00:00",
+  "updated": "2026-09-19T04:09:27.558645+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Live Action ‘Lollipop Chainsaw’ Film Adaptation Announced",
+          "link": "https://bloody-disgusting.com/movie/3968362/live-action-lollipop-chainsaw-film-adaptation-announced/",
+          "description": "Lollipop Chainsaw fans not only have a new entry in the series to look forward to next year, but there’s also a new film adaptation to go along with it. Per Deadline, the new film will actually be an R-rated action comedy prequel to the events of the original game. Announced at this year’s Tokyo […]",
+          "date": "2026-09-19T02:48:43+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Trees Are Watching’ Review: Eva Green Can’t Save Imbalanced Supernatural Thriller [TIFF 2026]",
+          "link": "https://bloody-disgusting.com/reviews/3968126/trees-are-watching-review-eva-green-cant-save-imbalanced-supernatural-thriller-tiff-2026/",
+          "description": "Trees are Watching, the latest film from Kurdish-Iranian writer/director Bahman Ghobadi, opens with the quote “Trees are not silent. They perceive, remember, and bear witness.” This is apt considering the malevolent spirit that’s haunting the film is, in fact, a wooden chair; it creeps, it lurks lik",
+          "date": "2026-09-19T00:00:22+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/Trees-are-Watching_Still_01.jpg?resize=1024%2C512&#038;ssl=1"
+        },
         {
           "title": "Zach Cregger’s ‘Resident Evil’ Soundtrack Officially Out Now",
           "link": "https://bloody-disgusting.com/movie/3968352/resident-evil-reboot-soundtrack-score-streaming/",
@@ -58,20 +72,6 @@
           "link": "https://bloody-disgusting.com/movie/3968265/i-am-legend-2-update-akiva-goldsman-will-smith-dog/",
           "description": "Virtually ever since the release of I Am Legend in 2007, there have been reports that there would be a sequel. Depending on who you talked to and when, the project was either a wishful idea or something that was actually in the works. One of the most substantial updates on the project came when […] ",
           "date": "2026-09-18T18:52:01+00:00",
-          "image": ""
-        },
-        {
-          "title": "These 8 New Horror Movies Released This Week – Friday, September 18",
-          "link": "https://bloody-disgusting.com/movie/3968272/these-8-new-horror-movies-released-this-week-friday-september-18/",
-          "description": "The new horror releases are only growing in quantity as we inch closer to October, with the Halloween season bringing fresh nightmares into our homes and our local theaters at a steady clip. This week, EIGHT brand new horror movies have arrived to keep us company. Here are the new horror movies that",
-          "date": "2026-09-18T18:40:02+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/rev-1-NBR-FP-0061r_High_Res_JPEG-scaled-2.jpeg?resize=1600%2C900&#038;ssl=1"
-        },
-        {
-          "title": "Bash Walker Brains in ‘The Walking Dead: Streets of Survival’ Today [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3968218/bash-walker-brains-in-the-walking-dead-streets-of-survival-today-trailer/",
-          "description": "Grab a baseball bat and get ready to bash some Walkers in old-school beat-’em-up action. TRAILMARK Games, developer Odaclick Game Studio and AMC Global Media have digitally released The Walking Dead: Streets of Survival today on PC via Steam, PlayStation 5, Xbox Series, the Nintendo Switch and Ninte",
-          "date": "2026-09-18T18:27:07+00:00",
           "image": ""
         }
       ]
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Preview: Don't Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise",
+          "link": "https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise",
+          "description": "Yes, master. I've been keeping an eye on Fate/Extra Record for years at this point, so when the game was finally handed a confirmed release date a couple of weeks back, I was over the moon (pun very slightly intended). The good news didn't stop there, though. Not long after the big reveal, publisher",
+          "date": "2026-09-19T00:00:00+00:00",
+          "image": "https://images.pushsquare.com/a1adb90603e6f/large.jpg"
+        },
+        {
           "title": "Talking Point: What Are You Playing This Weekend? - Issue 650",
           "link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-650",
           "description": "Cool. Wow, it's a milestone issue of WAYP yet again. But we'll save the big celebration for 700 next year. This week, we're keeping things short and sweet. Aaron Bayne I've got a review game on the go which I can't talk about yet, but I'll also be quite keen to check out RuneScape Dragonwilds with s",
@@ -441,13 +448,6 @@
           "description": "Recognises the competition for your cash. Valor Mortis team One More Level believes it's created a first-person Soulslike with the \"quality, fidelity, and play time\" of a full-priced PS5 release, so it's decided to price its upcoming game at $39.99 instead. In a statement posted to social media, the",
           "date": "2026-09-17T15:45:00+00:00",
           "image": "https://images.pushsquare.com/ad6dc47ae557b/large.jpg"
-        },
-        {
-          "title": "Zero Parades Lands on PS5 in Director's Cut Form on 3rd November",
-          "link": "https://www.pushsquare.com/news/2026/09/zero-parades-lands-on-ps5-in-directors-cut-form-on-3rd-november",
-          "description": "Extra story, dialogue, modes, and more. ZA/UM has shared the PS5 version of Zero Parades: For Dead Spies will launch on 3rd November 2026 as an expanded Director's Cut containing new content, dialogue, modes, and additional improvements. This will build on the well-received original version, which i",
-          "date": "2026-09-17T15:15:00+00:00",
-          "image": "https://images.pushsquare.com/3ceb222883d99/large.jpg"
         }
       ]
     },
