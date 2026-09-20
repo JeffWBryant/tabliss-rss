@@ -1,9 +1,23 @@
 {
-  "updated": "2026-09-20T09:41:20.950537+00:00",
+  "updated": "2026-09-20T14:03:32.352513+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Afflicted’ Turned a Travel Vlog Into One of Horror’s More Unique Found Footage Movies",
+          "link": "https://bloody-disgusting.com/editorials/3967720/afflicted-turned-a-travel-vlog-into-one-of-horrors-more-unique-found-footage-movies/",
+          "description": "We may take this kind of content for granted these days, but there was a time when amateur travel blogs were revolutionizing online media. Back during the late 2000s, for the first time in history, internet users were given access to the unfiltered reality of regular people travelling across the wor",
+          "date": "2026-09-20T14:00:18+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2014/03/Afflicted_PubStills_004_0305141.jpg?resize=1024%2C576&#038;ssl=1"
+        },
+        {
+          "title": "First-Person Horror Adventure ‘Concrete Burial’ Out Now on Steam [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3968398/first-person-horror-adventure-concrete-burial-out-now-on-steam-trailer/",
+          "description": "Heavily inspired by brutalist sculptures like Scottish sculptor Philip Jackson, and games like Control and the Brutalist mod for Quake, DreadXP and developer Games From The Abyss’ short psychological horror dungeon crawler Concrete Burial is now available on Steam. As an added incentive, you can gra",
+          "date": "2026-09-20T11:30:53+00:00",
+          "image": ""
+        },
         {
           "title": "Run Like Hell: Did You Catch A24’s ‘Slayground’ Trailer Ahead of ‘Resident Evil’?",
           "link": "https://bloody-disgusting.com/movie/3968384/run-like-hell-did-you-catch-a24s-slayground-trailer-ahead-of-resident-evil/",
@@ -59,20 +73,6 @@
           "description": "John Waters famously said that there’s no such thing as a good, long joke. The filmmakers behind Flapjax, a campy horror comedy that too often mistakes enthusiasm for ingenuity, have clearly not taken that pearl of wisdom to heart. What few jokes there are wear thin long before the credits roll, des",
           "date": "2026-09-18T22:35:56+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/unnamed.png?resize=1024%2C636&#038;ssl=1"
-        },
-        {
-          "title": "‘The Glorious Dead’ Review: The Adams Family Gets Weird with Intimate Cosmic Horror [Fantastic Fest 2026]",
-          "link": "https://bloody-disgusting.com/reviews/3968312/the-glorious-dead-review-the-adams-family-cosmic-horror-fantastic-fest-2026/",
-          "description": "There’s an earned confidence running through the more recent films from the Adams Family, a sense that the indie filmmaking crew has nothing to prove to anyone but themselves. That’s both true and an excellent asset to have when far too many indie filmmakers have a tendency to play it safe and cater",
-          "date": "2026-09-18T19:55:52+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/3-5skullrating-black.jpg.png?resize=226%2C63&#038;ssl=1"
-        },
-        {
-          "title": "‘Crawl 2’ Set to Unleash More Gators With New July 2027 Release Date",
-          "link": "https://bloody-disgusting.com/movie/3968310/crawl-2-release-date-2027/",
-          "description": "We always appreciate when a horror movie can take complex themes and find new ways to shed insight into the human experience, but we don’t always need complex ideas, and sometimes we are just as happy watching what happens when someone is trapped with a deadly animal. That’s exactly the case of Alex",
-          "date": "2026-09-18T19:53:20+00:00",
-          "image": ""
         }
       ]
     },
@@ -230,6 +230,20 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "Kojima Loves Sony Despite Being Blindsided by Physint Decision",
+          "link": "https://www.playstationlifestyle.net/2026/09/20/kojima-statement-on-sony-physint-relationship/",
+          "description": "In his first interview since Physint‘s publisher change, Hideo Kojima said he still respects Sony despite its decision to pull funding for the project. The Kojima Productions boss also dismissed recent reports of Death Stranding‘s commercial performance, insisting the studio is in “a healthy, profit",
+          "date": "2026-09-20T12:30:40+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/sony-playstation-physint.jpg?w=1024"
+        },
+        {
+          "title": "2025 PS5 Exclusive Action Game 60% Off on PS Store, All DLC Included",
+          "link": "https://www.playstationlifestyle.net/2026/09/20/let-it-die-inferno-ps-store-deal-september-2026/",
+          "description": "A 2025 PS5 console exclusive action game is 60% off on the PS Store in a limited-time deal that includes all of its DLC. Published by GungHo Online Entertainment, Let It Die: Inferno was released last December as a sequel to the surprise hit 2016 game. Let It Die: Inferno PS Store deal offers discou",
+          "date": "2026-09-20T12:06:38+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/let-it-die-inferno-ps-store-deal.jpg?w=1024"
+        },
+        {
           "title": "Marvel’s Wolverine Sets PS5 Sales Record Despite Massive Criticism",
           "link": "https://www.playstationlifestyle.net/2026/09/18/marvel-wolverine-ps5-sales-record-criticism/",
           "description": "Insomniac’s most recent offering, Marvel’s Wolverine, faced a lukewarm reception upon its release. However, that did not stop the game from setting a PlayStation 5 sales record. Aliena Analytics estimated that Marvel’s Wolverine has sold about 1.9 million copies, putting it well ahead of some of the",
@@ -284,20 +298,6 @@
           "description": "A hit 2020 PS5 and PS4 action RPG is 90% off in a limited-time PS Store deal that ends next week. Developed and published by Tripwire Interactive, Maneater is under $5 ahead of its highly anticipated sequel scheduled for launch in 2027. PS5, PS4 RPG Maneater is just $3.99 in limited-time PS Store de",
           "date": "2026-09-18T14:19:05+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/maneater-ps-store-deal.jpg?w=1024"
-        },
-        {
-          "title": "PlayStation 5 Pro Stock Shortage to Continue Into 2027 – Report",
-          "link": "https://www.playstationlifestyle.net/2026/09/18/ps5-pro-stock-shortage-supply-fall-2026-2027/",
-          "description": "The ongoing global PS5 Pro stock shortage will last beyond the holiday 2026 season, if a new rumor is to be believed. The console has been out of stock at major retailers and Sony‘s online storefront, PS Direct, with random inventory drops. A fresh report claims that Sony has communicated the supply",
-          "date": "2026-09-18T13:52:13+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps5-pro-stock.jpg?w=1024"
-        },
-        {
-          "title": "PS5 Getting Promising AAA RPG in October 2026 for a Great Price",
-          "link": "https://www.playstationlifestyle.net/2026/09/18/ps5-rpg-valor-mortis-price-explained/",
-          "description": "PS5 is getting an intriguing new historical action RPG soon, and despite being AAA quality, its publisher is opting for an affordable price tag. Brought to us by One More Level (Ghostrunner games), Valor Mortis will launch on October 13, 2026. Valor Mortis is a AAA PS5 RPG with the price tag of a AA",
-          "date": "2026-09-18T13:20:39+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps5-rpg-valor-mortis.jpg?w=1024"
         }
       ]
     },
