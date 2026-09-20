@@ -1,9 +1,30 @@
 {
-  "updated": "2026-09-20T17:36:38.071340+00:00",
+  "updated": "2026-09-20T20:37:02.230639+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘The Blood Countess’ Review: Isabelle Huppert Leads Droll Camp Oddity [Fantastic Fest 2026]",
+          "link": "https://bloody-disgusting.com/reviews/3968407/blood-countess-review-fantastic-fest-2026/",
+          "description": "International treasure Isabelle Huppert is a singular presence. A frequent collaborator with controversial directors like Michael Haneke and Paul Verhoeven, the regal actress often chooses nuanced, complex roles, with nary a weak entry in the bunch. That’s what makes the idea of her portraying alleg",
+          "date": "2026-09-20T18:59:51+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/The-Blood-Countess.jpg?resize=1000%2C667&#038;ssl=1"
+        },
+        {
+          "title": "‘The Cycle’ Review: A Grisly Mystery Gives Way to Spectacular Practical Creature Feature [Fantastic Fest 2026]",
+          "link": "https://bloody-disgusting.com/reviews/3968432/the-cycle-review-a-grisly-mystery-gives-way-to-spectacular-practical-creature-feature-fantastic-fest-2026/",
+          "description": "Patience is greatly rewarded in director Jordan Downey’s The Cycle, a dour crime procedural that transforms into a thrilling practical effects-fueled horror movie. Downey, who co-writes with his cinematographer Kevin Stewart, dedicates quite a lot of its runtime to a methodical deduction of coincide",
+          "date": "2026-09-20T18:40:37+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/07/the-cycle.png?resize=1024%2C405&#038;ssl=1"
+        },
+        {
+          "title": "Bloody Disgusting Database & Community Updates – Better Lists and Easier Browsing",
+          "link": "https://bloody-disgusting.com/news/3968349/bloody-disgusting-community-updates-better-lists-and-easier-browsing/",
+          "description": "We have some fresh updates this week that should make the Bloody Disgusting Database & Community a little easier to use and give horror fans more ways to engage with each other. We’ve also imported another batch of films, including a whole bunch of your requests, bringing the database to 11,406 film",
+          "date": "2026-09-20T18:00:00+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Screenshot-2026-09-18-175317.png?resize=923%2C527&#038;ssl=1"
+        },
         {
           "title": "Hideo Kojima Updates ‘OD’ Development During Tokyo Game Show; Production is “Progressing Smoothly” [Video]",
           "link": "https://bloody-disgusting.com/video-games/3968405/hideo-kojima-updates-od-development-during-tokyo-game-show-production-is-progressing-smoothly-video/",
@@ -52,27 +73,6 @@
           "description": "Heavily inspired by brutalist sculptures like Scottish sculptor Philip Jackson, and games like Control and the Brutalist mod for Quake, DreadXP and developer Games From The Abyss’ short psychological horror dungeon crawler Concrete Burial is now available on Steam. As an added incentive, you can gra",
           "date": "2026-09-20T11:30:53+00:00",
           "image": ""
-        },
-        {
-          "title": "Run Like Hell: Did You Catch A24’s ‘Slayground’ Trailer Ahead of ‘Resident Evil’?",
-          "link": "https://bloody-disgusting.com/movie/3968384/run-like-hell-did-you-catch-a24s-slayground-trailer-ahead-of-resident-evil/",
-          "description": "A24 dropped a mysterious and unexpected teaser for an upcoming horror movie ahead of Resident Evil in theaters this weekend, loaded with what looks like security camera footage from inside a terrifying haunted attraction. “A24 invites you,” the teaser trailer explains, “to an experience you’ll never",
-          "date": "2026-09-19T13:38:48+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Scream’ – Sidney, Gale & Dewey Getting Vinyl Toys from Funko!",
-          "link": "https://bloody-disgusting.com/toys/3968378/scream-sidney-gale-dewey-getting-vinyl-toys-from-funko/",
-          "description": "The original trio of horror icons from Wes Craven’s Scream franchise are being immortalized with their own POP! vinyl toys from Funko, and they’re going up for grabs next week. Based on their appearances in the recent Scream trilogy, Sidney Prescott, Gale Weathers, and Dewey Riley will be available ",
-          "date": "2026-09-19T13:04:24+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/HSh0gXWWQAAxl0A.jpg?resize=1200%2C1200&#038;ssl=1"
-        },
-        {
-          "title": "‘Half’ Review: Vampire Twins Paint The Desert Red In Gory Revenge Actioner [TIFF 2026]",
-          "link": "https://bloody-disgusting.com/reviews/3968342/half-review-vampire-twins-paint-the-desert-red-in-gory-revenge-actioner-tiff-2026/",
-          "description": "Ruthless vampires splattering blood in the desert continue to be a winning combo in writer-director Samjad’s Half. Only this time, the vampires in question are the protagonists enacting vicious vengeance in a gory genre-hybrid that enlists the talents of Very Tri Yulisman (The Raid 2, The Night Come",
-          "date": "2026-09-19T13:00:56+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/4skullrating-black.png?resize=225%2C61&#038;ssl=1"
         }
       ]
     },
