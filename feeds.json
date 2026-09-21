@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T01:28:06.711371+00:00",
+  "updated": "2026-09-21T07:00:53.926490+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,20 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "Lanterns Fills in the Gaps of the DCU After Superman",
+          "link": "https://www.denofgeek.com/tv/lanterns-fills-in-the-gaps-of-the-dcu-after-superman/",
+          "description": "This article contains spoilers for Lanterns season 1 episode 6. Guy Gardner isn’t a good guy. He’s not a bad guy by any stretch of the imagination, at least not in a world where Lex Luthor and the White Dragon exist. But anyone who saw Superman knows that the Earth’s current Green Lantern is a […] T",
+          "date": "2026-09-21T02:01:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/nathan-fillion-as-Guy-Gardner-in-Lanterns.jpg"
+        },
+        {
+          "title": "Lanterns Episode 6 Review: After the Light Fades",
+          "link": "https://www.denofgeek.com/tv/lanterns-episode-6-review/",
+          "description": "This article contains spoilers for Lanterns season 1 episode 6 Previously, on Lanterns… everything went wrong. What had been a surprisingly excellent superhero series took a turn that seemed so wrongheaded on a narrative and thematic level that it’s hard to see how Lanterns could recover. William Ma",
+          "date": "2026-09-21T02:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/kelly-macdonald-aaron-pierre-kyle-chandler-2.jpg"
+        },
+        {
           "title": "Zach Cregger’s Resident Evil Ending Should Make Hardcore Gamers Happy",
           "link": "https://www.denofgeek.com/movies/zach-cregger-resident-evil-ending-twist-make-gamers-happy/",
           "description": "This article contains massive Resident Evil spoilers. The ending of Zach Cregger’s Resident Evil is its most twisted and ambitious element. After a mean, lean, mutated-heart-on-its-sleeve B-movie where we watch a hapless millennial named Bryan (Austin Abrams) bungle his way through the zombie apocal",
@@ -134,20 +148,6 @@
           "description": "Every year, as spooky season sets in, people go looking for scary movies to watch. For cinema fans, this is a golden opportunity, a chance to get your movie-agnostic friends to actually sit through something with subtitles or a film in black and white, so we rush to recommend oddities like Carnival ",
           "date": "2026-09-18T13:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2019/10/ghostface_mask_in_scream.jpg"
-        },
-        {
-          "title": "15 Celebrities Who Made the Perfect Switch to Podcaster",
-          "link": "https://www.denofgeek.com/msn/15-celebrities-who-made-the-perfect-switch-to-podcaster/",
-          "description": "It seems like every celebrity has a podcast these days. For every actor, musician, or reality star, a microphone and a \"tell-all\" interview format seems to be the next logical career step. Of course, it's not as simple as just hitting the record button, since many of these shows come and go. The one",
-          "date": "2026-09-18T12:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/4_fefb72.jpg"
-        },
-        {
-          "title": "15 Celebrities You Didn’t Know Have Stage Names",
-          "link": "https://www.denofgeek.com/msn/15-celebrities-you-didnt-know-have-stage-names/",
-          "description": "What's in a name? For a lot of celebrities, not much truth. It's a tradition almost as old as Hollywood itself for an aspiring star to pick a new name. Sometimes their birth name is too common or already taken, and other times it just doesn't have that 'star quality.' From action heroes to pop super",
-          "date": "2026-09-18T12:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-20-1.jpg"
         }
       ]
     },
@@ -380,6 +380,27 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Stellar Blade Still Not Finished, Four Free Bayonetta Costumes Coming to PS5",
+          "link": "https://www.pushsquare.com/news/2026/09/stellar-blade-still-not-finished-four-free-bayonetta-costumes-coming-to-ps5",
+          "description": "Original game will get \"some changes\" for sequel. Korean dev Shift Up showed off the Switch 2 version of Stellar Blade at the Tokyo Game Show last week, which I played and previewed for Nintendo Life . (There’s a demo out now if you want to try it yourself, but the TL;DR is that it’s a decent port b",
+          "date": "2026-09-21T06:00:00+00:00",
+          "image": "https://images.pushsquare.com/204b20448404a/large.jpg"
+        },
+        {
+          "title": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out This Week (21st - 27th September)",
+          "link": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-this-week-21st-27th-september",
+          "description": "Silent Hill! Control Resonant! Dune! September continues to be ridiculous; this week sees the arrival of another 26 games on PS5 and PS4. As we often say in our staff chat, there are simply too many games. Among the chaos are a handful of bigger titles to look out for. They include the likes of Cont",
+          "date": "2026-09-21T05:30:00+00:00",
+          "image": "https://images.pushsquare.com/f641f4f8f36a6/large.jpg"
+        },
+        {
+          "title": "Sony's Acclaimed Resident Evil Movie Breaks Box Office Records",
+          "link": "https://www.pushsquare.com/news/2026/09/sonys-acclaimed-resident-evil-movie-breaks-box-office-records",
+          "description": "That's how you do it. It’s shaping up to be a particularly big quarter for Sony Pictures, following the record-breaking success of Spider-Man: Brand New Day . (Now the highest-grossing movie of all time in North America.) The firm’s new Resident Evil movie – directed by Zach Cregger – has blown past",
+          "date": "2026-09-21T05:00:00+00:00",
+          "image": "https://images.pushsquare.com/16d7d6a115d76/large.jpg"
+        },
+        {
           "title": "'I Love Sony': Kojima Unsure if Physint Will Ever Come to PS6, Hasn't Decided on Decima Engine",
           "link": "https://www.pushsquare.com/news/2026/09/i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6-hasnt-decided-on-decima-engine",
           "description": "Bloomberg journalist Jason Schreier says Kojima and Sony negotiated for months. In the aftermath of the Tokyo Game Show , a couple of timely interviews from Hideo Kojima have been published simultaneously by IGN and the Washington Post (paywalled). They’ve also been deployed alongside a statement fr",
@@ -415,13 +436,6 @@
           "image": "https://images.pushsquare.com/f810c8c771786/large.jpg"
         },
         {
-          "title": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (21st - 27th September)",
-          "link": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-21st-27th-september",
-          "description": "Silent Hill! Control Resonant! Dune! September continues to be ridiculous; next week sees the arrival of another 26 games on PS5 and PS4. As we often say in our staff chat, there are simply too many games. Among the chaos are a handful of bigger titles to look out for. They include the likes of Cont",
-          "date": "2026-09-19T11:00:00+00:00",
-          "image": "https://images.pushsquare.com/87b3a8449b272/large.jpg"
-        },
-        {
           "title": "Preview: Don't Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise",
           "link": "https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise",
           "description": "Yes, master. I've been keeping an eye on Fate/Extra Record for years at this point, so when the game was finally handed a confirmed release date a couple of weeks back, I was over the moon (pun very slightly intended). The good news didn't stop there, though. Not long after the big reveal, publisher",
@@ -434,20 +448,6 @@
           "description": "Cool. Wow, it's a milestone issue of WAYP yet again. But we'll save the big celebration for 700 next year. This week, we're keeping things short and sweet. Aaron Bayne I've got a review game on the go which I can't talk about yet, but I'll also be quite keen to check out RuneScape Dragonwilds with s",
           "date": "2026-09-18T23:00:00+00:00",
           "image": "https://images.pushsquare.com/ca4ec2933f032/large.jpg"
-        },
-        {
-          "title": "Former Sony Suits Recreate Infamous PS4 Game Sharing Skit, Only without the Disc",
-          "link": "https://www.pushsquare.com/news/2026/09/former-sony-suits-recreate-infamous-ps4-game-sharing-skit-only-without-the-disc",
-          "description": "Hits different these days. Back in 2013, then-PlayStation executives Shuhei Yoshida and Adam Boyes made history with a silly little video that made a mockery of Xbox One's much-maligned DRM plans. 13 years later, a lot has changed , and the video has a completely different effect — but it's still an",
-          "date": "2026-09-18T17:00:00+00:00",
-          "image": "https://images.pushsquare.com/487bd9585e583/large.jpg"
-        },
-        {
-          "title": "The Last of Us Game Director Apologises for Dragging God of War Laufey into 'Boring' AAA Game Discussion",
-          "link": "https://www.pushsquare.com/news/2026/09/the-last-of-us-game-director-apologises-for-dragging-god-of-war-laufey-into-boring-aaa-game-discussion",
-          "description": "Bruce Straley weighs in on big budget titles. Bruce Straley, formerly a key senior staff member at Naughty Dog, has aired his grievances with modern AAA games. In a feature from Edge magazine, which examines the \"broken\" state of the industry's big budget productions, he shares his distaste for how ",
-          "date": "2026-09-18T16:45:00+00:00",
-          "image": "https://images.pushsquare.com/35bce9a003dc2/large.jpg"
         }
       ]
     },
