@@ -1,9 +1,30 @@
 {
-  "updated": "2026-09-22T21:07:41.694980+00:00",
+  "updated": "2026-09-22T23:44:33.344227+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Compliance’ Review: Timely Screenlife Horror Unravels With Unsatisfying Payoff [Fantastic Fest 2026]",
+          "link": "https://bloody-disgusting.com/reviews/3968438/compliance-review-fantastic-fest-2026/",
+          "description": "It’s no secret that we’re currently living in the Darkest Timeline. Political lines are harshly drawn, and the country has rarely been more divided than it is now. Misinformation spreads like wildfire, with AI and deepfake technology ensuring that we can never truly trust what it is we’re reading, l",
+          "date": "2026-09-22T21:30:21+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Compliance-1.png?resize=1000%2C563&#038;ssl=1"
+        },
+        {
+          "title": "‘Darkwing Duck’ Getting Revival Series From Disney+ Starring Mark Hamill",
+          "link": "https://bloody-disgusting.com/tv/3968780/darkwing-duck-reboot-series-disney-plus-mark-hamill/",
+          "description": "The ’90s helped usher in a number of darker animated series, as titles like Batman: The Animated Series, Gargoyles, and X-Men: The Animated Series understood that you didn’t always have to dumb things down to appeal to young viewers. In addition to the series themselves featuring more mature storyli",
+          "date": "2026-09-22T21:10:43+00:00",
+          "image": ""
+        },
+        {
+          "title": "Undead Labs Goes Independent; ‘State of Decay 3’ Currently in Alpha, on Track for 2027 Release",
+          "link": "https://bloody-disgusting.com/video-games/3968784/undead-labs-goes-independent-state-of-decay-3-currently-in-alpha-on-track-for-2027-release/",
+          "description": "Despite announcing Closed Beta registrations earlier this month, the murkiness around Undead Labs’ future after Xbox Game Studios’ massive restructuring earlier this summer was still lurking in the background. That thankfully is no longer the case. Not only that, but Undead Labs has confirmed that S",
+          "date": "2026-09-22T21:08:27+00:00",
+          "image": ""
+        },
         {
           "title": "Deranged Poodle ‘Breeder’ Horror Movie Shifts Into New October Release Date",
           "link": "https://bloody-disgusting.com/movie/3968783/breeder-horror-movie-shifts-into-new-october-release-date/",
@@ -51,27 +72,6 @@
           "link": "https://bloody-disgusting.com/movie/3968723/silent-hill-movie-reboot-in-development-roy-lee/",
           "description": "Video games have been brought to life for decades, and despite how poorly they are often received, they typically perform relatively well at the box office. The ’90s gave us adaptations like Super Marios Bros., Street Fighter, and Mortal Kombat, but it was 2002’s Resident Evil that really opened the",
           "date": "2026-09-22T17:09:05+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Clayface’ Star Tom Rhys Harries Teases the Batman Villain’s Horrifying Final Form",
-          "link": "https://bloody-disgusting.com/movie/3968725/clayface-star-tom-rhys-harries-teases-the-batman-villains-horrifying-final-form/",
-          "description": "DC has promised body horror ahead in the upcoming Clayface. In a new chat with Empire, its lead star teases a full-blown transformation that’ll unleash the Batman villain’s final form. Clayface brings horror to the DC Universe in theaters on October 23. Tom Rhys Harries stars in the title role of th",
-          "date": "2026-09-22T17:08:22+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/HSMBr-8XQAALlw-1.jpg?resize=819%2C1024&#038;ssl=1"
-        },
-        {
-          "title": "Jessica Biel Teams With Paramount TV On Series Adaptation Of Vampire Novel ‘Coffin Moon’",
-          "link": "https://bloody-disgusting.com/tv/3968719/jessica-biel-teams-with-paramount-tv-on-series-adaptation-of-vampire-novel-coffin-moon/",
-          "description": "Stephen King heaped praise on last year’s horror novel Coffin Moon, and today brings the announcement from Deadline that Jessica Biel is teaming with Paramount Television Studios to develop a series adaptation. Noah Harpster and Micah Fitzerman-Blue (A Beautiful Day in the Neighborhood, Painkiller) ",
-          "date": "2026-09-22T16:39:29+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2025/09/download-2025-09-22T094849.837.jpg?resize=674%2C1024&#038;ssl=1"
-        },
-        {
-          "title": "‘M3GAN’ Spin-Off ‘SOULM8TE’ Coming to Hulu in October",
-          "link": "https://bloody-disgusting.com/movie/3968715/soulm8te-streaming-release-date-hulu-m3gan/",
-          "description": "The legacy of Blumhouse‘s M3GAN franchise is quite fascinating. The movie itself, in which an AI-powered doll wreaks havoc on a family, isn’t an especially revolutionary idea. However, the first footage of the dancing doll took over social media, ensuring that the movie would score a PG-13 rating to",
-          "date": "2026-09-22T16:27:06+00:00",
           "image": ""
         }
       ]
@@ -166,7 +166,7 @@
           "link": "https://www.fangoria.com/sitora-diffan-sina-norman-texas-lights/",
           "description": "The FANGORIA Studios feature is one of the inaugural recipients of the new funding program.",
           "date": "2026-09-22T20:01:44+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2025/01/IMG_8778-Edited-scaled.jpeg"
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/IMG_3323-scaled-e1790112358122.png"
         },
         {
           "title": "ALIEN & EDWARD SCISSORHANDS Make Surprise Appearances In Disney’s Halloween Merch",
@@ -230,6 +230,13 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "Massive 100+ Hour PS5 Game Is Under $20 on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/09/22/persona-5-royal-ps5-under-20-playstation-store-sale/",
+          "description": "RPG with over 100 hours of content for players is now available at a discount. The post Massive 100+ Hour PS5 Game Is Under $20 on PlayStation Store appeared first on PlayStation LifeStyle .",
+          "date": "2026-09-22T21:42:36+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps.jpg?w=1024"
+        },
+        {
           "title": "GTA 6 Could Turn November Into a Disaster for Sports Leagues, Predicts NBA Star",
           "link": "https://www.playstationlifestyle.net/2026/09/22/gta-6-disaster-sports-leagues-steven-adams-prediction/",
           "description": "An NBA star has predicted that the release of the highly anticipated GTA 6 might lead to a drop in performance across the leagues The post GTA 6 Could Turn November Into a Disaster for Sports Leagues, Predicts NBA Star appeared first on PlayStation LifeStyle .",
@@ -291,13 +298,6 @@
           "description": "An acclaimed 2019 PS4 action game was suddenly delisted from the PS Store without a warning, leaving fans upset. Developed and published by Squanch Games (High on Life), Trover Saves the Universe was an action platformer featuring voice work by Rick and Morty co-creator Justin Roiland. The game can ",
           "date": "2026-09-22T13:13:52+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps4-action-game.jpg?w=1024"
-        },
-        {
-          "title": "PS5 Firmware Update Quietly Rolled Out for Accessories",
-          "link": "https://www.playstationlifestyle.net/2026/09/22/ps5-pulse-elite-ps-link-update-september-2026/",
-          "description": "Sony has quietly rolled out a firmware update for PS5 accessories, but it hasn’t released any patch notes. Players are being prompted to update their Pulse Elite headset and the PlayStation Link device software. PS5 Pulse Elite September 2026 firmware update causing connection problems for players T",
-          "date": "2026-09-22T12:49:33+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/07/ps5-update.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "State of Decay 3 Dev Hit with 'Significant' Layoffs After Going Independent",
+          "link": "https://www.pushsquare.com/news/2026/09/state-of-decay-3-dev-hit-with-significant-layoffs-after-going-independent",
+          "description": "Update: Undead Labs suffers job losses. Undead Labs, the Seattle-based developer behind the State of Decay games, has survived the latest round of Xbox layoffs . However, the studio has reiterated that it'll no longer operate under the Xbox umbrella; it's now an independent outfit. This direction of",
+          "date": "2026-09-22T22:45:00+00:00",
+          "image": "https://images.pushsquare.com/caf89678da135/large.jpg"
+        },
+        {
           "title": "Sudden Demand for Middle-earth: Shadow of Mordor and War PS5 Ports After Switch 2 Bundle Is Revealed",
           "link": "https://www.pushsquare.com/news/2026/09/sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5-ports-after-switch-2-bundle-is-revealed",
           "description": "Nemesis. Out of nowhere, Aspyr has revealed Middle-earth: Shadow Bundle — but don't get too excited! As of right now, the collection is exclusive to the Nintendo Switch 2, launching next week on the 30th September. The bundle includes Middle Earth: Shadow of Mordor Game of the Year Edition and Middl",
@@ -392,13 +399,6 @@
           "description": "Well Dweller opens to 90+ critic reviews. What if I told you a new PS5 game with a Metacritic rating of 91 and an Opencritic score of 90 is coming out today? Silent Hill: Townfall and Control Resonant are not officially releasing until Thursday, so what could it be? Well Dweller is that game, a Metr",
           "date": "2026-09-22T18:15:00+00:00",
           "image": "https://images.pushsquare.com/df8d61e3a15e3/large.jpg"
-        },
-        {
-          "title": "State of Decay Dev Survives Xbox Layoffs, Goes Independent as Third Game Targets PS5",
-          "link": "https://www.pushsquare.com/news/2026/09/state-of-decay-dev-survives-xbox-layoffs-goes-independent-as-third-game-targets-ps5",
-          "description": "The state of things. Undead Labs, the Seattle-based developer behind the State of Decay games, has survived the latest round of Xbox layoffs . However, the studio has reiterated that it'll no longer operate under the Xbox umbrella; it's now an independent outfit. This direction of travel was previou",
-          "date": "2026-09-22T17:30:00+00:00",
-          "image": "https://images.pushsquare.com/caf89678da135/large.jpg"
         },
         {
           "title": "Rumour: Next Halo Game Will Be a New 'Mainline Instalment', Casting Doubt on More Remakes",
