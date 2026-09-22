@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-21T23:06:45.039135+00:00",
+  "updated": "2026-09-22T01:45:20.611187+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Hell House LLC’ Coming to Theaters for First Time Ever This October",
+          "link": "https://bloody-disgusting.com/movie/3968628/hell-house-llc-theatrical-screenings-10th-anniversary/",
+          "description": "It’s hard to find a better example of grassroots success in the horror world than the Hell House LLC franchise. Like many of its peers, the found-footage movie had screenings at various film festivals before landing on home video formats, with it really finding its following on streaming services. T",
+          "date": "2026-09-21T23:52:49+00:00",
+          "image": ""
+        },
         {
           "title": "‘Resident Evil’ Star Austin Abrams Breaks Down That Shocking Ending",
           "link": "https://bloody-disgusting.com/movie/3968618/resident-evil-austin-abrams-ending-explained/",
@@ -66,13 +73,6 @@
           "description": "Kick On, the latest from Godless: The Eastfield Exorcism director Nick Kozakis, is an Australian term that means to continue partying after the main club or venue has closed down for the night. It’s also the least of the bad decisions the foursome of young twenty-somethings make in this ultraviolent",
           "date": "2026-09-21T18:30:47+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/KICK_ON_Still.jpg?resize=1024%2C578&#038;ssl=1"
-        },
-        {
-          "title": "Demo for ‘Castlevania: Belmont’s Curse’ Coming October 1",
-          "link": "https://bloody-disgusting.com/video-games/3968553/demo-for-castlevania-belmonts-curse-coming-october-1/",
-          "description": "With Castlevania‘s 40th anniversary right around the corner, you’re probably itching to get to play Castlevania: Belmont’s Curse. We’re still a month away, but co-developers Evil Empire and Motion Twin have made the wait a little easier with a brand new demo for the upcoming sidescroller, which you ",
-          "date": "2026-09-21T18:27:38+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/castelvaniademo.jpg?resize=1024%2C576&#038;ssl=1"
         }
       ]
     },
@@ -305,6 +305,13 @@
       "url": "https://blog.playstation.com/feed/",
       "articles": [
         {
+          "title": "(For Southeast Asia) Lisa x PlayStation arrives this October: First look at the DualSense wireless controller",
+          "link": "https://blog.playstation.com/2026/09/21/20260922-lisa/",
+          "description": "Last year, we teamed up with Lisa for the first time on our global PS5 campaign. Today, we’re taking our collaboration a step further with an all-new DualSense wireless controller – Lisa Limited Edition and a new merchandise collection designed with Lisa herself. Lisa’s journey has taken her from he",
+          "date": "2026-09-22T01:03:04+00:00",
+          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
+        },
+        {
           "title": "Lisa x PlayStation arrives this October: First look at the DualSense wireless controller – Lisa Limited Edition and all-new merchandise",
           "link": "https://blog.playstation.com/2026/09/21/lisa-x-playstation-arrives-this-october-first-look-at-the-dualsense-wireless-controller-lisa-limited-edition-and-all-new-merchandise/",
           "description": "Last year, we teamed up with Lisa for the first time on our global PS5 campaign. Today, we’re taking our collaboration a step further with an all-new DualSense wireless controller – Lisa Limited Edition and a new merchandise collection designed with Lisa herself. Lisa’s journey has taken her from he",
@@ -366,13 +373,6 @@
           "description": "At long last, the Blue Bomber is leaping back into action with Mega Man: Dual Override. However, he’s not the only one making a return in the highly anticipated game. Capcom’s latest evolution of the Mega Man series also features a second playable character! Proto Man is making his comeback in Mega ",
           "date": "2026-09-17T01:00:12+00:00",
           "image": "https://live.staticflickr.com/65535/55520959669_7075c4ee57_4k.jpg"
-        },
-        {
-          "title": "Moomintroll: Winter’s Warmth launches on September 18",
-          "link": "https://blog.playstation.com/2026/09/16/moomintroll-winters-warmth-launches-on-september-18/",
-          "description": "My name is Kristina, I work at the indie studio Hyper Games. We’re based in Norway, so you can be sure we know a lot about snow, which is great with our upcoming cozy adventure game, Moomintroll: Winter’s Warmth. It is our second Moomin game and it is coming to PlayStation 5 on September 18. […]",
-          "date": "2026-09-16T17:00:05+00:00",
-          "image": "https://live.staticflickr.com/65535/55515399906_f41d217fed_k.jpg"
         }
       ]
     },
