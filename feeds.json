@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T23:44:33.344227+00:00",
+  "updated": "2026-09-23T04:19:24.438827+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,18 +380,18 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
-          "title": "State of Decay 3 Dev Hit with 'Significant' Layoffs After Going Independent",
-          "link": "https://www.pushsquare.com/news/2026/09/state-of-decay-3-dev-hit-with-significant-layoffs-after-going-independent",
-          "description": "Update: Undead Labs suffers job losses. Undead Labs, the Seattle-based developer behind the State of Decay games, has survived the latest round of Xbox layoffs . However, the studio has reiterated that it'll no longer operate under the Xbox umbrella; it's now an independent outfit. This direction of",
-          "date": "2026-09-22T22:45:00+00:00",
-          "image": "https://images.pushsquare.com/caf89678da135/large.jpg"
-        },
-        {
           "title": "Sudden Demand for Middle-earth: Shadow of Mordor and War PS5 Ports After Switch 2 Bundle Is Revealed",
           "link": "https://www.pushsquare.com/news/2026/09/sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5-ports-after-switch-2-bundle-is-revealed",
           "description": "Nemesis. Out of nowhere, Aspyr has revealed Middle-earth: Shadow Bundle — but don't get too excited! As of right now, the collection is exclusive to the Nintendo Switch 2, launching next week on the 30th September. The bundle includes Middle Earth: Shadow of Mordor Game of the Year Edition and Middl",
-          "date": "2026-09-22T20:30:00+00:00",
+          "date": "2026-09-22T23:30:00+00:00",
           "image": "https://images.pushsquare.com/9b7e8d5ae2343/large.jpg"
+        },
+        {
+          "title": "State of Decay 3 Dev Hit with 'Significant' Layoffs After Going Independent",
+          "link": "https://www.pushsquare.com/news/2026/09/state-of-decay-3-dev-hit-with-significant-layoffs-after-going-independent",
+          "description": "Update: Undead Labs suffers job losses. Undead Labs, the Seattle-based developer behind the State of Decay games, has survived the latest round of Xbox layoffs . However, the studio has reiterated that it'll no longer operate under the Xbox umbrella; it's now an independent outfit. This direction of",
+          "date": "2026-09-22T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/caf89678da135/large.jpg"
         },
         {
           "title": "PS Plus Discount for One of PS5's Best New Indie Games",
