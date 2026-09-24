@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-23T22:09:16.014469+00:00",
+  "updated": "2026-09-24T00:46:50.006823+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Gremlins 3’ Release Date Pushed Back to 2028",
+          "link": "https://bloody-disgusting.com/news/3968897/gremlins-3-release-date-delay-2028/",
+          "description": "35 years after the last movie in the franchise, Gremlins fans were given the thrilling news last year that, after countless reports about the likelihood of a Gremlins 3, the project was officially happening. Given how much time had passed for the franchise and how its pop-culture prominence had larg",
+          "date": "2026-09-23T23:26:07+00:00",
+          "image": ""
+        },
         {
           "title": "‘Happy Death Day’ Star Jessica Rothe Wants to Join a New ‘Friday the 13th’",
           "link": "https://bloody-disgusting.com/movie/3968879/jessica-rothe-friday-the-13th-slasher/",
@@ -65,13 +72,6 @@
           "link": "https://bloody-disgusting.com/news/3968835/beware-boiuna-new-trailer-tickets-on-sale/",
           "description": "There’s a lot of fun to be had when watching snakes terrorizing unsuspecting victims, but like many horror movies featuring animal antagonists, they often lean into the campy realm more than being outright unsettling. Movies like Anaconda, Python, and Snakes on a Plane are certified crowd pleasers, ",
           "date": "2026-09-23T16:48:33+00:00",
-          "image": ""
-        },
-        {
-          "title": "Johannes Persson To Helm Horror Movie ‘Trespassers’, Described As Swedish ‘Deliverance’ From ‘Midsommar’ Producer",
-          "link": "https://bloody-disgusting.com/movie/3968836/johannes-persson-to-helm-horror-movie-trespassers-described-as-swedish-deliverance-from-midsommar-producer/",
-          "description": "A slate of genre projects is currently in development through the inaugural Nordic Genre Lab, Variety reports, including the Swedish horror movie Trespassers. Feed director Johannes Persson is set to helm the project, described as a Swedish Deliverance, from a script by Melina Maraki (Summer of 1985",
-          "date": "2026-09-23T16:43:11+00:00",
           "image": ""
         }
       ]
