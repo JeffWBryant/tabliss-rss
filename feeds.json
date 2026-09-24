@@ -1,9 +1,23 @@
 {
-  "updated": "2026-09-24T20:21:03.849091+00:00",
+  "updated": "2026-09-24T23:20:40.346918+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "New ‘The Girl With the Dragon Tattoo’ Series Casts David Oyelowo and Viola Prettejohn",
+          "link": "https://bloody-disgusting.com/news/3969045/the-girl-with-the-dragon-tattoo-reboot-series-david-oyelowo-viola-prettejohn/",
+          "description": "Stieg Larsson‘s Millenium series of novels continues to prove just how riveting its narrative remains more than 20 years after it launched with The Girl with the Dragon Tattoo. The books themselves are compelling in their own right, with their cinematic nature lending well to being adapted to the bi",
+          "date": "2026-09-24T22:14:32+00:00",
+          "image": ""
+        },
+        {
+          "title": "Paul W.S. Anderson And Zach Cregger Took The Same Unexpected Path To Adapting ‘Resident Evil’",
+          "link": "https://bloody-disgusting.com/editorials/3968869/paul-w-s-anderson-and-zach-cregger-took-the-same-unexpected-path-to-adapting-resident-evil/",
+          "description": "You might think that rising to Hollywood stardom with award-winning genre films would allow you complete control over any future project, but the truth is that blockbuster filmmaking, especially where established intellectual properties are concerned, will always be driven by corporate interests. Th",
+          "date": "2026-09-24T20:42:39+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/04/residentevil-teaser.jpg?resize=1024%2C576&#038;ssl=1"
+        },
         {
           "title": "‘SAW’ – Mike P. Nelson Directing Next Installment in the Film Franchise",
           "link": "https://bloody-disgusting.com/movie/3969022/saw-mike-p-nelson-directing-next-installment-in-the-film-franchise/",
@@ -59,20 +73,6 @@
           "description": "After creeping its way onto the big screen earlier this month, creature feature Don’t Move is heading to Digital soon. Don’t Move, based on the 2020 novel of the same name by co-authors James “Murr” Murray and Darren Wearmouth, arrives on Digital on October 13 from Well Go USA Entertainment. In Don’",
           "date": "2026-09-24T17:54:24+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/DontMove-1340x754-2.jpg?resize=1024%2C576&#038;ssl=1"
-        },
-        {
-          "title": "‘Mazywood’ Book Review: Tananarive Due’s Chilling Horror Epic About Black Hollywood’s Haunted Legacy",
-          "link": "https://bloody-disgusting.com/reviews/3968978/mazywood-book-review-tananarive-dues-chilling-horror-epic-about-black-hollywoods-haunted-legacy/",
-          "description": "Tananarive Due is not just one of our finest horror writers, but one of our finest horror thinkers, and those things don’t always go hand-in-hand. There’s always a chance that someone who knows the genre inside and out and can analyze it with an expert’s eye will freeze up in the headlights of creat",
-          "date": "2026-09-24T17:33:18+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/4skullrating-black.png?resize=225%2C61&#038;ssl=1"
-        },
-        {
-          "title": "‘American Horror Story’s Sarah Paulson Admits She Didn’t “Give a Sh-t” About ‘Roanoke’ Season",
-          "link": "https://bloody-disgusting.com/news/3968959/american-horror-story-sarah-paulson-worst-season-roanoke/",
-          "description": "One reason why American Horror Story has built such a massive following over the last 15 years is that, as compared to other long-running horror series that have one continuous narrative, each season of the FX series delivers an all-new story. Because of this structure and the diversity of the stori",
-          "date": "2026-09-24T17:17:29+00:00",
-          "image": ""
         }
       ]
     },
@@ -85,13 +85,6 @@
           "description": "This article was first published on Dusty Wright’s TALES & RANTS, the Substack of writer, journalist, singer-songwriter, and content creator Mark “Dusty” Petracca. Click here to subscribe and read more. I was definitely—no maybes—moved by the new must-see documentary, Oasis: Don’t Look Back In Anger",
           "date": "2026-09-24T18:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Oasis-Dont-Look-Bakc-in-Anger.jpg"
-        },
-        {
-          "title": "Street Fighter 6 Year 4 Ushers in the Franchise’s Exciting Future",
-          "link": "https://www.denofgeek.com/games/street-fighter-6-year-4-arjun-update/",
-          "description": "When it comes to the modern fighting game scene, Street Fighter 6 has been consistently wowing fans since it launched in June 2023, selling over seven million copies by the third anniversary of its debut. In addition to its ambitious World Tour mode, giving the franchise a sweeping story to explore,",
-          "date": "2026-09-24T17:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Street-Fighter-6-Arjun.png"
         },
         {
           "title": "Clayface Final Trailer Leans Into Classic Batman Tropes",
@@ -148,6 +141,13 @@
           "description": "Movies can hide an incredible amount of information in places most viewers never think to look. A name on a document, something sitting in the background, a tiny change in a character's appearance, or a single object placed in exactly the right spot can reveal something important without ever being ",
           "date": "2026-09-24T13:15:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-76.jpg"
+        },
+        {
+          "title": "15 Ordinary Photos That Became Historical Without Anyone Realizing It",
+          "link": "https://www.denofgeek.com/msn/15-ordinary-photos-that-became-historical-without-anyone-realizing-it/",
+          "description": "Most historical photographs were never meant to become 'historical.' Someone simply picked up a camera and captured a family gathering, a day at work, a street scene, or a few friends posing together, without knowing the moment would eventually be used to document that specific period in time. Years",
+          "date": "2026-09-24T13:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-75.jpg"
         }
       ]
     },
@@ -230,6 +230,20 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "Marvel PS5 Game 60% Off on PlayStation Store After Wolverine’s Release",
+          "link": "https://www.playstationlifestyle.net/2026/09/24/marvel-spider-man-2-60-percent-off-playstation-store-after-wolverine-release/",
+          "description": "A Marvel game available exclusively on PlayStation 5 is currently 60% off at the PlayStation Store The post Marvel PS5 Game 60% Off on PlayStation Store After Wolverine’s Release appeared first on PlayStation LifeStyle .",
+          "date": "2026-09-24T21:41:22+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Wolverine_d3ee44.jpg?w=1024"
+        },
+        {
+          "title": "Acclaimed PS5 Action Game Sequel Arrives on PlayStation Store Today",
+          "link": "https://www.playstationlifestyle.net/2026/09/24/remedy-control-resonant-ps5-release-today/",
+          "description": "A new action-RPG from Remedy Entertainment has arrived on the PlayStation Store. Serving as a direct sequel to 2019’s Control, the new title introduces a new protagonist and shifts the franchise toward a melee-focused combat system. Control Resonant is available now on the PlayStation Store for Play",
+          "date": "2026-09-24T20:43:48+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Untitled-Design-2026-09-25T021128.889.png?w=1024"
+        },
+        {
           "title": "Rockstar’s GTA 6 Collector’s Edition Includes Plenty But There’s One Catch",
           "link": "https://www.playstationlifestyle.net/2026/09/24/gta-6-other-vice-city-collectors-edition/",
           "description": "Rockstar Games has unveiled its premium physical Collector’s Box for Grand Theft Auto VI. Titled Grand Theft Auto VI: The Goodtime State – Vice City Collection, it features exclusive merchandise inspired by the game’s world, but there is one significant catch. The official bundle, inspired by Macca ",
@@ -284,20 +298,6 @@
           "description": "Publisher THQ Nordic and developer Grimlore Games have announced the PlayStation 5 release date for their upcoming mythological action RPG sequel The post Ancient Greece Action RPG Sequel Sets PlayStation 5 Release Date, Watch Trailer appeared first on PlayStation LifeStyle .",
           "date": "2026-09-23T20:34:43+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Titan-Quest-II.jpg?w=1024"
-        },
-        {
-          "title": "Popular PS4, PS5 One Piece Action Game Is 75% Off on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/09/23/one-piece-pirate-warriors-4-75-percent-off-playstation-store/",
-          "description": "One Piece fans can pick up one of the franchise's recent action games for very cheap if they own a PlayStation. The post Popular PS4, PS5 One Piece Action Game Is 75% Off on PlayStation Store appeared first on PlayStation LifeStyle .",
-          "date": "2026-09-23T20:29:11+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/one-piece.jpg?w=1024"
-        },
-        {
-          "title": "Gorgeous PS5 Adventure Game 75% Off on PS Store, Lowest Price",
-          "link": "https://www.playstationlifestyle.net/2026/09/23/the-pathless-ps-store-deal-september-2026/",
-          "description": "A stunning 2020 PS5 and PS4 adventure game is at its lowest price in a brand-new, limited-time PS Store deal. Developed by Giant Squid (Abzu) and published by Annapurna Interactive, The Pathless is part of the PS Store’s new Autumn Adventures promotion. PS5 and PS4 adventure game The Pathless is und",
-          "date": "2026-09-23T13:59:56+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/the-pathless-ps-store-deal.jpg?w=1024"
         }
       ]
     },
@@ -380,18 +380,25 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds",
+          "link": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-responds",
+          "description": "Sony reportedly dominating biggest game of the generation. Sony is spending an obscene amount of money to make sure GTA 6 “feels” like an exclusive – and it’s working, apparently. A new report from The Verge (paywalled) digs into the larger dramas occurring at Xbox of late, including its massive lay",
+          "date": "2026-09-24T23:30:00+00:00",
+          "image": "https://images.pushsquare.com/34632512dcd92/large.jpg"
+        },
+        {
+          "title": "Wild Arms Successor That Sony Rejected Has Been Cancelled, 4 Years After Its Reveal",
+          "link": "https://www.pushsquare.com/news/2026/09/wild-arms-successor-that-sony-rejected-has-been-cancelled-4-years-after-its-reveal",
+          "description": "Armed Fantasia dropped by 505 Games. It looks like Armed Fantasia: To the End of the Wilderness is all but dead, as publisher 505 Games, and parent company Digital Bros, have officially pulled the plug. The news comes via the latter's latest financial report, which reads: \"The Group decided to disco",
+          "date": "2026-09-24T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/9e7571a99ec8a/large.jpg"
+        },
+        {
           "title": "'Have You Heard How Much Money Kojima Wanted?': Physint's Rumoured Budget Said to Be 'Significant'",
           "link": "https://www.pushsquare.com/news/2026/09/have-you-heard-how-much-money-kojima-wanted-physints-rumoured-budget-said-to-be-significant",
           "description": "Microsoft may be spending less on it. It sounds like Hideo Kojima was demanding a significant sum of money from Sony to make the stealth action game Physint – despite him retaining ownership of its IP and intending to release it on multiple platforms. PlayStation announced earlier this month that it",
           "date": "2026-09-24T20:00:00+00:00",
           "image": "https://images.pushsquare.com/73b5180231321/large.jpg"
-        },
-        {
-          "title": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5",
-          "link": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5",
-          "description": "Sony reportedly dominating biggest game of the generation. Sony is spending an obscene amount of money to make sure GTA 6 “feels” like an exclusive – and it’s working, apparently. A new report from The Verge (paywalled) digs into the larger dramas occurring at Xbox of late, including its massive lay",
-          "date": "2026-09-24T18:00:00+00:00",
-          "image": "https://images.pushsquare.com/34632512dcd92/large.jpg"
         },
         {
           "title": "Feature: Xbox Is Disappearing into Activision and Bethesda, So What Does That Mean for PS5?",
@@ -441,13 +448,6 @@
           "description": "Less powerful than new Xbox, but potentially cheaper. According to notorious hardware snoop KeplerL2 , the hardware configuration of the PS6 has been “taped out”. In industry terms, this means Sony’s completed design of the chip and locked down the specs, and it’s now ready for manufacturing. This a",
           "date": "2026-09-24T14:00:00+00:00",
           "image": "https://images.pushsquare.com/c801dbe57c085/large.jpg"
-        },
-        {
-          "title": "PSVR2 Misses Out on Virtual Reality Phoenix Wright Release",
-          "link": "https://www.pushsquare.com/news/2026/09/psvr2-misses-out-on-virtual-reality-phoenix-wright-release",
-          "description": "I wouldn't have objected to it. You won’t be screaming “objection” with your PSVR2 headset equipped next year, as AMATA Games has decided not to release its virtual reality version of Phoenix Wright: Ace Attorney - Dual Destinies for Sony’s headset. Announced for the Meta Quest and new Meta VR Glass",
-          "date": "2026-09-24T13:30:00+00:00",
-          "image": "https://images.pushsquare.com/80e23e78c46e4/large.jpg"
         }
       ]
     },
