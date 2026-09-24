@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T00:46:50.006823+00:00",
+  "updated": "2026-09-24T05:59:07.305335+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Review: KICK ON is a Lean and Delightfully Mean Splatterfest",
+          "link": "https://www.fangoria.com/review-kick-on-splatterfest/",
+          "description": "Gorehounds, rejoice! Australia has done it again with KICK ON.",
+          "date": "2026-09-24T01:00:04+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/MV5BODBkNDA2MzktZmU1Yy00NDI1LThiYTEtNTRjZTFmYTRkMmQxXkEyXkFqcGc@._V1_-scaled.jpg"
+        },
+        {
           "title": "30 DAYS OF NIGHT’s Creator Has Something New For Horror Fans [Exclusive]",
           "link": "https://www.fangoria.com/30-days-of-night-steve-niles-cal-mcdonald-book/",
           "description": "CAL MCDONALD: PLAGUE OF EVIL AND OTHER STORIES is a new collection from 30 DAYS OF NIGHT co-creator Steve Niles, and we’ve got an exclusive glimpse at what’s inside.",
@@ -216,13 +223,6 @@
           "description": "Regal Cinemas is pairing with three of your favorite filmmakers for 31 SCREAMS ON SCREEN, bringing their favorite scary movies to the big screen.",
           "date": "2026-09-22T17:00:46+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/092226-31-Screams-on-Screen-Graphic.jpg"
-        },
-        {
-          "title": "Keith Rosson’s Vampire Novel COFFIN MOON Is Coming To TV",
-          "link": "https://www.fangoria.com/coffin-moon-series/",
-          "description": "Paramount has snapped up the rights to Keith Rosson's vampire novel COFFIN MOON, which it's now adapting into a series.",
-          "date": "2026-09-22T16:26:06+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/222419255.jpg"
         }
       ]
     },
