@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-24T23:20:40.346918+00:00",
+  "updated": "2026-09-25T01:47:55.356887+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Shudder Unveils Full Lineup of October Titles for Halloween",
+          "link": "https://bloody-disgusting.com/movie/3969051/shudder-new-movies-october-2026-halloween/",
+          "description": "The joy of streaming service Shudder is that, all year long, it feels like you’re being treated to a horror movie festival. While fellow streamers like Netflix, Hulu, or Peacock might make it a big deal when they unleash new horror titles for October, their genre offerings the rest of the year aren’",
+          "date": "2026-09-24T23:23:09+00:00",
+          "image": ""
+        },
         {
           "title": "New ‘The Girl With the Dragon Tattoo’ Series Casts David Oyelowo and Viola Prettejohn",
           "link": "https://bloody-disgusting.com/news/3969045/the-girl-with-the-dragon-tattoo-reboot-series-david-oyelowo-viola-prettejohn/",
@@ -66,13 +73,6 @@
           "description": "We might still have a week left before it officially becomes October, but it’s never too early to start planning the horror movies we’ll be watching in honor of Halloween. Of course, plenty of us have our own physical media collections that allow us to watch whatever we want, whenever we want, but i",
           "date": "2026-09-24T17:56:30+00:00",
           "image": ""
-        },
-        {
-          "title": "Creature Feature ‘Don’t Move’ Sets October Digital Release",
-          "link": "https://bloody-disgusting.com/movie/3968985/creature-feature-dont-move-sets-october-digital-release/",
-          "description": "After creeping its way onto the big screen earlier this month, creature feature Don’t Move is heading to Digital soon. Don’t Move, based on the 2020 novel of the same name by co-authors James “Murr” Murray and Darren Wearmouth, arrives on Digital on October 13 from Well Go USA Entertainment. In Don’",
-          "date": "2026-09-24T17:54:24+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/DontMove-1340x754-2.jpg?resize=1024%2C576&#038;ssl=1"
         }
       ]
     },
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Review: PLAY HOUSE Is The Best Use of $100,000 I’ve Ever Seen",
+          "link": "https://www.fangoria.com/review-play-house/",
+          "description": "Nic Curcio & Kirby Gladstein's Fantastic Pitch winner is one of the best horror films out of Fantastic Fest.",
+          "date": "2026-09-25T00:45:17+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Play-House-Movie.webp"
+        },
+        {
           "title": "The Next SAW Movie Has Found Its Director",
           "link": "https://www.fangoria.com/saw-movie-new-director/",
           "description": "The gory games are set to continue with a genre mainstay at the helm.",
@@ -216,13 +223,6 @@
           "description": "After months of seeking distribution, SENDER,one of our favorite films out of SXSW is finally coming to theaters. Get all the details here.",
           "date": "2026-09-24T14:30:26+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/SENDER_Still5.jpg"
-        },
-        {
-          "title": "ARCHIE IN HELL Unveils A Demonic Issue #1 Variant Cover",
-          "link": "https://www.fangoria.com/archie-in-hell-issue-1-variant-cover/",
-          "description": "Check out the “Pyre Satanic” variant cover for ARCHIE IN HELL #1, one of many rolling out for Oni Press’s new Riverdale-set comics.",
-          "date": "2026-09-24T14:00:15+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/ARCHIE-IN-HELL-1-COVER-S-PYRE-SATANIC-copy.jpg"
         }
       ]
     },
