@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-25T07:29:50.070337+00:00",
+  "updated": "2026-09-25T12:56:40.871800+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Fortnitemares’ Live-Action Teaser Trailer Emphasizes The Terror [Watch]",
+          "link": "https://bloody-disgusting.com/video-games/3969056/fortnitemares-live-action-teaser-trailer-emphasizes-the-terror-watch/",
+          "description": "Epic Games has followed up with the cryptic post on X announcing this year’s Fortnitemares even for Fortnite with a live-action teaser trailer that is equally cryptic, but all the more scary. With the event kicking off on October 1, we still don’t have the details for all of the collaborations, but ",
+          "date": "2026-09-25T11:30:21+00:00",
+          "image": ""
+        },
         {
           "title": "Shudder Unveils Full Lineup of October Titles for Halloween",
           "link": "https://bloody-disgusting.com/movie/3969051/shudder-new-movies-october-2026-halloween/",
@@ -66,13 +73,6 @@
           "description": "The wait to return to the world of Control is finally over. Remedy Entertainment has released Control Resonant, the sequel to the 2019 hit, to PlayStation 5, Xbox Series, PC via Steam and Epic Games Store. Physical editions for PlayStation 5 and Xbox Series will be arriving next on October 15. Playe",
           "date": "2026-09-24T18:00:19+00:00",
           "image": ""
-        },
-        {
-          "title": "HBO Unveils October Slate of Horror Programming for Halloween",
-          "link": "https://bloody-disgusting.com/movie/3968980/hbo-max-streaming-movies-october-2026-halloween/",
-          "description": "We might still have a week left before it officially becomes October, but it’s never too early to start planning the horror movies we’ll be watching in honor of Halloween. Of course, plenty of us have our own physical media collections that allow us to watch whatever we want, whenever we want, but i",
-          "date": "2026-09-24T17:56:30+00:00",
-          "image": ""
         }
       ]
     },
@@ -80,80 +80,87 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
-          "title": "Acquiescing: New Oasis Documentary Captures a Pop Music Phenomenon for the Non-Believers",
-          "link": "https://www.denofgeek.com/culture/new-oasis-documentary-captures-pop-music-phenomenon/",
-          "description": "This article was first published on Dusty Wright’s TALES & RANTS, the Substack of writer, journalist, singer-songwriter, and content creator Mark “Dusty” Petracca. Click here to subscribe and read more. I was definitely—no maybes—moved by the new must-see documentary, Oasis: Don’t Look Back In Anger",
-          "date": "2026-09-24T18:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Oasis-Dont-Look-Bakc-in-Anger.jpg"
+          "title": "14 Historical Mysteries That Still Don’t Have a Satisfying Explanation",
+          "link": "https://www.denofgeek.com/msn/14-historical-mysteries-that-still-dont-have-a-satisfying-explanation/",
+          "description": "History is filled with stories that seem like they should have clear answers, yet somehow never quite get them. A disappearance, an unexplained object, a strange message, or an event witnessed by many people can leave behind just enough evidence to keep the mystery alive, especially as the event rec",
+          "date": "2026-09-25T12:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-79.jpg"
         },
         {
-          "title": "Clayface Final Trailer Leans Into Classic Batman Tropes",
-          "link": "https://www.denofgeek.com/movies/clayface-final-trailer-leans-into-classic-batman-tropes/",
-          "description": "Throughout the final trailer for the DC horror movie Clayface, dialogue and images loop and repeat, creating dissonance that only sometimes comes together into a recognizable sentence. For example, we hear scientist Dr. Caitlin Corr (Naomi Ackie) utter “Matt Hagen” over and over, until she finally c",
-          "date": "2026-09-24T15:02:11+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/rev-1-CLAY-T2-0048_High_Res_JPEG.jpeg"
+          "title": "Historical Photos That Are Much Darker Than They First Appear",
+          "link": "https://www.denofgeek.com/msn/historical-photos-that-are-much-darker-than-they-first-appear/",
+          "description": "Some historical photographs look ordinary at first glance, almost too familiar to deserve a second look. Then you notice one person, one object, or one small detail in the frame, and the entire image is instantly different. Photographs are like that, only capturing moments without any explanation of",
+          "date": "2026-09-25T12:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-78.jpg"
         },
         {
-          "title": "11 Chaotic Photos You Just Have to Accept at Face Value",
-          "link": "https://www.denofgeek.com/msn/15-chaotic-photos-you-just-have-to-accept-at-face-value/",
-          "description": "Some photos make perfect sense at first glance, while others seem to raise questions that probably have no useful answers. Whether it's a person is standing somewhere they clearly should not be, an object being used in a way nobody expected, or an entire scene looks like the result of several unrela",
-          "date": "2026-09-24T14:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/2_1a0c6d.jpg"
+          "title": "15 Famous People Who Showed Up in Movie Backgrounds Before They Were Famous",
+          "link": "https://www.denofgeek.com/msn/15-famous-people-who-showed-up-in-movie-backgrounds-before-they-were-famous/",
+          "description": "Becoming famous usually involves at least a few years of taking whatever work you can get, which means some very recognizable faces are hiding in movies from long before anybody knew their names. They were party guests, students, restaurant customers and assorted people whose main responsibility was",
+          "date": "2026-09-25T12:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-25.jpg"
         },
         {
-          "title": "Kinda Funny Podcast Is Leading the Charge for Modern Gaming Discourse",
-          "link": "https://www.denofgeek.com/games/kinda-funny-podcast-tim-gettys-interview/",
-          "description": "After leaving IGN, a group of former staffers launched their own online media company Kinda Funny in 2015, primarily covering video games and powered by conversations between the 11-person team. Among Kinda Funny’s founders is Tim Gettys, who’s been a prominent voice in games media coverage for over",
-          "date": "2026-09-24T14:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Kinda-Funny-Tim-Gettys.jpg"
+          "title": "15 People Share the Disappearing Store That Hurt Them the Most",
+          "link": "https://www.denofgeek.com/msn/15-people-share-the-disappearing-store-that-hurt-them-the-most/",
+          "description": "Shopping online might be faster, but it has never quite replaced the experience of wandering around a store with no particular plan. For anyone who grew up in the 1990s or 2000s, plenty of those places are now attached to very specific memories: Friday nights choosing a movie, afternoons browsing CD",
+          "date": "2026-09-25T12:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-18-1.jpg"
         },
         {
-          "title": "Unsettling Historical Facts, Even for the Nerds",
-          "link": "https://www.denofgeek.com/msn/unsettling-historical-facts-even-for-the-nerds/",
-          "description": "History has a strange way of becoming more disturbing the deeper you dig. Some of the most unsettling facts are not obscure legends or exaggerated stories, but things that were once completely ordinary to the people living through them. We're extraordinarily resilient beings, until Gen Z anyway. Sor",
-          "date": "2026-09-24T14:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/3_a45ec5.jpg"
+          "title": "15 ‘High Risk, Low Reward’ Things People Still Keep Doing Every Day",
+          "link": "https://www.denofgeek.com/msn/15-high-risk-low-reward-things-people-still-keep-doing-every-day/",
+          "description": "Most risks come with at least some kind of payoff. Maybe there is money involved, an unforgettable experience waiting at the end or simply a story worth telling. Then there are the risks people take to arrive somewhere two minutes earlier, avoid wearing a helmet or save themselves one tiny inconveni",
+          "date": "2026-09-25T11:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/4_11e564.jpg"
         },
         {
-          "title": "15 People Share the Funniest Movie They’ve Ever Seen",
-          "link": "https://www.denofgeek.com/msn/15-people-share-the-funniest-movie-theyve-ever-seen-2/",
-          "description": "Comedy might be the most subjective movie genre of all. One person's guaranteed laugh is another person's painfully long 90 minutes, and even the movies we find hilarious can depend on exactly when we first watched them. Still, there are a handful of comedies that seem unusually good at reducing peo",
-          "date": "2026-09-24T13:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-8-2.jpg"
+          "title": "Annoying Songs People Keep Playing Without Our Permission",
+          "link": "https://www.denofgeek.com/msn/annoying-songs-people-keep-playing-without-our-permission/",
+          "description": "Some songs become popular because everyone loves them. Others seem to survive because society collectively decided there are certain situations where we simply aren't allowed to escape them. Weddings have their repeat offenders, sporting events have theirs, and retail workers know exactly which song",
+          "date": "2026-09-25T11:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-16-1.jpg"
         },
         {
-          "title": "15 Photos That Show How Much Famous Places Have Changed",
-          "link": "https://www.denofgeek.com/msn/15-photos-that-show-how-much-famous-places-have-changed/",
-          "description": "Some of the world's most recognizable places haven't always looked the way they do. Streets that are now packed with tourists were once quiet neighborhoods, famous landmarks stood surrounded by empty spaces, and entire skylines existed before the buildings we instantly associate with them were even ",
-          "date": "2026-09-24T13:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-77.jpg"
+          "title": "15 Historical Photos Where Things Just Look Extra-Cool",
+          "link": "https://www.denofgeek.com/msn/15-historical-photos-where-things-just-look-extra-cool/",
+          "description": "There is old-school cool, and then there are photographs that make the past look considerably more stylish than it probably was. Somehow, ordinary people heading to work, going on dates or simply posing for a family photo occasionally ended up looking like they were shooting an album cover instead. ",
+          "date": "2026-09-25T11:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/4_b1940d.jpg"
         },
         {
-          "title": "Star Trek: Strange New Worlds Season 4 Finale Review — Tomorrow’s Enterprise",
-          "link": "https://www.denofgeek.com/tv/star-trek-strange-new-worlds-season-4-finale-review-tomorrows-enterprise/",
-          "description": "The following contains spoilers for the Star Trek: Strange New Worlds season 4 finale. Star Trek: Strange New Worlds wraps up its fourth season with a finale that’s full of sentimentality. A love letter to Nyota Uhura, a character we’ve watched grow from a nervous, try-hard cadet to a capable crew m",
-          "date": "2026-09-24T13:23:06+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/MixCollage-24-Sep-2026-12-57-AM-9362.jpg"
+          "title": "15 Photos of Everyday Life from 40 Years Ago",
+          "link": "https://www.denofgeek.com/msn/15-photos-of-everyday-life-from-40-years-ago/",
+          "description": "Many consider 1986 a great year, or at least one important for the world’s history. Whatever your reasoning for it being a relevant year, you can consider this a special occasion: it’s officially been 40 years since then, considering that we’re living through 2026 right now. If that didn’t make you ",
+          "date": "2026-09-25T11:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/3_45949a.jpg"
         },
         {
-          "title": "15 Movie Details That Were Apparently Too Small for Most People to Notice",
-          "link": "https://www.denofgeek.com/msn/15-movie-details-that-were-apparently-too-small-for-most-people-to-notice/",
-          "description": "Movies can hide an incredible amount of information in places most viewers never think to look. A name on a document, something sitting in the background, a tiny change in a character's appearance, or a single object placed in exactly the right spot can reveal something important without ever being ",
-          "date": "2026-09-24T13:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-76.jpg"
+          "title": "The Weapons Of Mass Destruction, Ranked for All You Pessimists",
+          "link": "https://www.denofgeek.com/msn/the-weapons-of-mass-destruction-ranked-for-all-you-pessimists/",
+          "description": "A weapon of mass destruction is not a mere bomb, something that goes off and destroys a designated area. They are humanity’s greatest, most destructive, and most terrifying weapons, capable of fueling nightmares and keeping entire countries in check. The fear of their mere existence shapes our curre",
+          "date": "2026-09-25T10:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-19-2.jpg"
         },
         {
-          "title": "15 Ordinary Photos That Became Historical Without Anyone Realizing It",
-          "link": "https://www.denofgeek.com/msn/15-ordinary-photos-that-became-historical-without-anyone-realizing-it/",
-          "description": "Most historical photographs were never meant to become 'historical.' Someone simply picked up a camera and captured a family gathering, a day at work, a street scene, or a few friends posing together, without knowing the moment would eventually be used to document that specific period in time. Years",
-          "date": "2026-09-24T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-75.jpg"
+          "title": "15 Historical Facts the Nerds Just Can’t Stop Bringing Up",
+          "link": "https://www.denofgeek.com/msn/15-historical-facts-the-nerds-just-cant-stop-bringing-up/",
+          "description": "History can feel like a stuffy collection of dates and names we were forced to memorize in school. And yet the real story is so much weirder, funnier, and more interesting than we were led to believe. It's full of moments that sound completely made up, and supposed facts that everyone knows, which e",
+          "date": "2026-09-25T10:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/1_45b8e5.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "Monstrous Musings: Five Fantastic Films",
+          "link": "https://www.fangoria.com/monstrous-musings-ff-discoveries/",
+          "description": "We saw dozens of amazing films at this year's Fantastic Fest. Here are five (okay, six; wait - seven) that we want you to keep an eye out for.",
+          "date": "2026-09-25T08:00:17+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Kick_On_Still_03.jpg"
+        },
         {
           "title": "Review: THE SWALLOW Squishes and Squelches Its Way to Scares",
           "link": "https://www.fangoria.com/review-the-swallow/",
@@ -216,19 +223,19 @@
           "description": "Check out this creepy, '90s-set found footage clip from ERIE, the feature film debut of Alison-Eve Hammersley.",
           "date": "2026-09-24T15:00:18+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/unnamed-1.jpg"
-        },
-        {
-          "title": "GODZILLA MINUS ZERO May Be The Most Brutal GODZILLA Movie Ever",
-          "link": "https://www.fangoria.com/godzilla-minus-zero-rated-r/",
-          "description": "GODZILLA MINUS ZERO is making history as the first R rated movie in the history of the franchise, suggesting director Takashi Yamazaki isn’t pulling any punches.",
-          "date": "2026-09-24T14:43:20+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/G1.jpg"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "PS5 Version of Hugely Popular Sandbox Game Gets Release Date",
+          "link": "https://www.playstationlifestyle.net/2026/09/25/sandbox-game-beamng-drive-ps5-release-date/",
+          "description": "The PS5 version of a hugely popular “hyper-realistic” sandbox game finally has a release date, and it’s coming surprisingly soon. Racing game BeamNG.drive first launched on PC in 2015. The game will now launch in early access on the PS5. ‘Hyper-realistic’ sandbox racing game BeamNG.drive coming to P",
+          "date": "2026-09-25T12:47:14+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps5-sandbox-game-beamng-drive.jpg?w=1024"
+        },
         {
           "title": "Marvel PS5 Game 60% Off on PlayStation Store After Wolverine’s Release",
           "link": "https://www.playstationlifestyle.net/2026/09/24/marvel-spider-man-2-60-percent-off-playstation-store-after-wolverine-release/",
@@ -291,13 +298,6 @@
           "description": "Sony Interactive Entertainment has rolled out PS Portal system software update 7.1.7, which brings significant changes. The highlight of today’s firmware update is battery performance improvements and overall health. PS Portal system software update 7.1.7 patch notes (September 24, 2026) Complete pa",
           "date": "2026-09-24T11:03:17+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/03/ps-portal-update.jpg?w=1024"
-        },
-        {
-          "title": "Ancient Greece Action RPG Sequel Sets PlayStation 5 Release Date, Watch Trailer",
-          "link": "https://www.playstationlifestyle.net/2026/09/23/titan-quest-ii-playstation-5-release-date-full-launch/",
-          "description": "Publisher THQ Nordic and developer Grimlore Games have announced the PlayStation 5 release date for their upcoming mythological action RPG sequel The post Ancient Greece Action RPG Sequel Sets PlayStation 5 Release Date, Watch Trailer appeared first on PlayStation LifeStyle .",
-          "date": "2026-09-23T20:34:43+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Titan-Quest-II.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,34 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Rogue Prince of Persia Dev Now Done with Updates, Castlevania Just Weeks Away",
+          "link": "https://www.pushsquare.com/news/2026/09/rogue-prince-of-persia-dev-now-done-with-updates-castlevania-just-weeks-away",
+          "description": "Belmont's Curse out on 15th October. The recent anniversary update to The Rogue Prince of Persia will be its last, developer Evil Empire has announced, with its next release just over two weeks away. Castlevania: Belmont's Curse is that next title, and it's shaping up incredibly well, due for a PS5 ",
+          "date": "2026-09-25T12:30:00+00:00",
+          "image": "https://images.pushsquare.com/18f1a45297cd9/large.jpg"
+        },
+        {
+          "title": "Warzone Will Soon Let You Turn Off Other Players' Stupid Skins",
+          "link": "https://www.pushsquare.com/news/2026/09/warzone-will-soon-let-you-turn-off-other-players-stupid-skins",
+          "description": "New toggle in Modern Warfare 4 update. For years now, the hardcore Call of Duty: Warzone playerbase has complained about the stupid skins you'll spot running about the Battle Royale. It is, after all, a bit of an immersion breaker when you bump into Lionel Messi and Snoop Dogg out on the battlefield",
+          "date": "2026-09-25T12:00:00+00:00",
+          "image": "https://images.pushsquare.com/4992441e476c4/large.jpg"
+        },
+        {
+          "title": "Unicorn Overlord Director Reveals Promising New PS5 RPG, Cross-Media Plans to Include Light Novels",
+          "link": "https://www.pushsquare.com/news/2026/09/unicorn-overlord-director-reveals-promising-new-ps5-rpg-cross-media-plans-to-include-light-novels",
+          "description": "All-in. Go big or go home – that was probably Good Smile Company’s approach to this announcement. It’s partnering with Grand Kingdom dev Monochrome Corporation on a new intellectual property named IGNISPHERE, which will include various cross-media products, including a 2028 action RPG named DAWNGAZE",
+          "date": "2026-09-25T11:30:00+00:00",
+          "image": "https://images.pushsquare.com/f5ad27d1dfdb3/large.jpg"
+        },
+        {
+          "title": "Enjoy 1986's Castlevania for Free on Your Phone for 40th Anniversary",
+          "link": "https://www.pushsquare.com/news/2026/09/enjoy-1986s-castlevania-for-free-on-your-phone-for-40th-anniversary",
+          "description": "Up to 80% off on PS Store compilations. Okay, Push Square isn’t a mobile gaming website, but I think it’d be remiss of me to not point you in the direction of a free game. Castlevania , the 1986 classic from Konami, is currently free to download in its entirety on iOS and Android until 24th October.",
+          "date": "2026-09-25T11:00:00+00:00",
+          "image": "https://images.pushsquare.com/af9d4e40f21d5/large.jpg"
+        },
+        {
           "title": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds",
           "link": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-responds",
           "description": "Sony reportedly dominating biggest game of the generation. Sony is spending an obscene amount of money to make sure GTA 6 “feels” like an exclusive – and it’s working, apparently. A new report from The Verge (paywalled) digs into the larger dramas occurring at Xbox of late, including its massive lay",
@@ -420,34 +448,6 @@
           "description": "It's sort of like a Collector's Edition. Rockstar has today unveiled GTA 6 : The Goodtime State - Vice City Collection , which is sort of like a Collector's Edition. It is priced at £349.99 / $399.99, it's available to pre-order now (with limited quantities available), and it does not include the ga",
           "date": "2026-09-24T15:30:00+00:00",
           "image": "https://images.pushsquare.com/6751a22e076b0/large.jpg"
-        },
-        {
-          "title": "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs",
-          "link": "https://www.pushsquare.com/news/2026/09/age-of-empires-dev-has-half-of-studio-slashed-project-cancelled-amid-xbox-layoffs",
-          "description": "Age of layoffs. The future of Age of Empires dev World’s Edge appears to be hanging in the balance. The studio – which has released Age of Empires 2: Definitive Edition , Age of Empires 4: Anniversary Edition , and Age of Mythology: Retold all on the PS5 – was part of the latest round of Xbox redund",
-          "date": "2026-09-24T15:00:00+00:00",
-          "image": "https://images.pushsquare.com/fa15c446839dc/large.jpg"
-        },
-        {
-          "title": "Control Resonant Made Easier After Player Feedback, PS5 Patch Live Now",
-          "link": "https://www.pushsquare.com/news/2026/09/control-resonant-made-easier-after-player-feedback-ps5-patch-live-now",
-          "description": "Small update makes a big difference. Control Resonant launches on PS5 today, and developer Remedy is already addressing feedback it's received from critic reviews and early access players. While the game has been received incredibly well, a lot of reports covering the opening hours of the experience",
-          "date": "2026-09-24T14:30:00+00:00",
-          "image": "https://images.pushsquare.com/b36dae924a48d/large.jpg"
-        },
-        {
-          "title": "This Ultra Realistic Racing Game Will Make Its PS5 Console Exclusive Debut Next Month",
-          "link": "https://www.pushsquare.com/news/2026/09/this-ultra-realistic-racing-game-will-make-its-ps5-console-exclusive-debut-next-month",
-          "description": "Expect it to sell big. You won’t have to wait much longer to play the ultra-realistic physics-based racing game BeamNG.drive on your PS5. Announced moments ago with an all-new trailer , the cult PC sim will finally get its console exclusive release on 19th October, with expanded support for the PS5 ",
-          "date": "2026-09-24T14:15:00+00:00",
-          "image": "https://images.pushsquare.com/1dc7d8f0365b2/large.jpg"
-        },
-        {
-          "title": "Rumour: PS6 Hardware Complete, Double the Power of PS5 with Handheld Model",
-          "link": "https://www.pushsquare.com/news/2026/09/rumour-ps6-hardware-complete-double-the-power-of-ps5-with-handheld-model",
-          "description": "Less powerful than new Xbox, but potentially cheaper. According to notorious hardware snoop KeplerL2 , the hardware configuration of the PS6 has been “taped out”. In industry terms, this means Sony’s completed design of the chip and locked down the specs, and it’s now ready for manufacturing. This a",
-          "date": "2026-09-24T14:00:00+00:00",
-          "image": "https://images.pushsquare.com/c801dbe57c085/large.jpg"
         }
       ]
     },
