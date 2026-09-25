@@ -1,84 +1,119 @@
 {
-  "updated": "2026-09-25T12:56:40.871800+00:00",
+  "updated": "2026-09-25T17:53:41.822746+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
         {
-          "title": "‘Fortnitemares’ Live-Action Teaser Trailer Emphasizes The Terror [Watch]",
-          "link": "https://bloody-disgusting.com/video-games/3969056/fortnitemares-live-action-teaser-trailer-emphasizes-the-terror-watch/",
-          "description": "Epic Games has followed up with the cryptic post on X announcing this year’s Fortnitemares even for Fortnite with a live-action teaser trailer that is equally cryptic, but all the more scary. With the event kicking off on October 1, we still don’t have the details for all of the collaborations, but ",
-          "date": "2026-09-25T11:30:21+00:00",
+          "title": "‘Sundown’ – Rebekah McKendry’s Supernatural Horror Movie Finds a Home at Shudder",
+          "link": "https://bloody-disgusting.com/movie/3969125/sundown-rebekah-mckendrys-supernatural-horror-movie-finds-a-home-at-shudder/",
+          "description": "Up next from director Rebekah McKendry (Glorious, Elevator Game) is the horror movie Sundown, and Variety reports that Shudder has acquired the rights to distribute the film. Director Rebekah McKendry’s upcoming horror movie Sundown follows three generations of women who reunite in a remote cabin to",
+          "date": "2026-09-25T17:40:24+00:00",
           "image": ""
         },
         {
-          "title": "Shudder Unveils Full Lineup of October Titles for Halloween",
-          "link": "https://bloody-disgusting.com/movie/3969051/shudder-new-movies-october-2026-halloween/",
-          "description": "The joy of streaming service Shudder is that, all year long, it feels like you’re being treated to a horror movie festival. While fellow streamers like Netflix, Hulu, or Peacock might make it a big deal when they unleash new horror titles for October, their genre offerings the rest of the year aren’",
-          "date": "2026-09-24T23:23:09+00:00",
+          "title": "‘Tick Fever’: New Body Horror Movie In Development Turns Relationship Anxiety Into Bloodthirsty Monsters",
+          "link": "https://bloody-disgusting.com/movie/3969123/tick-fever-new-body-horror-movie-in-development-turns-relationship-anxiety-into-bloodthirsty-monsters/",
+          "description": "Ticks are back in the body horror business with Tick Fever, an absurdist horror movie in development from writer-director Sebastian Granskog and producer Mia Palmgren. “Every Finn has learned to live in fear of ticks since the summers of their childhood. It’s a tiny insect that latches onto your bod",
+          "date": "2026-09-25T17:33:27+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Tick-Fever-2.jpg?resize=1000%2C563&#038;ssl=1"
+        },
+        {
+          "title": "Robert Eggers’ ‘Werwulf’ Trailer Will Be Unleashed Tomorrow; New Teaser Howls at the Moon",
+          "link": "https://bloody-disgusting.com/movie/3969111/robert-eggers-werwulf-trailer-will-be-unleashed-tomorrow-new-teaser-howls-at-the-moon/",
+          "description": "We are just three months away from the release of Robert Eggers’ brand new horror movie Werwulf, and Focus Features has unleashed an atmospheric new teaser this afternoon. While the teaser doesn’t contain any new footage from the movie itself, it does end up with a gnarly werewolf howl and also come",
+          "date": "2026-09-25T16:32:36+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Werwulf_OfficialPoster-scaled-1.jpg?resize=1037%2C1536&#038;ssl=1"
+        },
+        {
+          "title": "‘Evil Dead Burn’ Makes Its Streaming Debut Next Week",
+          "link": "https://bloody-disgusting.com/movie/3969108/evil-dead-burn-makes-its-streaming-debut-next-week/",
+          "description": "The franchise’s most savage yet, Sébastien Vaniček’s Evil Dead Burn is kicking off October with its streaming debut. The film will debut on HBO linear on October 3 at 8:00 p.m. ET, following special showings of Evil Dead (2013) at 4:45 p.m. ET and Evil Dead Rise at 6:20 p.m. ET. After the loss of he",
+          "date": "2026-09-25T16:15:55+00:00",
           "image": ""
         },
         {
-          "title": "New ‘The Girl With the Dragon Tattoo’ Series Casts David Oyelowo and Viola Prettejohn",
-          "link": "https://bloody-disgusting.com/news/3969045/the-girl-with-the-dragon-tattoo-reboot-series-david-oyelowo-viola-prettejohn/",
-          "description": "Stieg Larsson‘s Millenium series of novels continues to prove just how riveting its narrative remains more than 20 years after it launched with The Girl with the Dragon Tattoo. The books themselves are compelling in their own right, with their cinematic nature lending well to being adapted to the bi",
-          "date": "2026-09-24T22:14:32+00:00",
+          "title": "Casper Kelly’s ‘Buddy’ Returns To Theaters With Interactive Sing-Along Version",
+          "link": "https://bloody-disgusting.com/movie/3969103/casper-kellys-buddy-returns-to-theaters-with-interactive-sing-along-version/",
+          "description": "Get ready to sing your heart out next week. Fans nationwide can experience Casper Kelly’s Buddy as never before with a special theatrical engagement of Buddy: The Sing-Along Version, featuring on-screen lyrics to all of the film’s catchy songs. Buddy: The Sing-Along Version will release in theaters ",
+          "date": "2026-09-25T15:42:44+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/SING-ALONG-KEY-ART-scaled.jpg?resize=1728%2C2560&#038;ssl=1"
+        },
+        {
+          "title": "Nightdive Studios’ Long-Awaited ‘SiN: Reloaded’ Now Available On Consoles and PC [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3969064/nightdive-studios-long-awaited-sin-reloaded-now-available-on-consoles-and-pc-trailer/",
+          "description": "Nightdive Studios and Atari have finally given Ritual Entertainment’s 1998 FPS SiN its due with the newly-released SiN: Reloaded remaster. Now available on PC via Steam, GOG, and the Epic Games Store, PlayStation 4|5, Xbox One and the Xbox Series, and the Nintendo Switch 1|2, SiN: Reloaded bundles t",
+          "date": "2026-09-25T15:40:46+00:00",
           "image": ""
         },
         {
-          "title": "Paul W.S. Anderson And Zach Cregger Took The Same Unexpected Path To Adapting ‘Resident Evil’",
-          "link": "https://bloody-disgusting.com/editorials/3968869/paul-w-s-anderson-and-zach-cregger-took-the-same-unexpected-path-to-adapting-resident-evil/",
-          "description": "You might think that rising to Hollywood stardom with award-winning genre films would allow you complete control over any future project, but the truth is that blockbuster filmmaking, especially where established intellectual properties are concerned, will always be driven by corporate interests. Th",
-          "date": "2026-09-24T20:42:39+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/04/residentevil-teaser.jpg?resize=1024%2C576&#038;ssl=1"
-        },
-        {
-          "title": "‘SAW’ – Mike P. Nelson Directing Next Installment in the Film Franchise",
-          "link": "https://bloody-disgusting.com/movie/3969022/saw-mike-p-nelson-directing-next-installment-in-the-film-franchise/",
-          "description": "The SAW franchise is now in the hands of Blumhouse Atomic Monster, with the company recently acquiring the rights from Twisted Pictures. Franchise creators James Wan and Leigh Whannell will be helping to “guide the future of the franchise” alongside Blumhouse and Lionsgate, and a brand new installme",
-          "date": "2026-09-24T19:38:28+00:00",
+          "title": "‘Godzilla Minus Zero’ Takes Over Dodger Stadium With First Pitch and Drone Show",
+          "link": "https://bloody-disgusting.com/movie/3969101/godzilla-minus-zero-dodgers-stadium-drone-show-first-pitch/",
+          "description": "Godzilla has been a worldwide phenomenon for decades, which tends to happen when you’re a massive creature who has waged battle with other beasts across dozens of movies. While the character has long had a foothold in America, the last decade has been especially exciting for fans of the character, a",
+          "date": "2026-09-25T15:39:51+00:00",
           "image": ""
         },
         {
-          "title": "Pluto TV’s Celebrates Halloween With “Double Feature Fridays” All October",
-          "link": "https://bloody-disgusting.com/movie/3969012/pluto-tv-halloween-schedule-streaming-october-2026/",
-          "description": "Horror movie fans can suffer from “analysis paralysis” when browsing streaming services, as the number of choices and the number of streaming platforms available can be overwhelming, leaving us to never even starting to watch something under the weight of all the options. That’s where Pluto TV comes",
-          "date": "2026-09-24T18:58:35+00:00",
+          "title": "Spellbinding ‘Yaga’ Trailer Reimagines The Baba Yaga Legend This Halloween",
+          "link": "https://bloody-disgusting.com/tv/3969098/spellbinding-yaga-trailer-reimagines-the-baba-yaga-legend-this-halloween/",
+          "description": "AMC+ has released a spellbinding trailer for Yaga, celebrating the season of the witch. The contemporary mystery thriller reimagines the myth of Baba Yaga and is set for a two-episode premiere on October 23, exclusively in the U.S. on AMC+. New episodes will debut on Fridays, with an epic two-episod",
+          "date": "2026-09-25T14:41:35+00:00",
           "image": ""
         },
         {
-          "title": "Watch Blumhouse’s Horror Short Film for Cheetos’ Spicy New ‘Flavor of Fear’ Halloween Snack",
-          "link": "https://bloody-disgusting.com/the-further/3969013/watch-blumhouses-horror-short-film-for-cheetos-spicy-new-flavor-of-fear-halloween-snack/",
-          "description": "Cheetos has joined forces with Blumhouse for the launch of The Flavor of Fear this Halloween, and a new short film highlights just how scary this collab is. The new Phantom Heat Puffs flavor hit shelves as of August 31, combining brown sugar and cinnamon with spicy, mouth-numbing Sichuan pepper. If ",
-          "date": "2026-09-24T18:49:18+00:00",
+          "title": "Disturbing Experimental Horror ‘Begotten’ Gets 4K Restoration Theatrical Release",
+          "link": "https://bloody-disgusting.com/movie/3969094/disturbing-experimental-horror-begotten-gets-4k-restoration-theatrical-release/",
+          "description": "It’s one hell of a year for experimental, shocking religious horror. It’s not just Ken Russell’s The Devils receiving a theatrical 4K restoration release this year, but also the even more experimental and disturbing Begotten. Restored in 4K from the original 16mm negative and optical soundtrack, Kin",
+          "date": "2026-09-25T14:26:42+00:00",
           "image": ""
         },
         {
-          "title": "Sydney Sweeney’s ‘Sleepy Hollow’ Reboot Finds Its Brom Bones With ‘Until Dawn’ Star",
-          "link": "https://bloody-disgusting.com/news/3969000/sleepy-hollow-reboot-sydney-sweeney-brom-bones-belmont-cameli/",
-          "description": "Washington Irving‘s The Legend of Sleepy Hollow is one of the most iconic stories in all of American literature, as it has been brought to life and adapted into a variety of mediums since its publishing in 1820. One of the most significant adaptations came in Disney’s 1949 The Adventures of Ichabod ",
-          "date": "2026-09-24T18:32:52+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘SAW: Genesis’ Early Access Release Moved to Early 2027",
-          "link": "https://bloody-disgusting.com/video-games/3968990/saw-genesis-early-access-release-moved-to-early-2027/",
-          "description": "Bloober Team is bringing the SAW series back with brand-new video game SAW: Genesis, but you’ll have to wait until next year for the game to release in Steam Early Access. The developers have announced in an official statement this afternoon, “Our ambition from the beginning of development was to de",
-          "date": "2026-09-24T18:00:57+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/HS_0-p6WYAEbi05.jpg?resize=1500%2C1500&#038;ssl=1"
-        },
-        {
-          "title": "‘Control Resonant’ Out Today; New iam8bit Merchandise Collection up for Pre-Order [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3968958/control-resonant-out-today-new-iam8bit-merchandise-collection-up-for-pre-order-trailer/",
-          "description": "The wait to return to the world of Control is finally over. Remedy Entertainment has released Control Resonant, the sequel to the 2019 hit, to PlayStation 5, Xbox Series, PC via Steam and Epic Games Store. Physical editions for PlayStation 5 and Xbox Series will be arriving next on October 15. Playe",
-          "date": "2026-09-24T18:00:19+00:00",
-          "image": ""
+          "title": "‘The Swallow’ Review: Kevin Kölsch & Dennis Widmyer’s Creature Feature Sinks In The Mud [Fantastic Fest 2026]",
+          "link": "https://bloody-disgusting.com/reviews/3969078/the-swallow-review-kevin-kolsch-dennis-widmyers-creature-feature-sinks-in-the-mud-fantastic-fest-2026/",
+          "description": "The Swallow emerges first as a prime example of Exactly What It Says On The Tin Horror. The plot is straightforward; the monster’s right there on the poster, and everything about the film’s presence suggests a wild creature feature survival adventure. Introducing the film at Fantastic Fest, where it",
+          "date": "2026-09-25T13:57:01+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/2skullrating-black.png?resize=226%2C64&#038;ssl=1"
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "Niko and the Sword of Light Creators Are Launching an Interactive Comic Book",
+          "link": "https://www.denofgeek.com/comics/niko-and-the-sword-of-light-creators-launch-interactive-comic/",
+          "description": "The minds behind acclaimed animated comic book Niko and the Sword of Light, Bobby Chiu and Jim Bryson, are working together again to bring a new interactive comic book, Magrid’s Magic Shoppe, to life. Before Niko and the Sword of Light was an Emmy award-winning series on Prime Video, it was #1 in th",
+          "date": "2026-09-25T14:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Magrids-Magic-Shoppe-08.jpg"
+        },
+        {
+          "title": "15 Roles That Required Some Significant Time in the Makeup Chair",
+          "link": "https://www.denofgeek.com/msn/15-roles-that-required-some-significant-time-in-the-makeup-chair/",
+          "description": "Some movie roles are memorable for more than just the performance, making you forget there is even an actor underneath all that makeup. Getting those transformations right can take hours before a single scene is filmed, with prosthetics, wigs, contact lenses, body makeup, and layers of carefully app",
+          "date": "2026-09-25T13:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-82.jpg"
+        },
+        {
+          "title": "15 Random Pop Culture Facts for the Trivia Freaks Among You",
+          "link": "https://www.denofgeek.com/msn/15-random-pop-culture-facts-for-the-trivia-freaks-among-you/",
+          "description": "There are more pop culture facts in existence than you could ever conceivably learn. Some are buried in old interviews, some come from strange moments during filming, and others are just those oddly specific details that stick with you forever. You might already know who played a famous character, b",
+          "date": "2026-09-25T13:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-81.jpg"
+        },
+        {
+          "title": "15 Normal Things From the Past With Surprisingly Disturbing Histories",
+          "link": "https://www.denofgeek.com/msn/15-normal-things-from-the-past-with-surprisingly-disturbing-histories/",
+          "description": "Many things that seem completely ordinary can be looked at quite differently once you learn why they existed in the first place. Everyday objects, customs, household products, and familiar traditions often have histories far stranger than their modern forms suggest. People had very different ideas a",
+          "date": "2026-09-25T13:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-80.jpg"
+        },
+        {
+          "title": "The 8 Best Vampire Anime, Ranked",
+          "link": "https://www.denofgeek.com/tv/best-vampire-anime-ranked/",
+          "description": "It’s spooky season again, which means it’s the perfect time to indulge in a little bloodlust. For decades, anime has reinvented the vampire in countless ways, from terrifying predators and gothic antiheroes to tragic immortals and loveable misfits. With so many fanged characters stalking the halls o",
+          "date": "2026-09-25T13:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Vampire-Anime.png"
+        },
         {
           "title": "14 Historical Mysteries That Still Don’t Have a Satisfying Explanation",
           "link": "https://www.denofgeek.com/msn/14-historical-mysteries-that-still-dont-have-a-satisfying-explanation/",
@@ -113,47 +148,19 @@
           "description": "Most risks come with at least some kind of payoff. Maybe there is money involved, an unforgettable experience waiting at the end or simply a story worth telling. Then there are the risks people take to arrive somewhere two minutes earlier, avoid wearing a helmet or save themselves one tiny inconveni",
           "date": "2026-09-25T11:45:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/4_11e564.jpg"
-        },
-        {
-          "title": "Annoying Songs People Keep Playing Without Our Permission",
-          "link": "https://www.denofgeek.com/msn/annoying-songs-people-keep-playing-without-our-permission/",
-          "description": "Some songs become popular because everyone loves them. Others seem to survive because society collectively decided there are certain situations where we simply aren't allowed to escape them. Weddings have their repeat offenders, sporting events have theirs, and retail workers know exactly which song",
-          "date": "2026-09-25T11:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-16-1.jpg"
-        },
-        {
-          "title": "15 Historical Photos Where Things Just Look Extra-Cool",
-          "link": "https://www.denofgeek.com/msn/15-historical-photos-where-things-just-look-extra-cool/",
-          "description": "There is old-school cool, and then there are photographs that make the past look considerably more stylish than it probably was. Somehow, ordinary people heading to work, going on dates or simply posing for a family photo occasionally ended up looking like they were shooting an album cover instead. ",
-          "date": "2026-09-25T11:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/4_b1940d.jpg"
-        },
-        {
-          "title": "15 Photos of Everyday Life from 40 Years Ago",
-          "link": "https://www.denofgeek.com/msn/15-photos-of-everyday-life-from-40-years-ago/",
-          "description": "Many consider 1986 a great year, or at least one important for the world’s history. Whatever your reasoning for it being a relevant year, you can consider this a special occasion: it’s officially been 40 years since then, considering that we’re living through 2026 right now. If that didn’t make you ",
-          "date": "2026-09-25T11:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/3_45949a.jpg"
-        },
-        {
-          "title": "The Weapons Of Mass Destruction, Ranked for All You Pessimists",
-          "link": "https://www.denofgeek.com/msn/the-weapons-of-mass-destruction-ranked-for-all-you-pessimists/",
-          "description": "A weapon of mass destruction is not a mere bomb, something that goes off and destroys a designated area. They are humanity’s greatest, most destructive, and most terrifying weapons, capable of fueling nightmares and keeping entire countries in check. The fear of their mere existence shapes our curre",
-          "date": "2026-09-25T10:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-19-2.jpg"
-        },
-        {
-          "title": "15 Historical Facts the Nerds Just Can’t Stop Bringing Up",
-          "link": "https://www.denofgeek.com/msn/15-historical-facts-the-nerds-just-cant-stop-bringing-up/",
-          "description": "History can feel like a stuffy collection of dates and names we were forced to memorize in school. And yet the real story is so much weirder, funnier, and more interesting than we were led to believe. It's full of moments that sound completely made up, and supposed facts that everyone knows, which e",
-          "date": "2026-09-25T10:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/1_45b8e5.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "Meet The Killer Clown Slasher Of CHARLIE SHAW’S REVENGE In Exclusive Trailer",
+          "link": "https://www.fangoria.com/charlie-shaws-revenge-exclusive-trailer/",
+          "description": "The carnival comes to town this scary season with a series of screenings across the UK.",
+          "date": "2026-09-25T16:00:16+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Charlie-Shaws-Revenge.png"
+        },
         {
           "title": "Monstrous Musings: Five Fantastic Films",
           "link": "https://www.fangoria.com/monstrous-musings-ff-discoveries/",
@@ -216,19 +223,54 @@
           "description": "GODZILLA MINUS ZERO roars to life on our Issue #33 newsstand cover.",
           "date": "2026-09-24T16:02:04+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/FANGO-issue33-news-header-1.jpg"
-        },
-        {
-          "title": "ERIE: An Exclusive First Look At The Found Footage Horror Premiering at Beyond Fest",
-          "link": "https://www.fangoria.com/erie-exclusive-first-look-90s-found-footage/",
-          "description": "Check out this creepy, '90s-set found footage clip from ERIE, the feature film debut of Alison-Eve Hammersley.",
-          "date": "2026-09-24T15:00:18+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/unnamed-1.jpg"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "PS5 Remaster of Classic Shooter Earns Solid Reviews, Out Now on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/09/25/sin-reloaded-ps5-remaster-available-now/",
+          "description": "A classic shooter game’s PS5 remaster is finally out on the PlayStation Store and has received mostly positive reviews. Initially launched in 1998, the title was developed by Ritual Entertainment and published by Activision. SiN: Reloaded, the enhanced version of the original, is now available for P",
+          "date": "2026-09-25T16:22:36+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/PS5-Remaster-of-Classic-Shooter-Earns-Solid-Reviews-Out-Now-on-PlayStation-Store-2.jpg?w=1024"
+        },
+        {
+          "title": "Bully-Inspired PS5 Adventure Game Is Out Now on the PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/09/25/agefield-high-rock-the-school-ps5-game-released/",
+          "description": "PS5 adventure game, inspired by Bully, is finally available on the PlayStation Store. The post Bully-Inspired PS5 Adventure Game Is Out Now on the PlayStation Store appeared first on PlayStation LifeStyle .",
+          "date": "2026-09-25T15:53:06+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps_f5c463.jpg?w=1024"
+        },
+        {
+          "title": "Celebrate Castlevania’s 40th Anniversary With Free Game and PlayStation Discounts",
+          "link": "https://www.playstationlifestyle.net/2026/09/25/castlevania-40th-anniversary-free-mobile-game-playstation-discounts/",
+          "description": "Konami is celebrating Castlevania‘s 40th anniversary with a free game and special PlayStation discounts. The action-platformer was first released in Japan on September 26, 1986, for the Family Computer Disk System. Then went on to become one of the foundational games in Metroidvania history. In cele",
+          "date": "2026-09-25T15:08:50+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Celebrate-Castlevanias-40th-Anniversary-With-Free-Game-and-PlayStation-Discounts.jpg?w=1024"
+        },
+        {
+          "title": "PS5 Version of Acclaimed Adventure Game Gets 2026 Release Date",
+          "link": "https://www.playstationlifestyle.net/2026/09/25/ps5-adventure-game-luma-island-release-window/",
+          "description": "PS5 players will finally be able to get their hands on an acclaimed 2025 cozy adventure game soon. Developed and published by Feel Free Games, Luma Island first released on PC, where it earned high praise from players and critics alike. PS5 adventure game Luma Island will feature cross-platform mult",
+          "date": "2026-09-25T13:42:36+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps5-adventure-game-luma-island.jpg?w=1024"
+        },
+        {
+          "title": "Zelda-Like PS5 Adventure Game Just $5.99 on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/09/25/immortals-fenyx-rising-ps-store-deal-september-2026/",
+          "description": "A Zelda-like PS5 and PS4 action-adventure game by Ubisoft is 90% off in a limited-time PS Store deal that ends in two weeks. 2020’s surprise hit Immortals Fenyx Rising Gold Edition is just $5.99 during the Autumn Adventures promotion. PS5, PS4 action-adventure game Immortals: Fenyx Rising is at its ",
+          "date": "2026-09-25T13:27:00+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/immortals-fenyx-rising-ps-store-deal.jpg?w=1024"
+        },
+        {
+          "title": "Promising New PlayStation 5 RPG Announced by Acclaimed Dev",
+          "link": "https://www.playstationlifestyle.net/2026/09/25/ps5-rpg-dawngazer-announced-2028/",
+          "description": "PS5 is getting a promising new action RPG by Vanillaware veteran and Unicorn Overlord director Takafumi Noma. Developed by Monochrome Software and published by Good Smile Company, Dawngazer will release on the PS5, Nintendo Switch 2, and PC sometime in 2028. An Xbox version has not been announced. U",
+          "date": "2026-09-25T13:09:41+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps5-rpg-dawngazer.jpg?w=1024"
+        },
         {
           "title": "PS5 Version of Hugely Popular Sandbox Game Gets Release Date",
           "link": "https://www.playstationlifestyle.net/2026/09/25/sandbox-game-beamng-drive-ps5-release-date/",
@@ -256,54 +298,33 @@
           "description": "Rockstar Games has unveiled its premium physical Collector’s Box for Grand Theft Auto VI. Titled Grand Theft Auto VI: The Goodtime State – Vice City Collection, it features exclusive merchandise inspired by the game’s world, but there is one significant catch. The official bundle, inspired by Macca ",
           "date": "2026-09-24T19:50:55+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Rockstars-GTA-6-Collectors-Edition-Includes-Plenty-But-Theres-One-Catch.jpg?w=1024"
-        },
-        {
-          "title": "Konami’s New PS5 Action-Adventure Game Is Out Today on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/09/24/silent-hill-townfall-out-today-ps5-playstation-store/",
-          "description": "Konami Digital Entertainment’s latest survival action-horror title has officially launched for PlayStation 5 on the PlayStation Store. The project was developed by Scottish studio Screen Burn Interactive (formerly No Code) and co-published by Konami alongside Annapurna Interactive. Silent Hill: Town",
-          "date": "2026-09-24T19:38:18+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Untitled-Design-2026-09-25T010553.498.png?w=1024"
-        },
-        {
-          "title": "GTA 6 Gives Fans a New Way to Enjoy Vice City Ahead of Launch",
-          "link": "https://www.playstationlifestyle.net/2026/09/24/gta-6-goodtime-state-vice-city-collection-pre-orders/",
-          "description": "GTA 6 fans can immerse themselves in Vice City in a surprising new way ahead of the game’s anticipated launch. The open-world title is developed and published by Rockstar Games. A new collectible, GTA 6 Goodtime State – Vice City Collection, has been unveiled for avid fans of the iconic franchise wh",
-          "date": "2026-09-24T18:06:21+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/GTA-6-Gives-Fans-a-New-Way-to-Enjoy-Vice-City-Ahead-of-Launch.jpg?w=1024"
-        },
-        {
-          "title": "PS5 Gets Hit Adventure Game That Resident Evil Fans Will Love",
-          "link": "https://www.playstationlifestyle.net/2026/09/24/ps5-adventure-game-heartworm-release-date/",
-          "description": "PS5 and PS4 are getting a surprise hit adventure game that fans of classic Resident Evil and Silent Hill fans will love. Developed by Vincent Adinolfi and published by DreadXP, Heartworm first released on Steam in 2025, where it received a “Very Positive” rating from players. The game’s PlayStation ",
-          "date": "2026-09-24T12:47:32+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps5-adventure-game-heartworm.jpg?w=1024"
-        },
-        {
-          "title": "Intriguing 2026 PS5 Adventure Game Just $2.99 on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/09/24/welcome-to-kowloon-ps-store-deal-september-2026/",
-          "description": "A July 2026 PS5 adventure game is already 70% off in a brand-new, limited-time PS Store deal. First released on PC in 2023, Welcome to Kowloon is a hidden-gem indie horror adventure in which players look for cheap housing in Hong Kong. The discount is perfectly timed for Halloween. PS5 adventure gam",
-          "date": "2026-09-24T12:01:13+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/welcome-to-kowloon-ps-store-deal.jpg?w=1024"
-        },
-        {
-          "title": "PS5 Users Can Play Beloved PlayStation 2 Game Remaster for Free",
-          "link": "https://www.playstationlifestyle.net/2026/09/24/ps2-game-dynasty-warriors-3-ps5-remaster-demo/",
-          "description": "PS5 players can now try an upcoming remaster of a fan-favorite PS2 hack-and-slash action game via the PS Store. Koei Tecmo has dropped a free demo for Dynasty Warriors 3: Complete Edition Remastered, and it’s not locked behind a PS Plus subscription. Dynasty Warriors 3: Complete Edition Remastered b",
-          "date": "2026-09-24T11:29:32+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps2-game-dynasty-warriors-3-ps5.jpg?w=1024"
-        },
-        {
-          "title": "Major PlayStation Portal System Update Rolled Out for September",
-          "link": "https://www.playstationlifestyle.net/2026/09/24/ps-portal-system-update-septemebr-2026-patch-notes/",
-          "description": "Sony Interactive Entertainment has rolled out PS Portal system software update 7.1.7, which brings significant changes. The highlight of today’s firmware update is battery performance improvements and overall health. PS Portal system software update 7.1.7 patch notes (September 24, 2026) Complete pa",
-          "date": "2026-09-24T11:03:17+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/03/ps-portal-update.jpg?w=1024"
         }
       ]
     },
     "PlayStation Blog": {
       "url": "https://blog.playstation.com/feed/",
       "articles": [
+        {
+          "title": "Official PlayStation Podcast Episode 548: September Selects",
+          "link": "https://blog.playstation.com/2026/09/25/official-playstation-podcast-episode-548-september-selects/",
+          "description": "Email us at PSPodcast@sony.com! Subscribe via Apple Podcasts, Spotify, or download here Hey, everybody! We’re back this week to talk through September’s big releases and other recent titles we’re still playing. Stuff We Talked About The Cast Thanks to Dormilón for our rad theme song and show music. ",
+          "date": "2026-09-25T17:20:35+00:00",
+          "image": "https://blog.playstation.com/tachyon/2026/09/1c3481bf10fb1f00372ad48b52fcb3e181dfb759.jpg"
+        },
+        {
+          "title": "Share of the Week – Marvel’s Wolverine",
+          "link": "https://blog.playstation.com/2026/09/25/share-of-the-week-marvels-wolverine/",
+          "description": "Last week, we asked you to share ferocious moments from Marvel’s Wolverine using #PSshare #PSBlog for a chance to be featured. Here are this week’s highlights: adambomb2mk shares Wolverine’s claws illuminated in the shadows NickVPgamer shares a hairy and shirtless Wolverine crisg_art shares Wolverin",
+          "date": "2026-09-25T16:00:47+00:00",
+          "image": "https://live.staticflickr.com/65535/55547094242_19061698dd_k.jpg"
+        },
+        {
+          "title": "How Ace Combat 8: Wings of Theve uses first-person to tell a more personal story",
+          "link": "https://blog.playstation.com/2026/09/25/how-ace-combat-8-wings-of-theve-uses-first-person-to-tell-a-more-personal-story/",
+          "description": "The world of Strangereal, setting of the Ace Combat games, has developed a deep and storied history over the course of the series. But with Ace Combat 8: Wings of Theve, developer Project Aces has changed its approach to storytelling to create a more intimate and emotional tale than it has in the pa",
+          "date": "2026-09-25T14:00:34+00:00",
+          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
+        },
         {
           "title": "Luma Island is coming to PS5",
           "link": "https://blog.playstation.com/2026/09/24/luma-island-is-coming-to-ps5/",
@@ -352,27 +373,6 @@
           "description": "Control was just the beginning. The paranatural realm established in Remedy Entertainment’s sci-fi action adventure thriller gets a full sequel in Control Resonant on PlayStation 5, which leaves the confines of the mysterious Oldest House and ventures into a world of terrifying entities, mind-bendin",
           "date": "2026-09-18T13:00:08+00:00",
           "image": ""
-        },
-        {
-          "title": "Co-op roguelite Shape of Dreams launches today on PS5",
-          "link": "https://blog.playstation.com/2026/09/17/co-op-roguelite-shape-of-dreams-launches-today-on-ps5/",
-          "description": "Hi everyone, PlayStation players! I’m Eunseop Shim, developer at Lizard Smoothie. I’m thrilled to finally be sharing this news. Shape of Dreams launches today on PlayStation 5, arriving alongside The Starless Path — our 1st Anniversary Update, and the largest update we’ve ever made. Watch our newly ",
-          "date": "2026-09-17T12:00:15+00:00",
-          "image": "https://live.staticflickr.com/65535/55529949740_977e82b557_k.jpg"
-        },
-        {
-          "title": "Final Fantasy VII Revelation hands-on report: Into the Whirlwind Maze where Sephiroth awaits",
-          "link": "https://blog.playstation.com/2026/09/17/final-fantasy-vii-revelation-hands-on-report-into-the-whirlwind-maze-where-sephiroth-awaits/",
-          "description": "Final Fantasy VII Revelation, launching April 8, 2027 on PlayStation 5, marks the epic final chapter in the remake trilogy following Final Fantasy VII Remake and Final Fantasy VII Rebirth. At Tokyo Game Show 2026, we had our first chance to play a hands-on demo of the PS5 title, featuring a combat-f",
-          "date": "2026-09-17T08:00:09+00:00",
-          "image": "https://live.staticflickr.com/65535/55529774677_a52b613243_k.jpg"
-        },
-        {
-          "title": "(For Southeast Asia) PlayStation Plus Tokyo Game Show promotion starts 17 September",
-          "link": "https://blog.playstation.com/2026/09/16/20260917-psplus/",
-          "description": "Players who join PlayStation Plus during 17 September to 30 September can save up to 25% on a PS Plus 12-month membership! Current PlayStation Plus members can save big on the remainder of their membership when upgrading a current plan to PlayStation Plus Extra or Deluxe.* With PlayStation Plus Extr",
-          "date": "2026-09-17T03:41:07+00:00",
-          "image": ""
         }
       ]
     },
@@ -380,74 +380,74 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "This Incredible New PS5 Website Tracks PS Store Sales Data Around the World and Your Personal Play History",
+          "link": "https://www.pushsquare.com/news/2026/09/this-incredible-new-ps5-website-tracks-ps-store-sales-data-around-the-world-and-your-personal-play-history",
+          "description": "Find out how games are selling and which ones real players recommend. I’ve been keeping tabs on PS Store DB for a few weeks now. I first discovered it on ResetEra , where it’s being built by a user named Maki . But honestly, it’s come to a point where I simply have to write about – this may be the b",
+          "date": "2026-09-25T17:45:00+00:00",
+          "image": "https://images.pushsquare.com/3558319a947fb/large.jpg"
+        },
+        {
+          "title": "Rayman Legends Retold Does Physical Media the Right Way on PS5",
+          "link": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-does-physical-media-the-right-way-on-ps5",
+          "description": "Launch editions include a printed map, lithographs, and more. Rayman Legends Retold is going all-out to earn your purchase this busy holiday season – and that includes a proper physical PS5 release. While the remake – which also includes a copy of Rayman Origins Enhanced – may have been delayed unti",
+          "date": "2026-09-25T17:00:00+00:00",
+          "image": "https://images.pushsquare.com/f6c6012d39af3/large.jpg"
+        },
+        {
+          "title": "Astro Bot's 276 Piece LEGO Set Immortalises the PS5 Icon with Interchangeable Eyes",
+          "link": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-immortalises-the-ps5-icon-with-interchangeable-eyes",
+          "description": "Available for free with the LEGO PS1 set next month. I was a big believer in Astro Bot back when he was effectively a tech demo in PS4 game The Playroom VR . Don’t believe me? I made a video and wrote about it all the way back in 2016 – a decade ago! Time flies when you’re having fun, huh? Read the ",
+          "date": "2026-09-25T16:30:00+00:00",
+          "image": "https://images.pushsquare.com/72c4e353bc40e/large.jpg"
+        },
+        {
+          "title": "Poll: What Review Score Would You Give Marvel's Wolverine?",
+          "link": "https://www.pushsquare.com/features/poll-what-review-score-would-you-give-marvels-wolverine",
+          "description": "Feeling lucky, bub? There's no getting around it: Marvel's Wolverine has been splitting opinion. Critic reviews have been all over the place, and the game's been battered on social media thanks to the usual flood of unflattering gameplay clips. Read the full article on pushsquare.com",
+          "date": "2026-09-25T16:00:00+00:00",
+          "image": "https://images.pushsquare.com/ca712d8b86355/large.jpg"
+        },
+        {
+          "title": "Infinite New Game+, Photo Mode on the Way to Control Resonant, No Word on Proper PS5 DLC",
+          "link": "https://www.pushsquare.com/news/2026/09/infinite-new-gameplus-photo-mode-on-the-way-to-control-resonant-no-word-on-proper-ps5-dlc",
+          "description": "Updates in October and November. Remedy will add an infinite New Game+ option and a Photo Mode to Control Resonant in the coming months, the studio has confirmed today. These additions form part of the team's post-launch plans now the PS5 sequel is out, as detailed in a blog post . There is no menti",
+          "date": "2026-09-25T15:15:00+00:00",
+          "image": "https://images.pushsquare.com/5937393728359/large.jpg"
+        },
+        {
+          "title": "GTA 6 Can't Completely Sweep This Year's GOTY Awards Anymore",
+          "link": "https://www.pushsquare.com/news/2026/09/gta-6-cant-completely-sweep-this-years-goty-awards-anymore",
+          "description": "It's not out in time for the Golden Joysticks awards. Here's one Game of the Year award GTA 6 can't win in 2026: the Console Game of the Year at the Golden Joysticks . The awards show has today revealed its lineup of nominees for each accolade it has to offer, and GTA 6 is absent. Why? Because the G",
+          "date": "2026-09-25T14:45:00+00:00",
+          "image": "https://images.pushsquare.com/b946a47621da1/large.jpg"
+        },
+        {
+          "title": "Review: Ace Combat 8: Wings of Theve (PS5) - The Series Lands Its Most Confident Entry Yet",
+          "link": "https://www.pushsquare.com/reviews/ps5/ace-combat-8-wings-of-theve",
+          "description": "Rex machina. Ace Combat 8: Wings of Theve launches into a reality where its predecessor, Ace Combat 7: Skies Unknown , became easily the most successful entry in the series. That puts it in an odd spot; there's a pressure on the follow-up to outdo what came before, but it's that success that provide",
+          "date": "2026-09-25T14:00:00+00:00",
+          "image": "https://images.pushsquare.com/dbcccae78e13a/large.jpg"
+        },
+        {
+          "title": "Buy The Witcher 3 for 50% Off on the PS Store Now, Get Its PS5 Remaster for Free Next Week",
+          "link": "https://www.pushsquare.com/news/2026/09/buy-the-witcher-3-for-50percent-off-on-the-ps-store-now-get-its-ps5-remaster-for-free-next-week",
+          "description": "Best deal in gaming. Here’s a PS5 pro-tip if you’re yet to play CD Projekt RED’s ground-breaking open world RPG The Witcher 3 : buy the game’s Complete Edition for 50% off from the PS Store today, and you’ll automatically be upgraded to its remaster for free on 29th September. The Complete Edition i",
+          "date": "2026-09-25T13:30:00+00:00",
+          "image": "https://images.pushsquare.com/c7b94c8aaa449/large.jpg"
+        },
+        {
+          "title": "New PS Portal Firmware Update Will Preserve Portable's Battery Life",
+          "link": "https://www.pushsquare.com/news/2026/09/new-ps-portal-firmware-update-will-preserve-portables-battery-life",
+          "description": "An important new setting added. Sony’s hit Remote Play handheld PS Portal has an important new update available which should help preserve the battery life of the peripheral. Available as part of v7.1.7, the new system software allows you to restrict charging to 80%, helping to extend the long-term ",
+          "date": "2026-09-25T13:00:00+00:00",
+          "image": "https://images.pushsquare.com/8b1fbb8b399d8/large.jpg"
+        },
+        {
           "title": "Rogue Prince of Persia Dev Now Done with Updates, Castlevania Just Weeks Away",
           "link": "https://www.pushsquare.com/news/2026/09/rogue-prince-of-persia-dev-now-done-with-updates-castlevania-just-weeks-away",
           "description": "Belmont's Curse out on 15th October. The recent anniversary update to The Rogue Prince of Persia will be its last, developer Evil Empire has announced, with its next release just over two weeks away. Castlevania: Belmont's Curse is that next title, and it's shaping up incredibly well, due for a PS5 ",
           "date": "2026-09-25T12:30:00+00:00",
           "image": "https://images.pushsquare.com/18f1a45297cd9/large.jpg"
-        },
-        {
-          "title": "Warzone Will Soon Let You Turn Off Other Players' Stupid Skins",
-          "link": "https://www.pushsquare.com/news/2026/09/warzone-will-soon-let-you-turn-off-other-players-stupid-skins",
-          "description": "New toggle in Modern Warfare 4 update. For years now, the hardcore Call of Duty: Warzone playerbase has complained about the stupid skins you'll spot running about the Battle Royale. It is, after all, a bit of an immersion breaker when you bump into Lionel Messi and Snoop Dogg out on the battlefield",
-          "date": "2026-09-25T12:00:00+00:00",
-          "image": "https://images.pushsquare.com/4992441e476c4/large.jpg"
-        },
-        {
-          "title": "Unicorn Overlord Director Reveals Promising New PS5 RPG, Cross-Media Plans to Include Light Novels",
-          "link": "https://www.pushsquare.com/news/2026/09/unicorn-overlord-director-reveals-promising-new-ps5-rpg-cross-media-plans-to-include-light-novels",
-          "description": "All-in. Go big or go home – that was probably Good Smile Company’s approach to this announcement. It’s partnering with Grand Kingdom dev Monochrome Corporation on a new intellectual property named IGNISPHERE, which will include various cross-media products, including a 2028 action RPG named DAWNGAZE",
-          "date": "2026-09-25T11:30:00+00:00",
-          "image": "https://images.pushsquare.com/f5ad27d1dfdb3/large.jpg"
-        },
-        {
-          "title": "Enjoy 1986's Castlevania for Free on Your Phone for 40th Anniversary",
-          "link": "https://www.pushsquare.com/news/2026/09/enjoy-1986s-castlevania-for-free-on-your-phone-for-40th-anniversary",
-          "description": "Up to 80% off on PS Store compilations. Okay, Push Square isn’t a mobile gaming website, but I think it’d be remiss of me to not point you in the direction of a free game. Castlevania , the 1986 classic from Konami, is currently free to download in its entirety on iOS and Android until 24th October.",
-          "date": "2026-09-25T11:00:00+00:00",
-          "image": "https://images.pushsquare.com/af9d4e40f21d5/large.jpg"
-        },
-        {
-          "title": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds",
-          "link": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-responds",
-          "description": "Sony reportedly dominating biggest game of the generation. Sony is spending an obscene amount of money to make sure GTA 6 “feels” like an exclusive – and it’s working, apparently. A new report from The Verge (paywalled) digs into the larger dramas occurring at Xbox of late, including its massive lay",
-          "date": "2026-09-24T23:30:00+00:00",
-          "image": "https://images.pushsquare.com/34632512dcd92/large.jpg"
-        },
-        {
-          "title": "Wild Arms Successor That Sony Rejected Has Been Cancelled, 4 Years After Its Reveal",
-          "link": "https://www.pushsquare.com/news/2026/09/wild-arms-successor-that-sony-rejected-has-been-cancelled-4-years-after-its-reveal",
-          "description": "Armed Fantasia dropped by 505 Games. It looks like Armed Fantasia: To the End of the Wilderness is all but dead, as publisher 505 Games, and parent company Digital Bros, have officially pulled the plug. The news comes via the latter's latest financial report, which reads: \"The Group decided to disco",
-          "date": "2026-09-24T23:00:00+00:00",
-          "image": "https://images.pushsquare.com/9e7571a99ec8a/large.jpg"
-        },
-        {
-          "title": "'Have You Heard How Much Money Kojima Wanted?': Physint's Rumoured Budget Said to Be 'Significant'",
-          "link": "https://www.pushsquare.com/news/2026/09/have-you-heard-how-much-money-kojima-wanted-physints-rumoured-budget-said-to-be-significant",
-          "description": "Microsoft may be spending less on it. It sounds like Hideo Kojima was demanding a significant sum of money from Sony to make the stealth action game Physint – despite him retaining ownership of its IP and intending to release it on multiple platforms. PlayStation announced earlier this month that it",
-          "date": "2026-09-24T20:00:00+00:00",
-          "image": "https://images.pushsquare.com/73b5180231321/large.jpg"
-        },
-        {
-          "title": "Feature: Xbox Is Disappearing into Activision and Bethesda, So What Does That Mean for PS5?",
-          "link": "https://www.pushsquare.com/news/2026/09/xbox-is-disappearing-into-activision-and-bethesda-so-what-does-that-mean-for-ps5",
-          "description": "Reset the clock. As unfortunate as the latest round of Xbox layoffs were , we knew they were coming. Microsoft may be, against all odds , riding a positive wave of PR – but it signalled its intent with its ongoing “reset” earlier in the year. Read the full article on pushsquare.com",
-          "date": "2026-09-24T17:00:00+00:00",
-          "image": "https://images.pushsquare.com/078b7b867fbb7/large.jpg"
-        },
-        {
-          "title": "This Striking PS5 Rhythm Game Promises a Heartfelt Story and 49 Original Songs",
-          "link": "https://www.pushsquare.com/news/2026/09/this-striking-ps5-rhythm-game-promises-a-heartfelt-story-and-49-original-songs",
-          "description": "I'm pressing play on this one. Glee Cheese’s well-anticipated musical love letter MR. RECORDS will play on PS5 when it launches in the (hopefully not too distant) future. The striking rhythm game – which features 49 original songs – sees you assume the role of the titular oldie, as you run his recor",
-          "date": "2026-09-24T16:00:00+00:00",
-          "image": "https://images.pushsquare.com/39dcf7b372790/large.jpg"
-        },
-        {
-          "title": "GTA 6 Collector's Box Is $400, Doesn't Include the Game",
-          "link": "https://www.pushsquare.com/news/2026/09/gta-6-collectors-box-is-usd400-doesnt-include-the-game",
-          "description": "It's sort of like a Collector's Edition. Rockstar has today unveiled GTA 6 : The Goodtime State - Vice City Collection , which is sort of like a Collector's Edition. It is priced at £349.99 / $399.99, it's available to pre-order now (with limited quantities available), and it does not include the ga",
-          "date": "2026-09-24T15:30:00+00:00",
-          "image": "https://images.pushsquare.com/6751a22e076b0/large.jpg"
         }
       ]
     },
