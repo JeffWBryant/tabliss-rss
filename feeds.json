@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T01:47:55.356887+00:00",
+  "updated": "2026-09-25T07:29:50.070337+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Review: THE SWALLOW Squishes and Squelches Its Way to Scares",
+          "link": "https://www.fangoria.com/review-the-swallow/",
+          "description": "THE SWALLOW is horror's answer to the quip: “I always thought quicksand would be more prevalent in my everyday life.”",
+          "date": "2026-09-25T02:50:01+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/icVWsUZHilNOEY2TDQ1G0POr8p.webp"
+        },
+        {
           "title": "Review: PLAY HOUSE Is The Best Use of $100,000 I’ve Ever Seen",
           "link": "https://www.fangoria.com/review-play-house/",
           "description": "Nic Curcio & Kirby Gladstein's Fantastic Pitch winner is one of the best horror films out of Fantastic Fest.",
@@ -216,13 +223,6 @@
           "description": "GODZILLA MINUS ZERO is making history as the first R rated movie in the history of the franchise, suggesting director Takashi Yamazaki isn’t pulling any punches.",
           "date": "2026-09-24T14:43:20+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/G1.jpg"
-        },
-        {
-          "title": "One Of Horror’s Wildest New Films (With A Stacked Cast) Is Finally Coming To Theaters",
-          "link": "https://www.fangoria.com/sender-theatrical-release-window/",
-          "description": "After months of seeking distribution, SENDER,one of our favorite films out of SXSW is finally coming to theaters. Get all the details here.",
-          "date": "2026-09-24T14:30:26+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/SENDER_Still5.jpg"
         }
       ]
     },
