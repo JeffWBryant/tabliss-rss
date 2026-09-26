@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T10:07:40.983551+00:00",
+  "updated": "2026-09-26T14:40:41.554833+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Guide: These 21+ PS5 and PS Plus Games Are Coming Out Next Week (28th-4th October)",
+          "link": "https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-next-week-28th-4th-october",
+          "description": "Ace Combat 8! The Witcher 3! Toem 2! The bumper release schedule continues in earnest next week, with a few giants pulling for your attention. Among them is The Witcher 3: Wild Hunt Remastered and the acclaimed Ace Combat 8: Wings of Theve . Read the full article on pushsquare.com",
+          "date": "2026-09-26T11:00:00+00:00",
+          "image": "https://images.pushsquare.com/0996c5fb790cb/large.jpg"
+        },
+        {
           "title": "Feature: Delta Force Celebrates Its Second Anniversary with New Season Reorientation",
           "link": "https://www.pushsquare.com/features/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
           "description": "Gameplay tweaks, new maps, modes and even more content are coming to Delta Force. Delta Force’s mission has always been to incorporate player feedback to create the best experience possible for its players. As Delta Force players prepare for the free-to-play first-person tactical shooter’s second an",
@@ -441,13 +448,6 @@
           "description": "Launch editions include a printed map, lithographs, and more. Rayman Legends Retold is going all-out to earn your purchase this busy holiday season – and that includes a proper physical PS5 release. While the remake – which also includes a copy of Rayman Origins Enhanced – may have been delayed unti",
           "date": "2026-09-25T17:00:00+00:00",
           "image": "https://images.pushsquare.com/f6c6012d39af3/large.jpg"
-        },
-        {
-          "title": "Astro Bot's 276 Piece LEGO Set Immortalises the PS5 Icon with Interchangeable Eyes",
-          "link": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-immortalises-the-ps5-icon-with-interchangeable-eyes",
-          "description": "Available for free with the LEGO PS1 set next month. I was a big believer in Astro Bot back when he was effectively a tech demo in PS4 game The Playroom VR . Don’t believe me? I made a video and wrote about it all the way back in 2016 – a decade ago! Time flies when you’re having fun, huh? Read the ",
-          "date": "2026-09-25T16:30:00+00:00",
-          "image": "https://images.pushsquare.com/72c4e353bc40e/large.jpg"
         }
       ]
     },
