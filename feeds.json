@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-26T00:04:52.253148+00:00",
+  "updated": "2026-09-26T05:21:02.577373+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Scream’ – Melissa Barrera Open to Franchise Return… But “Not With the Company That Currently Holds the Rights”",
+          "link": "https://bloody-disgusting.com/movie/3969241/scream-melissa-barrera-franchise-return-reaction/",
+          "description": "The actor made it clear that she would love to reprise her role, but not under the leadership of Paramount Pictures and Spyglass Media Group. The post ‘Scream’ – Melissa Barrera Open to Franchise Return… But “Not With the Company That Currently Holds the Rights” appeared first on Bloody Disgusting! ",
+          "date": "2026-09-26T00:14:34+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2023/03/SCR6_19784R-scaled-e1682344576100.jpg?resize=2000%2C1334&#038;ssl=1"
+        },
         {
           "title": "‘Carrie’s Mike Flanagan Explains Why He Changed the Timeline From Stephen King’s Book",
           "link": "https://bloody-disgusting.com/news/3969223/carrie-reboot-timeline-change-explained-mike-flanagan/",
@@ -65,13 +72,6 @@
           "link": "https://bloody-disgusting.com/movie/3969116/scapegoat-ari-aster-ella-purnell-caleb-landry-jones/",
           "description": "The actors join the previously announced Scarlett Johansson, Jacob Elordi, and Jude Law in the mysterious new movie. The post Ari Aster’s ‘Scapegoat’ Adds ‘Fallout’ and ‘Get Out’ Stars appeared first on Bloody Disgusting! .",
           "date": "2026-09-25T18:29:10+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Sundown’ – Rebekah McKendry’s Supernatural Horror Movie Finds a Home at Shudder",
-          "link": "https://bloody-disgusting.com/movie/3969125/sundown-rebekah-mckendrys-supernatural-horror-movie-finds-a-home-at-shudder/",
-          "description": "Up next from director Rebekah McKendry (Glorious, Elevator Game) is the horror movie Sundown, and Variety reports that Shudder has acquired the rights to distribute the film. Director Rebekah McKendry’s upcoming horror movie Sundown follows three generations of women who reunite in a remote cabin to",
-          "date": "2026-09-25T17:40:24+00:00",
           "image": ""
         }
       ]
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Guide: All PS Plus Games Available Now",
+          "link": "https://www.pushsquare.com/guides/all-ps-plus-games-available-now",
+          "description": "Every PS Plus game, updated in one place. We’re tracking every PS Plus game available now, so you always know exactly what’s included in your tier of Sony’s subscription service. This page lists all current PS Plus Essential , PS Plus Extra , and PS Plus Premium games across PS5 and PS4 , alongside ",
+          "date": "2026-09-26T00:15:00+00:00",
+          "image": "https://images.pushsquare.com/82a68dc7ca28d/large.jpg"
+        },
+        {
           "title": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots",
           "link": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
           "description": "Out on 29th September. More information on GTA 6 and new screenshots will be revealed next week as part of a Game Informer issue all about the next Rockstar open worlder. The two protagonists, Jason and Lucia, are on the front cover with yet another stylised image of them in a car equipped with guns",
@@ -441,13 +448,6 @@
           "description": "Feeling lucky, bub? There's no getting around it: Marvel's Wolverine has been splitting opinion. Critic reviews have been all over the place, and the game's been battered on social media thanks to the usual flood of unflattering gameplay clips. Read the full article on pushsquare.com",
           "date": "2026-09-25T16:00:00+00:00",
           "image": "https://images.pushsquare.com/ca712d8b86355/large.jpg"
-        },
-        {
-          "title": "Infinite New Game+, Photo Mode on the Way to Control Resonant, No Word on Proper PS5 DLC",
-          "link": "https://www.pushsquare.com/news/2026/09/infinite-new-gameplus-photo-mode-on-the-way-to-control-resonant-no-word-on-proper-ps5-dlc",
-          "description": "Updates in October and November. Remedy will add an infinite New Game+ option and a Photo Mode to Control Resonant in the coming months, the studio has confirmed today. These additions form part of the team's post-launch plans now the PS5 sequel is out, as detailed in a blog post . There is no menti",
-          "date": "2026-09-25T15:15:00+00:00",
-          "image": "https://images.pushsquare.com/5937393728359/large.jpg"
         }
       ]
     },
