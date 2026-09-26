@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T18:27:49.460304+00:00",
+  "updated": "2026-09-26T21:27:18.301231+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,18 +380,32 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Xbox Allegedly Paying a 'Fraction' of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint",
+          "link": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
+          "description": "PlayStation wouldn't own the IP. It sounds like Hideo Kojima was demanding a significant sum of money from Sony to make the stealth action game Physint – despite him retaining ownership of its IP and intending to release it on multiple platforms. PlayStation announced earlier this month that it had ",
+          "date": "2026-09-26T20:00:00+00:00",
+          "image": "https://images.pushsquare.com/73b5180231321/large.jpg"
+        },
+        {
+          "title": "Feature: Going Platinum: Sonic Origins Sends Me Back to the Genesis of My Own Gaming History",
+          "link": "https://www.pushsquare.com/features/going-platinum-sonic-origins-sends-me-back-to-the-genesis-of-my-own-gaming-history",
+          "description": "Old frontiers. Platinum Trophy #38: Sonic Origins Date Earned: 18th June 2022 Read the full article on pushsquare.com",
+          "date": "2026-09-26T19:00:00+00:00",
+          "image": "https://images.pushsquare.com/e651732d6f5cc/large.jpg"
+        },
+        {
+          "title": "Another Live Service PS5 Game Bites the Dust, But It'll Be Transformed into an Offline Title",
+          "link": "https://www.pushsquare.com/news/2026/09/another-live-service-ps5-game-bites-the-dust-but-itll-be-transformed-into-an-offline-title",
+          "description": "The (Syn)duality of man. Okay, hands up: who remembers Synduality: Echo of Ada ? This was an attempt by Bandai Namco to crack the ever-elusive live service space; a PvPvE extraction shooter featuring cutesy anime-styled characters and big mecha battles. Read the full article on pushsquare.com",
+          "date": "2026-09-26T18:45:00+00:00",
+          "image": "https://images.pushsquare.com/43c964a7663df/large.jpg"
+        },
+        {
           "title": "PS5's Welcome Hub Adds Animated The Last of Us Wallpaper",
           "link": "https://www.pushsquare.com/news/2026/09/ps5s-welcome-hub-adds-animated-the-last-of-us-wallpaper",
           "description": "It can't be for nothing. Sony’s Welcome Hub – the customisable screen you see upon booting your PS5 – has added a new animated The Last of Us wallpaper. I assume this has been released to celebrate The Last of Us Day , and was first spotted by our very own Rich33 , so kudos to him for pointing this ",
           "date": "2026-09-26T18:00:00+00:00",
           "image": "https://images.pushsquare.com/273d4f9540570/large.jpg"
-        },
-        {
-          "title": "Sony Spooked by Rumoured $400 Million Budget for Hideo Kojima's Physint",
-          "link": "https://www.pushsquare.com/news/2026/09/sony-spooked-by-rumoured-usd400-million-budget-for-hideo-kojimas-physint",
-          "description": "PlayStation wouldn't own the IP. It sounds like Hideo Kojima was demanding a significant sum of money from Sony to make the stealth action game Physint – despite him retaining ownership of its IP and intending to release it on multiple platforms. PlayStation announced earlier this month that it had ",
-          "date": "2026-09-26T17:30:00+00:00",
-          "image": "https://images.pushsquare.com/73b5180231321/large.jpg"
         },
         {
           "title": "The Last of Us Day Celebrations Will Bring Partnerships and Collaborations, Season 3 Casting News Announced",
@@ -434,20 +448,6 @@
           "description": "Now find them for yourself. Insomniac has pushed live another PS5 patch to Marvel's Wolverine that further addresses the complaints surrounding the scent trail that guides you to objectives and collectibles at certain points. Having downloaded PS5 patch 1.001.006 , there will be a new toggle in the ",
           "date": "2026-09-25T23:30:00+00:00",
           "image": "https://images.pushsquare.com/814042911175a/large.jpg"
-        },
-        {
-          "title": "Talking Point: What Are You Playing This Weekend? - Issue 651",
-          "link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-651",
-          "description": "What a horrible night to have a curse. After weeks and weeks of crazy gaming stories, I think it was nice to have a slower one this time. Don’t get me wrong, there’s tons of titles coming out, but the news cycle in particular was a lot steadier these past few days. Let’s WAYP. Jamie O’Neill Portable",
-          "date": "2026-09-25T23:00:00+00:00",
-          "image": "https://images.pushsquare.com/3891e5fa8d121/large.jpg"
-        },
-        {
-          "title": "PS5 Fans Encouraged to Give Feedback on Discs in New Sony Survey",
-          "link": "https://www.pushsquare.com/news/2026/09/ps5-fans-encouraged-to-give-feedback-on-discs-in-new-sony-survey",
-          "description": "And any other pressing concerns. A new Sony survey has been discovered on social media, and physical game enthusiasts are being encouraged to give the company feedback on its decision to stop manufacturing discs in 2028 . While the questionnaire doesn’t ask about physical media specifically, it does",
-          "date": "2026-09-25T19:15:00+00:00",
-          "image": "https://images.pushsquare.com/d38cf95c9363a/large.jpg"
         }
       ]
     },
