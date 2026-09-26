@@ -1,9 +1,30 @@
 {
-  "updated": "2026-09-26T14:40:41.554833+00:00",
+  "updated": "2026-09-26T18:27:49.460304+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "The ‘Castlevania’ Legacy Still Endures As The Series Turns 40",
+          "link": "https://bloody-disgusting.com/video-games/3967893/the-castlevania-legacy-still-endures-as-the-series-turns-40/",
+          "description": "It’s crazy to think that Konami’s Castlevania series turns 40 this month. We did a deep dive on the one that started it all five years ago, but obviously, the series has grown beyond its beginnings on the Famicom back in 1986 and endured. Speaking of enduring, several elements of the series have stu",
+          "date": "2026-09-26T16:00:38+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/castlevania08.jpg?resize=900%2C578&#038;ssl=1"
+        },
+        {
+          "title": "‘Werwulf’ – Watch the New Trailer for Primal Nightmare from Director Robert Eggers",
+          "link": "https://bloody-disgusting.com/movie/3969250/werwulf-watch-the-new-trailer-for-the-primal-nightmare-from-director-robert-eggers/",
+          "description": "The Harvest Moon takes to the skies beginning tonight, and Focus Features is celebrating with the brand new official trailer for director Robert Eggers’ latest nightmare, Werwulf. The director of atmospheric chillers The Witch and Nosferatu warns that Werwulf is the darkest movie he’s written to dat",
+          "date": "2026-09-26T15:08:59+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Werwulf_OfficialPoster-scaled-1.jpg?resize=1037%2C1536&#038;ssl=1"
+        },
+        {
+          "title": "5 Horror Prequels to Watch Before ‘Crystal Lake’ Brings Back Jason Voorhees",
+          "link": "https://bloody-disgusting.com/editorials/3968000/5-horror-prequels-to-watch-ahead-of-crystal-lake/",
+          "description": "In Behind The Mask: The Rise of Leslie Vernon, the titular killer compares the inevitable return of slasher villains with the cyclical nature of classic curses. These masked murderers may get brutally killed at the end of each movie, but the necessary evil that they represent can never be truly vanq",
+          "date": "2026-09-26T15:00:30+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2022/11/texaschainsawmassacrebeginning.jpg?resize=1024%2C574&#038;ssl=1"
+        },
         {
           "title": "‘Scream’ – Melissa Barrera Open to Franchise Return… But “Not With the Company That Currently Holds the Rights”",
           "link": "https://bloody-disgusting.com/movie/3969241/scream-melissa-barrera-franchise-return-reaction/",
@@ -52,27 +73,6 @@
           "description": "This year's special, \"Happy Hell-o-ween,\" premieres on Hulu on October 5. The post ‘Family Guy’ Goes to Hell in New Trailer for This Year’s Halloween Special appeared first on Bloody Disgusting! .",
           "date": "2026-09-25T19:22:51+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Family-Guy-Halloween-Special-Poster-2026-scaled.png?resize=1728%2C2560&#038;ssl=1"
-        },
-        {
-          "title": "‘Obsession’ Halloween Costumes Now Available from the NBCUniversal Shop",
-          "link": "https://bloody-disgusting.com/movie/3969168/obsession-halloween-costumes-now-available-from-the-nbcuniversal-shop/",
-          "description": "We expect to see countless Halloween costumes based on Curry Barker’s Obsession this Halloween, and the official NBCUniversal Online Shop is here to make that extremely easy for you. The online shop is now selling two costume sets based on Obsession, allowing you to either dress up as Bear (Michael ",
-          "date": "2026-09-25T19:08:09+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Bear-costume.jpg?resize=1000%2C1000&#038;ssl=1"
-        },
-        {
-          "title": "7 New Horror Movies Released This Week – Friday, September 25",
-          "link": "https://bloody-disgusting.com/movie/3969141/7-new-horror-movies-released-this-week-friday-september-25/",
-          "description": "We made it. It’s officially the first week of Fall, which means we are now knee deep in the Halloween season. And right on cue, SEVEN brand new horror movies have been released this week. Here are the new horror movies that released September 21 – September 27, 2026! Fresh out of theaters, Eli Roth’",
-          "date": "2026-09-25T18:52:39+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/07/Ice-Cream-Man-Girl-Scoops-Out-Brains.jpg?resize=1920%2C1080&#038;ssl=1"
-        },
-        {
-          "title": "Ari Aster’s ‘Scapegoat’ Adds ‘Fallout’ and ‘Get Out’ Stars",
-          "link": "https://bloody-disgusting.com/movie/3969116/scapegoat-ari-aster-ella-purnell-caleb-landry-jones/",
-          "description": "The actors join the previously announced Scarlett Johansson, Jacob Elordi, and Jude Law in the mysterious new movie. The post Ari Aster’s ‘Scapegoat’ Adds ‘Fallout’ and ‘Get Out’ Stars appeared first on Bloody Disgusting! .",
-          "date": "2026-09-25T18:29:10+00:00",
-          "image": ""
         }
       ]
     },
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "WERWULF Howls At The Moon In Haunting New Trailer",
+          "link": "https://www.fangoria.com/robert-eggers-werwulf-trailer-arg/",
+          "description": "Get a fresh look at Robert Eggers’ Middle English creature feature - now with its own Alternate Reality Game - within.",
+          "date": "2026-09-26T15:07:44+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/WERWULF.jpg.webp"
+        },
+        {
           "title": "TWIN PEAKS Stars Celebrate David Lynch One Year Later",
           "link": "https://www.fangoria.com/twin-peaks-conversation-david-lynch/",
           "description": "Here's everything we learned from attending TWIN PEAKS: Conversation with the Stars.",
@@ -216,19 +223,19 @@
           "description": "THE SWALLOW is horror's answer to the quip: “I always thought quicksand would be more prevalent in my everyday life.”",
           "date": "2026-09-25T02:50:01+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/icVWsUZHilNOEY2TDQ1G0POr8p.webp"
-        },
-        {
-          "title": "Review: PLAY HOUSE Is The Best Use of $100,000 I’ve Ever Seen",
-          "link": "https://www.fangoria.com/review-play-house/",
-          "description": "Nic Curcio & Kirby Gladstein's Fantastic Pitch winner is one of the best horror films out of Fantastic Fest.",
-          "date": "2026-09-25T00:45:17+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Play-House-Movie.webp"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "PS5 Update Adds Cool New Theme The Last of Us Fans Will Love",
+          "link": "https://www.playstationlifestyle.net/2026/09/26/ps5-welcome-hub-update-tlou-background-september-2026/",
+          "description": "Sony Interactive Entertainment has rolled out a new PS5 feature update for September 2026 that brings a new animated theme for the Welcome Hub. The background celebrates Naughty Dog’s The Last of Us franchise with a pretty nifty animation. PS5 Welcome Hub update adds animated background featuring Th",
+          "date": "2026-09-26T16:12:17+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/09/ps5-update.jpg?w=1024"
+        },
         {
           "title": "GTA 6 Fans Recreate $400 Collector’s Edition Figure for Free",
           "link": "https://www.playstationlifestyle.net/2026/09/25/gta-6-fans-recreate-400-collectors-edition-figure-for-free/",
@@ -291,13 +298,6 @@
           "description": "The PS5 version of a hugely popular “hyper-realistic” sandbox game finally has a release date, and it’s coming surprisingly soon. Racing game BeamNG.drive first launched on PC in 2015. The game will now launch in early access on the PS5. ‘Hyper-realistic’ sandbox racing game BeamNG.drive coming to P",
           "date": "2026-09-25T12:47:14+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps5-sandbox-game-beamng-drive.jpg?w=1024"
-        },
-        {
-          "title": "Marvel PS5 Game 60% Off on PlayStation Store After Wolverine’s Release",
-          "link": "https://www.playstationlifestyle.net/2026/09/24/marvel-spider-man-2-60-percent-off-playstation-store-after-wolverine-release/",
-          "description": "A Marvel game available exclusively on PlayStation 5 is currently 60% off at the PlayStation Store The post Marvel PS5 Game 60% Off on PlayStation Store After Wolverine’s Release appeared first on PlayStation LifeStyle .",
-          "date": "2026-09-24T21:41:22+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Wolverine_d3ee44.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,27 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "PS5's Welcome Hub Adds Animated The Last of Us Wallpaper",
+          "link": "https://www.pushsquare.com/news/2026/09/ps5s-welcome-hub-adds-animated-the-last-of-us-wallpaper",
+          "description": "It can't be for nothing. Sony’s Welcome Hub – the customisable screen you see upon booting your PS5 – has added a new animated The Last of Us wallpaper. I assume this has been released to celebrate The Last of Us Day , and was first spotted by our very own Rich33 , so kudos to him for pointing this ",
+          "date": "2026-09-26T18:00:00+00:00",
+          "image": "https://images.pushsquare.com/273d4f9540570/large.jpg"
+        },
+        {
+          "title": "Sony Spooked by Rumoured $400 Million Budget for Hideo Kojima's Physint",
+          "link": "https://www.pushsquare.com/news/2026/09/sony-spooked-by-rumoured-usd400-million-budget-for-hideo-kojimas-physint",
+          "description": "PlayStation wouldn't own the IP. It sounds like Hideo Kojima was demanding a significant sum of money from Sony to make the stealth action game Physint – despite him retaining ownership of its IP and intending to release it on multiple platforms. PlayStation announced earlier this month that it had ",
+          "date": "2026-09-26T17:30:00+00:00",
+          "image": "https://images.pushsquare.com/73b5180231321/large.jpg"
+        },
+        {
+          "title": "The Last of Us Day Celebrations Will Bring Partnerships and Collaborations, Season 3 Casting News Announced",
+          "link": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-celebrations-will-bring-partnerships-and-collaborations-season-3-casting-news-announced",
+          "description": "John Goodman, Ian Alexander, and Laura Bailey join HBO show. A very happy The Last of Us Day everyone – even if the celebrations are somewhat on hold. Naughty Dog has announced that it’s pausing the festivities until Monday, 28th September, where it’ll be hosting a charity stream on Twitch . You can",
+          "date": "2026-09-26T16:15:00+00:00",
+          "image": "https://images.pushsquare.com/e9c742e85bdce/large.jpg"
+        },
+        {
           "title": "Guide: These 21+ PS5 and PS Plus Games Are Coming Out Next Week (28th-4th October)",
           "link": "https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-next-week-28th-4th-october",
           "description": "Ace Combat 8! The Witcher 3! Toem 2! The bumper release schedule continues in earnest next week, with a few giants pulling for your attention. Among them is The Witcher 3: Wild Hunt Remastered and the acclaimed Ace Combat 8: Wings of Theve . Read the full article on pushsquare.com",
@@ -427,27 +448,6 @@
           "description": "And any other pressing concerns. A new Sony survey has been discovered on social media, and physical game enthusiasts are being encouraged to give the company feedback on its decision to stop manufacturing discs in 2028 . While the questionnaire doesn’t ask about physical media specifically, it does",
           "date": "2026-09-25T19:15:00+00:00",
           "image": "https://images.pushsquare.com/d38cf95c9363a/large.jpg"
-        },
-        {
-          "title": "Reminder: These 3 PS5, PS4 Games Will Be Delisted or Disabled in October 2026",
-          "link": "https://www.pushsquare.com/news/2026/09/reminder-these-3-ps5-ps4-games-will-be-delisted-or-disabled-in-october-2026",
-          "description": "Fortnite loses Rocket Racing and the PS4 version of Warzone goes offline. Once again, I'm compiling all the upcoming delistings, server shutdowns, and general disruptions you should be aware of across PS5 and PS4 for October. This article was first published in September, but with all those delistin",
-          "date": "2026-09-25T18:45:00+00:00",
-          "image": "https://images.pushsquare.com/1637dbc1664df/large.jpg"
-        },
-        {
-          "title": "This Incredible New PS5 Website Tracks PS Store Sales Data Around the World and Your Personal Play History",
-          "link": "https://www.pushsquare.com/news/2026/09/this-incredible-new-ps5-website-tracks-ps-store-sales-data-around-the-world-and-your-personal-play-history",
-          "description": "Find out how games are selling and which ones real players recommend. I’ve been keeping tabs on PS Store DB for a few weeks now. I first discovered it on ResetEra , where it’s being built by a user named Maki . But honestly, it’s come to a point where I simply have to write about – this may be the b",
-          "date": "2026-09-25T17:45:00+00:00",
-          "image": "https://images.pushsquare.com/3558319a947fb/large.jpg"
-        },
-        {
-          "title": "Rayman Legends Retold Does Physical Media the Right Way on PS5",
-          "link": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-does-physical-media-the-right-way-on-ps5",
-          "description": "Launch editions include a printed map, lithographs, and more. Rayman Legends Retold is going all-out to earn your purchase this busy holiday season – and that includes a proper physical PS5 release. While the remake – which also includes a copy of Rayman Origins Enhanced – may have been delayed unti",
-          "date": "2026-09-25T17:00:00+00:00",
-          "image": "https://images.pushsquare.com/f6c6012d39af3/large.jpg"
         }
       ]
     },
