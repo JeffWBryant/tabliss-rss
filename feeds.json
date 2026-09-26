@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T05:21:02.577373+00:00",
+  "updated": "2026-09-26T10:07:40.983551+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Feature: Delta Force Celebrates Its Second Anniversary with New Season Reorientation",
+          "link": "https://www.pushsquare.com/features/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
+          "description": "Gameplay tweaks, new maps, modes and even more content are coming to Delta Force. Delta Force’s mission has always been to incorporate player feedback to create the best experience possible for its players. As Delta Force players prepare for the free-to-play first-person tactical shooter’s second an",
+          "date": "2026-09-26T09:30:00+00:00",
+          "image": "https://images.pushsquare.com/aa867a028ef34/large.jpg"
+        },
+        {
           "title": "Guide: All PS Plus Games Available Now",
           "link": "https://www.pushsquare.com/guides/all-ps-plus-games-available-now",
           "description": "Every PS Plus game, updated in one place. We’re tracking every PS Plus game available now, so you always know exactly what’s included in your tier of Sony’s subscription service. This page lists all current PS Plus Essential , PS Plus Extra , and PS Plus Premium games across PS5 and PS4 , alongside ",
@@ -441,13 +448,6 @@
           "description": "Available for free with the LEGO PS1 set next month. I was a big believer in Astro Bot back when he was effectively a tech demo in PS4 game The Playroom VR . Don’t believe me? I made a video and wrote about it all the way back in 2016 – a decade ago! Time flies when you’re having fun, huh? Read the ",
           "date": "2026-09-25T16:30:00+00:00",
           "image": "https://images.pushsquare.com/72c4e353bc40e/large.jpg"
-        },
-        {
-          "title": "Poll: What Review Score Would You Give Marvel's Wolverine?",
-          "link": "https://www.pushsquare.com/features/poll-what-review-score-would-you-give-marvels-wolverine",
-          "description": "Feeling lucky, bub? There's no getting around it: Marvel's Wolverine has been splitting opinion. Critic reviews have been all over the place, and the game's been battered on social media thanks to the usual flood of unflattering gameplay clips. Read the full article on pushsquare.com",
-          "date": "2026-09-25T16:00:00+00:00",
-          "image": "https://images.pushsquare.com/ca712d8b86355/large.jpg"
         }
       ]
     },
