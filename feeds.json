@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T19:12:40.612648+00:00",
+  "updated": "2026-09-27T22:30:38.070668+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "'Sony's Hearing a Lot of the Feedback from Customers': NIS America Boss Weighs in on PS5 Disc Debate",
+          "link": "https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate",
+          "description": "\"We'll have to see what happens\". Behemoth publishers like SEGA and Capcom have indicated they’re not particularly fussed about Sony’s decision to cease manufacturing physical media in 2028. But it’s interesting to hear from companies like NIS America, who have built elaborate collector’s editions i",
+          "date": "2026-09-27T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/b774ac5f1754b/large.jpg"
+        },
+        {
           "title": "Xbox Allegedly Paying a 'Fraction' of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint",
           "link": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
           "description": "PlayStation wouldn't own the IP. It sounds like Hideo Kojima was demanding a significant sum of money from Sony to make the stealth action game Physint – despite him retaining ownership of its IP and intending to release it on multiple platforms. PlayStation announced earlier this month that it had ",
@@ -441,13 +448,6 @@
           "description": "Out on 29th September. More information on GTA 6 and new screenshots will be revealed next week as part of a Game Informer issue all about the next Rockstar open worlder. The two protagonists, Jason and Lucia, are on the front cover with yet another stylised image of them in a car equipped with guns",
           "date": "2026-09-26T00:00:00+00:00",
           "image": "https://images.pushsquare.com/c59f1d6ffce8e/large.jpg"
-        },
-        {
-          "title": "Newest Wolverine PS5 Update Wipes Out Scent Trails to Collectibles",
-          "link": "https://www.pushsquare.com/news/2026/09/newest-wolverine-ps5-update-wipes-out-scent-trails-to-collectibles",
-          "description": "Now find them for yourself. Insomniac has pushed live another PS5 patch to Marvel's Wolverine that further addresses the complaints surrounding the scent trail that guides you to objectives and collectibles at certain points. Having downloaded PS5 patch 1.001.006 , there will be a new toggle in the ",
-          "date": "2026-09-25T23:30:00+00:00",
-          "image": "https://images.pushsquare.com/814042911175a/large.jpg"
         }
       ]
     },
