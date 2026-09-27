@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T23:48:39.057050+00:00",
+  "updated": "2026-09-27T04:50:39.708508+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "BLOODY TENNIS Explores the Often Ignored Horror of Women’s Elite Athletics",
+          "link": "https://www.fangoria.com/bloody-tennis-horror-womens-elite-athletics/",
+          "description": "Women's elite athletics is full of uncomfortable examples of institutions putting performance above athletes' physical and psychological well-being, and BLOODY TENNIS is biting back.",
+          "date": "2026-09-27T01:02:54+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Bloody-Tennis.webp"
+        },
+        {
           "title": "WERWULF Howls At The Moon In Haunting New Trailer",
           "link": "https://www.fangoria.com/robert-eggers-werwulf-trailer-arg/",
           "description": "Get a fresh look at Robert Eggers’ Middle English creature feature - now with its own Alternate Reality Game - within.",
@@ -216,13 +223,6 @@
           "description": "We saw dozens of amazing films at this year's Fantastic Fest. Here are five (okay, six; wait - seven) that we want you to keep an eye out for.",
           "date": "2026-09-25T08:00:17+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Kick_On_Still_03.jpg"
-        },
-        {
-          "title": "Review: THE SWALLOW Squishes and Squelches Its Way to Scares",
-          "link": "https://www.fangoria.com/review-the-swallow/",
-          "description": "THE SWALLOW is horror's answer to the quip: “I always thought quicksand would be more prevalent in my everyday life.”",
-          "date": "2026-09-25T02:50:01+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/icVWsUZHilNOEY2TDQ1G0POr8p.webp"
         }
       ]
     },
