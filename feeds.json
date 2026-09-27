@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-27T15:15:34.521719+00:00",
+  "updated": "2026-09-27T19:12:40.612648+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Roguelike Haunted House Game ‘Deck of Haunts’ Coming to Consoles on October 8 [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3969270/roguelike-haunted-house-game-deck-of-haunts-coming-to-consoles-on-october-8-trailer/",
+          "description": "Released on Steam back in May 2025, DANGEN Entertainment and developer Mantis Games have announced that their roguelike deckbuilder Deck of Haunts will be coming to the PlayStation 5, Xbox Series, Xbox One, Nintendo Switch 2, and Nintendo Switch on October 8. The announcement was accompanied by a ne",
+          "date": "2026-09-27T17:30:17+00:00",
+          "image": ""
+        },
         {
           "title": "‘Tinsman Road’ Is Minimalist Found Footage Horror Done Right",
           "link": "https://bloody-disgusting.com/movie/3969017/tinsman-road-as-minimalist-found-footage-horror-done-right/",
@@ -66,13 +73,6 @@
           "description": "You’d think that the wide world of sports would be tailor-made for the horror genre. Mental obsession, physical perfection, extreme competitiveness, towel whip injuries – all prime ingredients for stories blending athletic drive with terror, but the subgenre’s slim pickings don’t quite bear that out",
           "date": "2026-09-25T21:43:17+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/BLOODY_TENNIS_Still.jpg?resize=1024%2C578&#038;ssl=1"
-        },
-        {
-          "title": "‘Resident Evil’ Used Real Dancers to Create the Human Tumbleweed Monster",
-          "link": "https://bloody-disgusting.com/movie/3969200/resident-evil-used-real-dancers-to-create-the-human-tumbleweed-monster/",
-          "description": "From Nemesis to Lady Dimitrescu, the Resident Evil games are notorious for enhancing the standard survival horror experience by including unkillable stalker enemies that pursue you throughout the campaign. While filmmaker Zach Cregger made it quite clear that he wasn’t going to include iconic stalke",
-          "date": "2026-09-25T21:17:15+00:00",
-          "image": ""
         }
       ]
     },
