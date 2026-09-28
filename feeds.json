@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T01:29:19.690649+00:00",
+  "updated": "2026-09-28T07:32:32.435934+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,20 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "Lanterns Has Fully and Officially Done Away With Green Lantern’s Ridiculous Weakness",
+          "link": "https://www.denofgeek.com/tv/lanterns-done-away-green-lanterns-ridiculous-weakness/",
+          "description": "This article contains spoilers for Lanterns season 1 episode 7. Fans of cosmic weirdness in Green Lantern stories, rejoice. The penultimate episode of Lanterns finally gets out of Nebraska, and gets off of Earth altogether to go… somewhere. We don’t yet know where John Stewart and the Hal-o-Gram wen",
+          "date": "2026-09-28T02:01:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/aaron-pierre-in-Lanterns.jpg"
+        },
+        {
+          "title": "Lanterns Episode 7 Review: A Hal-o-Gram Adventure",
+          "link": "https://www.denofgeek.com/tv/lanterns-episode-7-review/",
+          "description": "This article contains spoilers for Lanterns season 1 episode 7. When Martin Nodell set out to create Green Lantern with Bill Finger for 1940’s All-American Comics #16, he wasn’t thinking about space cops or test pilots. He was thinking about magic. The Golden Age Green Lantern Alan Scott formed his ",
+          "date": "2026-09-28T02:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/05/Lanterns-Kyle-Chandler-Hal-Jordan.jpg"
+        },
+        {
           "title": "Justice League, Beyond: 10 Obscure DC Comics Teams",
           "link": "https://www.denofgeek.com/comics/justice-league-beyond-obscure-dc-comics-teams/",
           "description": "No matter how much Guy Gardner talks up the Justice Gang, there’s really only one team that matters in the DC Universe: the Justice League of America. Not only has the team traditionally included in its membership the seven most important heroes in the DC Universe, but they also have auxiliary teams",
@@ -134,20 +148,6 @@
           "description": "Some historical photographs look ordinary at first glance, almost too familiar to deserve a second look. Then you notice one person, one object, or one small detail in the frame, and the entire image is instantly different. Photographs are like that, only capturing moments without any explanation of",
           "date": "2026-09-25T12:30:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-78.jpg"
-        },
-        {
-          "title": "15 Famous People Who Showed Up in Movie Backgrounds Before They Were Famous",
-          "link": "https://www.denofgeek.com/msn/15-famous-people-who-showed-up-in-movie-backgrounds-before-they-were-famous/",
-          "description": "Becoming famous usually involves at least a few years of taking whatever work you can get, which means some very recognizable faces are hiding in movies from long before anybody knew their names. They were party guests, students, restaurant customers and assorted people whose main responsibility was",
-          "date": "2026-09-25T12:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-25.jpg"
-        },
-        {
-          "title": "15 People Share the Disappearing Store That Hurt Them the Most",
-          "link": "https://www.denofgeek.com/msn/15-people-share-the-disappearing-store-that-hurt-them-the-most/",
-          "description": "Shopping online might be faster, but it has never quite replaced the experience of wandering around a store with no particular plan. For anyone who grew up in the 1990s or 2000s, plenty of those places are now attached to very specific memories: Friday nights choosing a movie, afternoons browsing CD",
-          "date": "2026-09-25T12:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-18-1.jpg"
         }
       ]
     },
