@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T22:30:38.070668+00:00",
+  "updated": "2026-09-28T01:29:19.690649+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "The Witcher 3 Remastered a 45GB PS5 Patch, Release Times Revealed",
+          "link": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed",
+          "description": "An update to current PS5 version. As a quick reminder, the newly remastered version of The Witcher 3 is an update to the current Complete Edition for the RPG, and that patch will be around 45GB in size. CD Projekt Red executive Marcin Momot revealed the download size of the update across all platfor",
+          "date": "2026-09-28T01:00:00+00:00",
+          "image": "https://images.pushsquare.com/f370621d3522c/large.jpg"
+        },
+        {
           "title": "'Sony's Hearing a Lot of the Feedback from Customers': NIS America Boss Weighs in on PS5 Disc Debate",
           "link": "https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate",
           "description": "\"We'll have to see what happens\". Behemoth publishers like SEGA and Capcom have indicated they’re not particularly fussed about Sony’s decision to cease manufacturing physical media in 2028. But it’s interesting to hear from companies like NIS America, who have built elaborate collector’s editions i",
@@ -441,13 +448,6 @@
           "description": "Every PS Plus game, updated in one place. We’re tracking every PS Plus game available now, so you always know exactly what’s included in your tier of Sony’s subscription service. This page lists all current PS Plus Essential , PS Plus Extra , and PS Plus Premium games across PS5 and PS4 , alongside ",
           "date": "2026-09-26T00:15:00+00:00",
           "image": "https://images.pushsquare.com/82a68dc7ca28d/large.jpg"
-        },
-        {
-          "title": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots",
-          "link": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
-          "description": "Out on 29th September. More information on GTA 6 and new screenshots will be revealed next week as part of a Game Informer issue all about the next Rockstar open worlder. The two protagonists, Jason and Lucia, are on the front cover with yet another stylised image of them in a car equipped with guns",
-          "date": "2026-09-26T00:00:00+00:00",
-          "image": "https://images.pushsquare.com/c59f1d6ffce8e/large.jpg"
         }
       ]
     },
