@@ -1,78 +1,78 @@
 {
-  "updated": "2026-09-29T08:56:32.392324+00:00",
+  "updated": "2026-09-29T15:39:12.918942+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
         {
-          "title": "‘It’s the Great Pumpkin, Charlie Brown’ Streaming for Free October 17 & 18 on Apple TV",
-          "link": "https://bloody-disgusting.com/news/3969450/its-the-great-pumpkin-charlie-brown-streaming-free-halloween/",
-          "description": "For decades, one thing that Halloween fans could rely on every year is getting to watch It’s the Great Pumpkin, Charlie Brown in the lead-up towards October 31. As home video became the go-to way to revisit holiday favorites, some of us relied on VHS, DVD, or Blu-ray to be able to watch it whenever ",
-          "date": "2026-09-28T20:40:30+00:00",
+          "title": "AMC FearFest Kicks Off With ‘Halloween’ and ‘Tales from the Crypt’ Marathons This Thursday!",
+          "link": "https://bloody-disgusting.com/tv/3969604/amc-fearfest-kicks-off-with-halloween-and-tales-from-the-crypt-marathons-this-thursday/",
+          "description": "We are two days away from the start of October, which means we are just two days away from the start of AMC’s FearFest, the network’s annual month-long celebration of all things horror. This year’s AMC FearFest is extra special, as AMC has dug up the corpse of the Crypt Keeper and they’re forcing th",
+          "date": "2026-09-29T15:36:06+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/tales-from-the-frypt-the-cryptkeeper-fearfest-2026-1.jpg?resize=1600%2C900&#038;ssl=1"
+        },
+        {
+          "title": "Doug Jones Looks Back on the Practical Magic Behind ‘Pan’s Labyrinth’ Ahead of Re-Release",
+          "link": "https://bloody-disgusting.com/interviews/3969412/doug-jones-looks-back-on-the-practical-magic-behind-pans-labyrinth-ahead-of-re-release/",
+          "description": "Guillermo del Toro’s masterpiece Pan’s Labyrinth heads back to theaters next week in 3D and 4K, reintroducing audiences to unforgettable characters like the Faun and the Pale Man, both played by genre stalwart Doug Jones. Ahead of the film’s release in theaters October 9, Bloody FM’s The Boo Crew po",
+          "date": "2026-09-29T15:15:29+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/06/pans-labyrinth.jpg?resize=1024%2C696&#038;ssl=1"
+        },
+        {
+          "title": "Killer Hippo Horror ‘Hungry’ Heads To Streaming This Week",
+          "link": "https://bloody-disgusting.com/movie/3969590/killer-hippo-horror-hungry-heads-to-streaming-this-week/",
+          "description": "Killer hippo horror movie Hungry is headed after making a splash on the big screen and Digital earlier this summer. Look for Hungry to arrive on Prime Video on October 1. A wildly unofficial adaptation of Hungry Hungry Hippos, horror movie Hungry follows thrill-seeking tourists on a riverboat tour t",
+          "date": "2026-09-29T15:04:55+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/05/013_Hungry_KA_LR_V2-scaled.jpg?resize=1728%2C2560&#038;ssl=1"
+        },
+        {
+          "title": "‘Trick ‘r Treat: Witching Hours’ Trailer Previews Four New Stories Including Sam in Outer Space!",
+          "link": "https://bloody-disgusting.com/comics/3969584/trick-r-treat-witching-hours-trailer-previews-four-new-stories-including-sam-in-outer-space/",
+          "description": "Sam is back this Halloween season with the brand new graphic novel Trick ‘r Treat: Witching Hours, and Legendary Comics has released the official trailer this morning. The new graphic novel from Legendary Comics and Rocketship Entertainment is now set for release for everyone on October 13, 2026, an",
+          "date": "2026-09-29T14:46:00+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/trick-witch-1.jpg?resize=1166%2C1822&#038;ssl=1"
+        },
+        {
+          "title": "‘Ghost in the Cell’ Review: Joko Anwar Delivers Gory Fun Prison Horror In His Best Yet",
+          "link": "https://bloody-disgusting.com/news/3969579/ghost-in-the-cell-review-joko-anwar-delivers-gory-fun-prison-horror-in-his-best-yet/",
+          "description": "A great cinematic philosopher named Booger once proclaimed, “Sometimes you gotta say ‘what the fuck’” and just go with your wildest instinct. I’m playing fast and loose with my teen sex comedies there – Booger is from Revenge of the Nerds, but that same actor said the line above in Risky Business – ",
+          "date": "2026-09-29T14:22:50+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/GhostInTheCell_2048x1152-2.jpg?resize=1024%2C576&#038;ssl=1"
+        },
+        {
+          "title": "‘Doomspiral’ Brings Dark Soulslike Combat to the Tabletop in an Ambitious RPG",
+          "link": "https://bloody-disgusting.com/books/3969504/doomspiral-brings-dark-soulslike-combat-to-the-tabletop-in-an-ambitious-rpg/",
+          "description": "Hidetaka Miyazaki is a noted fan of Dungeons and Dragons, and it’s hard not to see the influence of the classic game in the Dark Souls series. It only makes sense that the tabletop RPG world would start learning from FromSoftware and incorporating their ideas at the table, completing the cycle of in",
+          "date": "2026-09-29T14:04:21+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/doomspiral06.jpg?resize=900%2C580&#038;ssl=1"
+        },
+        {
+          "title": "New ‘Fortnitemares’ Cinematic Trailer Teases ‘Obsession’ and Fully Reveals Freddy Krueger!",
+          "link": "https://bloody-disgusting.com/video-games/3969565/new-fortnitemares-cinematic-trailer-teases-obsession-teaser/",
+          "description": "Epic Games is still not revealing all of its treats just yet for this year’s Fortnitemares event, but with the latest cinematic trailer, we do get at least one more confirmation to one of the collaborations this year in Curry Barker‘s Obsession! After revealing a crossover with The Purge yesterday w",
+          "date": "2026-09-29T13:52:00+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-093202.png?resize=1737%2C817&#038;ssl=1"
+        },
+        {
+          "title": "Sort Books Amidst Blood and Meat in ‘Something is Wrong With the Library’ [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3969524/sort-books-amidst-blood-and-meat-in-something-is-wrong-with-the-library-trailer/",
+          "description": "Developer Strange Scaffold is back again with another strange title, announcing its haunted book sorting simulator Something is Wrong With the Library, which will launch on PC via Steam later this fall. Set in the small mountain town of Sweet Elm, the game takes place inside the Alex Dieter Public L",
+          "date": "2026-09-29T13:30:37+00:00",
           "image": ""
         },
         {
-          "title": "‘Obsession’ – Curry Barker Says Netflix Wanted to Bring the Theatrical Hit Straight to Streaming",
-          "link": "https://bloody-disgusting.com/movie/3969439/obsession-curry-barker-says-netflix-wanted-to-bring-the-theatrical-hit-straight-to-streaming/",
-          "description": "Before Focus Features boarded the project, Curry Barker wasn’t quite sure what to do with Obsession. There was a time, he admits, when he was contemplating uploading it for free on his YouTube channel, the same approach he took with his previous film Milk & Serial. Made on a budget of less than $1 m",
-          "date": "2026-09-28T20:12:03+00:00",
+          "title": "Criterion Channel’s October 2026 Lineup Includes ‘Jennifer’s Body’, Argento Classics & So Much More",
+          "link": "https://bloody-disgusting.com/movie/3969552/the-criterion-channels-october-2026-lineup-includes-jennifers-body-argento-classics-so-much-more/",
+          "description": "The Criterion Channel is going all-in on horror for the Halloween season, and the full October lineup has been revealed just days before the Best Month of the Year gets underway. This October, hitch a ride to the heart of terror: Criterion Channel’s Halloween programming includes a full-throttle tou",
+          "date": "2026-09-29T13:16:22+00:00",
           "image": ""
         },
         {
-          "title": "‘Spiritual World’ – Kristen Stewart Plays a Haunted Clairvoyant in ‘Personal Shopper’ Director’s New Movie",
-          "link": "https://bloody-disgusting.com/movie/3969430/spiritual-world-kristen-stewart-plays-a-haunted-clairvoyant-in-personal-shopper-directors-new-movie/",
-          "description": "Kristen Stewart will reteam with Personal Shopper director Olivier Assayas for the upcoming Spiritual World, which is said to be similar to Personal Shopper only “steamier.” Variety further details this afternoon that Kristen Stewart will lead the cast of Spiritual World as a “haunted, clairvoyant y",
-          "date": "2026-09-28T19:26:26+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Carrie’: Mike Flanagan Hopes His Stephen King Reboot Runs for Three Seasons",
-          "link": "https://bloody-disgusting.com/tv/3969414/carrie-reboot-mike-flanagan-three-season-plan-stephen-king/",
-          "description": "Thanks to Gerald’s Game, Doctor Sleep, and The Life of Chuck, filmmaker Mike Flanagan has established himself as an authority on Stephen King, especially when adapting his stories into live-action. Those aforementioned titles had never been brought to life before, which also proves Flanagan has the ",
-          "date": "2026-09-28T19:24:01+00:00",
-          "image": ""
-        },
-        {
-          "title": "Five Memorable Halloween Costumes in Horror Movies",
-          "link": "https://bloody-disgusting.com/sponsored/3969234/five-memorable-halloween-costumes-in-horror-movies/",
-          "description": "Much like seasonal decorations, the tradition of dressing up for Halloween is much older than most folks tend to realize. That’s why it’s no surprise that this practice has shown up in genre movies since the dawn of cinema, with some of the most recognizable cinematic imagery of all time being inspi",
-          "date": "2026-09-28T19:16:43+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/House-of-1000-corpses.jpg?resize=1024%2C542&#038;ssl=1"
-        },
-        {
-          "title": "‘The Cycle’ Trailer – Stephen King Calls This Movie ‘The Thing’ Meets ‘Silence of the Lambs’",
-          "link": "https://bloody-disgusting.com/movie/3969422/the-cycle-trailer-stephen-king-calls-this-movie-the-thing-meets-silence-of-the-lambs/",
-          "description": "Masters of horror Stephen King and Mick Garris are featured in the official trailer for Shudder Original The Cycle, the latest from director Jordan Downey (The Head Hunter, V/H/S/Beyond). While Stephen King raves that The Cycle is a mix of The Thing and The Silence of the Lambs, as well as “a terrif",
-          "date": "2026-09-28T19:11:04+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/THE-CYCLE-Official-Poster-scaled.jpg?resize=1718%2C2560&#038;ssl=1"
-        },
-        {
-          "title": "HBO Releases ‘The Pet Cemetery Murders: A Ghost Story’ Trailer",
-          "link": "https://bloody-disgusting.com/tv/3969406/the-pet-cemetery-murders-a-ghost-story-trailer-hbo/",
-          "description": "The new documentary series blends together real-life murders and unexpected assistance from an otherworldly realm. The post HBO Releases ‘The Pet Cemetery Murders: A Ghost Story’ Trailer appeared first on Bloody Disgusting! .",
-          "date": "2026-09-28T18:23:11+00:00",
-          "image": ""
-        },
-        {
-          "title": "Prime Video’s Series Adaptation Of ‘Stillwater’ Finds Lead In ‘The Conjuring: Last Rites’ Star",
-          "link": "https://bloody-disgusting.com/tv/3969404/prime-videos-series-adaptation-of-stillwater-finds-lead-in-the-conjuring-last-rites-star/",
-          "description": "A new series adaptation of Skybound Comics’ Stillwater was greenlit in July, and Variety reports that it’s finally found its lead in The Conjuring: Last Rites breakout Ben Hardy. Greg Berlanti (You, The Flight Attendant) and Carly Wray (Watchmen, Westworld) are leading the charge on the upcoming hor",
-          "date": "2026-09-28T17:50:26+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/07/Stillwater_Issue_1_Cover_A.jpg?resize=600%2C922&#038;ssl=1"
-        },
-        {
-          "title": "‘Backrooms’ Director Kane Parsons Says His “Dream Scenario” for Sequel Is Limited Series",
-          "link": "https://bloody-disgusting.com/movie/3969371/backrooms-2-kane-parson-plans-limited-series/",
-          "description": "Parsons' take on the concept started as a web series and he hopes to be able to wrap up his narrative in a similar structure. The post ‘Backrooms’ Director Kane Parsons Says His “Dream Scenario” for Sequel Is Limited Series appeared first on Bloody Disgusting! .",
-          "date": "2026-09-28T17:34:12+00:00",
-          "image": ""
-        },
-        {
-          "title": "Soundtrack EP for ‘The Witcher 3: Wild Hunt – Songs of the Past’ DLC Now Available",
-          "link": "https://bloody-disgusting.com/video-games/3969288/soundtrack-ep-for-the-witcher-3-wild-hunt-songs-of-the-past-dlc-now-available/",
-          "description": "To start the buzz for the upcoming Songs of the Past DLC for The Witcher 3: Wild Hunt (not to mention the release later this week of The Witcher 3: Wild Hunt – Remastered), Milan Records today has released the Original Soundtrack Gamescom 2026 EP for next year’s expansion. Available now for streamin",
-          "date": "2026-09-28T17:28:26+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/coverart.jpg?resize=2048%2C2048&#038;ssl=1"
+          "title": "Details Revealed for ‘Castlevania’ 40th Anniversary Orchestral Concert Series",
+          "link": "https://bloody-disgusting.com/video-games/3969519/details-revealed-for-castlevania-40th-anniversary-orchestral-concert-series/",
+          "description": "After teasing last week what’s in store for celebrating Castlevania‘s 40th anniversary, Konami has revealed the details about Castlevania 40th Anniversary An Orchestral Concert, an official concert event licensed by Konami, which will bring one of the most celebrated soundtracks in video game histor",
+          "date": "2026-09-29T11:30:19+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/concert.jpg?resize=1280%2C1601&#038;ssl=1"
         }
       ]
     },
@@ -80,74 +80,74 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
-          "title": "Paper Tiger Review: Adam Driver and Miles Teller Lead Great American Film",
-          "link": "https://www.denofgeek.com/movies/paper-tiger-review-adam-driver-and-miles-teller-lead-great-american-film/",
-          "description": "For more than half a century, the vernacular around crime and cinema has changed. Many of the films and even television series that are responsible for this shift have a method to their madness. Whether it is the majestic gravity of the Corleone family or the shiny shoe slickness of Ray Liotta’s Hen",
-          "date": "2026-09-28T20:18:11+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Adam-Driveri-in-Paper-Tiger-Review.jpeg"
+          "title": "Avengers: Endgame Encore Is Your Reminder to Watch Loki Season 2",
+          "link": "https://www.denofgeek.com/movies/avengers-endgame-encore-reminder-watch-loki-season-2/",
+          "description": "This article contains spoilers for Avengers: Endgame Encore. Call it a cash-grab, call it hype for Avengers: Doomsday, call it a genuine fan event made for people who love the MCU: Avengers: Endgame Encore has proven to be a hit. The re-release of the 2019 Phase Three capper won the box office this ",
+          "date": "2026-09-29T15:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2023/10/loki-season-2-3.jpg"
         },
         {
-          "title": "Netflix’s LEGO ONE PIECE Has an Unreliable (But Fun) Narrator Tell a Classic Story",
-          "link": "https://www.denofgeek.com/tv/netflix-lego-one-piece-unreliable-narrator-classic-story/",
-          "description": "This article appears in the new issue of DEN OF GEEK magazine. Find out how you can subscribe to get the full physical copy right here! With long-running manga and anime series, waves of merchandising, and an acclaimed live-action adaptation on Netflix, it’s safe to say that ONE PIECE remains a bona",
-          "date": "2026-09-28T17:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Lego_OP_ArtImg.png"
+          "title": "15 Actors Who Accidentally Created Their Character’s Most Famous Trait",
+          "link": "https://www.denofgeek.com/msn/15-actors-who-accidentally-created-their-characters-most-famous-trait/",
+          "description": "Some character quirks feel so deliberate that it is hard to imagine them not being planned from day one. Then you find out the actor was actually fixing a piece of makeup, struggling with a costume, trying not to laugh, or making a weird noise to entertain a co-star. Those little accidents can end u",
+          "date": "2026-09-29T13:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-4-8.jpg"
         },
         {
-          "title": "Final Fantasy Resonance Celebrates the Franchise’s History with Plenty of Familiar Faces",
-          "link": "https://www.denofgeek.com/games/final-fantasy-resonance-celebrates-franchise-history-familiar-faces/",
-          "description": "Square Enix is really going all out for Final Fantasy ahead of the franchise’s 30th anniversary next year and one of its big titles just in time to close out 2026 is Final Fantasy Resonance. An upgraded adaptation of the 2015 mobile game Final Fantasy Brave Exvius, the game returns to the series to ",
-          "date": "2026-09-28T15:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Final-Fantasy-Resonance.png"
+          "title": "15 People Share the Movie So Intense They Could Never Watch it Again",
+          "link": "https://www.denofgeek.com/msn/15-people-share-the-movie-so-intense-they-could-never-watch-it-again/",
+          "description": "Some movies are entertaining, some are unforgettable, and then there are those that leave you staring at the screen wondering why you put yourself through them. Certain films are so intense that watching them once feels like enough for a lifetime. They might be brutally emotional, deeply disturbing,",
+          "date": "2026-09-29T13:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/16_ae3439.jpg"
         },
         {
-          "title": "Was the Avengers: Endgame Encore Extra Footage Worth It?",
-          "link": "https://www.denofgeek.com/movies/was-the-avengers-endgame-encore-extra-footage-worth-it/",
-          "description": "This article contains spoilers for Avengers: Endgame Encore A couple of days before Avengers: Endgame Encore’s release, Marvel Comics editor Tom Brennan fired off a post on X that some described as a perfect response to the negativity over extra footage from the film leaking online. Endgame, which o",
-          "date": "2026-09-28T14:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2024/12/fZPKudBPPk26E77hXKawqa-1200-80.jpg"
+          "title": "15 Celebrities Who Passed Away at the Height of Their Fame",
+          "link": "https://www.denofgeek.com/msn/15-celebrities-who-passed-away-at-the-height-of-their-fame/",
+          "description": "Fame can change incredibly quickly, but some stars never got the chance to see where their careers might have gone next. They were still releasing major work, selling records, appearing in blockbuster movies, or dominating headlines when their lives suddenly ended. In several cases, their most famou",
+          "date": "2026-09-29T13:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-91.jpg"
         },
         {
-          "title": "15 Actors That Just Deserve More Recognition",
-          "link": "https://www.denofgeek.com/msn/15-actors-that-just-deserve-more-recognition/",
-          "description": "The most famous actors of Hollywood deserve the recognition they get. They do the hard work, and their journey transformed them into a brand more than a celebrity, gaining well deserved praise. There are other actors, however, that may not be as immediately recognizable, but they still deserve some ",
-          "date": "2026-09-28T14:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-11-3.jpg"
+          "title": "Star Trek V Is the Most Star Trek of the Star Trek Movies",
+          "link": "https://www.denofgeek.com/movies/star-trek-v-is-most-star-trek-of-the-star-trek-movies/",
+          "description": "For those who hate nü-Trek, the recent Star Trek: Strange New Worlds episode “Like Chronitons Through the Hourglass” must have been a particularly hard watch. Not only does the episode continue the series’ recent trend of jumping genres—this time setting a daytime soap opera on the Enterprise—but it",
+          "date": "2026-09-29T13:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2020/04/Star-Trek-V-The-Final-Frontier.jpg"
         },
         {
-          "title": "13 Movies That Get You Thinking Even More Than a Book",
-          "link": "https://www.denofgeek.com/msn/14-movies-that-get-you-thinking-even-more-than-a-book/",
-          "description": "Some movies are easy to watch, enjoy, and forget a few hours later. Others follow you home and keep running through your head for weeks, or forever. They raise questions about identity, memory, morality, reality, relationships, and the choices people make without giving you an easy out. A good thoug",
-          "date": "2026-09-28T13:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-74.jpg"
+          "title": "15 Actors Who Looked Completely Unrecognizable in Otherwise Simple Movie Roles",
+          "link": "https://www.denofgeek.com/msn/15-actors-who-looked-completely-unrecognizable-in-otherwise-simple-movie-roles/",
+          "description": "Sometimes an actor needs hours of prosthetics, makeup, wigs, or a completely different physical appearance to disappear into a role. Other times, the transformation is surprisingly simple. A haircut, a beard, a different wardrobe, or even a little weight change can be enough to make a familiar face ",
+          "date": "2026-09-29T13:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/15_e6e86f.jpg"
         },
         {
-          "title": "13 Weird Movie Details You Might Have Thought Were Accidents",
-          "link": "https://www.denofgeek.com/msn/13-weird-movie-details-you-might-have-thought-were-accidents/",
-          "description": "Movies are packed with tiny details that are easy to miss, especially when the story is moving quickly. A strange prop in the background, an unusual costume choice, a character's odd reaction, or a tiny visual detail can look like a continuity mistake when you first notice it. Sometimes, though, tho",
-          "date": "2026-09-28T13:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-87.jpg"
+          "title": "Club Kid Review: The Feel-Good A24 Gay Nightclub Movie You’ve Been Waiting For",
+          "link": "https://www.denofgeek.com/movies/club-kid-review-feel-good-a24-gay-nightclub/",
+          "description": "There are few people who do not at some point want to be the life of the party. There are even fewer who want to be the final dregs hanging on after last call is announced, “Closing Time” played, and the lights flipped on. Peter, Jordan Firstman’s hard-living and self-styled party promoter, is well ",
+          "date": "2026-09-29T13:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Jordan-Firstman-in-Club-Kid-Review.jpg"
         },
         {
-          "title": "15 Movies That Made Absolutely No Sense Until the Ending",
-          "link": "https://www.denofgeek.com/msn/15-movies-that-made-absolutely-no-sense-until-the-ending/",
-          "description": "Some movies seem to make it their mission to leave you confused for as long as possible. Characters behave strangely, important details appear without explanation, and entire scenes can feel like they belong to a completely different story. Then the ending arrives and suddenly those odd little piece",
-          "date": "2026-09-28T13:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-86.jpg"
+          "title": "15 Weird Movie Details You Probably Never Thought to Question",
+          "link": "https://www.denofgeek.com/msn/15-weird-movie-details-you-probably-never-thought-to-question/",
+          "description": "Movies train us to accept a lot without thinking twice. When you stop and examine the details, though, some are surprisingly strange. A filmmaker may have slipped something into the background, quietly ignored a practical problem, or created a fictional rule that doesn't really hold up when you thin",
+          "date": "2026-09-29T12:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-89.jpg"
         },
         {
-          "title": "The Skywalker Saga Will Continue Until Star Wars Morale Improves",
-          "link": "https://www.denofgeek.com/movies/the-skywalker-saga-will-continue-until-star-wars-morale-improves/",
-          "description": "After seven years toiling in the Disney+ content mines with one mid movie to show for its troubles, Lucasfilm is reportedly sticking with its plan to continue the Skywalker Saga on the big screen in the future. Deadline has confirmed that Cop Car and Spider-Man: Homecoming director Jon Watts will he",
-          "date": "2026-09-28T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/luke.png"
+          "title": "15 Things You See Every Day That Were Designed for a Completely Different World",
+          "link": "https://www.denofgeek.com/msn/15-things-you-see-every-day-that-were-designed-for-a-completely-different-world/",
+          "description": "Some designs survive because they are brilliant. Others survive because changing them would annoy absolutely everyone. We still type on a keyboard layout born with mechanical typewriters, save files with a picture of technology many people have never used, and keep compartments in our cars named aft",
+          "date": "2026-09-29T12:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/12_23ad21.jpg"
         },
         {
-          "title": "Godzilla Minus Zero Review: Bigger, Grander, and Double the Kaiju",
-          "link": "https://www.denofgeek.com/movies/godzilla-minus-zero-review-kaiju/",
-          "description": "This article reconfirms who the second kaiju is in Godzilla Minus Zero, which neither we nor the filmmakers consider a spoiler. But just in case… here’s your warning. When Godzilla Minus One released three years ago, it was remarkable for a multitude of reasons. While there have been other great kai",
-          "date": "2026-09-28T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Godzilla-Minus-Zero-Review.jpg"
+          "title": "15 Movie Scenes That Were Conceived Completely Differently Than What’s in the Final Cut",
+          "link": "https://www.denofgeek.com/msn/15-movie-scenes-that-were-conceived-completely-differently-than-whats-in-the-final-cut/",
+          "description": "Movies rarely premier exactly as they were first imagined. A scene can be rewritten after filming, changed during editing, or completely reworked when a director realizes that the original idea is not landing the way it should. Looking at these alternate versions is a good reminder of how much filmm",
+          "date": "2026-09-29T12:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-88.jpg"
         }
       ]
     },
@@ -230,6 +230,34 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "Xbox’s New PS5 Action Game Sequel Is Out Today on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/09/29/minecraft-dungeons-2-ps5-release",
+          "description": "The latest Xbox action RPG is now out for PlayStation 5. Players can download the game from the PlayStation Store today. The new game is a sequel to the 2020 dungeon-crawler, Minecraft Dungeons. Minecraft Dungeons II is now available on the PS Store. The sequel comes from Mojang, the same studio beh",
+          "date": "2026-09-29T15:08:52+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/xbox.jpg?w=1024"
+        },
+        {
+          "title": "Beloved PS5 RPG Trilogy Is Under $10 on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/09/29/shadowrun-trilogy-ps-store-deal-september-2026",
+          "description": "A complete set of one of the best PS5 and PS4 RPGs is a whopping 75% off on the PS Store in a limited-time deal. The entire Shadowrun Trilogy is under $10 in the ongoing Autumn Adventures promotion, offering fantastic value. Shadowrun Trilogy PS Store deal offers three great games for the price of o",
+          "date": "2026-09-29T11:50:55+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/shadowrun-trilogy-ps-store-deal.jpg?w=1024"
+        },
+        {
+          "title": "PlayStation Store Codes for Free The Last of Us PS5 Downloads",
+          "link": "https://www.playstationlifestyle.net/2026/09/29/free-last-of-us-ps5-download-codes-ps-store",
+          "description": "To celebrate The Last of Us Day 2026, Sony Interactive Entertainment and Naughty Dog are giving out free PS5 and PS4 goodies to all players. Head over to the PS Store to redeem a set of four avatars that’ll be available for a limited time only. All regions’ PS Store codes for free The Last […] The p",
+          "date": "2026-09-29T11:32:19+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/the-last-of-us-free-ps5-downloads.jpg?w=1024"
+        },
+        {
+          "title": "PlayStation Plus Adds Acclaimed 2025 Action Game & 2 More Titles",
+          "link": "https://www.playstationlifestyle.net/2026/09/29/ps-plus-extra-final-september-2026-game-batch",
+          "description": "PS Plus Extra is rolling out a fan-favorite 2025 PS5 action game in regions where the catalog follows a staggered release schedule. Players in Japan and U.K. can now download and play Ninja Gaiden: Ragebound and two more hit titles. Folks in the U.S. will be able to access the games by noon local ti",
+          "date": "2026-09-29T10:06:03+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/04/free-ps-plus-essential-extra-premium.jpg?w=1024"
+        },
+        {
           "title": "Gorgeous PlayStation 5 Console Exclusive Gets Release Date, 20% Off on PS Store",
           "link": "https://www.playstationlifestyle.net/2026/09/28/upcoming-playstation-5-console-exclusive-adventure-game-finally-opens-pre-orders",
           "description": "Indian game developer Tathvamasi Studios has announced the release date for Suri: The Seventh Note, an upcoming PS5 exclusive platformer The post Gorgeous PlayStation 5 Console Exclusive Gets Release Date, 20% Off on PS Store appeared first on PlayStation LifeStyle .",
@@ -270,40 +298,19 @@
           "description": "A highly anticipated new PS5 game in a long-running Bandai Namco Entertainment series has earned high praise from critics. Ace Combat 8: Wings of Theve is the next game in the beloved air combat sim franchise that is scheduled for release on October 2, 2026. Bandai Namco air combat game Ace Combat 8",
           "date": "2026-09-28T12:30:44+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/bandai-namco-ps5-game-ace-combat-8.jpg?w=1024"
-        },
-        {
-          "title": "PS6 PlayStation Store Purchases Might Be Easier Than Ever Before",
-          "link": "https://www.playstationlifestyle.net/2026/09/28/ps6-controller-nfc-playstation-store-purchases-patent",
-          "description": "Sony Interactive Entertainment is testing new technology that would make PlayStation Store purchases easier than ever before. A September 2026-published Sony patent suggests that paying for games after the end of discs could be as simple as tapping a card on the PS6‘s controller. Sony patent describ",
-          "date": "2026-09-28T12:10:57+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/playstation-store.jpg?w=1024"
-        },
-        {
-          "title": "Divisive PS5 Exclusive RPG 60% Off on PS Store for the First Time",
-          "link": "https://www.playstationlifestyle.net/2026/09/28/lost-soul-aside-ps-store-deal-september-2026",
-          "description": "A 2025 PS5 exclusive action-adventure RPG that polarized players is 60% off in a limited-time PS Store deal. This is the first time since launch that Ultizero Games’ Lost Soul Aside has received a steep discount, and you only have until October 8 to take advantage of the offer. PS5 action-adventure ",
-          "date": "2026-09-28T11:41:06+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/lost-soul-aside-ps-store-deal.jpg?w=1024"
-        },
-        {
-          "title": "2025 Bandai Namco PS5, PS Plus Action Game Shutting Down Already",
-          "link": "https://www.playstationlifestyle.net/2026/09/28/ps5-ps-plus-action-game-synduality-shutting-down",
-          "description": "A 2025 Bandai Namco Entertainment-published PS5, PS Plus action game is shutting down, the company has announced. Synduality: Echo of Ada is an action RPG / third-person shooter that received mixed reviews at launch. The game was offered as a PS Plus Essential monthly freebie in December 2025. PS5, ",
-          "date": "2026-09-28T11:20:58+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/ps5-game-synduality-shutting-down.jpg?w=1024"
-        },
-        {
-          "title": "PS5 Update Adds Cool New Theme The Last of Us Fans Will Love",
-          "link": "https://www.playstationlifestyle.net/2026/09/26/ps5-welcome-hub-update-tlou-background-september-2026",
-          "description": "Sony Interactive Entertainment has rolled out a new PS5 feature update for September 2026 that brings a new animated theme for the Welcome Hub. The background celebrates Naughty Dog’s The Last of Us franchise with a pretty nifty animation. PS5 Welcome Hub update adds animated background featuring Th",
-          "date": "2026-09-26T16:12:17+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/09/ps5-update.jpg?w=1024"
         }
       ]
     },
     "PlayStation Blog": {
       "url": "https://blog.playstation.com/feed/",
       "articles": [
+        {
+          "title": "How Control Resonant’s art design and tech shaped its bosses, paranaturally-twisted Manhattan and more",
+          "link": "https://blog.playstation.com/2026/09/29/how-control-resonants-art-design-and-tech-shaped-its-bosses-paranaturally-twisted-manhattan-and-more/",
+          "description": "With its gravity-defying set pieces, memorable boss fights, and decidedly different take on Manhattan, Control Resonant, released last week, is staking its claim to be one of 2026’s big hitters on PlayStation 5. I had the chance to talk to Lead Level Designer Anne-Marie Grönroos, Art Director Elmeri",
+          "date": "2026-09-29T13:00:09+00:00",
+          "image": "https://live.staticflickr.com/65535/55545930874_e5339fedfc_4k.jpg"
+        },
         {
           "title": "(For SEA) God of War Laufey pre-orders available starting September 29, editions detailed",
           "link": "https://blog.playstation.com/2026/09/28/20260929-gow/",
@@ -366,13 +373,6 @@
           "description": "Last year, we teamed up with Lisa for the first time on our global PS5 campaign. Today, we’re taking our collaboration a step further with an all-new DualSense wireless controller – Lisa Limited Edition designed with Lisa herself. Lisa’s journey has taken her from her roots in Thailand to Korea and ",
           "date": "2026-09-22T01:03:04+00:00",
           "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-        },
-        {
-          "title": "Lisa x PlayStation arrives this October: First look at the DualSense wireless controller – Lisa Limited Edition and all-new merchandise",
-          "link": "https://blog.playstation.com/2026/09/21/lisa-x-playstation-arrives-this-october-first-look-at-the-dualsense-wireless-controller-lisa-limited-edition-and-all-new-merchandise/",
-          "description": "Last year, we teamed up with Lisa for the first time on our global PS5 campaign. Today, we’re taking our collaboration a step further with an all-new DualSense wireless controller – Lisa Limited Edition and a new merchandise collection designed with Lisa herself. Lisa’s journey has taken her from he",
-          "date": "2026-09-21T12:00:58+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
         }
       ]
     },
@@ -380,74 +380,74 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
-          "title": "No Intergalactic PS5 Updates Until 2027, New Artwork for Now",
-          "link": "https://www.pushsquare.com/news/2026/09/no-intergalactic-ps5-updates-until-2027-new-artwork-for-now",
-          "description": "\"We're going to be quiet for the rest of this year\". Intergalactic: The Heretic Prophet will not get its long-awaited blowout this year, as boss Neil Druckmann says Naughty Dog needs a little more time to “cook”. Speaking in the aftermath of The Last of Us Day – where it also announced multiple new ",
-          "date": "2026-09-29T00:45:00+00:00",
-          "image": "https://images.pushsquare.com/637522492e482/large.jpg"
+          "title": "The Witcher 3 Remastered PS5 Pays Homage to the Worst DLC in History",
+          "link": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in-history",
+          "description": "Get new horse armour for Roach. Ask anyone for examples of the worst DLC ever made, and it won't be long before they say horse armour. Bethesda flogged fresh horse armour in Oblivion for $2.50, and the pack has lived in infamy ever since. At the time, it was a lesson to other developers in how not t",
+          "date": "2026-09-29T15:00:00+00:00",
+          "image": "https://images.pushsquare.com/b4f54330aacd1/large.jpg"
         },
         {
-          "title": "New The Last of Us Projects in 'Very Early Stages' of Development",
-          "link": "https://www.pushsquare.com/news/2026/09/new-the-last-of-us-projects-in-very-early-stages-of-development",
-          "description": "\"These stories are worth telling\". Naughty Dog has started work on a “couple” of “very exciting” new The Last of Us projects. That’s according to boss Neil Druckmann, who made the announcement to conclude its the Last of Us Day celebrations today. Read the full article on pushsquare.com",
-          "date": "2026-09-29T00:30:00+00:00",
-          "image": "https://images.pushsquare.com/3bf666c34d769/large.jpg"
+          "title": "These 3 Classic Toy Story Games Have All Been Delisted on PS5, Removed from PS Plus",
+          "link": "https://www.pushsquare.com/news/2026/09/these-3-classic-toy-story-games-have-all-been-delisted-on-ps5-removed-from-ps-plus",
+          "description": "A familiar story. Earlier today, Sony confirmed the seven games that’ll be leaving the PS Plus Extra catalogue in September. However, I was surprised to see this selection expand to two PS Plus Premium games as well: the PS1’s Toy Story 2: Buzz Lightyear to the Rescue and the PSP’s Toy Story 3 . Rea",
+          "date": "2026-09-29T14:45:00+00:00",
+          "image": "https://images.pushsquare.com/c296ca38dd41f/large.jpg"
         },
         {
-          "title": "Enhance Your Ace Combat 8 Experience with Two Rival PS5 Flight Sticks, Out This Week",
-          "link": "https://www.pushsquare.com/news/2026/09/enhance-your-ace-combat-8-experience-with-two-rival-ps5-flight-sticks-out-this-week",
-          "description": "Do a barrell roll. In a stacked year for new video games, Ace Combat 8: Wings of Theve has emerged as another Game of the Year candidate. We awarded the title a very respectable 8/10 , but on aggregator website Metacritic , it’s got an incredible 87 – that makes it one of the best new releases of th",
-          "date": "2026-09-28T23:30:00+00:00",
-          "image": "https://images.pushsquare.com/4277ed606e3c8/large.jpg"
+          "title": "Persona Sales Report Confirms North America as Series' Biggest Market",
+          "link": "https://www.pushsquare.com/news/2026/09/persona-sales-report-confirms-north-america-as-series-biggest-market",
+          "description": "Times have changed. Thanks a new sales report from SEGA, we now have renewed insight into how popular the Persona series is on a global scale. As covered by Persona Central , the publisher's actually broken down the percentage of sales — across all Persona games — per region, and the data makes for ",
+          "date": "2026-09-29T14:30:00+00:00",
+          "image": "https://images.pushsquare.com/6c908666470aa/large.jpg"
         },
         {
-          "title": "Review: Train Sim World 7 (PS5) - A Familiar Journey with a Few New Stops",
-          "link": "https://www.pushsquare.com/reviews/ps5/train-sim-world-7",
-          "description": "See it, say it, sorted. As I write my seventh Train Sim World review in almost as many years, I’m fighting the feeling of groundhog day a tad – I think even the team at Dovetail would forgive me that. There’s no question this railway simulation has come on leaps and bounds in the best part of a deca",
-          "date": "2026-09-28T23:00:00+00:00",
-          "image": "https://images.pushsquare.com/2f6c642be4af2/large.jpg"
+          "title": "PSA: Ace Combat 8 Comes with a Whole Other Game, But Only if You Pre-Order, and You Don't Have Long",
+          "link": "https://www.pushsquare.com/news/2026/09/psa-ace-combat-8-comes-with-a-whole-other-game-but-only-if-you-pre-order-and-you-dont-have-long",
+          "description": "Ace Combat Zero won't be available forever. The brilliant Ace Combat 8: Wings of Theve makes its official launch on 2nd October, 2026, and if you're considering buying it, I'd highly recommend pre-ordering on this occasion. That's not only because the new game is another fantastic entry in Bandai Na",
+          "date": "2026-09-29T14:00:00+00:00",
+          "image": "https://images.pushsquare.com/5fa5c507fceca/large.jpg"
         },
         {
-          "title": "Double XP Tokens Finally Work How You'd Think They Would in Modern Warfare 4",
-          "link": "https://www.pushsquare.com/news/2026/09/double-xp-tokens-finally-work-how-youd-think-they-would-in-modern-warfare-4",
-          "description": "Tied to in-game time, not real time. If you activated a double XP token, you'd assume it would only be active when you can actually earn XP, right? That has not been the case in the Call of Duty series for all of time, as the franchise allows the token's XP timer to keep on counting down to zero eve",
-          "date": "2026-09-28T21:15:00+00:00",
-          "image": "https://images.pushsquare.com/7b037dd36e59e/large.jpg"
+          "title": "God of War Laufey PS5 Pre-Orders Live Now, Starting at $70",
+          "link": "https://www.pushsquare.com/news/2026/09/god-of-war-laufey-ps5-pre-orders-live-now-starting-at-usd70",
+          "description": "Ahead of 16th Feb 2027 release date. Sony has revealed you'll be able to pre-order God of War Laufey from tomorrow, 29th September 2026, and detailed the two PS5 versions that'll be on offer. The PS5 exclusive remains locked in for a 16th February 2027 launch, and there is a Standard Edition and Dig",
+          "date": "2026-09-29T13:30:00+00:00",
+          "image": "https://images.pushsquare.com/158585bf5bcaf/large.jpg"
         },
         {
-          "title": "The Last of Us Day Marked with PS5 Avatars, Ghost of Yotei DLC, Figures",
-          "link": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dlc-figures",
-          "description": "Get your redemption code here. Naughty Dog is celebrating The Last of Us Day today with a livestream that collaborates with AbleGamers , where hosts will be playing the No Return mode from The Last of Us 2 Remastered. That's later today, but the developer has shared what you can claim now and what's",
-          "date": "2026-09-28T18:30:00+00:00",
-          "image": "https://images.pushsquare.com/45585a9168f15/large.jpg"
-        },
-        {
-          "title": "Sony Fighting PS5 Pro Scalpers in Japan with 60 Hour Gameplay Requirement",
-          "link": "https://www.pushsquare.com/news/2026/09/sony-fighting-ps5-pro-scalpers-in-japan-with-60-hour-gameplay-requirement",
-          "description": "For the real players. Sony is combating demand for the PS5 Pro in Japan by limiting sales to fans with more than 60 hours of gameplay over the past two years. Gamers can apply for a ticket to purchase the ¥137,980 (~$877) console from the Sony Store, but must meet the following criteria in order to ",
-          "date": "2026-09-28T17:00:00+00:00",
-          "image": "https://images.pushsquare.com/ccc02150fda4a/large.jpg"
-        },
-        {
-          "title": "Review in Progress: The Witcher 3: Wild Hunt Remastered (PS5) - How to Improve a Masterpiece",
+          "title": "Review: The Witcher 3: Wild Hunt Remastered (PS5) - How to Improve a Masterpiece",
           "link": "https://www.pushsquare.com/reviews/ps5/the-witcher-3-wild-hunt-remastered",
           "description": "Back on the Path. Four years on from its big next-gen update with Complete Edition , The Witcher 3 is back — and this time, it's taken the form of an enhanced remaster. At a glance, some may consider this an unnecessary refresh, as the aforementioned Complete Edition still looks pretty great on PS5 ",
-          "date": "2026-09-28T16:00:00+00:00",
-          "image": "https://images.pushsquare.com/620926b597274/large.jpg"
+          "date": "2026-09-29T13:15:00+00:00",
+          "image": "https://images.pushsquare.com/reviews/ps5/the-witcher-3-wild-hunt-remastered/large.jpg"
         },
         {
-          "title": "Wolverine Breaks PS5's Live Service Stranglehold in the US",
-          "link": "https://www.pushsquare.com/news/2026/09/wolverine-breaks-ps5s-live-service-stranglehold-in-the-us",
-          "description": "Snikt. Its sales may have fallen behind Marvel’s Spider-Man in Japan, but in the US Wolverine is proving there’s still a place for single player games. Circana’s engagement tracker – which ranks the titles with most active users on a weekly basis – shows Insomniac’s new PS5 exclusive was the only si",
-          "date": "2026-09-28T15:30:00+00:00",
-          "image": "https://images.pushsquare.com/6e17c29474e6b/large.jpg"
+          "title": "Resident Evil Film Success Reportedly Hands PS5, PS4 Remakes Huge Player and Sales Boosts",
+          "link": "https://www.pushsquare.com/news/2026/09/resident-evil-film-success-reportedly-hands-ps5-ps4-remakes-huge-player-and-sales-boosts",
+          "description": "RE2 and RE4 apparently profit best. The new Resident Evil movie from Zach Cregger is on course to become the series' biggest film ever, and that success has apparently translated into considerable player and sales spikes for Resident Evil 2 and Resident Evil 4 . The proposed data comes from Alinea A",
+          "date": "2026-09-29T13:00:00+00:00",
+          "image": "https://images.pushsquare.com/4ce373e913896/large.jpg"
         },
         {
-          "title": "Sony Quits CES in 2027 as It Continues Transition to Entertainment",
-          "link": "https://www.pushsquare.com/news/2026/09/sony-quits-ces-in-2027-as-it-continues-transition-to-entertainment",
-          "description": "Has attended US event for 60 years. Sony, one of the world’s most iconic consumer electronics companies, will not attend 2027’s Consumer Electronics Show . Reporting from Nikkei (via JapanTimes ) reveals the Japanese giant has pulled out of next year’s Las Vegas event, scheduled to take place in Jan",
-          "date": "2026-09-28T14:45:00+00:00",
-          "image": "https://images.pushsquare.com/cf20d6d34498f/large.jpg"
+          "title": "Oh No: PS5 Vapourware Abandoned Appears to Be Coming Back",
+          "link": "https://www.pushsquare.com/news/2026/09/oh-no-ps5-vapourware-abandoned-appears-to-be-coming-back",
+          "description": "Not so abandoned? Remember Abandoned , the upcoming PS5 game that sent everyone insane a few years ago? Well, it looks like it might be making a return. As pointed out on X, the PS Store page for Abandoned — which never went away, by the way — has recently been updated, suggesting developer Blue Box",
+          "date": "2026-09-29T12:45:00+00:00",
+          "image": "https://images.pushsquare.com/9d33ca91f9142/large.jpg"
+        },
+        {
+          "title": "Feature: 40+ PS5, PS4 Games to Buy in PS Store's Autumn Adventures Sale",
+          "link": "https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-ps-stores-autumn-adventures-sale",
+          "description": "Sale away. It's always time for a sale on PS Store, and the current one is Autumn Adventures, running until 7th October 2026. As usual, there are thousands of PS5 and PS4 games going cheap, and that's just too much to scroll through, isn't it? Read the full article on pushsquare.com",
+          "date": "2026-09-29T12:00:00+00:00",
+          "image": "https://images.pushsquare.com/5daca3ebf07e8/large.jpg"
+        },
+        {
+          "title": "The Witcher 3 Remastered Available to Download Now",
+          "link": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-available-to-download-now",
+          "description": "An update to current PS5 version. As a quick reminder, the newly remastered version of The Witcher 3 is an update to the current Complete Edition for the RPG, and that patch will be around 45GB in size. CD Projekt Red executive Marcin Momot revealed the download size of the update across all platfor",
+          "date": "2026-09-29T10:15:00+00:00",
+          "image": "https://images.pushsquare.com/f370621d3522c/large.jpg"
         }
       ]
     },
