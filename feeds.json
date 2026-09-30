@@ -1,9 +1,37 @@
 {
-  "updated": "2026-09-29T20:37:07.593874+00:00",
+  "updated": "2026-09-30T00:15:11.512093+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Color Out of Space’s Madeleine Arthur Joins Thriller ‘Doula’",
+          "link": "https://bloody-disgusting.com/movie/3969721/doula-movie-madeleine-arthur-dianne-doan/",
+          "description": "One of the best adaptations of H.P. Lovecraft of all time is Color Out of Space, which premiered in 2019 before officially being released in 2020. Starring Nicolas Cage and produced by Elijah Wood, the mind-bending movie honored the cosmic roots of the original short story and indescribable nature o",
+          "date": "2026-09-29T22:52:34+00:00",
+          "image": ""
+        },
+        {
+          "title": "Jennifer Lawrence To Star In Zach Cregger’s Sci-fi Movie ‘The Flood’",
+          "link": "https://bloody-disgusting.com/movie/3969717/jennifer-lawrence-to-star-in-zach-creggers-sci-fi-movie-the-flood/",
+          "description": "Oscar-winning Jennifer Lawrence has officially been set to star in the sci-fi movie The Flood, from writer-director Zach Cregger (Barbarian, Weapons), Deadline reports today. New Line/Warner Bros. will release The Flood in theaters August 11, 2028, with Steven Spielberg’s Amblin Entertainment produc",
+          "date": "2026-09-29T21:50:14+00:00",
+          "image": ""
+        },
+        {
+          "title": "Ripcord’s Halloween Film Festival Builds a Bridge Between Fans and Filmmakers",
+          "link": "https://bloody-disgusting.com/sponsored/3969653/ripcord-bridge/",
+          "description": "Thousands of filmmakers across the world want to be the next Kane Parsons or Curry Barker. Many of them even have the tools and the talent to make the horror happen. What they’re lacking is the audience. That’s where Ripcord emerges from the shadows — not with a scare, but an opportunity. With Ripco",
+          "date": "2026-09-29T20:56:42+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Five Nights at Freddy’s 3’ Star Matthew Lillard Says “Next-Level” Sequel Will Shoot in 2027 [EXCLUSIVE]",
+          "link": "https://bloody-disgusting.com/movie/3969676/five-nights-at-freddys-3-matthew-lillard-filming-start/",
+          "description": "The journey to the release of the Five Nights at Freddy’s movie was a long and complicated one. Based on the game series, it seemed like a given that bringing the unsettling animatronic mascots to life would be a no-brainer. In 2015, development on the project began, but after bouncing around betwee",
+          "date": "2026-09-29T20:45:22+00:00",
+          "image": ""
+        },
         {
           "title": "Curry Barker’s ‘Anything But Ghosts’ Sets 2027 Release Date",
           "link": "https://bloody-disgusting.com/movie/3969684/curry-barkers-anything-but-ghosts-sets-2027-release-date/",
@@ -45,34 +73,6 @@
           "description": "Pluto TV is celebrating Halloween with a massive horror collection arriving in October, joining the previously announced “Double Feature Fridays” all through October. The streaming platform is kicking off spooky season October 1 with the return of Halloween Hits, featuring a deep lineup of horror fa",
           "date": "2026-09-29T18:29:01+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/images.jpg?resize=925%2C451&#038;ssl=1"
-        },
-        {
-          "title": "Snake Plissken Heads to the North Pole in New ‘Escape From New York’ Comic",
-          "link": "https://bloody-disgusting.com/news/3969621/escape-from-new-york-north-pole-snake-plissken-comic/",
-          "description": "'Escape from New York: Escape from the North Pole' is set to hit shelves in December. The post Snake Plissken Heads to the North Pole in New ‘Escape From New York’ Comic appeared first on Bloody Disgusting! .",
-          "date": "2026-09-29T17:32:24+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Escape-From-New-York-Escape-from-the-North-Pole-Comic-Cover-full.jpg?resize=800%2C1223&#038;ssl=1"
-        },
-        {
-          "title": "Playtest Is Now Live for Sci-Fi Co-Op Survival Horror Game ‘CODE EXIT’ [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3969528/playtest-is-now-live-for-sci-fi-co-op-survival-horror-game-code-exit-trailer/",
-          "description": "Developer Phase 8 Studio and publisher LINE Games have officially launched the playtest on Steam for CODE EXIT, the 1–4 player sci-fi co-op survival horror game where every move is watched by the rogue AI Minerva. Through now until October 19, players can enter Pantheon, complete exploration mission",
-          "date": "2026-09-29T17:24:38+00:00",
-          "image": ""
-        },
-        {
-          "title": "Voodoo Ranger Launches ‘Slasher Manhunt’ To Give One Real-Life Michael Myers A Year’s Supply of Beer",
-          "link": "https://bloody-disgusting.com/the-further/3969625/voodoo-ranger-launches-slasher-manhunt-to-give-real-life-michael-myers-a-years-supply-of-beer/",
-          "description": "While most people run from Michael Myers, Voodoo Ranger is embarking on a Slasher Manhunt, a search for real people legally named Michael Myers. They just want to buy him a beer. A year’s worth, to be exact. The nationwide search is open to anyone 21 and older in the US who can legally prove […] The",
-          "date": "2026-09-29T17:07:58+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/nbb_humby_voodoo_2026_halloween_slasher_pack_red_secondarycans-.jpg?resize=800%2C533&#038;ssl=1"
-        },
-        {
-          "title": "‘Play House’ Filmmakers Reveal the Real-Life Inspiration Behind Their Fantastic Fest Horror Film",
-          "link": "https://bloody-disgusting.com/interviews/3969615/play-house-interview/",
-          "description": "At first glance, Play House joins the wave of horror movies that transform kids’ shows and their mascots into nightmare fuel. But the feature debut by director Nicolas Curcio instead uses childhood terror as the foundation of an unsettling home invasion. Also setting Play House apart, at least at Fa",
-          "date": "2026-09-29T16:26:58+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Play-House-Movie.jpg?resize=1024%2C576&#038;ssl=1"
         }
       ]
     },
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Top Horror Movies Streaming This Week",
+          "link": "https://www.fangoria.com/top-horror-movies-streaming-this-week/",
+          "description": "Horror movie favorites have returned this week with BARBARIAN, THE WICKER MAN, and RESIDENT EVIL (2002) emerging from the past to lay claim to top spots on this week's list. Take a look at what this week has in store for you at FANGORIA.",
+          "date": "2026-09-29T21:24:15+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2024/03/musicartsculture_movies1-1-ecd9793bf7c18d16.jpg"
+        },
+        {
           "title": "OBSESSION Director’s Next Horror Movie Officially Has A Release Date",
           "link": "https://www.fangoria.com/anything-but-ghosts-release-date/",
           "description": "Get Curry Barker's ANYTHING BUT GHOSTS on your calendars, stat.",
@@ -216,19 +223,47 @@
           "description": "After the success of RESIDENT EVIL, the film's producer Carter Swan is bringing another horror adaptation to our screens. Get all the details here.",
           "date": "2026-09-28T18:10:55+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/keenspot-entertainment-comic-books-crying-boy-2-cvr-a-mark-marvida-70712974146200211-feb241510-40596261208316_1163x.jpg"
-        },
-        {
-          "title": "Oscar Nominee Lily Gladstone To Star In Western Horror THE CURSE OF SILVER",
-          "link": "https://www.fangoria.com/lily-gladstone-the-curse-of-silver/",
-          "description": "Oscar nominee Lily Gladstone is set to star in THE CURSE OF SILVER, a new horror western also featuring DARK WINDS' Kiowa Gordon.",
-          "date": "2026-09-28T17:13:42+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/under-the-bridge_w1KcjK.jpg"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "GTA 6’s Weather System Has Fans Rethinking How They’ll Survive Vice City",
+          "link": "https://www.playstationlifestyle.net/2026/09/29/gta-6-weather-system-hurricanes-localized-storms",
+          "description": "Rockstar Games has shared new details about GTA VI’s weather system, teasing how changing climatic conditions will shape the world of Leonida. The game’s dynamic weather and its transitions across different locations have already sparked plenty of discussion among fans. In a new cover story from Gam",
+          "date": "2026-09-29T23:07:53+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Deepesh-personal-1200-675-29.jpg?w=1024"
+        },
+        {
+          "title": "Popular PS5 Open-World Shooter Is 85% Off on PlayStation Store With DLC",
+          "link": "https://www.playstationlifestyle.net/2026/09/29/far-cry-6-ps5-sale-85-percent-off-dlc",
+          "description": "A popular PlayStation 5 video game with downloadable content is now available with an 85% discount. The open-world game is also available in two free trial versions on the PlayStation Store. However, this discounted price is part of a limited-time deal that ends this October. Ubisoft’s Far Cry 6 Gam",
+          "date": "2026-09-29T21:46:29+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/13.jpg?w=1024"
+        },
+        {
+          "title": "James Bond Fans to Get a New Mission as 007 First Light Teases Free DLC",
+          "link": "https://www.playstationlifestyle.net/2026/09/29/james-bond-fans-new-mission-007-first-light-free-dlc",
+          "description": "James Bond fans may have a reason to return to 007 First Light as soon as this week. Developer IO Interactive has teased a new free DLC coming. The game was released earlier this year to critical acclaim and sold over 4 million units in just three months. Taking to social media, the game’s official ",
+          "date": "2026-09-29T21:42:34+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/007-first-light.jpg?w=1024"
+        },
+        {
+          "title": "PS5 Ports of Beloved Classics Delisted From PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/09/29/toy-story-2-3-delisted-ps-store-ps-plus",
+          "description": "Two Disney classics have suddenly vanished from the PlayStation Store. Players can no longer purchase the affected versions of the games on the PlayStation Store, and they have also left the PS Plus catalog. Toy Story 2 and Toy Story 3 have been removed from Sony’s official digital storefront. The g",
+          "date": "2026-09-29T21:12:46+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/PS5-Ports-of-Beloved-Classics-Delisted-From-PlayStation-Store.jpg?w=1024"
+        },
+        {
+          "title": "PlayStation Store Update Worldwide September 29, 2026",
+          "link": "https://www.playstationlifestyle.net/2026/09/29/playstation-store-update-worldwide-september-29-2026",
+          "description": "Each week Sony brings PlayStation 4, PlayStation 5, PlayStation VR, and PlayStation Plus owners new content, add-ons, games, and more. Here is the complete global PlayStation Store update. PlayStation LifeStyle catalogs the PlayStation Store updates for the major regions across the globe. Check back",
+          "date": "2026-09-29T21:00:00+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2023/03/psglobalupdate.jpg?w=1024"
+        },
         {
           "title": "GTA 6 Brings Jet Skiing, Mini Golf & Much More Side Activities, Rockstar Confirms",
           "link": "https://www.playstationlifestyle.net/2026/09/29/gta-6-jet-skiing-mini-golf-side-activities-rockstar",
@@ -263,41 +298,6 @@
           "description": "The 2026 Fortnite Fortnitemares has officially released its trailer. This year’s annual event features popular characters from various horror franchises. Additionally, it includes a famous prop from a 2026 hit horror film and an anime character. Epic Games has released a cinematic trailer collaborat",
           "date": "2026-09-29T17:57:45+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/6_5e4495.jpg?w=1024"
-        },
-        {
-          "title": "PS5 Adventure Game Sequel With Great Reviews Out Today on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/09/29/toem-2-ps5-adventure-game-review-playstation-store",
-          "description": "An incredible PS5 sequel to an adventure game is finally out on the PlayStation Store, receiving solid reactions from critics. The latest installment comes from developer Something We Made and publisher popagenda. Toem 2, the second part of 2021’s BAFTA-winning cozy title, has released for PlayStati",
-          "date": "2026-09-29T17:42:16+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/Deepesh-personal-1200-675-20.jpg?w=1024"
-        },
-        {
-          "title": "Konami’s New PS5 Pro Enhanced Adventure Game Impresses Players",
-          "link": "https://www.playstationlifestyle.net/2026/09/29/konamis-new-ps5-pro-enhanced-horror-game-silent-hill-townfall",
-          "description": "A brand-new PS5 Pro horror-adventure game from Konami has stood out for its impressive performance. Developed by Screen Burn Interactive, the latest installment is part of a long-running franchise. Silent Hill: Townfall launched a few days ago on PlayStation 5 Pro and has delivered a stunning experi",
-          "date": "2026-09-29T17:25:17+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/5_42681c.jpg?w=1024"
-        },
-        {
-          "title": "Beloved RPG Gets Free PlayStation 5 Remaster Upgrade Today",
-          "link": "https://www.playstationlifestyle.net/2026/09/29/playstations-beloved-fantasy-rpg-out-today-massive-new-upgrade",
-          "description": "A popular fantasy RPG has received a remaster for the PlayStation 5. The post Beloved RPG Gets Free PlayStation 5 Remaster Upgrade Today appeared first on PlayStation LifeStyle .",
-          "date": "2026-09-29T16:33:00+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/w.jpg?w=1024"
-        },
-        {
-          "title": "Xbox’s New PS5 Action Game Sequel Is Out Today on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/09/29/minecraft-dungeons-2-ps5-release",
-          "description": "The latest Xbox action RPG is now out for PlayStation 5. Players can download the game from the PlayStation Store today. The new game is a sequel to the 2020 dungeon-crawler, Minecraft Dungeons. Minecraft Dungeons II is now available on the PS Store. The sequel comes from Mojang, the same studio beh",
-          "date": "2026-09-29T15:08:52+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/xbox.jpg?w=1024"
-        },
-        {
-          "title": "Beloved PS5 RPG Trilogy Is Under $10 on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/09/29/shadowrun-trilogy-ps-store-deal-september-2026",
-          "description": "A complete set of one of the best PS5 and PS4 RPGs is a whopping 75% off on the PS Store in a limited-time deal. The entire Shadowrun Trilogy is under $10 in the ongoing Autumn Adventures promotion, offering fantastic value. Shadowrun Trilogy PS Store deal offers three great games for the price of o",
-          "date": "2026-09-29T11:50:55+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/09/shadowrun-trilogy-ps-store-deal.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,20 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Industry Snoop Says Naughty Dog's Shaun Escayg Is Not Working on The Last of Us",
+          "link": "https://www.pushsquare.com/news/2026/09/industry-snoop-says-naughty-dogs-shaun-escayg-is-not-working-on-the-last-of-us",
+          "description": "Which means... Who is Shaun Escayg and why should you care? Well, he’s the Creative Director of Uncharted: The Lost Legacy who’s currently working on an unannounced Naughty Dog project. Read the full article on pushsquare.com",
+          "date": "2026-09-29T23:30:00+00:00",
+          "image": "https://images.pushsquare.com/eac1a7618f0b2/large.jpg"
+        },
+        {
+          "title": "Xbox Begins Testing Its Platinum Trophy Alternative, 18 Years After Sony Introduced System",
+          "link": "https://www.pushsquare.com/news/2026/09/xbox-begins-testing-its-platinum-trophy-alternative-18-years-after-sony-introduced-system",
+          "description": "Achievement unlocked. Look, there’s no way of revising history: Trophies were developed as a response to the Xbox 360’s achievements. The popularity of the feature clearly caught Sony cold, and it wasn’t until 2008 that it was able to introduce its own system on the PS3, starting with Super Stardust",
+          "date": "2026-09-29T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/d74ac55fc6e39/large.jpg"
+        },
+        {
           "title": "007 First Light DLC Teased, More Info on Thursday",
           "link": "https://www.pushsquare.com/news/2026/09/007-first-light-dlc-teased-more-info-on-thursday",
           "description": "And it'll be free. IO Interactive has teased it'll have a free DLC drop for 007 First Light in the near future, and more information is coming this Thursday, 1st October 2026. The quick video accompanying the social media post features a car speeding past, so James Bond may be about to get a new Ast",
@@ -434,20 +448,6 @@
           "description": "A familiar story. Earlier today, Sony confirmed the seven games that’ll be leaving the PS Plus Extra catalogue in September. However, I was surprised to see this selection expand to two PS Plus Premium games as well: the PS1’s Toy Story 2: Buzz Lightyear to the Rescue and the PSP’s Toy Story 3 . Rea",
           "date": "2026-09-29T14:45:00+00:00",
           "image": "https://images.pushsquare.com/c296ca38dd41f/large.jpg"
-        },
-        {
-          "title": "Persona Sales Report Confirms North America as Series' Biggest Market",
-          "link": "https://www.pushsquare.com/news/2026/09/persona-sales-report-confirms-north-america-as-series-biggest-market",
-          "description": "Times have changed. Thanks a new sales report from SEGA, we now have renewed insight into how popular the Persona series is on a global scale. As covered by Persona Central , the publisher's actually broken down the percentage of sales — across all Persona games — per region, and the data makes for ",
-          "date": "2026-09-29T14:30:00+00:00",
-          "image": "https://images.pushsquare.com/6c908666470aa/large.jpg"
-        },
-        {
-          "title": "PSA: Ace Combat 8 Comes with a Whole Other Game, But Only if You Pre-Order, and You Don't Have Long",
-          "link": "https://www.pushsquare.com/news/2026/09/psa-ace-combat-8-comes-with-a-whole-other-game-but-only-if-you-pre-order-and-you-dont-have-long",
-          "description": "Ace Combat Zero won't be available forever. The brilliant Ace Combat 8: Wings of Theve makes its official launch on 2nd October, 2026, and if you're considering buying it, I'd highly recommend pre-ordering on this occasion. That's not only because the new game is another fantastic entry in Bandai Na",
-          "date": "2026-09-29T14:00:00+00:00",
-          "image": "https://images.pushsquare.com/5fa5c507fceca/large.jpg"
         }
       ]
     },
