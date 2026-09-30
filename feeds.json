@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-30T05:51:28.690622+00:00",
+  "updated": "2026-09-30T12:18:35.484938+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Neil Druckmann Teases Two ‘The Last of Us’ Projects Currently in “Early Stages” of Development",
+          "link": "https://bloody-disgusting.com/video-games/3969740/neil-druckmann-teases-two-the-last-of-us-projects-currently-in-early-stages-of-development/",
+          "description": "After teasing fans with plans for additional The Last of Us content earlier this month, Naughty Dog studio head Neil Druckmann once again teased fans of future titles in the series in a note posted on the studio’s blog. Druckmann stated that two projects set in the world of The Last of Us are curren",
+          "date": "2026-09-30T11:30:37+00:00",
+          "image": ""
+        },
         {
           "title": "‘Color Out of Space’s Madeleine Arthur Joins Thriller ‘Doula’",
           "link": "https://bloody-disgusting.com/movie/3969721/doula-movie-madeleine-arthur-dianne-doan/",
@@ -66,13 +73,6 @@
           "description": "The Opening Night film at this year’s Sitges Film Festival is Found Alive, the first English-language feature from Carlota Pereda (Piggy), and a new image gives a first look at lead Chloë Grace Moretz. as the former captive of a sadistic killer. Grace-Moretz stars alongside Rupert Friend (Companion)",
           "date": "2026-09-29T19:00:11+00:00",
           "image": ""
-        },
-        {
-          "title": "Pluto TV Unleashes Massive Halloween Hits Catalog Packed With Horror Movies This October",
-          "link": "https://bloody-disgusting.com/movie/3969641/pluto-tv-unleashes-massive-halloween-hits-catalog-packed-with-horror-movies-this-october/",
-          "description": "Pluto TV is celebrating Halloween with a massive horror collection arriving in October, joining the previously announced “Double Feature Fridays” all through October. The streaming platform is kicking off spooky season October 1 with the return of Halloween Hits, featuring a deep lineup of horror fa",
-          "date": "2026-09-29T18:29:01+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/images.jpg?resize=925%2C451&#038;ssl=1"
         }
       ]
     },
@@ -80,74 +80,74 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
-          "title": "Digger Review: Tom Cruise Attempts Kubrickian Satire in Bold, Uneven Swing",
-          "link": "https://www.denofgeek.com/movies/digger-review-tom-cruise/",
-          "description": "If you’re of a certain age, it is easy to miss the Tom Cruise of yesteryear who defined his career by the daring risks he would take with auteurs as much those safe studio bets. Sure, he still made Maverick clones like Days of Thunder (Top Gun at Daytona) and Cocktail (Top Gun at TGI […] The post Di",
-          "date": "2026-09-29T16:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Tom-Cruise-in-Digger-Review.jpeg"
+          "title": "15 Shows That Recycled Another Show’s Sets",
+          "link": "https://www.denofgeek.com/msn/15-shows-that-recycled-another-shows-sets/",
+          "description": "TV sets are expensive, so once a production builds a perfectly good living room, school hallway, spaceship, or entire town, Hollywood is not always eager to throw it away. A fresh coat of paint and some new furniture can apparently do wonders. That is how familiar sitcom homes have turned into crime",
+          "date": "2026-09-30T12:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/6_0d01f3.jpg"
         },
         {
-          "title": "Avengers: Endgame Encore Is Your Reminder to Watch Loki Season 2",
-          "link": "https://www.denofgeek.com/movies/avengers-endgame-encore-reminder-watch-loki-season-2/",
-          "description": "This article contains spoilers for Avengers: Endgame Encore. Call it a cash-grab, call it hype for Avengers: Doomsday, call it a genuine fan event made for people who love the MCU: Avengers: Endgame Encore has proven to be a hit. The re-release of the 2019 Phase Three capper won the box office this ",
-          "date": "2026-09-29T15:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2023/10/loki-season-2-3.jpg"
+          "title": "15 Movie Characters That Look Nothing Like Their Descriptions",
+          "link": "https://www.denofgeek.com/msn/15-movie-characters-that-look-nothing-like-their-descriptions/",
+          "description": "Casting a beloved book character has to be one of Hollywood’s easiest ways to start an argument. Readers have already spent hundreds of pages building a face in their heads, and then an actor walks in who is the wrong height, hair color, age, or sometimes just an entirely different physical type. Th",
+          "date": "2026-09-30T12:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/4_00a1d0.jpg"
         },
         {
-          "title": "15 Actors Who Accidentally Created Their Character’s Most Famous Trait",
-          "link": "https://www.denofgeek.com/msn/15-actors-who-accidentally-created-their-characters-most-famous-trait/",
-          "description": "Some character quirks feel so deliberate that it is hard to imagine them not being planned from day one. Then you find out the actor was actually fixing a piece of makeup, struggling with a costume, trying not to laugh, or making a weird noise to entertain a co-star. Those little accidents can end u",
-          "date": "2026-09-29T13:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-4-8.jpg"
+          "title": "15 Actors Who Had No Idea Their Movie Would Be Good",
+          "link": "https://www.denofgeek.com/msn/15-actors-who-had-no-idea-their-movie-would-be-good/",
+          "description": "Actors spend months making movies without ever seeing what the audience eventually gets. Scenes arrive out of order, effects are unfinished, and sometimes the whole production feels like an expensive mistake happening in slow motion. So it is probably not surprising that even experienced stars can b",
+          "date": "2026-09-30T11:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-14-2.jpg"
         },
         {
-          "title": "15 Celebrities Who Passed Away at the Height of Their Fame",
-          "link": "https://www.denofgeek.com/msn/15-celebrities-who-passed-away-at-the-height-of-their-fame/",
-          "description": "Fame can change incredibly quickly, but some stars never got the chance to see where their careers might have gone next. They were still releasing major work, selling records, appearing in blockbuster movies, or dominating headlines when their lives suddenly ended. In several cases, their most famou",
-          "date": "2026-09-29T13:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-91.jpg"
+          "title": "15 Massive Actors You Saw Before You Knew Who They Were",
+          "link": "https://www.denofgeek.com/msn/15-massive-actors-you-saw-before-you-knew-who-they-were/",
+          "description": "There is a special kind of fun in rewatching an old movie or TV episode and suddenly recognizing someone who absolutely did not seem important the first time around. Before the Oscars, superhero franchises, and giant leading roles, plenty of major actors were standing in the background, showing up f",
+          "date": "2026-09-30T11:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/5_5cdd48.jpg"
         },
         {
-          "title": "Star Trek V Is the Most Star Trek of the Star Trek Movies",
-          "link": "https://www.denofgeek.com/movies/star-trek-v-is-most-star-trek-of-the-star-trek-movies/",
-          "description": "For those who hate nü-Trek, the recent Star Trek: Strange New Worlds episode “Like Chronitons Through the Hourglass” must have been a particularly hard watch. Not only does the episode continue the series’ recent trend of jumping genres—this time setting a daytime soap opera on the Enterprise—but it",
-          "date": "2026-09-29T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2020/04/Star-Trek-V-The-Final-Frontier.jpg"
+          "title": "15 Photos Where Someone Has to Pay for That, and I’m Glad It’s Not Me",
+          "link": "https://www.denofgeek.com/msn/15-photos-where-someone-has-to-pay-for-that-and-im-glad-its-not-me/",
+          "description": "There are bad days, and then there are days when a million-dollar car leaves the road, a yacht ends up on its side, or a perfectly functional garage decides to eat the vehicle parked above it. Some mistakes are just embarrassing, but others come with a bill. The photos are almost impressive in their",
+          "date": "2026-09-30T11:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/4_12f046.jpg"
         },
         {
-          "title": "15 Actors Who Looked Completely Unrecognizable in Otherwise Simple Movie Roles",
-          "link": "https://www.denofgeek.com/msn/15-actors-who-looked-completely-unrecognizable-in-otherwise-simple-movie-roles/",
-          "description": "Sometimes an actor needs hours of prosthetics, makeup, wigs, or a completely different physical appearance to disappear into a role. Other times, the transformation is surprisingly simple. A haircut, a beard, a different wardrobe, or even a little weight change can be enough to make a familiar face ",
-          "date": "2026-09-29T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/15_e6e86f.jpg"
+          "title": "15 Photos of Everyday Life from 50 Years Ago",
+          "link": "https://www.denofgeek.com/msn/15-photos-of-everyday-life-from-50-years-ago/",
+          "description": "The 70s were defined by their style, something that, even though we don’t follow those trends anymore (at least, not most of us), they remain stunningly stylish. Part of that style is that it was seemingly effortless, and it might have been so; after all, it was the current trends for the people of ",
+          "date": "2026-09-30T11:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/3_8b59d2.jpg"
         },
         {
-          "title": "Club Kid Review: The Feel-Good A24 Gay Nightclub Movie You’ve Been Waiting For",
-          "link": "https://www.denofgeek.com/movies/club-kid-review-feel-good-a24-gay-nightclub/",
-          "description": "There are few people who do not at some point want to be the life of the party. There are even fewer who want to be the final dregs hanging on after last call is announced, “Closing Time” played, and the lights flipped on. Peter, Jordan Firstman’s hard-living and self-styled party promoter, is well ",
-          "date": "2026-09-29T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Jordan-Firstman-in-Club-Kid-Review.jpg"
+          "title": "15 Celebrities Whose Deaths Were Especially Tragic",
+          "link": "https://www.denofgeek.com/msn/15-celebrities-whose-deaths-were-especially-tragic/",
+          "description": "We are all mortal shells walking this earthly coil, yet when it comes to celebrities, they seem particularly immortal. They aren’t, it’s just that we’ve mystified them so much that the mere concept of them perishing seems silly. It isn’t, and once their end comes, it forces us to deal with the reali",
+          "date": "2026-09-30T10:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/2_ffb3aa.jpg"
         },
         {
-          "title": "15 Weird Movie Details You Probably Never Thought to Question",
-          "link": "https://www.denofgeek.com/msn/15-weird-movie-details-you-probably-never-thought-to-question/",
-          "description": "Movies train us to accept a lot without thinking twice. When you stop and examine the details, though, some are surprisingly strange. A filmmaker may have slipped something into the background, quietly ignored a practical problem, or created a fictional rule that doesn't really hold up when you thin",
-          "date": "2026-09-29T12:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-89.jpg"
+          "title": "15 Wild Historical Events That Have Yet to Be Made Into a Movie",
+          "link": "https://www.denofgeek.com/msn/15-wild-historical-events-that-have-yet-to-be-made-into-a-movie/",
+          "description": "History is filled with events that can fuel several blockbuster films, and they often are used as inspirations of such events. However, most of the time, we get adaptations of moments plucked from the World Wars, Cold War, or any other historical moment done to death by entertainment media. And yet,",
+          "date": "2026-09-30T10:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/1_4165ce.jpg"
         },
         {
-          "title": "15 Things You See Every Day That Were Designed for a Completely Different World",
-          "link": "https://www.denofgeek.com/msn/15-things-you-see-every-day-that-were-designed-for-a-completely-different-world/",
-          "description": "Some designs survive because they are brilliant. Others survive because changing them would annoy absolutely everyone. We still type on a keyboard layout born with mechanical typewriters, save files with a picture of technology many people have never used, and keep compartments in our cars named aft",
-          "date": "2026-09-29T12:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/12_23ad21.jpg"
+          "title": "The 15 Worst Book to Movie Adaptation Failures Ever",
+          "link": "https://www.denofgeek.com/msn/the-15-worst-book-to-movie-adaptation-failures-ever/",
+          "description": "Different entertainment mediums have their own strengths and weaknesses, with their works being made around them. Books and movies work very differently from one another, so when adapting one to the other, changes are bound to happen, like cut characters or added plotlines. These changes, though, ca",
+          "date": "2026-09-30T10:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-6-4.jpg"
         },
         {
-          "title": "15 Movie Scenes That Were Conceived Completely Differently Than What’s in the Final Cut",
-          "link": "https://www.denofgeek.com/msn/15-movie-scenes-that-were-conceived-completely-differently-than-whats-in-the-final-cut/",
-          "description": "Movies rarely premier exactly as they were first imagined. A scene can be rewritten after filming, changed during editing, or completely reworked when a director realizes that the original idea is not landing the way it should. Looking at these alternate versions is a good reminder of how much filmm",
-          "date": "2026-09-29T12:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-88.jpg"
+          "title": "15 Movies With Incredible Plot Twists, But No Spoilers",
+          "link": "https://www.denofgeek.com/msn/15-movies-with-incredible-plot-twists-but-no-spoilers/",
+          "description": "Plot twists, when handled well, can be the highlight of any movie. They reshape everything that happened up to that point, and make you see the movie with different eyes. What’s more, they make for an incredible rewatch, since you’ll be armed with new information to tackle the subtle hints. To celeb",
+          "date": "2026-09-30T10:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-5-4.jpg"
         }
       ]
     },
@@ -380,6 +380,41 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Silent Hill: Townfall's Worst Enemy to Be Addressed in Future PS5 Patch",
+          "link": "https://www.pushsquare.com/news/2026/09/silent-hill-townfalls-worst-enemy-to-be-addressed-in-future-ps5-patch",
+          "description": "Screen Burn will reduce The Weight. If you've played enough of Silent Hill: Townfall , you'll probably have encountered The Weight. This is a slow, top-heavy enemy that patrols a few sections of the game and gives chase if it spots you. You must avoid alerting it while you're going about your object",
+          "date": "2026-09-30T12:00:00+00:00",
+          "image": "https://images.pushsquare.com/312a824ec2d56/large.jpg"
+        },
+        {
+          "title": "Crimson Desert's Huge Expansion Pack Has Been Delayed, But Not By Much",
+          "link": "https://www.pushsquare.com/news/2026/09/crimson-deserts-huge-expansion-pack-has-been-delayed-but-not-by-much",
+          "description": "Charting the Unknown arrives later than planned. Publisher and developer Pearl Abyss has announced a delay for Crimson Desert's massive DLC pack, but fortunately it won't leave fans waiting for too much longer. The ambitious RPG's expansion, titled Charting the Unknown, is now set for release on 29t",
+          "date": "2026-09-30T11:30:00+00:00",
+          "image": "https://images.pushsquare.com/89ac28ba4a434/large.jpg"
+        },
+        {
+          "title": "Mini Review: Dynasty Warriors 3: Complete Edition Remastered (PS5) - A Strong Case for More Musou Revivals",
+          "link": "https://www.pushsquare.com/reviews/ps5/dynasty-warriors-3-complete-edition-remastered",
+          "description": "A true warrior of the Three Kingdoms. Playing Dynasty Warriors 3: Complete Edition Remastered is a strange but not at all unpleasant experience. This is a borderline remake of Dynasty Warriors 3 — a fan-favourite PS2 instalment that was at least partly responsible for establishing the series' hardco",
+          "date": "2026-09-30T11:00:00+00:00",
+          "image": "https://images.pushsquare.com/6cd0d3f5a558a/large.jpg"
+        },
+        {
+          "title": "Vampire Survivors Fans, Take Note: One of Its Best Clones Is Heading to PS5 Next Month",
+          "link": "https://www.pushsquare.com/news/2026/09/vampire-survivors-fans-take-note-one-of-its-best-clones-is-heading-to-ps5-next-month",
+          "description": "Deep Rock Galactic: Survivors launches soon. If you're like me, you fell hard for Vampire Survivors when it finally came to PS5. Well, another game in the burgeoning bullet heaven genre is coming soon to Sony's console, and apparently it's a corker. The game in question is Deep Rock Galactic: Surviv",
+          "date": "2026-09-30T10:30:00+00:00",
+          "image": "https://images.pushsquare.com/b572010154763/large.jpg"
+        },
+        {
+          "title": "Preview: PS5 Remake Danganronpa 2x2 Revives the Cult Series with a Shocking New Mode",
+          "link": "https://www.pushsquare.com/previews/ps5-remake-danganronpa-2x2-revives-the-cult-series-with-a-shocking-new-mode",
+          "description": "Pointing things out. I vividly remember my first taste of Danganronpa . Read the full article on pushsquare.com",
+          "date": "2026-09-30T09:00:00+00:00",
+          "image": "https://images.pushsquare.com/37ff6d5f88bb6/large.jpg"
+        },
+        {
           "title": "Industry Snoop Says Naughty Dog's Shaun Escayg Is Not Working on The Last of Us",
           "link": "https://www.pushsquare.com/news/2026/09/industry-snoop-says-naughty-dogs-shaun-escayg-is-not-working-on-the-last-of-us",
           "description": "Which means... Who is Shaun Escayg and why should you care? Well, he’s the Creative Director of Uncharted: The Lost Legacy who’s currently working on an unannounced Naughty Dog project. Read the full article on pushsquare.com",
@@ -413,41 +448,6 @@
           "description": "Regions! Wildlife! Activities. Rockstar Games has shared more about the open world of Leonida you can explore in GTA 6 from 19th November 2026 by way of a new Game Informer magazine issue containing new screenshots and information. First off, let's get the newest images in front of you. Here are 13 ",
           "date": "2026-09-29T18:15:00+00:00",
           "image": "https://images.pushsquare.com/b708d319317e3/large.jpg"
-        },
-        {
-          "title": "One of The Witcher 3's Most Celebrated Writers Returns to CD Projekt Red",
-          "link": "https://www.pushsquare.com/news/2026/09/one-of-the-witcher-3s-most-celebrated-writers-returns-to-cd-projekt-red",
-          "description": "The Witcher 4 may be in good hands. Karolina Stachyra was a key writer on The Witcher 3 , famously penning the whole Bloody Baron questline, which went on to become a standout fan favourite. However, she left developer CD Projekt Red after the release of Blood and Wine in 2016. Stachyra then spent t",
-          "date": "2026-09-29T18:00:00+00:00",
-          "image": "https://images.pushsquare.com/037b5b958966b/large.jpg"
-        },
-        {
-          "title": "Fantastic Sandbox Cop Game The Precinct Gets a Huge Update on PS5",
-          "link": "https://www.pushsquare.com/news/2026/09/fantastic-sandbox-cop-game-the-precinct-gets-a-huge-update-on-ps5",
-          "description": "Truck yeah. The Precinct was something of a standout game for me last year. For those unfamiliar, it's a sort-of-top-down sandbox title where you play as a rookie cop. You patrol the fictional Averno City, tackling dynamic crimes that spring up across the map. Read the full article on pushsquare.com",
-          "date": "2026-09-29T16:00:00+00:00",
-          "image": "https://images.pushsquare.com/8be5efbf4edc2/large.jpg"
-        },
-        {
-          "title": "'You Guys Are Gonna Have Your Minds Blown': Troy Baker Says We're Not Ready for Intergalactic",
-          "link": "https://www.pushsquare.com/news/2026/09/you-guys-are-gonna-have-your-minds-blown-troy-baker-says-were-not-ready-for-intergalactic",
-          "description": "Talks up Tati Gabrielle in lead role. We may not be hearing much about Intergalactic: The Heretic Prophet until next year , but that hasn't stopped Troy Baker from hyping up Naughty Dog's next game. Baker, a prolific actor perhaps best known for playing Joel in The Last of Us , is set to appear in t",
-          "date": "2026-09-29T15:45:00+00:00",
-          "image": "https://images.pushsquare.com/f34641f98236c/large.jpg"
-        },
-        {
-          "title": "The Witcher 3 Remastered PS5 Pays Homage to the Worst DLC in History",
-          "link": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pays-homage-to-the-worst-dlc-in-history",
-          "description": "Get new horse armour for Roach. Ask anyone for examples of the worst DLC ever made, and it won't be long before they say horse armour. Bethesda flogged fresh horse armour in Oblivion for $2.50, and the pack has lived in infamy ever since. At the time, it was a lesson to other developers in how not t",
-          "date": "2026-09-29T15:00:00+00:00",
-          "image": "https://images.pushsquare.com/b4f54330aacd1/large.jpg"
-        },
-        {
-          "title": "These 3 Classic Toy Story Games Have All Been Delisted on PS5, Removed from PS Plus",
-          "link": "https://www.pushsquare.com/news/2026/09/these-3-classic-toy-story-games-have-all-been-delisted-on-ps5-removed-from-ps-plus",
-          "description": "A familiar story. Earlier today, Sony confirmed the seven games that’ll be leaving the PS Plus Extra catalogue in September. However, I was surprised to see this selection expand to two PS Plus Premium games as well: the PS1’s Toy Story 2: Buzz Lightyear to the Rescue and the PSP’s Toy Story 3 . Rea",
-          "date": "2026-09-29T14:45:00+00:00",
-          "image": "https://images.pushsquare.com/c296ca38dd41f/large.jpg"
         }
       ]
     },
