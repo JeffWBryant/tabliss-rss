@@ -1,9 +1,30 @@
 {
-  "updated": "2026-09-30T22:30:58.432212+00:00",
+  "updated": "2026-10-01T01:56:15.522655+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Michael Dougherty Is Bringing Halloween Icon Sam Back to Life This October!",
+          "link": "https://bloody-disgusting.com/the-further/3969877/michael-dougherty-is-bringing-halloween-icon-sam-back-to-life-this-october/",
+          "description": "It’s been seventeen years since Michael Dougherty’s anthology film Trick ‘r Treat arrived on the scene and became an almost instant Halloween classic, but the origins of the beloved Halloween icon Sam actually date back even further. Sam was first introduced by Dougherty in his 2006 animated short S",
+          "date": "2026-10-01T00:58:23+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/sam-stills-doorway-scaled.png?resize=2560%2C1440&#038;ssl=1"
+        },
+        {
+          "title": "Delusion Returns to the Historic Beckett Mansion with ‘Den of the Mosquito’",
+          "link": "https://bloody-disgusting.com/news/3969724/delusion-2026/",
+          "description": "Delusion, the acclaimed interactive horror theater experience created by writer and director Jon Braver, returns this fall to the historic Beckett Mansion, where the series first began in 2011. Presented by Thirteenth Floor Entertainment Group, the 2026 production, Delusion: Den of the Mosquito, run",
+          "date": "2026-09-30T23:45:18+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/delusion-1.jpg?resize=2002%2C1026&#038;ssl=1"
+        },
+        {
+          "title": "‘Blair Witch Project’ Co-Creator Teases Collaboration With ‘McPherson Tape’ Director",
+          "link": "https://bloody-disgusting.com/movie/3969964/blair-witch-project-eduardo-sanchez-mcpherson-tape-dean-alioto/",
+          "description": "Eduardo Sánchez is set to team up with Dean Alioto on a future project. The post ‘Blair Witch Project’ Co-Creator Teases Collaboration With ‘McPherson Tape’ Director appeared first on Bloody Disgusting! .",
+          "date": "2026-09-30T23:24:24+00:00",
+          "image": ""
+        },
         {
           "title": "Neon Developing Their Own SCP Foundation Project After A24 Movie Draws Backlash",
           "link": "https://bloody-disgusting.com/movie/3969948/scp-foundation-movie-neon-open-source/",
@@ -52,33 +73,19 @@
           "description": "A special, darkly whimsical talk show hosted by a horror stalwart and a found footage creepfest lead October’s programming lineup for Screambox. Screambox exclusive Creature of the Pines arrives on October 13. It’s a found footage horror film that follows “a skeptical documentary team into the heart",
           "date": "2026-09-30T19:15:28+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/Creature-of-the-Pines-Horror-Film-2026.jpg?resize=1024%2C683&#038;ssl=1"
-        },
-        {
-          "title": "‘The Boys’ Creator’s ‘Freddie the Fix’ Getting a Movie Adaptation",
-          "link": "https://bloody-disgusting.com/movie/3969890/freddie-the-fix-comic-movie-adaptation-garth-ennis/",
-          "description": "The single-issue adventure is a mix of 'The Boys' and 'Ray Donovan.' The post ‘The Boys’ Creator’s ‘Freddie the Fix’ Getting a Movie Adaptation appeared first on Bloody Disgusting! .",
-          "date": "2026-09-30T18:48:35+00:00",
-          "image": ""
-        },
-        {
-          "title": "PetSmart’s 2026 Thrills & Chills Halloween Collection Lets You Dress Your Pet As Chucky and Michael Myers",
-          "link": "https://bloody-disgusting.com/the-further/3969845/petsmarts-2026-thrills-chills-halloween-collection-lets-you-dress-your-pet-as-chucky-and-michael-myers/",
-          "description": "Even the furry kiddos can get in on the Halloween fun this season; PetSmart has unleashed a 2026 Thrills & Chills Halloween collection that lets you dress your dog or cat as Michael Myers, Chucky, and more. It’s not just dogs and cats this year, either. The collection offers an exclusive assortment ",
-          "date": "2026-09-30T17:44:15+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/d7a32080-ed2e-4027-9f54-ce42f6e4ec56.png?resize=762%2C475&#038;ssl=1"
-        },
-        {
-          "title": "‘The Simpsons: Treehouse of Horror XXXVII’ Premieres October 25 and Spoofs ‘Nightmare Before Christmas’",
-          "link": "https://bloody-disgusting.com/tv/3969846/the-simpsons-treehouse-of-horror-xxxvii-premieres-october-25-and-spoofs-nightmare-before-christmas/",
-          "description": "This year’s “Treehouse of Horror” special from “The Simpsons” is an extra special one, with the first family of animated fright joining forces with fast food chain Jack in the Box to launch a series of “Treehouse of Horror”-inspired menu items. But when does the episode actually air? “The Simpsons: ",
-          "date": "2026-09-30T17:44:01+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/pro-WxOPOHFS-scaled.jpeg?resize=2560%2C1921&#038;ssl=1"
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "Street Fighter 6 Year 4 Ushers in the Franchise’s Exciting Future",
+          "link": "https://www.denofgeek.com/games/street-fighter-6-year-4-arjun-update/",
+          "description": "When it comes to the modern fighting game scene, Street Fighter 6 has been consistently wowing fans since it launched in June 2023, selling over seven million copies by the third anniversary of its debut. In addition to its ambitious World Tour mode, giving the franchise a sweeping story to explore,",
+          "date": "2026-09-30T23:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Street-Fighter-6-Arjun.png"
+        },
         {
           "title": "The Secret History of Marvel Movie Adaptation Comics",
           "link": "https://www.denofgeek.com/comics/the-secret-history-of-marvel-movie-adaptation-comics/",
@@ -141,13 +148,6 @@
           "description": "Some actors are recognizable before they even appear on screen. You hear a few words and immediately know who is speaking, even if you cannot place the scene or remember where you have heard that voice before. Years of distinctive performances, interviews, narration, and animated characters can make",
           "date": "2026-09-30T13:15:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Diseno-sin-titulo-96.jpg"
-        },
-        {
-          "title": "Verity Review: Anne Hathaway’s 2026 Winning Streak Had to End Sometime",
-          "link": "https://www.denofgeek.com/movies/verity-review-anne-hathaway-winning-streak-to-end/",
-          "description": "Verity is a movie that makes a lot of noise about writing. The most important characters are authors. The MacGuffin pushing the plot into motion is a series of novels so compelling that its publisher is willing to pay a ghost writer half a million dollars to finish the lascivious twists and juicy tu",
-          "date": "2026-09-30T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Anne-Hathaway-in-Verity-Review.jpg"
         }
       ]
     },
@@ -383,14 +383,14 @@
           "title": "'We Want to Find a Way': SEGA Eager to Bring Sakura Wars Games to Modern Consoles",
           "link": "https://www.pushsquare.com/news/2026/10/we-want-to-find-a-way-sega-eager-to-bring-sakura-wars-games-to-modern-consoles",
           "description": "Yes, please. About a year ago, I decided on a whim to begin collecting all the Sakura Wars games. I’m close to completing that project now, having tracked down a copy of Sakura Wars: Hanagumi Taisen Columns for the SEGA Saturn in Japan earlier in the month. (Only ¥980, and it has its original obi in",
-          "date": "2026-09-30T23:00:00+00:00",
+          "date": "2026-09-30T23:30:00+00:00",
           "image": "https://images.pushsquare.com/10145ed08b366/large.jpg"
         },
         {
           "title": "Rumour: New Uncharted Game in the Works at Naughty Dog, Nathan Drake Not the Lead Character",
-          "link": "https://www.pushsquare.com/news/2026/09/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
+          "link": "https://www.pushsquare.com/news/2026/10/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character",
           "description": "Shaun Escayag at the helm of project. Once it's got Intergalactic: The Heretic Prophet out the door, it will be a new Uncharted game that Naughty Dog focuses on next, a new report claims. MP1st , a website that has previously reported on the likes of Media Molecule's next title and leaked a Killzone",
-          "date": "2026-09-30T20:30:00+00:00",
+          "date": "2026-09-30T23:00:00+00:00",
           "image": "https://images.pushsquare.com/e01085fb2b730/large.jpg"
         },
         {
