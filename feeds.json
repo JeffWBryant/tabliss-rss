@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T01:03:05.492195+00:00",
+  "updated": "2026-10-02T07:25:46.051174+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -230,6 +230,13 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "PS5 System Update Rolled Out to Ring in October 2026",
+          "link": "https://www.playstationlifestyle.net/2026/10/01/ps5-system-update-rolled-out-to-ring-in-october-2026",
+          "description": "Sony Interactive Entertainment quietly rolled out PS5 system software update 26.06-14.10.00 on October 1. From the looks of it, this firmware revision combats (or attempts to combat) the most recent PS5 jailbreak. PS5 system software update 26.06-14.10.00 patch notes (October 1, 2026) Patch notes fo",
+          "date": "2026-10-02T03:45:25+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/03/ps5-and-ps5-pro-system-software-update.jpg?w=1024"
+        },
+        {
           "title": "Popular GTA-Like PS5 Game Under $20 on PlayStation Store",
           "link": "https://www.playstationlifestyle.net/2026/10/01/the-precinct-popular-gta-like-ps5-game-under-20-playstation-store",
           "description": "PlayStation 5 gamers can now pick up a Grand Theft Auto-like game at a discounted price. The popular action-adventure simulation game is available on the PlayStation Store for less than $20 in a limited-time sale. Fallen Tree Games‘ open-world action game, The Precinct, is currently available on the",
@@ -291,13 +298,6 @@
           "description": "Ember Lab has delayed the release of its upcoming action-adventure game for PlayStation 5 The post Highly Anticipated PlayStation 5 Adventure Game Sequel Delayed appeared first on PlayStation LifeStyle .",
           "date": "2026-10-01T15:26:05+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/Kena.jpg?w=1024"
-        },
-        {
-          "title": "007 First Light’s Extended Operations Trailer Previews James Bond’s New Adventure",
-          "link": "https://www.playstationlifestyle.net/2026/10/01/007-first-light-extended-operations-trailer-james-bond-adventure",
-          "description": "As promised earlier this week, IO Interactive has released its first free DLC for 007 First Light The post 007 First Light’s Extended Operations Trailer Previews James Bond’s New Adventure appeared first on PlayStation LifeStyle .",
-          "date": "2026-10-01T14:54:36+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/007-First-Light-1.jpg?w=1024"
         }
       ]
     },
