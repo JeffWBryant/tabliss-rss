@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-02T23:12:06.142365+00:00",
+  "updated": "2026-10-03T02:15:43.064190+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Halloween: Resurrection’s Tyra Banks Does “Not Even a Little Bit” Remember the Sequel Fondly",
+          "link": "https://bloody-disgusting.com/movie/3970356/halloween-resurrection-tyra-banks-slams-sequel-michael-myers/",
+          "description": "The actor pointed out that the sequel didn't help their career and their death scene didn't even make it into the film. The post ‘Halloween: Resurrection’s Tyra Banks Does “Not Even a Little Bit” Remember the Sequel Fondly appeared first on Bloody Disgusting! .",
+          "date": "2026-10-02T23:25:35+00:00",
+          "image": ""
+        },
         {
           "title": "Surviving ‘Hellraiser: Deader’, ‘Hellworld’, ‘Revelations’, and ‘Judgment’ [Halloweenies Podcast]",
           "link": "https://bloody-disgusting.com/podcast-news/3970354/hellraiser-deader-judgment-halloweenies/",
@@ -66,19 +73,19 @@
           "description": "This marks one of the longest gaps between consecutive seasons of a TV series in history. The post ‘The Watcher’ Season 2 Finally Starts Filming Four Years After Netflix Renewal appeared first on Bloody Disgusting! .",
           "date": "2026-10-02T18:42:10+00:00",
           "image": ""
-        },
-        {
-          "title": "Bloody Disgusting’s Splatter Sauce Now Available from TorchBearer Sauces!",
-          "link": "https://bloody-disgusting.com/the-further/3970285/bloody-disgustings-splatter-sauce-now-available-from-torchbearer-sauces/",
-          "description": "Bloody Disgusting has joined forces with TorchBearer Sauces for Bloody Disgusting’s Splatter Sauce, a brand new hot sauce creation that’s available NOW in time for Halloween! It’s a little sweet. It’s a little tart. And yeah, it’s a little terrifying. Created in partnership with Bloody Disgusting, S",
-          "date": "2026-10-02T18:20:05+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/20261002123538101152.jpg?resize=1440%2C1278&#038;ssl=1"
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "Every Evil Dead Movie Ranked",
+          "link": "https://www.denofgeek.com/movies/every-evil-dead-movie-ranked/",
+          "description": "Very few of us expected the Evil Dead franchise to be still alive and kicking 45 years after the first movie burst onto screens, but Sam Raimi’s cult classic The Evil Dead has now spawned five more movies with another on the way, not to mention a TV show following the ongoing Deadite-plagued adventu",
+          "date": "2026-10-03T00:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2023/04/Deadite-in-Evil-Dead-Rise.jpg"
+        },
         {
           "title": "Star Wars: Galactic Racer Provides High-Octane Thrills to That Galaxy Far, Far Away",
           "link": "https://www.denofgeek.com/games/star-wars-galactic-racer-review-high-octane-thrills/",
@@ -141,13 +148,6 @@
           "description": "Most people don't take photos thinking they'll be examined by historians decades later. A person might take a casual picture of a street, a group of friends, or an ordinary day without knowing that the moment will eventually become part of their era's much bigger story. Sometimes the significance co",
           "date": "2026-10-02T12:30:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo.jpg"
-        },
-        {
-          "title": "15 Movie Scenes That Only Exist Because Something on Set Went Wrong",
-          "link": "https://www.denofgeek.com/msn/15-movie-scenes-that-only-exist-because-something-on-set-went-wrong/",
-          "description": "Movies are planned through scripts, storyboards, rehearsals, and endless takes, but sometimes the best moment is the one nobody planned at all. Actors forget their lines, props break, weather refuses to cooperate, and occasionally somebody gets hurt but somehow stays in character. Directors then hav",
-          "date": "2026-10-02T12:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-6-3.jpg"
         }
       ]
     },
