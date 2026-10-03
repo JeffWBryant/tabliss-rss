@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-03T13:39:51.457847+00:00",
+  "updated": "2026-10-03T17:51:37.120236+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "The Bloody Legacy of Elizabeth Báthory, Horror’s Original Female Monster",
+          "link": "https://bloody-disgusting.com/editorials/3969820/the-bloody-legacy-of-elizabeth-bathory-horrors-original-female-monster/",
+          "description": "Anyone even slightly familiar with horror knows the name Count Dracula. The central villain of Bram Stoker’s 1897 novel has by now become a household name and a layman’s term for vampires. But only history buffs and genre devotees are familiar with his female counterpart, the Blood Countess Erzsébet",
+          "date": "2026-10-03T15:00:05+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/countess-elizabeth-bathory_0.jpg?resize=1024%2C737&#038;ssl=1"
+        },
         {
           "title": "‘Halloween: Resurrection’s Tyra Banks Does “Not Even a Little Bit” Remember the Sequel Fondly",
           "link": "https://bloody-disgusting.com/movie/3970356/halloween-resurrection-tyra-banks-slams-sequel-michael-myers/",
@@ -66,19 +73,19 @@
           "description": "By this point, if you haven’t been paying attention, the Springwood Slasher himself Freddy Krueger is part of this year’s Fortnitemares. And Fornite knows it, as they’ve dropped a new trailer featuring Freddy in action, complete with a boiler backpack. Freddy’s skin (no pun intended) is available no",
           "date": "2026-10-02T19:11:15+00:00",
           "image": ""
-        },
-        {
-          "title": "‘The Watcher’ Season 2 Finally Starts Filming Four Years After Netflix Renewal",
-          "link": "https://bloody-disgusting.com/news/3970297/the-watcher-season-2-start-filming-netflix/",
-          "description": "This marks one of the longest gaps between consecutive seasons of a TV series in history. The post ‘The Watcher’ Season 2 Finally Starts Filming Four Years After Netflix Renewal appeared first on Bloody Disgusting! .",
-          "date": "2026-10-02T18:42:10+00:00",
-          "image": ""
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "WB’s Value Lies in More than Just Capes, Harry Potter, and IP",
+          "link": "https://www.denofgeek.com/movies/wb-value-more-than-capes-harry-potter-ip/",
+          "description": "This article originally appeared as part of the Den of Geek “Absolute Cinema” newsletter. Find out how to subscribe here. In 1969, director Stanley Kubrick was on top of the world. He had, as the director once mused to his later-friend Steven Spielberg, made a dint on cinema thanks to the extraordin",
+          "date": "2026-10-03T14:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Mike-De-Luca-and-Pam-Abdy-at-Oscars-2026.jpg"
+        },
         {
           "title": "Every Evil Dead Movie Ranked",
           "link": "https://www.denofgeek.com/movies/every-evil-dead-movie-ranked/",
@@ -141,19 +148,19 @@
           "description": "Tattoos can say a lot about the things people genuinely care about, but fandom tattoos take that idea to another level. A favorite movie, character, band, video game, or fictional universe can become something people decide to carry permanently, often with designs that mean much more to them than th",
           "date": "2026-10-02T12:45:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/4_c89204.jpg"
-        },
-        {
-          "title": "15 Historical Photos Nobody Knew Were Historical When They Took Them",
-          "link": "https://www.denofgeek.com/msn/15-historical-photos-nobody-knew-were-historical-when-they-took-them/",
-          "description": "Most people don't take photos thinking they'll be examined by historians decades later. A person might take a casual picture of a street, a group of friends, or an ordinary day without knowing that the moment will eventually become part of their era's much bigger story. Sometimes the significance co",
-          "date": "2026-10-02T12:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "SCORCH MARKS Soars With Inimitable Dragula Winner, Vander Von Odd [Exclusive]",
+          "link": "https://www.fangoria.com/scorch-marks-vander-von-odd-exclusive/",
+          "description": "Check out our exclusive look at the visionary performer as Tiamat in SCORCH MARKS.",
+          "date": "2026-10-03T17:30:50+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Still-2026-01-06-194529-scaled.jpeg"
+        },
         {
           "title": "Top Horror Movies Streaming This Week",
           "link": "https://www.fangoria.com/top-horror-movies-streaming-this-week/",
@@ -216,13 +223,6 @@
           "description": "TCM has your Halloween movie marathon sorted with a full lineup of October programming, including their Creepy Cinema double features.",
           "date": "2026-10-01T19:55:22+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/house-of-wax-2100x1400-copy.jpeg"
-        },
-        {
-          "title": "Jordan Peele-Produced PORTRAIT OF GOD Adds Chase Infiniti In Star Role",
-          "link": "https://www.fangoria.com/chase-infiniti-portrait-of-god/",
-          "description": "Peele's not the only horror master working on this one behind the scenes.",
-          "date": "2026-10-01T19:38:50+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/one-battle-after-another-3.webp"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Poll: Are You Happy with Your PS Plus Essential Games for October 2026?",
+          "link": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-october-2026",
+          "description": "Plus or minus? Oh boy, this could be one of the most brutal PS Plus polls this website has hosted in quite some time. Without wanting to sound mean, I'm not sure October's PS Plus Essential lineup has much mass appeal. Read the full article on pushsquare.com",
+          "date": "2026-10-03T16:00:00+00:00",
+          "image": "https://images.pushsquare.com/3ac5bdb09dcdb/large.jpg"
+        },
+        {
           "title": "Guide: These 23+ PS5 and PS Plus Games Are Coming Out Next Week (5th-11th October)",
           "link": "https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-next-week-5th-11th-october",
           "description": "Kingdom Hearts! Star Wars! Hellraiser! The hectic release schedule does show some signs of slowing down next week, but there's still no shortage of games to play. Highlights this time include the critically acclaimed Star Wars: Galactic Racer and the PS5 version of the Kingdom Hearts Collection I - ",
@@ -441,13 +448,6 @@
           "description": "Ken Kutaragi speaks. Ken Kutaragi, nicknamed the father of PlayStation, has shared his thoughts on the modern gaming landscape. Speaking at a recent panel during the opening ceremony of CEREC (Creative Entertainment Research and Education Center), he talks about how far games have come and their pot",
           "date": "2026-10-02T15:00:00+00:00",
           "image": "https://images.pushsquare.com/9b21be3eea3d2/large.jpg"
-        },
-        {
-          "title": "Limited Edition Lisa PS5 Controller Available Now, But Selling Out Fast",
-          "link": "https://www.pushsquare.com/news/2026/10/limited-edition-lisa-ps5-controller-available-now-but-selling-out-fast",
-          "description": "Got this DualSense from Geneva. Good news Blinks, there’s a new Lisa x PlayStation merch collection on the way – including a limited edition PS5 controller. Bad news Blinks, your wallet is about to get a lot lighter. Last year, Sony announced the Thai singer had signed on as its global ambassador , ",
-          "date": "2026-10-02T14:25:00+00:00",
-          "image": "https://images.pushsquare.com/596fff8f576c1/large.jpg"
         }
       ]
     },
