@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T08:29:20.425988+00:00",
+  "updated": "2026-10-03T13:39:51.457847+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Guide: These 23+ PS5 and PS Plus Games Are Coming Out Next Week (5th-11th October)",
+          "link": "https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-next-week-5th-11th-october",
+          "description": "Kingdom Hearts! Star Wars! Hellraiser! The hectic release schedule does show some signs of slowing down next week, but there's still no shortage of games to play. Highlights this time include the critically acclaimed Star Wars: Galactic Racer and the PS5 version of the Kingdom Hearts Collection I - ",
+          "date": "2026-10-03T11:00:00+00:00",
+          "image": "https://images.pushsquare.com/db4444fa6e97a/large.jpg"
+        },
+        {
           "title": "Talking Point: What Are You Playing This Weekend? - Issue 652",
           "link": "https://www.pushsquare.com/news/2026/10/talking-point-what-are-you-playing-this-weekend-issue-652",
           "description": "No, that's wrong. Welcome to the weekend, folks! That wonderful time of the week when we can all kick back, put our feet up, and play some games. Enjoy! Jamie O'Neill My PS Vita gaming plans are repeated from last weekend, because even though Castlevania: Symphony of the Night is 30 years old next y",
@@ -441,13 +448,6 @@
           "description": "Got this DualSense from Geneva. Good news Blinks, there’s a new Lisa x PlayStation merch collection on the way – including a limited edition PS5 controller. Bad news Blinks, your wallet is about to get a lot lighter. Last year, Sony announced the Thai singer had signed on as its global ambassador , ",
           "date": "2026-10-02T14:25:00+00:00",
           "image": "https://images.pushsquare.com/596fff8f576c1/large.jpg"
-        },
-        {
-          "title": "GTA 6 Rebrands Miami Basketball Team to Vice City for One Night Only",
-          "link": "https://www.pushsquare.com/news/2026/10/gta-6-rebrands-miami-basketball-team-to-vice-city-for-one-night-only",
-          "description": "Miami Heat becomes Vice City on 18th November. NBA side Miami Heat will be rebranded as Vice City for a basketball game in collaboration with Rockstar and its GTA 6 marketing efforts. On 18th November 2026, the day before GTA 6 launches, the team takes on Milwaukee Bucks at the Kaseya Center, and th",
-          "date": "2026-10-02T14:15:00+00:00",
-          "image": "https://images.pushsquare.com/960f1e13a2519/large.jpg"
         }
       ]
     },
