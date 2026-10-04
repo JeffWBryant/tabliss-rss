@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-04T11:14:59.123978+00:00",
+  "updated": "2026-10-04T15:56:46.332109+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Psychological Horror “Metroidbrainia” ‘Dreadline Express’ to Launch October 16 [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3970362/psychological-horror-metroidbrainia-dreadline-express-to-launch-october-16-trailer/",
+          "description": "Announced during the recent 28 Games Later Showcase, publisher Shoreline Games and developer David Konecny‘s the first-person psychological horror “metroidbrainia” Dreadline Express, will launch for PC via Steam on October 16th. Ahead of the full game’s release, the demo for Dreadline Express is ava",
+          "date": "2026-10-04T14:30:31+00:00",
+          "image": ""
+        },
         {
           "title": "The Bloody Legacy of Elizabeth Báthory, Horror’s Original Female Monster",
           "link": "https://bloody-disgusting.com/editorials/3969820/the-bloody-legacy-of-elizabeth-bathory-horrors-original-female-monster/",
@@ -66,13 +73,6 @@
           "description": "When compared to all other film genres, horror is obviously the closest thing that cinema has to punk rock, with even mainstream scary movies engaging in subversive ideas and often embracing outsider artists behind the camera. That’s why rock stars tend to gravitate towards horror when the time come",
           "date": "2026-10-02T19:16:25+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/trick-or-treat-sammi-curr.jpg?resize=1024%2C576&#038;ssl=1"
-        },
-        {
-          "title": "Get a Good Look at Freddy Krueger in “Fortnitemares” with the New Trailer [Watch]",
-          "link": "https://bloody-disgusting.com/video-games/3970317/get-a-good-look-at-freddy-krueger-in-fortnitemares-with-the-new-trailer-watch/",
-          "description": "By this point, if you haven’t been paying attention, the Springwood Slasher himself Freddy Krueger is part of this year’s Fortnitemares. And Fornite knows it, as they’ve dropped a new trailer featuring Freddy in action, complete with a boiler backpack. Freddy’s skin (no pun intended) is available no",
-          "date": "2026-10-02T19:11:15+00:00",
-          "image": ""
         }
       ]
     },
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Join The HAUNTED COMIC CLUB In Exclusive Middle Grade Comic Excerpt",
+          "link": "https://www.fangoria.com/haunted-comic-club-excerpt/",
+          "description": "Read an exclusive excerpt from HAUNTED COMIC CLUB, a new middle grade graphic novel from Josh Tierney and Caitlin Soliman.",
+          "date": "2026-10-04T14:00:44+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/HAUNTEDCC-HC-COMP-SOLICIT-WEB-copy.jpg"
+        },
+        {
           "title": "SCORCH MARKS Soars With Inimitable Dragula Winner, Vander Von Odd [Exclusive]",
           "link": "https://www.fangoria.com/scorch-marks-vander-von-odd-exclusive/",
           "description": "Check out our exclusive look at the visionary performer as Tiamat in SCORCH MARKS.",
@@ -216,13 +223,6 @@
           "description": "October 2026 boasts some killer releases for fans of horror comics to celebrate the reason for the season.",
           "date": "2026-10-01T22:00:38+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/FANGO-Oct2026-Comics.jpg"
-        },
-        {
-          "title": "TCM Goes All Out For Halloween With CREEPY CINEMA Programming",
-          "link": "https://www.fangoria.com/tcm-halloween-programming/",
-          "description": "TCM has your Halloween movie marathon sorted with a full lineup of October programming, including their Creepy Cinema double features.",
-          "date": "2026-10-01T19:55:22+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/house-of-wax-2100x1400-copy.jpeg"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Rumour: Sony 'Accepting Game Pitches' on Fan Fave Franchises, First Wave Due Around PS6 Launch",
+          "link": "https://www.pushsquare.com/news/2026/10/rumour-sony-accepting-game-pitches-on-fan-fave-franchises-first-wave-due-around-ps6-launch",
+          "description": "Killzone! Ape Escape! Sly Cooper! A recognised leaker who previously outed the existence of Metroidvania spin-off God of War: Sons of Sparta says Sony is “accepting multiple game pitches” for projects inspired by fan favourite franchises. Recently there’s been an uptick in rumours related to legacy ",
+          "date": "2026-10-04T12:00:00+00:00",
+          "image": "https://images.pushsquare.com/ef3f3518d0d25/large.jpg"
+        },
+        {
           "title": "Thrustmaster Reveals New $750 PS5 Racing Wheel for Gran Turismo 7",
           "link": "https://www.pushsquare.com/news/2026/10/thrustmaster-reveals-new-usd750-ps5-racing-wheel-for-gran-turismo-7",
           "description": "For the racing elite. Gran Turismo 7 quietly goes from strength-to-strength, and the best console sim racer on the planet deserves an exceptional hardware rig. How about this $750 solution from Thrustmaster, then, which is scheduled to launch this Christmas? Read the full article on pushsquare.com",
@@ -441,13 +448,6 @@
           "description": "New models shipping now. Sony is notorious for optimising its hardware right throughout each generation, and it looks like it’s shipping refined base PS5 Slim consoles, starting with its Marvel’s Wolverine console. A Polish hardware expert recently took to X (or Twitter ) to report his findings, dis",
           "date": "2026-10-02T17:15:00+00:00",
           "image": "https://images.pushsquare.com/dbe4d1355695f/large.jpg"
-        },
-        {
-          "title": "Toy Story 3 Complete Edition's PS5 Trophy List Echoes the Original with a Few New Additions",
-          "link": "https://www.pushsquare.com/news/2026/10/toy-story-3-complete-editions-ps5-trophy-list-echoes-the-original-with-a-few-new-additions",
-          "description": "Play time. Lest we forget, amid the extremely busy release schedule right now, Digital Eclipse is about to bring back a beloved movie tie-in with Toy Story 3 Complete Edition . Releasing 15th October alongside Toy Story: Retro Roundup , which compiles several old school Pixar games, the fan favourit",
-          "date": "2026-10-02T16:45:00+00:00",
-          "image": "https://images.pushsquare.com/6cea5733269f9/large.jpg"
         }
       ]
     },
