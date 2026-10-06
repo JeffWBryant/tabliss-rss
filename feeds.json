@@ -1,84 +1,91 @@
 {
-  "updated": "2026-10-06T14:04:03.834915+00:00",
+  "updated": "2026-10-06T19:45:19.899983+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
         {
-          "title": "Dee Snider’s ‘Strangeland’ Returns With Haunted Attraction at Woods of Terror in Greensboro, NC!",
-          "link": "https://bloody-disgusting.com/the-further/3970635/dee-sniders-strangeland-returns-with-haunted-attraction-at-woods-of-terror-in-greensboro-nc/",
-          "description": "Twisted Sister frontman Dee Snider wrote and starred in the horror film Strangeland back in 1998, and he’s made no secret of the fact that he’d love to bring Captain Howdy back to the screen. Directed by John Pieplow, the late ’90s horror film has amassed a bit of a cult fanbase over the years, […] ",
-          "date": "2026-10-06T13:47:04+00:00",
+          "title": "Jason Voorhees’ Look in ‘Crystal Lake’ Will Be “More Grounded” Than Original ‘Friday the 13th’",
+          "link": "https://bloody-disgusting.com/news/3970708/crystal-lake-jason-voorhees-unmasked-design-friday-the-13th/",
+          "description": "In the original Friday the 13th, we only saw obscured looks at a young Jason Voorhees in flashbacks to when he drowned at Crystal Lake. Well, until the film’s final moments offered a much better look when he emerged out of the water for one last scare. Since that original movie, most of our unmasked",
+          "date": "2026-10-06T19:26:26+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/HPnRVV_X0AESjj-1.jpg?resize=1080%2C1350&#038;ssl=1"
+        },
+        {
+          "title": "Supermassive Games’ ‘The Conjuring: Unspoken’ Brings Interactive Ghost Hunting to Netflix Soon With New Release Date [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3970699/supermassive-developed-netflix-game-the-conjuring-unspoken-launches-october-13-trailer/",
+          "description": "Netflix has announced that its upcoming cinematic, cloud-based game from Supermassive Games (the folks behind The Dark Pictures Anthology) in The Conjuring: Unspoken now has a release date. Per the new press release, the expansion of The Conjuring universe will launch on October 13. The Conjuring: U",
+          "date": "2026-10-06T18:05:13+00:00",
           "image": ""
         },
         {
-          "title": "Co-Op Horror Job Sim ‘Blood Covenant’ Has You Cleaning up a Psych Hospital [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3970623/co-op-horror-job-sim-blood-covenant-has-you-cleaning-up-a-psych-hospital-trailer/",
-          "description": "Fans of Session 9 will have something to look forward to in DelaJea Press’ Blood Covenant. The 1–4 player co-op survival horror job-sim coming to Steam on November 2 has your crew (or you can go solo, if you dare) working nights in an abandoned psych hospital. And as you might expect, something does",
-          "date": "2026-10-06T13:30:43+00:00",
+          "title": "‘Find Me Where It Ends’ Review: Cassandra Khaw’s Haunting Novella Cuts Straight To The Soul",
+          "link": "https://bloody-disgusting.com/books/3970698/find-me-where-it-ends-review-cassandra-khaws-haunting-novella-cuts-straight-to-the-soul/",
+          "description": "Cassandra Khaw has a painterly quality to their prose, an ability to brush in layers of detail so compelling and bright with meaning that you’ll keep reading even if you’re not yet sure where the complete picture is taking you. It’s a very good quality to have for horror writing, and it’s especially",
+          "date": "2026-10-06T17:58:47+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/4skullrating-black.png?resize=225%2C61&#038;ssl=1"
+        },
+        {
+          "title": "‘Crystal Lake’ Showrunner Promises Iconic ‘Friday the 13th’ Mask… But Not the Hockey Mask",
+          "link": "https://bloody-disgusting.com/news/3970692/crystal-lake-friday-the-13th-hockey-mask-jason-voorhees-explained/",
+          "description": "A significant detail about the history of Jason Voorhees that Friday the 13th fans love explaining is the trajectory of the actual killer as opposed to the various misconceptions about him. The most notable point of correction, of course, is that it’s actually Jason’s mother Pamela Voorhees who is t",
+          "date": "2026-10-06T17:57:01+00:00",
           "image": ""
         },
         {
-          "title": "Airbnb Reveals Its Hottest Halloween Destinations That Are Perfect for Horror Fans",
-          "link": "https://bloody-disgusting.com/movie/3970599/airbnb-halloween-destinations-horror-movie-fans/",
-          "description": "There might be an uptick in Airbnb‘s popularity when the summer rolls around and everyone is looking for ways to spend a vacation, but for horror movie fans, there’s a much bigger surge in October. Few things scream “Halloween” quite like taking a trek to a seasonally appropriate locale. In many cas",
-          "date": "2026-10-06T13:00:47+00:00",
+          "title": "‘New Group’ Trailer: Shudder’s Cosmic Horror Twists Conformity Into Body Horror",
+          "link": "https://bloody-disgusting.com/movie/3970689/new-group-trailer-shudders-cosmic-horror-twists-conformity-into-body-horror/",
+          "description": "Conformity leads to body horror in the official trailer for the upcoming Shudder original New Group. The cosmic horror movie makes its streaming debut on November 6. In New Group, “High school student Ai sees her world collapse when a strange cult-like mentality gradually turns people around her int",
+          "date": "2026-10-06T17:34:01+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/unnamed.jpg?resize=1200%2C1800&#038;ssl=1"
+        },
+        {
+          "title": "‘Mr. Magpie’s Harmless Card Game’ Unveils New Demo Ahead of Steam Next Fest",
+          "link": "https://bloody-disgusting.com/video-games/3970625/mr-magpies-harmless-card-game-unveils-new-demo-ahead-of-steam-next-fest/",
+          "description": "Giant Light Studios’ surreal corporate horror deckbuilder Mr. Magpie’s Harmless Card Game has a new demo available now for fans to check out ahead of Steam Next Fest in a few weeks’ time. Published by Behaviour Interactive and Gambit Digital, Mr. Magpie’s Harmless Card Game combines Minesweeper-insp",
+          "date": "2026-10-06T17:30:38+00:00",
           "image": ""
         },
         {
-          "title": "Anomaly-Spotting Horror Title ‘VCR83’ Interacts With Your Real Desktop For More Scares [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3970618/anomaly-spotting-horror-title-vcr83-interacts-with-your-real-desktop-for-more-scares-trailer/",
-          "description": "Galactic Crows and developer Tarba Paul Cornel have some psychological surveillance horror for gamers with their upcoming title VCR83. Coming to Steam later this year (with a demo currently available), VCR83 puts players in the role of monitoring live security cameras, reporting anomalies, and survi",
-          "date": "2026-10-06T11:30:52+00:00",
+          "title": "Survival Thriller ‘Fall 2: Deadpoint’ Now Available to Watch at Home",
+          "link": "https://bloody-disgusting.com/movie/3970677/fall-2-deadpoint-home-video-release-details/",
+          "description": "When it landed in theaters back in 2022, Scott Mann‘s Fall was a moderate success. Hitting theaters late in the summer, it wasn’t competing with mega blockbusters like Top Gun: Maverick, Doctor Strange in the Multiverse of Madness, or Jurassic World: Dominion, and instead was a straightforward and m",
+          "date": "2026-10-06T16:22:58+00:00",
           "image": ""
         },
         {
-          "title": "Scooby-Doo Pays Tribute to ‘Backrooms,’ ‘Obsession,’ and More in Crossover Posters",
-          "link": "https://bloody-disgusting.com/movie/3970578/scooby-doo-crossover-backrooms-obsession-weapons/",
-          "description": "Scooby-Doo honored a number of beloved horror movies with some amazing parody posters. The post Scooby-Doo Pays Tribute to ‘Backrooms,’ ‘Obsession,’ and More in Crossover Posters appeared first on Bloody Disgusting! .",
-          "date": "2026-10-05T21:39:26+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Scooby-Doo-Backrooms-Poster-Snackrooms.png?resize=1080%2C1440&#038;ssl=1"
-        },
-        {
-          "title": "‘Human’ Trailer’ Teases An Extreme “Stomach-Churning” Supernatural Nightmare",
-          "link": "https://bloody-disgusting.com/movie/3970575/human-trailer-teases-an-extreme-stomach-churning-supernatural-nightmare/",
-          "description": "A little tease of digital debauchery before bed instead leads to a blood-drenched supernatural nightmare of horrors and heartbreak in the trailer for Human. Dark Sky Films brings Human to select theaters and Digital on October 23. The official synopsis: “It’s past midnight, and Dani Ferris is all al",
-          "date": "2026-10-05T20:53:59+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Human_Onesheet_Digital.jpg?resize=1625%2C2400&#038;ssl=1"
-        },
-        {
-          "title": "‘The Backrooms: Silverfish’ – Bloody Disgusting’s New Horror Fiction Podcast Takes You into the Backrooms",
-          "link": "https://bloody-disgusting.com/podcast-news/3970548/backrooms-silverfish-bloody-disgustings-new-horror-fiction-podcast-takes-you-into-the-backrooms/",
-          "description": "The Bloody Disgusting Podcast Network, Bloody FM, is thrilled to announce that we’re heading into the Backrooms with the launch of brand new horror fiction podcast The Backrooms: Silverfish. The Backrooms: Silverfish is a new take on the Backrooms mythology, one that’s focused less on the place, and",
-          "date": "2026-10-05T20:26:29+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/cropped-1788891286742.jpg?resize=2000%2C2000&#038;ssl=1"
-        },
-        {
-          "title": "‘Godzilla Minus Zero’ Kaiju-Sized Popcorn Bucket May Be the Biggest Yet",
-          "link": "https://bloody-disgusting.com/the-further/3970513/godzilla-minus-zero-kaiju-sized-popcorn-bucket-may-be-the-biggest-yet/",
-          "description": "Takashi Yamazaki‘s upcoming sequel to Godzilla Minus One appears to already be breaking records before it’s even released. Not only is Godzilla Minus Zero the first ever Japanese film to be shot on IMAX with an international wide release in mind, but the film’s distributors have also cooked up an ap",
-          "date": "2026-10-05T20:02:39+00:00",
+          "title": "‘Creature Of The Pines’ Trailer Teases Found Footage Cryptid Nightmare Deep In The Pine Barrens",
+          "link": "https://bloody-disgusting.com/movie/3970638/creature-of-the-pines-trailer-teases-found-footage-cryptid-nightmare-deep-in-the-pine-barrens/",
+          "description": "There’s something in the woods in the trailer for found footage horror Creature of the Pines, and it’s calling out. The Screambox exclusive begins streaming on October 13. The found footage horror film follows “a skeptical documentary team into the heart of the New Jersey Pine Barrens. Tasked with i",
+          "date": "2026-10-06T16:01:02+00:00",
           "image": ""
         },
         {
-          "title": "‘Pumpkinhead 2’s Cassandra Peterson on Embracing a Witchy Character That’s Not Elvira [INTERVIEW]",
-          "link": "https://bloody-disgusting.com/movie/3970528/r-l-stine-pumpkinhead-2-cassandra-peterson-jem-garrard-interview/",
-          "description": "For more than 40 years, Cassandra Peterson has been intrinsically linked with her Elvira character, and for good reason. The horror host had humble origins, as she introduced schlocky sci-fi and horror movies in Elvira’s Movie Macabre, only for the character’s fame to transcend the horror world and ",
-          "date": "2026-10-05T19:28:52+00:00",
+          "title": "Watch The First 10 Minutes Of ‘Insidious: Out Of The Further’! [Exclusive]",
+          "link": "https://bloody-disgusting.com/exclusives/3970584/watch-the-first-10-minutes-of-insidious-out-of-the-further-exclusive/",
+          "description": "Available to watch at home today is Insidious: Out of the Further, the latest chapter that brings the denizens out of the Further into our world, including some fan favorites. ‘Tis the season for scares, and we’re exclusively sharing the chilling opening 10 minutes from the film. Watch the opening s",
+          "date": "2026-10-06T16:00:33+00:00",
           "image": ""
         },
         {
-          "title": "‘Pan’s Labyrinth’ – We Are Giving Away a 3D Hologram Signed by Guillermo del Toro and More!",
-          "link": "https://bloody-disgusting.com/movie/3970531/pans-labyrinth-we-are-giving-away-a-3d-hologram-signed-by-guillermo-del-toro-and-more/",
-          "description": "We are just days away from the 20th anniversary re-release of Guillermo del Toro’s masterpiece Pan’s Labyrinth in theaters on October 9, the classic film being presented for the first time in 3D and non-3D 4K as part of a collaboration between Bloody Disgusting’s parent company Cineverse and Fathom ",
-          "date": "2026-10-05T19:22:45+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Hologram-Post.png?resize=1080%2C1350&#038;ssl=1"
+          "title": "‘Victorian Psycho’ And ‘River’ Lead Packed Telluride Horror Show 2026 Lineup; Bloody Disgusting Joins As Guest Host",
+          "link": "https://bloody-disgusting.com/movie/3970411/victorian-psycho-and-the-cycle-lead-packed-tellride-horror-show-2026-lineup-bloody-disgusting-joins-as-guest-host/",
+          "description": "The Telluride Horror Show returns next week for its 17th edition, running October 16-18 in Telluride, Colorado, for a high-altitude weekend of screams. It’s a packed lineup that includes Victorian Psycho as the closing night film, The Cycle with director Jordan Downey in person, River as the Centerp",
+          "date": "2026-10-06T16:00:13+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/08/RIVER_Still.jpg?resize=1024%2C576&#038;ssl=1"
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "Lanterns Finale Leaves Open the Comic Book Story of Hal Jordan’s Return",
+          "link": "https://www.denofgeek.com/tv/lanterns-finale-leaves-open-comic-story-hal-jordan-return/",
+          "description": "This article contains spoilers for Lanterns. Ever since the pilot episode of Lanterns ended with a shot of Hal Jordan, frozen on a high school football field stand and dead from a bullet hole in his head, fans have hoped against hope that the death would be undone. Yet, despite the fact that Lantern",
+          "date": "2026-10-06T16:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/kyle-chandler-in-Lanterns.jpg"
+        },
         {
           "title": "15 Beloved Movies That Are Actually Kind of Messed Up if You Think About It",
           "link": "https://www.denofgeek.com/msn/15-beloved-movies-that-are-actually-kind-of-messed-up-if-you-think-about-it/",
@@ -141,19 +148,26 @@
           "description": "“Portable” has always been a flexible word. Today it usually means something slips into a pocket or laptop bag. A few decades ago, it could mean carrying a 25-pound computer by a handle and being grateful it was not bolted to a desk. Cameras needed tripods, radios came with backpack-sized hardware, ",
           "date": "2026-10-06T11:45:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-14.jpg"
-        },
-        {
-          "title": "15 Photos Where Caution Was Clearly Thrown to the Wind",
-          "link": "https://www.denofgeek.com/msn/15-photos-where-caution-was-clearly-thrown-to-the-wind/",
-          "description": "Some people see a problem and look for the safest possible solution. Other people see the same problem and start stacking ladders. Reddit is full of moments where common sense appears to have briefly left the building, whether that means turning a forklift into an elevator, balancing a ladder over a",
-          "date": "2026-10-06T11:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/11_e3677a.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "One Of Japan’s Weirdest New Horror Movies Is Coming To Shudder",
+          "link": "https://www.fangoria.com/new-group-shudder-release-date/",
+          "description": "Conformity is killer in Yûta Shimotsu's satirical sophomore feature.",
+          "date": "2026-10-06T16:26:24+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/NEW-GROUP.png"
+        },
+        {
+          "title": "Telluride Horror Show Announces Frightening 2026 Lineup",
+          "link": "https://www.fangoria.com/telluride-horror-show-2026-lineup/",
+          "description": "VICTORIAN PSYCHO and THE CYCLE headline this year's Telluride Horror Show lineup, alongside some familiar special guests.",
+          "date": "2026-10-06T16:00:36+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/HorrorShowLogoColor_STRAIGHT.png"
+        },
         {
           "title": "RZA’s DEATH TONE Brings The Ruckus In Exclusive First Look At V/H/S/MIXTAPE",
           "link": "https://www.fangoria.com/v-h-s-mixtape-death-tone-exclusive-first-look/",
@@ -209,26 +223,33 @@
           "description": "Director Mike P. Nelson’s giant snake movie BEWARE BOIÚNA was overshadowed by VERITY and DIGGER.",
           "date": "2026-10-05T14:00:43+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Screenshot-1858-Cropped.png"
-        },
-        {
-          "title": "THE TRAVELER & THE TROLL: Check Out This Awesome Short With a Giant Puppet",
-          "link": "https://www.fangoria.com/the-traveler-the-troll-short/",
-          "description": "THE TRAVELER & THE TROLL is nine minutes of dark fantasy puppet goodness starring Erika Ishii.",
-          "date": "2026-10-04T17:15:42+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/the-traveler-and-the-troll-short-puppet-1.webp"
-        },
-        {
-          "title": "Join The HAUNTED COMIC CLUB In Exclusive Middle Grade Comic Excerpt",
-          "link": "https://www.fangoria.com/haunted-comic-club-excerpt/",
-          "description": "Read an exclusive excerpt from HAUNTED COMIC CLUB, a new middle grade graphic novel from Josh Tierney and Caitlin Soliman.",
-          "date": "2026-10-04T14:00:44+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/HAUNTEDCC-HC-COMP-SOLICIT-WEB-copy.jpg"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "New Warhammer PlayStation 5 Action Game Sets Release Date, Reveals Two Heroes",
+          "link": "https://www.playstationlifestyle.net/2026/10/06/new-warhammer-playstation-5-action-game-release-date-two-heroes",
+          "description": "British video game developer Auroch Digital has announced the PlayStation 5 release date for its new Warhammer game. The developer also revealed two characters from different Warhammer settings. Warhammer Survivors is set to launch on November 5 on the PlayStation Store. It is a fast-paced Vampire S",
+          "date": "2026-10-06T16:31:37+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/New-Warhammer-PlayStation-5-Action-Game-Sets-Release-Date-Reveals-Two-Heroes.jpg?w=1024"
+        },
+        {
+          "title": "2 Popular PS4 Games Completely Free on PlayStation Store Right Now",
+          "link": "https://www.playstationlifestyle.net/2026/10/06/cod-ww2-mafia-3-ps4-games-free-ps-store",
+          "description": "A pair of popular PS4 games are currently completely free to claim and download via the PS Store right now. For some reason, Call of Duty: WWII and Mafia III can simply be added to players’ libraries. It’s unclear if this is a glitch or if Sony planned to offer these games for free, possibly […] The",
+          "date": "2026-10-06T15:35:23+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/free-ps4-games-on-ps-store.jpg?w=1024"
+        },
+        {
+          "title": "PS5 Pro-Enhanced Star Wars Game Out Today on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/10/06/star-wars-galactic-racer-ps5-release-october-6",
+          "description": "A new Star Wars game paying homage to the pod racing in the franchise is finally releasing today on the PlayStation 5. The post PS5 Pro-Enhanced Star Wars Game Out Today on PlayStation Store appeared first on PlayStation LifeStyle .",
+          "date": "2026-10-06T15:07:18+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/Deepesh-personal-1200-675-67.jpg?w=1024"
+        },
         {
           "title": "Popular PlayStation Plus Game Going Offline, Last Chance to Play",
           "link": "https://www.playstationlifestyle.net/2026/10/06/ps-plus-game-nba-2k25-going-offline-unplayable",
@@ -277,33 +298,19 @@
           "description": "RPG fans on PS5 can look forward to a host of new updates and game modes coming to one of last year's best western games. The post Wild West PlayStation 5 RPG Adds Bandit Camps, Robberies, and More in New Update appeared first on PlayStation LifeStyle .",
           "date": "2026-10-05T21:54:34+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/ps5.jpg?w=1024"
-        },
-        {
-          "title": "How to Protect Your PlayStation Account as Hacking Issue Persists",
-          "link": "https://www.playstationlifestyle.net/2026/10/05/how-to-prevent-playstation-account-hacking",
-          "description": "The issue of PlayStation account hacking via social engineering continues to worsen, as yet another high-profile member of the community had their account stolen over the weekend. As we’ve previously reported, hackers are using basic public information about their victims to steal their PSN accounts",
-          "date": "2026-10-05T14:04:13+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/playstation-account-hacking-problem.jpg?w=1024"
-        },
-        {
-          "title": "Beloved PS2-era PlayStation Exclusive Action Series Set to Return – Report",
-          "link": "https://www.playstationlifestyle.net/2026/10/05/playstation-exclusive-sly-cooper-to-return-report",
-          "description": "Rumor has it that a PS2-era PlayStation exclusive action game series is set to return after a lengthy hiatus. Originally developed by Sucker Punch Productions, the Sly Cooper franchise hasn’t seen a new mainline entry since 2013’s PS3 and PS Vita game, Sly Cooper: Thieves in Time. However, that’s re",
-          "date": "2026-10-05T13:18:48+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/ps2-playstation-exclusive-sly-cooper.jpg?w=1024"
-        },
-        {
-          "title": "2023 PS5 Adventure Game 70% Off on PS Store, DLC Included",
-          "link": "https://www.playstationlifestyle.net/2026/10/05/fort-solis-ps-store-deal-october-2026",
-          "description": "An underrated 2023 PS5 adventure game is 70% off on the PS Store in a limited-time deal that includes extra content. Developed by Fallen Leaf and Black Drakkar Games, Fort Solis features a star-studded cast, which includes Troy Baker and Roger Clark. PS5 adventure game Fort Solis (Terra Edition) is ",
-          "date": "2026-10-05T12:27:50+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/fort-solis-ps-store-deal.jpg?w=1024"
         }
       ]
     },
     "PlayStation Blog": {
       "url": "https://blog.playstation.com/feed/",
       "articles": [
+        {
+          "title": "Warhammer Survivors launches November 10, new characters revealed",
+          "link": "https://blog.playstation.com/2026/10/06/warhammer-survivors-launches-november-10-new-characters-revealed/",
+          "description": "Today, we’re excited to announce that Warhammer Survivors launches on PS5 November 10. To mark the occasion we’re also revealing two characters in our latest trailer. Eagle-eyed fans who have been following the game for a while may have noticed Morvenn Vahl in the game’s key art, and we’re really ex",
+          "date": "2026-10-06T14:00:51+00:00",
+          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
+        },
         {
           "title": "Everything you need to know about DMZ mode in Call of Duty: Modern Warfare 4",
           "link": "https://blog.playstation.com/2026/10/05/everything-you-need-to-know-about-dmz-mode-in-call-of-duty-modern-warfare-4/",
@@ -366,13 +373,6 @@
           "description": "Since our announcement trailer in February, we’ve been heads down bringing Kena: Scars of Kosmora to the finish line. It’s been exciting to see all the anticipation and passion from fans. We can’t wait to share a new installment of Kena’s story with you! At the same time, we want to deliver a top-no",
           "date": "2026-10-01T11:59:54+00:00",
           "image": "https://live.staticflickr.com/65535/55557865239_ca61704fc4_4k.jpg"
-        },
-        {
-          "title": "PlayStation Plus Monthly Games for October: F1 25, Hunt: Showdown 1896, Earth Defense Force: World Brothers 2",
-          "link": "https://blog.playstation.com/2026/09/30/playstation-plus-monthly-games-for-october-f1-25-hunt-showdown-1896-earth-defense-force-world-brothers-2/",
-          "description": "Race for podium glory in F1 25, take on monsters and other players in Hunt: Showdown 1896, then battle voxel versions of EDF enemies in Earth Defense Force: World Brothers 2. Together, these three games form the PlayStation Plus Monthly Games for October. All be available to PlayStation Plus members",
-          "date": "2026-09-30T15:30:30+00:00",
-          "image": "https://blog.playstation.com/tachyon/2026/09/eabab177555f0b80a7a6434c7241b6133b4a1dd4-scaled.jpg?fit=1024%2C1024"
         }
       ]
     },
@@ -380,74 +380,74 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Marvel Tokon Will Fully Reveal First DLC Fighter Phoenix Cyclops This Week",
+          "link": "https://www.pushsquare.com/news/2026/10/marvel-tokon-will-fully-reveal-first-dlc-fighter-phoenix-cyclops-this-week",
+          "description": "Sweet Scott Summers child. It’s been a few months since the sublime Marvel Tokon: Fighting Souls released, and while it’s had its issues on PC , I’ve personally loved playing it. (What a game!) Earlier in the year, dev Arc System Works announced Phoenix Cyclops as the first of four Year 1 Pass comba",
+          "date": "2026-10-06T18:00:00+00:00",
+          "image": "https://images.pushsquare.com/0c4dc1eaed2a2/large.jpg"
+        },
+        {
+          "title": "Space Harrier Fans, You Need to Keep an Eye on This PS5 Arcade Shooter",
+          "link": "https://www.pushsquare.com/news/2026/10/space-harrier-fans-you-need-to-keep-an-eye-on-this-ps5-arcade-shooter",
+          "description": "Welcome to the fantasy zone? Japanese dev PiXEL describes Angelian Trigger as a “pseudo 3D style” shooter inspired by games from “the past”. It means Space Harrier , of course! This game is actually already available on the Switch in Japan, but only supports the Japanese language. It’s unclear wheth",
+          "date": "2026-10-06T17:30:00+00:00",
+          "image": "https://images.pushsquare.com/2db51db4b711a/large.jpg"
+        },
+        {
+          "title": "Rumour: Watch Dogs Legion to Receive Surprise PS5 Remake Next Year",
+          "link": "https://www.pushsquare.com/news/2026/10/rumour-watch-dogs-legion-to-receive-surprise-ps5-remake-next-year",
+          "description": "London's calling. There were some great ideas in Watch Dogs Legion , but it didn’t really come together quite like publisher Ubisoft planned. I think I liked this game more than most, but I can fully understand its detractors. Read the full article on pushsquare.com",
+          "date": "2026-10-06T17:15:00+00:00",
+          "image": "https://images.pushsquare.com/2f799c4e3b966/large.jpg"
+        },
+        {
+          "title": "Nolan North Would '110%' Return for Nathan Drake in a New Uncharted Game",
+          "link": "https://www.pushsquare.com/news/2026/10/nolan-north-would-110percent-return-for-nathan-drake-in-a-new-uncharted-game",
+          "description": "\"It just depends if Sony wants to make money\". Will Sony ever make an Uncharted 5 ? Well, there are rumours floating around about a new entry in the works at Naughty Dog, and if that's true, the team definitely doesn't need to worry about getting Nathan Drake back. Speaking during a Q&A session at G",
+          "date": "2026-10-06T17:00:00+00:00",
+          "image": "https://images.pushsquare.com/34c15fa96b596/large.jpg"
+        },
+        {
+          "title": "'This Needs to Change': PS5 Influencer Regains Access to Account, But Admits 'Not Many Have My Reach'",
+          "link": "https://www.pushsquare.com/news/2026/10/this-needs-to-change-ps5-influencer-regains-access-to-account-but-admits-not-many-have-my-reach",
+          "description": "\"No one deserves this\". Earlier this year there was a big hullabaloo about a social engineering scam, impacting dozens upon dozens of PlayStation players. The story hit the news in a big way when longtime podcaster Colin Moriarty had his account boosted , leading to widespread panic in the community",
+          "date": "2026-10-06T16:30:00+00:00",
+          "image": "https://images.pushsquare.com/940673b1b7df9/large.jpg"
+        },
+        {
+          "title": "After Crazy Taxi's AI Drama, SEGA Says It's Being 'Very Cautious' About Using the Tech",
+          "link": "https://www.pushsquare.com/news/2026/10/after-crazy-taxis-ai-drama-sega-says-its-being-very-cautious-about-using-the-tech",
+          "description": "Won't be used for creative aspects. Generative AI continues to be a controversial topic in many fields, and although it may have its uses, many stand against its use in creative endeavours — and that's pretty much how publisher SEGA sees it. The Japanese company stated its stance on AI in an intervi",
+          "date": "2026-10-06T16:00:00+00:00",
+          "image": "https://images.pushsquare.com/8959175f45342/large.jpg"
+        },
+        {
+          "title": "Star Wars: Galactic Racer's Biggest Weakness Is Its Limited Multiplayer, and It's Already Getting Fixed",
+          "link": "https://www.pushsquare.com/news/2026/10/star-wars-galactic-racers-biggest-weakness-is-its-limited-multiplayer-and-its-already-getting-fixed",
+          "description": "Fuse Games is on the case. While Star Wars: Galactic Racer has come out to glowing reviews , something that's quickly become cause for concern among players is the game's multiplayer offering. Thankfully, it seems the developer is already on the case. There are a couple of things relating to the gam",
+          "date": "2026-10-06T15:00:00+00:00",
+          "image": "https://images.pushsquare.com/68e0c01b64392/large.jpg"
+        },
+        {
+          "title": "Claim Two Major PS4 Games for Free Right Now in Europe, No PS Plus Required",
+          "link": "https://www.pushsquare.com/news/2026/10/claim-two-major-ps4-games-for-free-right-now-in-europe-no-ps-plus-required",
+          "description": "Get Call of Duty: WWII and Mafia 3 for free. Mafia 3 and all of its associated DLC is currently available for free on the PS Store in several countries, with no PS Plus required. You can get it through here . Fans have also noticed that Call of Duty: WWII is also available at no extra cost in severa",
+          "date": "2026-10-06T14:30:00+00:00",
+          "image": "https://images.pushsquare.com/cab6572d6494b/large.jpg"
+        },
+        {
+          "title": "Warhammer's Vampire Survivors-Like Brings Insane Pixel Action to PS5 in November",
+          "link": "https://www.pushsquare.com/news/2026/10/warhammers-vampire-survivors-like-brings-insane-pixel-action-to-ps5-in-november",
+          "description": "Hammer blow. Warhammer Survivors , the Warhammer game that's quite clearly taken inspiration from Vampire Survivors , now has a confirmed release date on PS5. Unfazed by the looming shadow of GTA 6 , the chaotic roguelite title launches on the 10th November, priced at £6.39 / $7.99 / €7.49. Read the",
+          "date": "2026-10-06T14:00:00+00:00",
+          "image": "https://images.pushsquare.com/eaec29803345c/large.jpg"
+        },
+        {
           "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace, and Sony Must Be Sweating",
           "link": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
           "description": "This is fine.png. A game of cat-and-mouse between Sony and hackers is very much underway, as the PS5 has been jailbroken to a massive degree in the past week. Legally we’re walking on thin ice here, but we can report on a new jailbreak which opens up the console, as long as it’s running firmware v7.",
           "date": "2026-10-06T13:30:00+00:00",
           "image": "https://images.pushsquare.com/3d9221cfad228/large.jpg"
-        },
-        {
-          "title": "'This Is Intentional': GameStop to Start Scalping Used PS5 Pros for $1,500",
-          "link": "https://www.pushsquare.com/news/2026/10/this-is-intentional-gamestop-to-start-scalping-used-ps5-pros-for-usd1500",
-          "description": "Almost double the price of a new unit. A brand new PS5 Pro will already cost you an arm and a leg in the United States at $900, but a used one may now set you back almost double, with GameStop announcing unprecedented price increases for pre-owned consoles. According to a verified Reddit post, the r",
-          "date": "2026-10-06T12:45:00+00:00",
-          "image": "https://images.pushsquare.com/dab8d1ebf63da/large.jpg"
-        },
-        {
-          "title": "ARC Raiders, The Finals Are the Next Games Set for TV and Movie Adaptations",
-          "link": "https://www.pushsquare.com/news/2026/10/arc-raiders-the-finals-are-the-next-games-set-for-tv-and-movie-adaptations",
-          "description": "Embarking on the next step. Embark Studios, the team behind popular shooters The Finals and ARC Raiders , have confirmed both games are being adapted for the screen. As reported by Variety , the Nexon-owned studio is teaming up with production company Chernin Entertainment to bring the two titles in",
-          "date": "2026-10-06T11:15:00+00:00",
-          "image": "https://images.pushsquare.com/741e05e16b1da/large.jpg"
-        },
-        {
-          "title": "Rumour: Ape Escape Revival Coming from Ex-Sonic Mania Devs at Evening Star Studio",
-          "link": "https://www.pushsquare.com/news/2026/10/rumour-ape-escape-revival-coming-from-ex-sonic-mania-devs-at-evening-star-studio",
-          "description": "The makers of Penny's Big Breakaway. Word on the street is that Sony is taking pitches on its dormant, fan-favourite franchises, and among those is the supposed revival of a proper old school classic: Ape Escape . Well, the rumour mill has continued turning over, and there's now a thin, but very pla",
-          "date": "2026-10-06T10:30:00+00:00",
-          "image": "https://images.pushsquare.com/d11c28876b354/large.jpg"
-        },
-        {
-          "title": "Out Today: Star Wars: Galactic Racer, the Highest-Rated Star Wars Game in Over 20 Years",
-          "link": "https://www.pushsquare.com/news/2026/10/out-today-star-wars-galactic-racer-the-highest-rated-star-wars-game-in-over-20-years",
-          "description": "Very fast, very dangerous. It's kind of wild to think about, but it's true: Star Wars: Galactic Racer is the highest-rated game in the sci-fi series since 2003's Knights of the Old Republic . With a Metascore of 88, it outdoes other recent games that share the universe, such as Star Wars Zero Compan",
-          "date": "2026-10-06T10:00:00+00:00",
-          "image": "https://images.pushsquare.com/b4e936d538f8e/large.jpg"
-        },
-        {
-          "title": "October 2026 PS Plus Essential Games Available to Download Now",
-          "link": "https://www.pushsquare.com/news/2026/10/october-2026-ps-plus-essential-games-available-to-download-now",
-          "description": "You can download until 2nd November. Right on time, another batch of PS Plus Essential games have been added to Sony’s service, which are yours to claim and keep for as long as you remain a member. October 2026’s selection includes sim racing, acclaimed multiplayer action, and some unorthodox voxel-",
-          "date": "2026-10-06T09:00:00+00:00",
-          "image": "https://images.pushsquare.com/86e09f7af6247/large.jpg"
-        },
-        {
-          "title": "BeamNG.drive Is Looking Wildly Impressive in First PS5 Pro Footage",
-          "link": "https://www.pushsquare.com/news/2026/10/beamng-drive-is-looking-wildly-impressive-in-first-ps5-pro-footage",
-          "description": "What sorcery is this? It’s a miracle that BeamNG.drive is releasing on the PS5 at all. For those who don’t know, this is a physics-focused racer that tracks each individual component of each vehicle at 240Hz, resulting in the most accurate crashes ever made. You’d think it would require a super-comp",
-          "date": "2026-10-05T23:15:00+00:00",
-          "image": "https://images.pushsquare.com/85bba807b238b/large.jpg"
-        },
-        {
-          "title": "This Scrappy New Superhero Game Could Be What Marvel's Avengers Wanted to Be",
-          "link": "https://www.pushsquare.com/news/2026/10/this-scrappy-new-superhero-game-could-be-what-marvels-avengers-wanted-to-be",
-          "description": "Assemble. A leaked trailer has been floating around today, showing off footage from a secret new Marvel game named Project Comet . Planned for PC and mobile – but likely coming to consoles as well – this is effectively a superhero version of the wildly popular Genshin Impact format, so you’ll be for",
-          "date": "2026-10-05T23:00:00+00:00",
-          "image": "https://images.pushsquare.com/63c2e5b32c080/large.jpg"
-        },
-        {
-          "title": "Another Major PS5 Game Will Be Delisted in October 2026",
-          "link": "https://www.pushsquare.com/news/2026/10/another-major-ps5-game-will-be-delisted-in-october-2026",
-          "description": "NBA 2K25 loses single player campaign in January 2027. Once again, I'm compiling all the upcoming delistings, server shutdowns, and general disruptions you should be aware of across PS5 and PS4 for October. This article was first published in September, but with all those delistings out of the way, ",
-          "date": "2026-10-05T17:00:00+00:00",
-          "image": "https://images.pushsquare.com/1637dbc1664df/large.jpg"
-        },
-        {
-          "title": "I Suppose PlayStation-Themed Blind Boxes Were Only a Matter of Time",
-          "link": "https://www.pushsquare.com/news/2026/10/i-suppose-playstation-themed-blind-boxes-were-only-a-matter-of-time",
-          "description": "Some sets available now. I really dislike blind boxes. I guess the rise and rise of PopMart has made them ubiquitous, but I hate the idea that you can spend good money on a random item. I had a friend once who’d buy an entire bundle of blind boxes, just to guarantee she got the full set. Read the fu",
-          "date": "2026-10-05T16:15:00+00:00",
-          "image": "https://images.pushsquare.com/3376079f4858d/large.jpg"
         }
       ]
     },
