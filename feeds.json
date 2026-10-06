@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T00:15:27.352009+00:00",
+  "updated": "2026-10-06T06:46:02.676590+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Free Horror Movies Streaming This Month",
+          "link": "https://www.fangoria.com/free-horror-movies-streaming-this-month/",
+          "description": "RESIDENT EVIL, 28 DAYS LATER, HERETIC, and TALK TO ME join the ranks of movies on free streaming services just in time for the scariest days of the year. You can find franchises and sequels to put together macabre movie marathons. Check out the list at FANGORIA.",
+          "date": "2026-10-06T01:01:54+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/MV5BZjY3NzJiNzYtM2I0NC00N2M4LWFmYzItMDMxMTY1MDg4YjVmXkEyXkFqcGc@._V1_-1.jpg"
+        },
+        {
           "title": "Best New Horror Movies To Stream At Home",
           "link": "https://www.fangoria.com/best-new-horror-movies-to-stream-at-home/",
           "description": "Halloween is finally here, and streaming services have special treats for everyone who wants a good scare in October. EVIL DEAD BURN, V/H/S MIXTAPE, CRYSTAL LAKE, HALLOWARRIOR, and THE CYCLE are coming at you to strike fear in your heart. Read all about it at FANGORIA.",
@@ -216,19 +223,19 @@
           "description": "Check out our exclusive look at the visionary performer as Tiamat in SCORCH MARKS.",
           "date": "2026-10-03T17:30:50+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Still-2026-01-06-194529-scaled.jpeg"
-        },
-        {
-          "title": "Top Horror Movies Streaming This Week",
-          "link": "https://www.fangoria.com/top-horror-movies-streaming-this-week/",
-          "description": "Kane Parsons' BACKROOMS, Coralie Fargeat's THE SUBSTANCE, and Johannes Roberts' RESIDENT EVIL: RETURN TO RACCOON CITY open October's frightful first week of the most popular streaming horror titles. Check the list out at FANGORIA.",
-          "date": "2026-10-02T18:51:04+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/MV5BN2I4OGQ2MjktZTExYS00N2RhLTliNDAtNzliMzg5OTU0ODcyXkEyXkFqcGc@._V1_.jpg"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "PlayStation Plus Essential October Free Games Rolling Out Now",
+          "link": "https://www.playstationlifestyle.net/2026/10/05/ps-plus-essential-october-monthly-free-games-out-now",
+          "description": "PS Plus Essential October 2026 monthly free games have begun rolling out, starting with Japan and Asia, where it’s Tuesday, October 6. Unlike the Extra and Premium catalogs, Essential games aren’t staggered by region, so players around the globe will be able to access the lineup on the same date at ",
+          "date": "2026-10-06T01:55:13+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/09/ps-plus-october.jpg?w=1024"
+        },
         {
           "title": "Acclaimed PS4 & PS5 Greek Mythology RPG Gets Massive 90% Discount on PlayStation Store",
           "link": "https://www.playstationlifestyle.net/2026/10/05/immortals-fenyx-rising-gold-edition-90-percent-discount-playstation-store",
@@ -291,13 +298,6 @@
           "description": "Virtual dogfighting returns in full force today as Bandai Namco officially launches Ace Combat 8: Wings of Theve across PlayStation 5, Xbox Series X|S, and PC, bringing next-generation aerial warfare to flight simulation fans. According to the official description of the game, Ace Combat 8 “delivers",
           "date": "2026-10-02T16:30:00+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/Deepesh-personal-1200-675-57.jpg?w=1024"
-        },
-        {
-          "title": "Hit PS5 & PS4 Metroidvania Game 70% Off on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/10/02/prince-of-persia-the-lost-crown-70-percent-off-playstation-store",
-          "description": "One of Ubisoft's action titles from a popular franchise is now available with a 70% discount. The post Hit PS5 & PS4 Metroidvania Game 70% Off on PlayStation Store appeared first on PlayStation LifeStyle .",
-          "date": "2026-10-02T14:00:00+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/pp.jpg?w=1024"
         }
       ]
     },
