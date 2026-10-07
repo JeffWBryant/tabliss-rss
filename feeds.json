@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-06T23:41:52.065590+00:00",
+  "updated": "2026-10-07T05:26:30.289528+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘The Exorcist: Martyrs’: Mike Flanagan’s ‘Exorcist’ Movie Gets Official Title, Plot Details, And First Look Images",
+          "link": "https://bloody-disgusting.com/movie/3970777/the-exorcist-martyrs-mike-flanagans-exorcist-movie-gets-official-title-plot-details-and-first-look-images/",
+          "description": "Mike Flanagan‘s The Exorcist film now has an official title: The Exorcist: Martyrs. The announcement brings first look images, plot details, a release date, and a teaser. The Exorcist: Martyrs will possess theaters on March 12, 2027, via Universal. Scarlett Johansson (The Avengers), Jacobi Jupe (Ham",
+          "date": "2026-10-07T01:34:43+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/63df31c4-806a-4433-811a-0baa36fe53aa.jpg?resize=1024%2C551&#038;ssl=1"
+        },
         {
           "title": "‘Something Is Killing the Children’ Creator Gives Update on Long-Awaited Blumhouse Movie",
           "link": "https://bloody-disgusting.com/movie/3970761/something-is-killing-the-children-movie-animates-series-update-blumhouse/",
@@ -66,13 +73,6 @@
           "description": "A significant detail about the history of Jason Voorhees that Friday the 13th fans love explaining is the trajectory of the actual killer as opposed to the various misconceptions about him. The most notable point of correction, of course, is that it’s actually Jason’s mother Pamela Voorhees who is t",
           "date": "2026-10-06T17:57:01+00:00",
           "image": ""
-        },
-        {
-          "title": "‘New Group’ Trailer: Shudder’s Cosmic Horror Twists Conformity Into Body Horror",
-          "link": "https://bloody-disgusting.com/movie/3970689/new-group-trailer-shudders-cosmic-horror-twists-conformity-into-body-horror/",
-          "description": "Conformity leads to body horror in the official trailer for the upcoming Shudder original New Group. The cosmic horror movie makes its streaming debut on November 6. In New Group, “High school student Ai sees her world collapse when a strange cult-like mentality gradually turns people around her int",
-          "date": "2026-10-06T17:34:01+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/unnamed.jpg?resize=1200%2C1800&#038;ssl=1"
         }
       ]
     },
