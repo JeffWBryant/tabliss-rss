@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T05:26:30.289528+00:00",
+  "updated": "2026-10-07T11:57:18.886113+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,62 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "15 TV Episodes Built Around a Real Problem Happening Behind the Scenes",
+          "link": "https://www.denofgeek.com/msn/15-tv-episodes-built-around-a-real-problem-happening-behind-the-scenes/",
+          "description": "Television writers spend a lot of time planning story arcs, but sometimes real life shows up with notes. An actor gets injured, someone needs maternity leave, the budget is suddenly gone, or production falls so far behind that an entire episode has to change shape. The solution is often to hide the ",
+          "date": "2026-10-07T11:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/2_f80a52.jpg"
+        },
+        {
+          "title": "15 Old Photos Where the Safety Standards Were Basically “Good Luck”",
+          "link": "https://www.denofgeek.com/msn/15-old-photos-where-the-safety-standards-were-basically-good-luck/",
+          "description": "Modern safety rules can feel excessive right up until you look at how people used to work without them. Steelworkers balanced hundreds of feet above city streets, linemen climbed poles with little between them and the ground, and early stunt performers treated the outside of a moving airplane like e",
+          "date": "2026-10-07T11:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-18.jpg"
+        },
+        {
+          "title": "15 Photos of Society at its Most Entitled",
+          "link": "https://www.denofgeek.com/msn/15-photos-of-society-at-its-most-entitled/",
+          "description": "Some people move through the world with the quiet assumption that everyone else will simply work around them. Their seat needs extra space. Their driveway obstruction can become somebody else’s problem. Fresh pavement, fire lanes, accessible parking, and basic public etiquette apparently become opti",
+          "date": "2026-10-07T11:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/4_5b3321.jpg"
+        },
+        {
+          "title": "15 Action Stars That Aren’t Actually Very Good at ‘Action’",
+          "link": "https://www.denofgeek.com/msn/15-action-stars-that-arent-actually-very-good-at-action/",
+          "description": "Making a good action scene is nothing like making a good dramatic one. The weight isn’t completely on the actor (although that depends on the performer), but also on the stunt performers, the choreography, and all of the special effects for when fights want to get a little bit out there. Even then, ",
+          "date": "2026-10-07T11:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/2_8c3c44.jpg"
+        },
+        {
+          "title": "15 Photos Where Chaos Clearly Won the Day",
+          "link": "https://www.denofgeek.com/msn/15-photos-where-chaos-clearly-won-the-day/",
+          "description": "While some of us pretend this isn’t true, we all need order in our everyday lives. That can come in the form of a neatly kept house, rules we abide by, or the simplicity of living in a society. And yet, entropy is all around us, messing with our perfectly good day in some chaotic, unpredictable way.",
+          "date": "2026-10-07T10:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/3_6fb2f5.jpg"
+        },
+        {
+          "title": "15 Actors We’re (Pleasantly) Surprised Are Still Alive",
+          "link": "https://www.denofgeek.com/msn/15-actors-were-pleasantly-surprised-are-still-alive/",
+          "description": "It’s always tragic to lose a celebrity, particularly for how much they mean to us. The oldest ones in particular were there for our formative years, either being part of our literal childhoods or showing our young adult brains that there was a bigger world out there. But we’re not here to talk about",
+          "date": "2026-10-07T10:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-8.jpg"
+        },
+        {
+          "title": "The Stories That Inspire Each Recent Horror Media",
+          "link": "https://www.denofgeek.com/msn/the-stories-that-inspire-each-recent-horror-media/",
+          "description": "It is believed that, after so many years of human history, every type of story worth telling has already been told. And while that may be true, our individual experiences are what allow us to mix and match these stories into something new. We aren’t copying something, we’re getting inspired by it. S",
+          "date": "2026-10-07T10:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/2_d3108d.jpg"
+        },
+        {
+          "title": "13 Unorthodox Comfort Movies We Still Love to Relax With",
+          "link": "https://www.denofgeek.com/msn/13-unorthodox-comfort-movies-we-still-love-to-relax-with/",
+          "description": "Certain movies are made with the idea of being comforting in mind, covering wholesome topics in cozy locales. That, however, isn’t the only way for a film to be a ‘comfort movie,’ and it all comes down to preference and familiarity. After all, if you rewatch your favourite movie, it’s a comfort one ",
+          "date": "2026-10-07T10:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-6.jpg"
+        },
+        {
           "title": "Lanterns Finale Leaves Open the Comic Book Story of Hal Jordan’s Return",
           "link": "https://www.denofgeek.com/tv/lanterns-finale-leaves-open-comic-story-hal-jordan-return/",
           "description": "This article contains spoilers for Lanterns. Ever since the pilot episode of Lanterns ended with a shot of Hal Jordan, frozen on a high school football field stand and dead from a bullet hole in his head, fans have hoped against hope that the death would be undone. Yet, despite the fact that Lantern",
@@ -92,62 +148,6 @@
           "description": "We have plenty of fond memories from old movies, mostly due to them being so closely related to our childhoods. What we need to ask ourselves is, have we watched these movies recently? Our rose-tinted glasses tend to see the past as a perfect time in our lives, even if current sensibilities wouldn’t",
           "date": "2026-10-06T13:45:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/img-17-3.jpg"
-        },
-        {
-          "title": "15 Fun and Random Facts for Anyone Who Cares to Learn",
-          "link": "https://www.denofgeek.com/msn/15-fun-and-random-facts-for-anyone-who-cares-to-learn/",
-          "description": "The best facts aren't necessarily complicated or useful, but they are strange enough to stick in our heads and provide a little bit of curiosity and whimsey to our otherwise boring lives. History, science, animals, language, food, and everyday objects are full of details that pique our interest. Som",
-          "date": "2026-10-06T13:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/12_a378a0.jpg"
-        },
-        {
-          "title": "15 People Share Something They Can’t Prove, But Still 100% Believe",
-          "link": "https://www.denofgeek.com/msn/15-people-share-something-they-cant-prove-but-still-100-believe/",
-          "description": "People can hold surprisingly strong beliefs without ever looking for hard proof. Sometimes it is a suspicion about another person, sometimes a theory about everyday life, and sometimes an idea that sounds so strange that even the person sharing it admits they cannot demonstrate that it is true. That",
-          "date": "2026-10-06T13:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-11.jpg"
-        },
-        {
-          "title": "15 Dead Giveaways Someone’s Never Been Poor",
-          "link": "https://www.denofgeek.com/msn/15-dead-giveaways-someones-never-been-poor/",
-          "description": "People who know poverty know that it infiltrates every little decision in life. People who have never had to stretch a grocery trip, worry about an empty fuel tank, reuse something because replacing it is impossible, or decide which bill can wait may not realize how taxing those habits can be. A rec",
-          "date": "2026-10-06T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-10.jpg"
-        },
-        {
-          "title": "15 Actors Who Don’t Have the Accent You Think They Do",
-          "link": "https://www.denofgeek.com/msn/15-actors-who-dont-have-the-accent-you-think-they-do/",
-          "description": "Some actors spend so much time speaking in a particular accent that audiences eventually forget it is not their natural voice. Years of American roles can make a British actor seem completely American, while there are more Australian infiltrating our ranks than you can possibly imagine. The effect c",
-          "date": "2026-10-06T12:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-9.jpg"
-        },
-        {
-          "title": "10 Figures from Different Eras Who Kind of Look Like Each Other",
-          "link": "https://www.denofgeek.com/msn/10-figures-from-different-eras-who-kind-of-look-like-each-other/",
-          "description": "Every so often, an old photograph makes you stop for a second because the person staring back at you looks very familiar. Hair, facial features, expressions, and even the way someone carries themselves can create uncanny visual echoes between people who lived decades or even centuries apart. The hum",
-          "date": "2026-10-06T12:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-1-1.jpg"
-        },
-        {
-          "title": "15 Famous Movie Moments That Only Happened Because the Budget Ran Out",
-          "link": "https://www.denofgeek.com/msn/15-famous-movie-moments-that-only-happened-because-the-budget-ran-out/",
-          "description": "Big-budget problems usually get solved with more money. Low-budget problems get solved with coconuts, borrowed props, one last roll of film, or somebody deciding that a completely different scene will probably work. Some of the most memorable movie moments were not carefully protected ideas from an ",
-          "date": "2026-10-06T12:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-15.jpg"
-        },
-        {
-          "title": "15 Impressive Historical Photos of People Carrying Absurdly Oversized Objects",
-          "link": "https://www.denofgeek.com/msn/15-impressive-historical-photos-of-people-carrying-absurdly-oversized-objects/",
-          "description": "“Portable” has always been a flexible word. Today it usually means something slips into a pocket or laptop bag. A few decades ago, it could mean carrying a 25-pound computer by a handle and being grateful it was not bolted to a desk. Cameras needed tripods, radios came with backpack-sized hardware, ",
-          "date": "2026-10-06T11:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-14.jpg"
-        },
-        {
-          "title": "15 Photos Where Caution Was Clearly Thrown to the Wind",
-          "link": "https://www.denofgeek.com/msn/15-photos-where-caution-was-clearly-thrown-to-the-wind/",
-          "description": "Some people see a problem and look for the safest possible solution. Other people see the same problem and start stacking ladders. Reddit is full of moments where common sense appears to have briefly left the building, whether that means turning a forklift into an elevator, balancing a ladder over a",
-          "date": "2026-10-06T11:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/11_e3677a.jpg"
         }
       ]
     },
@@ -230,6 +230,13 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "PS Store Code for Free Spider-Man Download, PS Plus Not Needed",
+          "link": "https://www.playstationlifestyle.net/2026/10/07/free-spider-man-avatars-ps-store-download-codes",
+          "description": "Sony Interactive Entertainment is once again offering free Spider-Man goodies to all PS5 and PS4 players as part of a Sony Pictures promotion. Head over to the PS Store to redeem a set of five Spider-Man: Brand New Day avatars that’ll be available for a limited time only. Multiple regions’ PS Store ",
+          "date": "2026-10-07T10:58:53+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/free-spider-man-ps-store-download-code.jpg?w=1024"
+        },
+        {
           "title": "Popular PS4 & PS5 Open-World Action Game Gets Massive 85% Off on PlayStation Store",
           "link": "https://www.playstationlifestyle.net/2026/10/06/watch-dogs-legion-ps4-ps5-85-percent-off-playstation-store-deal",
           "description": "A beloved open-world Ubisoft title is now on sale. The game is available for a huge discount on the PlayStation Store but only for a limited time. PlayStation 4 and PlayStation 5 owners can grab Watch Dogs: Legion for just $8.99 (85% off) on the PS Store. The slashed price of the hit open-world game",
@@ -260,7 +267,7 @@
         {
           "title": "2 Popular PS4 Games Completely Free on PlayStation Store Right Now",
           "link": "https://www.playstationlifestyle.net/2026/10/06/cod-ww2-mafia-3-ps4-games-free-ps-store",
-          "description": "A pair of popular PS4 games are currently completely free to claim and download via the PS Store right now. For some reason, Call of Duty: WWII and Mafia III can simply be added to players’ libraries. It’s unclear if this is a glitch or if Sony planned to offer these games for free, possibly […] The",
+          "description": "Update: Sony has plugged the loophole. However, the games have not yet been revoked from players’ libraries. We advise playing the campaigns as quickly as possible. Original story follows… A pair of popular PS4 games are currently completely free to claim and download via the PS Store right now. For",
           "date": "2026-10-06T15:35:23+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/free-ps4-games-on-ps-store.jpg?w=1024"
         },
@@ -291,13 +298,6 @@
           "description": "Sony Interactive Entertainment is quietly rolling out a PS5 Pro server-side update that adds an exclusive feature to the pricey hardware. It’s not a major change, but it’s still a nice touch and a nifty addition to the PS5 Pro’s Welcome Hub. PS5 Pro feature update adds special folder for exclusive W",
           "date": "2026-10-06T12:07:59+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/01/ps5-pro-release-date-window_a03eed.jpg?w=1024"
-        },
-        {
-          "title": "Get $100 PlayStation Store Credit for Just $80 With This Deal",
-          "link": "https://www.playstationlifestyle.net/2026/10/06/playstation-store-credit-offer-costco-october-2026",
-          "description": "PS5 and PS4 players can get $100 PlayStation Store credit (Wallet Funds) for just $80 in a limited-time Costco deal. The promotion is part of the company’s Members Appreciation Days, running from October 5 to October 11. There is a limit of two transactions per customer. Costco PlayStation Store cre",
-          "date": "2026-10-06T11:50:37+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/playstation-store-credit.jpg?w=1024"
         }
       ]
     },
