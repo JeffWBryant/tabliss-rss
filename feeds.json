@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-09T05:39:08.094468+00:00",
+  "updated": "2026-10-09T12:57:42.771249+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "“Crimson Eye” Event Returns to ‘Phasmophobia’, Now Stands at 30 Million Sold",
+          "link": "https://bloody-disgusting.com/video-games/3971179/crimson-eye-event-returns-to-phasmophobia-now-stands-at-30-million-sold/",
+          "description": "Despite having been in Early Access for what seems like forever, Kinetic Games continues to pile on the sales numbers for Phasmophobia. Coinciding with the return of the Crimson Eye Halloween event, the developer has announced that the co-op horror title has now hit 30 million in sales since its Ear",
+          "date": "2026-10-09T11:30:54+00:00",
+          "image": ""
+        },
         {
           "title": "‘Other Mommy’ Review: Jessica Chastain’s Demonic Doppelgänger Fails To Generate Scares",
           "link": "https://bloody-disgusting.com/reviews/3971164/other-mommy-review-jessica-chastains-demonic-doppelganger-fails-to-generate-scares/",
@@ -66,13 +73,6 @@
           "description": "Lulu Wilson’s Becky Hooper is taking her violent grudge match against Nazis to Poland in the first trailer for the threequel The Last Temptation of Becky. The sequel to 2020’s Becky and 2023’s The Wrath of Becky will release in theaters on November 4, 2026. In the film, “Now a CIA field agent, Becky",
           "date": "2026-10-08T18:05:53+00:00",
           "image": ""
-        },
-        {
-          "title": "Psychological Horror Game ‘FIRE AND ASHES’ Launches October 14",
-          "link": "https://bloody-disgusting.com/video-games/3970968/psychological-horror-game-fire-and-ashes-launches-october-14/",
-          "description": "Psychological horror is coming your way next week when ASDstudio and publisher Antelus Games’ FIRE AND ASHES launches on October 14 for PC via Steam and the Epic Games Store, PlayStation 5 and the Xbox Series. Set in 1977, the story centers around Henry Gray, who regains consciousness in a bathtub i",
-          "date": "2026-10-08T17:30:58+00:00",
-          "image": ""
         }
       ]
     },
@@ -80,80 +80,87 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
-          "title": "Clayface Will Show That Gotham City Is Bigger Than Batman",
-          "link": "https://www.denofgeek.com/movies/clayface-will-show-gotham-city-bigger-than-batman/",
-          "description": "In a few weeks, the DCU will finally take us to Gotham City for Clayface. But don’t expect to see Gotham’s Caped Crusader as we watch actor Matt Hagen’s strange transformation into a shapeshifting monster. When asked about the prospect of a Batman appearance in Clayface, director James Watkins told ",
-          "date": "2026-10-08T18:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/07/rev-1-CLAY-T1-0003_High_Res_JPEG.jpeg"
+          "title": "15 Movie Details Most People Completely Miss the First Time",
+          "link": "https://www.denofgeek.com/msn/15-movie-details-most-people-completely-miss-the-first-time/",
+          "description": "Movies often give you more information than you realize while you are watching them. A character might reveal something without saying a word, a background detail can quietly explain what happens later, or a tiny visual clue can completely change the meaning of a scene. The problem is that you usual",
+          "date": "2026-10-09T12:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-24.jpg"
         },
         {
-          "title": "Carrie: Mike Flanagan Reveals How He Changed Stephen King’s Mind",
-          "link": "https://www.denofgeek.com/tv/mike-flanagan-stephen-king-blessing-new-carrie-series/",
-          "description": "This article appears in the new issue of DEN OF GEEK magazine. Find out how you can subscribe to get the full physical copy right here! Mike Flanagan understands your skepticism when it comes to modern horror reboots. After all, the prolific horror auteur already had to address one notable genre fan",
-          "date": "2026-10-08T16:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Carrie-Badge.jpg"
+          "title": "15 People Share the Movie Scene They Still Think About Years Later",
+          "link": "https://www.denofgeek.com/msn/15-people-share-the-movie-scene-they-still-think-about-years-later/",
+          "description": "Maybe it was a shocking reveal, a heartbreaking goodbye, a strange image, or a tiny moment, but some movie moments stick with you more than others. Whatever the reason, certain scenes have a way of resurfacing at random, sometimes long after you last watched the movie. Reddit recently asked people t",
+          "date": "2026-10-09T12:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-23.jpg"
         },
         {
-          "title": "Hunger Games’ McKenna Grace and Joseph Zada Give Exclusive Look at Sunrise on the Reaping",
-          "link": "https://www.denofgeek.com/movies/hunger-games-mckenna-grace-joseph-zada-give-exclusive-sunrise-on-the-reaping/",
-          "description": "This article appears in the new issue of DEN OF GEEK magazine. Find out how you can subscribe to get the full physical copy right here! The Capitol has always been good at making murder look pretty. That contradiction is baked into the Hunger Games, in which children are sent to die, but first they ",
-          "date": "2026-10-08T14:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Mckenna-Grace-in-Hunger-Games-Sunrise-on-the-Reaping.jpg"
+          "title": "15 Times the Sequels Literally Only Cared About Money",
+          "link": "https://www.denofgeek.com/msn/15-times-the-sequels-literally-only-cared-about-money/",
+          "description": "A sequel does not have to copy the first movie to work. It does, however, help if somebody remembers what people liked about the original. Some follow-ups kept the title, a familiar character, or a recognizable piece of branding while dropping almost everything else. Others brought back the premise ",
+          "date": "2026-10-09T12:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-32.jpg"
         },
         {
-          "title": "15 ‘You See How This Looks, Right?’ Facts About Chris Hansen",
-          "link": "https://www.denofgeek.com/msn/15-you-see-how-this-looks-right-facts-about-chris-hansen/",
-          "description": "Chris Hansen became one of television’s most recognizable journalists by calmly walking into a room, offering someone a seat, and asking a question that could instantly change the mood. His work on To Catch a Predator turned him into a household name, but there is considerably more to Hansen than th",
-          "date": "2026-10-08T13:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-22.jpg"
+          "title": "15 Old Photos Where Technology Isn’t Used How You Might Think",
+          "link": "https://www.denofgeek.com/msn/15-old-photos-where-technology-isnt-used-how-you-might-think/",
+          "description": "Technology has always promised to make life easier. The definition of “easier” has changed quite a bit. Making a phone call once required a car full of equipment, listening to music at the beach meant carrying a radio that weighed several pounds, and taking a selfie could involve a mirror, a box cam",
+          "date": "2026-10-09T12:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-31.jpg"
         },
         {
-          "title": "15 Times an Actor Took ‘Method’ All the Way",
-          "link": "https://www.denofgeek.com/msn/15-times-an-actor-took-method-all-the-way/",
-          "description": "Method acting has produced some unforgettable performances, but it can also lead actors into some unusually intense territory. When performers become deeply immersed in a character, they sometimes keep elements of that role alive long after the cameras stop rolling. That can mean changing their appe",
-          "date": "2026-10-08T13:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/6_df7777.jpg"
+          "title": "15 Movies Where Nobody Told the Extras What To Do",
+          "link": "https://www.denofgeek.com/msn/15-movies-where-nobody-told-the-extras-what-to-do/",
+          "description": "Background actors usually get very specific instructions: cross here, react there, do not look at the camera. These movies went in a different direction. Some directors told entire crowds to improvise. Others used locals who barely knew what was being filmed, or kept extras deliberately unaware so t",
+          "date": "2026-10-09T11:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-30.jpg"
         },
         {
-          "title": "15 Simple Riddles to Ruin Your Brain Chemistry",
-          "link": "https://www.denofgeek.com/msn/15-simple-riddles-to-ruin-your-brain-chemistry/",
-          "description": "Some riddles are difficult because they require complicated logic, obscure knowledge, or a ridiculous amount of patience. Then there are the ones that make you stare at the screen wondering how you possibly missed the answer. The wording sounds completely straightforward, yet your brain immediately ",
-          "date": "2026-10-08T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-20.jpg"
+          "title": "15 Cars We Can’t Believe Were Actually Seen on the Road",
+          "link": "https://www.denofgeek.com/msn/15-cars-we-cant-believe-were-actually-seen-on-the-road/",
+          "description": "People do some truly strange things to cars. A few modifications are ugly. Others are confusing. Then there are the ones that make you wonder how the car ever made it out of the driveway, let alone onto a public road. Giant wings, fake vents, questionable exhausts, homemade bodywork, and plenty of p",
+          "date": "2026-10-09T11:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-29.jpg"
         },
         {
-          "title": "VisionQuest: Paul Bettany and Terry Matalas Talk Ultron’s Return, Mindspaces, and Robot Families",
-          "link": "https://www.denofgeek.com/tv/visionquest-paul-bettany-terry-matalas-ultron-robot-families/",
-          "description": "This article appears in the new issue of DEN OF GEEK magazine. Find out how you can subscribe to get the full physical copy right here! The last time audiences saw Vision and Ultron together, the two of them disagreed. Convinced that humanity was doomed to destroy itself, Ultron (a synthetic big bad",
-          "date": "2026-10-08T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/VisionQuest-Badge2.jpg"
+          "title": "15 Photos Showing Why We Can’t Have Nice Things",
+          "link": "https://www.denofgeek.com/msn/15-photos-showing-why-we-cant-have-nice-things/",
+          "description": "Some things get ruined by age, weather, or plain bad luck. These are not those things. These are the moments when somebody ignores wet concrete, puts the wrong thing in the dishwasher, misjudges a garage door, or discovers that a truck is definitely taller than the bridge ahead. The damage ranges fr",
+          "date": "2026-10-09T11:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/5_fa6e16.jpg"
         },
         {
-          "title": "15 People Over 40 Share What Really Lies Ahead",
-          "link": "https://www.denofgeek.com/msn/15-people-over-40-share-what-really-lies-ahead/",
-          "description": "Getting older has a funny way of changing what seems important. Things that once felt imperative lose their power, while small moments, old friendships, family, money, health, and time carry much more weight. People in their 40s and beyond have already lived through enough unexpected changes to know",
-          "date": "2026-10-08T12:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/5_402a2e.jpg"
+          "title": "15 of History’s Vintage Unintentionally Funny Photos",
+          "link": "https://www.denofgeek.com/msn/15-of-historys-vintage-unintentionally-funny-photos/",
+          "description": "We take funny pictures all the time, even when we do it by accident. Well, that’s been the case ever since people have been able to take pictures at all, since humor is a part of our lives. Even if we have a stressful life, humor always makes its way back into our smiles. This is why we’ve collected",
+          "date": "2026-10-09T11:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/4_a86020.jpg"
         },
         {
-          "title": "15 People Share the Very Old Movies That Are Still a 10/10",
-          "link": "https://www.denofgeek.com/msn/15-people-share-the-very-old-movies-that-are-still-a-10-10/",
-          "description": "Some movies have the ability to stay contemporary no matter how much time passes. Their stories still feel engaging, the characters remain memorable, and they examine the very nature of the human condition in such a way that it never goes out of style. That is especially impressive when a film was m",
-          "date": "2026-10-08T12:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-18.jpg"
+          "title": "15 of the Best Songs Ever Written for a Movie",
+          "link": "https://www.denofgeek.com/msn/15-of-the-best-songs-ever-written-for-a-movie/",
+          "description": "Great movies have a lot of elements that make them fantastic, including their musical score. And some films go above and beyond what we expect, having music that would’ve already been fantastic on its own, and become legendary when paired with their given movie. These are the songs that both transce",
+          "date": "2026-10-09T10:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-21-1.jpg"
         },
         {
-          "title": "15 Times a Movie Didn’t Spend the Money You Thought They Did",
-          "link": "https://www.denofgeek.com/msn/15-times-a-movie-didnt-spend-the-money-you-thought-they-did/",
-          "description": "Movies are very good at making expensive things appear even more expensive. A massive spaceship can become three children in scaled-down costumes. A sinking ocean liner only needs one finished side. A futuristic computer display can be made with reflective tape, and one of cinema’s most famous explo",
-          "date": "2026-10-08T12:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-26.jpg"
+          "title": "15 Photos Where the 1970s Keep Looking Better and Better",
+          "link": "https://www.denofgeek.com/msn/15-photos-where-the-1970s-keep-looking-better-and-better/",
+          "description": "There’s nothing quite like the vibes that the 1970s brought to the world, a sort of quiet yet loud form of cool, something that later generations didn’t quite understand. Nowadays, that style is seen more and more appreciated by the ones that didn’t live it, and remembered fondly by the ones who did",
+          "date": "2026-10-09T10:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/3_098522.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "Monstrous Musings: What’s So Damn Funny About Horror?",
+          "link": "https://www.fangoria.com/monstrous-musings-horror-comedy/",
+          "description": "The relationship between horror and comedy has been a constant, if evolving, dynamic.",
+          "date": "2026-10-09T08:00:47+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/The_Man_Who_Laughs_-_Conrad_Veidt_as_Gwynplaine-2000x1125-1.jpg"
+        },
         {
           "title": "The Jungle Hides Horrifying Secrets In THE AWAKENING Trailer",
           "link": "https://www.fangoria.com/the-awakening-trailer/",
@@ -216,19 +223,26 @@
           "description": "The holiday horror-comedy from WILLY'S WONDERLAND director Kevin Lewis hits theaters later this month.",
           "date": "2026-10-08T14:47:46+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Kringles.png"
-        },
-        {
-          "title": "Lucio Fulci’s THE BEYOND Is The Latest Horror Classic To Get A Remake",
-          "link": "https://www.fangoria.com/lucio-fulci-the-beyond-remake/",
-          "description": "The Gates of Hell are getting a fresh coat of paint.",
-          "date": "2026-10-08T14:25:23+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/BEYOND.jpg"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "Surprising New PS5 Exclusive RPG Announced, Out Very Soon",
+          "link": "https://www.playstationlifestyle.net/2026/10/09/ps5-exclusive-rpg-prison-of-husks-release-date",
+          "description": "A surprising new PS5 console-exclusive action RPG has been announced, with a release date set within the next few months. Developed by Glass Head Dolls and published by Wings, Prison of Husks is a unique soulslike inspired by classic PlayStation games. PS5 RPG Prison of Husks will please PS2 fans Wi",
+          "date": "2026-10-09T12:35:02+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/ps5-exclusive-rpg-prison-of-husks.jpg?w=1024"
+        },
+        {
+          "title": "Popular PlayStation Plus PS5 Action Game Drops Major Update",
+          "link": "https://www.playstationlifestyle.net/2026/10/09/ps-plus-ps5-action-game-hell-is-us-october-update",
+          "description": "As previously announced, an August 2026 PS Plus action game has dropped a major PS5 content update that coincides with its launch on the Nintendo Switch 2. Developed by Rogue Factor and published by Nacon, Hell Is Us has addressed one of its biggest player complaints: enemy variety. Patch notes for ",
+          "date": "2026-10-09T12:15:32+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/ps-plus-game-hell-is-us.jpg?w=1024"
+        },
         {
           "title": "PS Portal Stealth-Drops System Software Update for October 2026",
           "link": "https://www.playstationlifestyle.net/2026/10/08/ps-portal-system-update-730-october-2026",
@@ -284,20 +298,6 @@
           "description": "Swedish developer Wych Elm‘s new game is now available on the PlayStation Store. Four years in the making, Silver Pines turns a missing-person case into a survival-horror story. Silver Pines follows Red Walker, a private investigator who arrives at the titular town of Silver Pines to look for the mi",
           "date": "2026-10-08T16:49:03+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/5_bc1777.jpg?w=1024"
-        },
-        {
-          "title": "Popular PS5 Shooter Sequel Is Out Today on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/10/08/neon-abyss-2-ps5-release-october-8",
-          "description": "Cyberpunk roguelike sequel released on PlayStation 5 today. The post Popular PS5 Shooter Sequel Is Out Today on PlayStation Store appeared first on PlayStation LifeStyle .",
-          "date": "2026-10-08T15:35:38+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/na.jpg?w=1024"
-        },
-        {
-          "title": "Terrifying PS5 Action Game Is Out Today on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/10/08/clive-barkers-hellraiser-revival-ps5-ps-store-release",
-          "description": "A classic horror franchise has returned with a brand new PS5 survival game, available on the PlayStation Store. The title is developed and published by the team at Saber Interactive. Clive Barker’s Hellraiser: Revival is now available on PS5 via the PlayStation Store. The game brings Clive Barker’s ",
-          "date": "2026-10-08T14:52:41+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/Terrifying-PS5-Action-Game-Is-Out-Today-on-PlayStation-Store.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,27 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Ghost of Tsushima's Anime Series Has Been Pushed Back to 2028",
+          "link": "https://www.pushsquare.com/news/2026/10/ghost-of-tsushimas-anime-series-has-been-pushed-back-to-2028",
+          "description": "New cast and crew announced. In case you forgot, PlayStation Productions is partnering with Aniplex and Hayate to create an anime series based on Ghost of Tsushima . Well, it's going to be a longer wait than originally planned. Crunchyroll — which will exclusively stream the anime on release — has a",
+          "date": "2026-10-09T11:15:00+00:00",
+          "image": "https://images.pushsquare.com/2d0f07e3e06e9/large.jpg"
+        },
+        {
+          "title": "Another PS Portal Firmware Update Is Now Available, Just Two Weeks After the Last",
+          "link": "https://www.pushsquare.com/news/2026/10/another-ps-portal-firmware-update-is-now-available-just-two-weeks-after-the-last",
+          "description": "Is something brewing? Sony has released another firmware update for the PS Portal, only two weeks after the previous one . It's worth noting because updates like this are rarely so close together. The portable streaming device is now up to system software version 7.3.0, with the update itself being ",
+          "date": "2026-10-09T10:30:00+00:00",
+          "image": "https://images.pushsquare.com/ecaa5ed39e044/large.jpg"
+        },
+        {
+          "title": "Ace Combat 8 Has Sold One Million Copies Faster Than Any Previous Entry in the Series",
+          "link": "https://www.pushsquare.com/news/2026/10/ace-combat-8-has-sold-one-million-copies-faster-than-any-previous-entry-in-the-series",
+          "description": "Onward and upward. Publisher Bandai Namco has announced some very positive news about the sales performance of Ace Combat 8: Wings of Theve . The latest entry has set a new record for the long-running fighter jet action series; it's the fastest-ever to reach one million copies sold. Read the full ar",
+          "date": "2026-10-09T09:00:00+00:00",
+          "image": "https://images.pushsquare.com/b8eed28c95ded/large.jpg"
+        },
+        {
           "title": "If You Like Scrappy Old Resident Evil Games, I Recommend ANOMALITH's PS5 Demo",
           "link": "https://www.pushsquare.com/news/2026/10/if-you-like-scrappy-old-resident-evil-games-i-recommend-anomaliths-ps5-demo",
           "description": "It's an anomaly. I want to be 110% clear before we properly get into this article: ANOMALITH channels classic Resident Evil , but it’s nowhere near as good. Don’t go into this demo expecting Capcom quality, because you won’t get it. That said, this scrappy little survival horror shooter reminds me o",
@@ -427,27 +448,6 @@
           "description": "Stage fright. Earlier this year, I had a fair amount of fun with the tycoon-style visual novel K-Pop Idol Stories: Road to Debut – even if it wasn’t exactly what I expected. However, I really don’t expect much from this new Microids effort, K-Pop Rising: Dream to Shine . Read the full article on pus",
           "date": "2026-10-08T17:00:00+00:00",
           "image": "https://images.pushsquare.com/8424bf2208a3a/large.jpg"
-        },
-        {
-          "title": "Fatal Fury PS5's Ridiculous DLC Run Continues with Tekken 8's Reina Teased",
-          "link": "https://www.pushsquare.com/news/2026/10/fatal-fury-ps5s-ridiculous-dlc-run-continues-with-tekken-8s-reina-teased",
-          "description": "And two Tokyo Revengers characters out this month. If you’re not playing Fatal Fury: City of the Wolves , then to quote Nintendo exec Reggie Fils-Aime: what’s wrong with you? I know there are contentious issues behind how SNK is getting funded, but as a fighter, this game is pretty unprecedented. Re",
-          "date": "2026-10-08T16:30:00+00:00",
-          "image": "https://images.pushsquare.com/fe97675a5cb2b/large.jpg"
-        },
-        {
-          "title": "Europe Shows Up for Physical Games, 51% of Wolverine's PS5 Sales for Disc Version",
-          "link": "https://www.pushsquare.com/news/2026/10/europe-shows-up-for-physical-games-51percent-of-wolverines-ps5-sales-for-disc-version",
-          "description": "There was a disc, so they bought it. Sony is yet to share official Marvel's Wolverine sales data, but firms worldwide have begun sharing their own points and projected figures. And, according to GSD data shared by The Game Business , physical copies accounted for 35% of the PS5 game's sales. If you ",
-          "date": "2026-10-08T16:00:00+00:00",
-          "image": "https://images.pushsquare.com/9bf5025a0e3b1/large.jpg"
-        },
-        {
-          "title": "Hell Is Us Massively Expands Its Roster of Freaky Enemies to Celebrate 2 Million Players",
-          "link": "https://www.pushsquare.com/news/2026/10/hell-is-us-massively-expands-its-roster-of-freaky-enemies-to-celebrate-2-million-players",
-          "description": "Free update out now. Publisher Nacon and developer Rogue Factor have announced that Hell Is Us, the sci-fi action game that refuses to hold the player's hand, has now surpassed the 2 million players milestone. To celebrate this news, the game has received a pretty major update on all platforms, and ",
-          "date": "2026-10-08T15:30:00+00:00",
-          "image": "https://images.pushsquare.com/3666d74f6867e/large.jpg"
         }
       ]
     },
