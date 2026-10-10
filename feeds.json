@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T19:55:54.196000+00:00",
+  "updated": "2026-10-10T23:24:30.054985+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5's Price Is the Problem",
+          "link": "https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem",
+          "description": "Average selling price almost an eye-watering $600. PS5 was the only system to see its dollar sales grow in Circana’s August sales report for the US games industry , but that doesn’t change the fact that Sony console sales are down 25% year-over-year for 2026 as a whole. In fact, PlayStation is endur",
+          "date": "2026-10-10T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/f2f10df84b718/large.jpg"
+        },
+        {
           "title": "BlazBlue: Central Fiction Announced for PS5, a Decade After Original Release",
           "link": "https://www.pushsquare.com/news/2026/10/blazblue-central-fiction-announced-for-ps5-a-decade-after-original-release",
           "description": "With rollback netcode and PC crossplay. Arc System Works will bring its 2015 fighter BlazBlue: Central Fiction natively to the PS5 in the future, although a release date has not been announced. The port will feature a variety of highly requested community updates, including: rollback crossplay netco",
@@ -441,13 +448,6 @@
           "description": "Sucker Punch cleans up expanded re-release. Sucker Punch has pushed out a ~1.2GB patch for last week’s Ghost of Yotei: Complete Edition , cleaning up some bugs and unexpected black screen errors. Ironically, the expanded re-release is now even closer to being, well, complete . Writing on social medi",
           "date": "2026-10-09T14:45:00+00:00",
           "image": "https://images.pushsquare.com/a86c6161f7f13/large.jpg"
-        },
-        {
-          "title": "CD Projekt Red Delivers The Witcher 3 Remastered Fixes, Improvements in Patch 5.01",
-          "link": "https://www.pushsquare.com/news/2026/10/cd-projekt-red-delivers-the-witcher-3-remastered-fixes-improvements-in-patch-5-01",
-          "description": "Available to download now on PS5. There's been some variation in the technical experience some people are having in The Witcher 3 Remastered , so CD Projekt Red has been quick to deploy updates on PS5 to fix any lingering issues. Case in point: patch 5.01 is available to download now. The update del",
-          "date": "2026-10-09T14:00:00+00:00",
-          "image": "https://images.pushsquare.com/4713dc43241ec/large.jpg"
         }
       ]
     },
