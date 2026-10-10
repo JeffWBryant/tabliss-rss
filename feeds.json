@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T15:48:02.634669+00:00",
+  "updated": "2026-10-10T19:55:54.196000+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "The End Is Here: Stephen King and Richard Chizmar on Finishing Their Trilogies",
+          "link": "https://www.fangoria.com/stephen-king-richard-chizmar-interview-trilogies/",
+          "description": "Check out our interview with Stephen King and Richard Chizmar about their trilogies, collaborations, and endings.",
+          "date": "2026-10-10T16:00:38+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/chizmarking.png"
+        },
+        {
           "title": "Exclusive CLOWN PANIC Clip Throws It Back To The Strangest Part Of 2016",
           "link": "https://www.fangoria.com/exclusive-clown-panic-clip/",
           "description": "Watch an exclusive clip from CLOWN PANIC, a new documentary exploring the strange craze that plagued the nation in 2016.",
@@ -216,13 +223,6 @@
           "description": "Watch the trailer for THE AWAKENING, where the jungle hides deadly secrets that even the strongest soldiers can't handle.",
           "date": "2026-10-08T20:50:33+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Awakening-Still-1340x754-2.jpg"
-        },
-        {
-          "title": "Take A Halloween Holiday With These 5 New International Horror Releases",
-          "link": "https://www.fangoria.com/5-new-international-horror-releases/",
-          "description": "We all scream in the same language. Check out these incredible new horror releases from around the globe.",
-          "date": "2026-10-08T19:00:22+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/ghostinthecell-teaser-e1791404895689.jpg"
         }
       ]
     },
@@ -380,6 +380,20 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "BlazBlue: Central Fiction Announced for PS5, a Decade After Original Release",
+          "link": "https://www.pushsquare.com/news/2026/10/blazblue-central-fiction-announced-for-ps5-a-decade-after-original-release",
+          "description": "With rollback netcode and PC crossplay. Arc System Works will bring its 2015 fighter BlazBlue: Central Fiction natively to the PS5 in the future, although a release date has not been announced. The port will feature a variety of highly requested community updates, including: rollback crossplay netco",
+          "date": "2026-10-10T19:00:00+00:00",
+          "image": "https://images.pushsquare.com/f83216cd6eaaf/large.jpg"
+        },
+        {
+          "title": "Dire Estimated Gears of War: E-Day Sales Raise Queries About Last-Minute PS5 Cancellation",
+          "link": "https://www.pushsquare.com/news/2026/10/dire-estimated-gears-of-war-e-day-sales-raise-queries-about-last-minute-ps5-cancellation",
+          "description": "Predictions peg full-price sales at just 230k. According to the reporting during Summer Game Fest , an almost-finished PS5 version of Gears of War: E-Day exists somewhere within dev The Coalition’s office . The game was rated for release on Sony’s console in various regions, and Microsoft accidental",
+          "date": "2026-10-10T16:30:00+00:00",
+          "image": "https://images.pushsquare.com/f13ede07bf27f/large.jpg"
+        },
+        {
           "title": "Tekken 8's Reina Officially Announced as Fatal Fury PS5's Next Challenger",
           "link": "https://www.pushsquare.com/news/2026/10/tekken-8s-reina-officially-announced-as-fatal-fury-ps5s-next-challenger",
           "description": "And two Tokyo Revengers characters out this month. If you’re not playing Fatal Fury: City of the Wolves , then to quote Nintendo exec Reggie Fils-Aime: what’s wrong with you? I know there are contentious issues behind how SNK is getting funded, but as a fighter, this game is pretty unprecedented. Re",
@@ -434,20 +448,6 @@
           "description": "Available to download now on PS5. There's been some variation in the technical experience some people are having in The Witcher 3 Remastered , so CD Projekt Red has been quick to deploy updates on PS5 to fix any lingering issues. Case in point: patch 5.01 is available to download now. The update del",
           "date": "2026-10-09T14:00:00+00:00",
           "image": "https://images.pushsquare.com/4713dc43241ec/large.jpg"
-        },
-        {
-          "title": "Wolverine PS5 Sales Estimates Are Somewhat Soft, But Here's Why I'm Not Worried",
-          "link": "https://www.pushsquare.com/news/2026/10/wolverine-ps5-sales-estimates-are-somewhat-soft-but-heres-why-im-not-worried",
-          "description": "Remember: only predictions, for now. According to Ampere Analytics , tentpole Insomniac action game Marvel’s Wolverine sold about 2.16 million copies in September, making it the second best-selling PS5 game of the month, behind EA Sports FC 27 . (Obviously.) It looks like a soft number on the surfac",
-          "date": "2026-10-09T13:30:00+00:00",
-          "image": "https://images.pushsquare.com/ffb194e7e37f1/large.jpg"
-        },
-        {
-          "title": "Ghost of Tsushima's Anime Series Has Been Pushed Back to 2028",
-          "link": "https://www.pushsquare.com/news/2026/10/ghost-of-tsushimas-anime-series-has-been-pushed-back-to-2028",
-          "description": "New cast and crew announced. In case you forgot, PlayStation Productions is partnering with Aniplex and Hayate to create an anime series based on Ghost of Tsushima . Well, it's going to be a longer wait than originally planned. Crunchyroll — which will exclusively stream the anime on release — has a",
-          "date": "2026-10-09T11:15:00+00:00",
-          "image": "https://images.pushsquare.com/2d0f07e3e06e9/large.jpg"
         }
       ]
     },
