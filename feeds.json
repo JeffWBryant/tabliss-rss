@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T02:37:09.896514+00:00",
+  "updated": "2026-10-10T09:38:48.804381+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Sonic Racing: CrossWorlds Now Permanently Cheaper, and It's Going Absolutely Bananas with DLC in Year 2",
+          "link": "https://www.pushsquare.com/news/2026/10/sonic-racing-crossworlds-now-permanently-cheaper-and-its-going-absolutely-bananas-with-dlc-in-year-2",
+          "description": "SEGA blows the lid off upcoming DLC. SEGA has just announced a metric tonne of stuff for Sonic Racing: CrossWorlds , which looks as though it's going to have a truly bumper second year. There's a lot to get through, so let's get into the thick of it. Read the full article on pushsquare.com",
+          "date": "2026-10-10T09:30:00+00:00",
+          "image": "https://images.pushsquare.com/128f01289dd89/large.jpg"
+        },
+        {
           "title": "Talking Point: What Are You Playing This Weekend? - Issue 653",
           "link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-653",
           "description": "Course correction. While the release schedule continues in earnest, it's definitely been a quieter week for gaming news I feel. That's probably appreciated after a few dramatic periods of late. Here's what we're playing. Aaron Bayne I'll be trying to crack the case in Silver Pines this weekend. Read",
@@ -441,13 +448,6 @@
           "description": "Onward and upward. Publisher Bandai Namco has announced some very positive news about the sales performance of Ace Combat 8: Wings of Theve . The latest entry has set a new record for the long-running fighter jet action series; it's the fastest-ever to reach one million copies sold. Read the full ar",
           "date": "2026-10-09T09:00:00+00:00",
           "image": "https://images.pushsquare.com/b8eed28c95ded/large.jpg"
-        },
-        {
-          "title": "ANOMALITH's New PS5 Demo Is a Scrappy Throwback to Classic Resident Evil",
-          "link": "https://www.pushsquare.com/news/2026/10/anomaliths-new-ps5-demo-is-a-scrappy-throwback-to-classic-resident-evil",
-          "description": "I recommend you take a look. I want to be 110% clear before we properly get into this article: ANOMALITH channels classic Resident Evil , but it’s nowhere near as good. Don’t go into this demo expecting Capcom quality, because you won’t get it. That said, this scrappy little survival horror shooter ",
-          "date": "2026-10-09T08:00:00+00:00",
-          "image": "https://images.pushsquare.com/04a1fa50a4d2b/large.jpg"
         }
       ]
     },
