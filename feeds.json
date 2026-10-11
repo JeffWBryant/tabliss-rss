@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-10T23:24:30.054985+00:00",
+  "updated": "2026-10-11T02:05:49.924188+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘In A Violent Nature: Part 2′ Brings Johnny Back For A Bloody Valentine’s Release",
+          "link": "https://bloody-disgusting.com/movie/3971270/in-a-violent-nature-part-2-brings-johnny-back-for-a-bloody-valentines-release/",
+          "description": "Masked killer Johnny (Ry Barrett) made a surprise appearance at New York Comic Con today to reveal that he’ll be carving up campers in sequel In a Violent Nature: Part 2, in theaters on February 12, 2027. The perfect date night movie for Valentine’s, perhaps? The announcement comes on the heels of t",
+          "date": "2026-10-10T23:30:30+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/02/inaviolentnature2-johnny.jpg?resize=1024%2C683&#038;ssl=1"
+        },
         {
           "title": "‘The Children Under the House’ Is Analog Horror At Its Most Creative",
           "link": "https://bloody-disgusting.com/editorials/3971117/the-children-under-the-house-is-analog-horror-at-its-most-creative/",
@@ -65,13 +72,6 @@
           "link": "https://bloody-disgusting.com/tv/3971251/sweet-tooth-takes-center-stage-in-new-halloween-twisted-metal-web-series/",
           "description": "Nobody was expecting Peacock’s Twisted Metal series to be one of the most entertaining video game adaptations in recent memory, but the show-running team of Michael Jonathan Smith and David Reed, combined with the comedic talents of Anthony Mackie, ended up turning this bizarre project into a modern",
           "date": "2026-10-09T21:39:55+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Clown Panic’ Gives You a Great Reason to Hate Clowns in This Exclusive Clip",
-          "link": "https://bloody-disgusting.com/movie/3971242/clown-panic-documentary-hulu-clip/",
-          "description": "Clowns, much like dolls or mannequins, evoke a sense of unease in everyone who witnesses them. Namely, the blank expressions or overtly joyful appearances feel like they are compensating for underlying sinister motivations in a way that’s hard to avoid. Add to that the fact that there have been real",
-          "date": "2026-10-09T21:00:25+00:00",
           "image": ""
         }
       ]
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "IN A VIOLENT NATURE: PART 2 Is Slashing Into Theaters Early Next Year",
+          "link": "https://www.fangoria.com/in-a-violent-nature-part-2-release-date/",
+          "description": "Heeeere’s Johnny! IN A VIOLENT NATURE: PART 2 is coming to theaters sooner than predicted. Find all the details inside.",
+          "date": "2026-10-10T23:30:08+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/PS-491-DUCK-AND-COVER-photo-by-Dustin-Rabin-2959-e1791591886735.jpg"
+        },
+        {
           "title": "The End Is Here: Stephen King and Richard Chizmar on Finishing Their Trilogies",
           "link": "https://www.fangoria.com/stephen-king-richard-chizmar-interview-trilogies/",
           "description": "Check out our interview with Stephen King and Richard Chizmar about their trilogies, collaborations, and endings.",
@@ -216,13 +223,6 @@
           "description": "The relationship between horror and comedy has been a constant, if evolving, dynamic.",
           "date": "2026-10-09T08:00:47+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/The_Man_Who_Laughs_-_Conrad_Veidt_as_Gwynplaine-2000x1125-1.jpg"
-        },
-        {
-          "title": "The Jungle Hides Horrifying Secrets In THE AWAKENING Trailer",
-          "link": "https://www.fangoria.com/the-awakening-trailer/",
-          "description": "Watch the trailer for THE AWAKENING, where the jungle hides deadly secrets that even the strongest soldiers can't handle.",
-          "date": "2026-10-08T20:50:33+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Awakening-Still-1340x754-2.jpg"
         }
       ]
     },
