@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-11T15:54:19.865999+00:00",
+  "updated": "2026-10-11T20:06:58.060184+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "PC-98 Cult Classic ‘Dead of the Brain’ Coming to Steam on October 30 [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3970975/pc-98-cult-classic-dead-of-the-brain-coming-to-steam-on-october-30-trailer/",
+          "description": "Game publisher Fakku is dipping into the epitome of cult gaming, announcing that as part of acquiring the publishing rights Japanese PC game developer FairyTale’s catalogue, they will be releasing the cult horror adventure title Dead of the Brain to Steam. Originally released on NEC’s PC-98 computer",
+          "date": "2026-10-11T17:30:58+00:00",
+          "image": ""
+        },
         {
           "title": "Konami Already Planning “Second and Third Waves” of ‘Silent Hill’ Entries",
           "link": "https://bloody-disgusting.com/video-games/3971325/konami-already-planning-second-and-third-waves-of-silent-hill-entries/",
@@ -66,13 +73,6 @@
           "description": "Back in 2020, Rob Savage first captured the attention of the internet thanks to a viral short he released in which he tricked friends into thinking he was attacked by something in his attic, which was just a clever edit of a scene from [REC]. Despite the constraints of the pandemic and quarantine me",
           "date": "2026-10-09T23:37:35+00:00",
           "image": ""
-        },
-        {
-          "title": "Mike Flanagan’s ‘The Exorcist: Martyrs’ Releases Frightening Full Trailer",
-          "link": "https://bloody-disgusting.com/movie/3971230/the-exorcist-martyrs-full-trailer-scarlett-johansson-mike-flanagan/",
-          "description": "It’s an exciting week to be a fan of Mike Flanagan. Just a few days ago, his adaptation of Stephen King‘s Carrie landed on Prime Video, which the filmmaker revealed he hopes is just the first of three seasons. The excitement continued with the debut of new updates about his The Exorcist: Martyrs, wh",
-          "date": "2026-10-09T22:38:42+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/The-Exorcist-Martyrs-Poster.jpg?resize=1080%2C1350&#038;ssl=1"
         }
       ]
     },
