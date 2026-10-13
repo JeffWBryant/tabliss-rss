@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T02:56:07.227109+00:00",
+  "updated": "2026-10-13T10:24:30.996637+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,20 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "15 Horror Genres That Need More Representation",
+          "link": "https://www.denofgeek.com/msn/15-horror-genres-that-need-more-representation/",
+          "description": "Horror movies are great, and at least for us, one of our favourite genres. A seeming weakness of it, though, is that the same tropes are repeated over and over. You've got your ghost stories, your slasher flicks, and your zombie apocalypses, and they're great! But horror is a massive sandbox with so",
+          "date": "2026-10-13T10:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/2_1cc800.jpg"
+        },
+        {
+          "title": "15 of History’s Vintage Unintentionally Funny Photos",
+          "link": "https://www.denofgeek.com/msn/15-of-historys-vintage-unintentionally-funny-photos/",
+          "description": "We take funny pictures all the time, even when we do it by accident. Well, that’s been the case ever since people have been able to take pictures at all, since humor is a part of our lives. Even if we have a stressful life, humor always makes its way back into our smiles. This is why we’ve collected",
+          "date": "2026-10-13T10:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/4_a86020.jpg"
+        },
+        {
           "title": "Mike Flanagan on Carrie White’s Place in the Stephen King Multiverse",
           "link": "https://www.denofgeek.com/tv/mike-flanagan-carrie-way-into-stephen-king-extended-universe/",
           "description": "This article contains spoilers for Prime Video TV series Carrie. Carrie White was never alone. While the titular teenager of Stephen King‘s debut novel may have felt isolated under the burdens of high school bullies, an abusive mother, and burgeoning telekinetic powers, in reality she was but one of",
@@ -134,20 +148,6 @@
           "description": "Working from home has its annoyances, but at least nobody steals your lunch, takes the desk you reserved, or schedules a meeting that could have been an email while sitting three feet away from you. Offices somehow turn very small problems into daily traditions. There are mystery containers growing ",
           "date": "2026-10-12T11:30:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-34.jpg"
-        },
-        {
-          "title": "15 People Share the ‘Charming’ Celeb They Think is Just 100% ‘PR’",
-          "link": "https://www.denofgeek.com/msn/15-people-share-the-charming-celeb-they-think-is-just-100-pr/",
-          "description": "Being famous is obviously a business, but some celebrity images feel especially well managed. In one Reddit thread, people started naming stars they think owe a lot to smart publicity, constant visibility, or a carefully polished persona. The complaints were all over the place. Some people were tire",
-          "date": "2026-10-12T11:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-33.jpg"
-        },
-        {
-          "title": "15 Comedies We Don’t Think Are Funny Anymore",
-          "link": "https://www.denofgeek.com/msn/15-comedies-we-dont-think-are-funny-anymore/",
-          "description": "Humor is one of the most subjective things you can have in entertainment media. Taste for it changes depending on the time period and where you are geographically. And yes, technically that applies to all genres, but we can still appreciate the attempt at horror of movies of old. The humor just make",
-          "date": "2026-10-12T11:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-27.jpg"
         }
       ]
     },
@@ -380,6 +380,20 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "God of War Laufey Collector Box Available for Pre-Order Now, Doesn't Include the Game",
+          "link": "https://www.pushsquare.com/news/2026/10/god-of-war-laufey-collector-box-available-for-pre-order-now-doesnt-include-the-game",
+          "description": "Don't Laufey. PlayStation Spain appears to have jumped the gun on a new product related to God of War Laufey , as it's up for pre-order now despite no prior announcement. The item in question is the God of War Laufey Collector Box, which includes a selection of special edition merch you can't get an",
+          "date": "2026-10-13T10:15:00+00:00",
+          "image": "https://images.pushsquare.com/ed460a01aaadd/large.jpg"
+        },
+        {
+          "title": "Review: Castlevania: Belmont's Curse (PS5) - The Classic Series Returns in a Perfectly Fine Metroidvania",
+          "link": "https://www.pushsquare.com/reviews/ps5/castlevania-belmonts-curse",
+          "description": "Rose's arm's red, violence ensues. Like Dracula himself, Konami has risen from a lengthy slumber and has spent the last few years reviving its most popular series, like Metal Gear Solid and Silent Hill . Now, it's Castlevania's turn. Castlevania: Belmont's Curse , developed by Evil Empire, is the fi",
+          "date": "2026-10-13T07:00:00+00:00",
+          "image": "https://images.pushsquare.com/6306539efc754/large.jpg"
+        },
+        {
           "title": "SEGA Labelled 'Stupid Liars' After Failing to Fulfil 'All Future Paid DLC' Promise for Sonic Racing: CrossWorlds",
           "link": "https://www.pushsquare.com/news/2026/10/sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc-promise-for-sonic-racing-crossworlds",
           "description": "Season 2, which includes Final Fantasy 7, will require a new Season Pass. Agitated Sonic Racing: CrossWorlds fans have picked up their pitchforks and are pointing them at publisher SEGA, after an old social media post implied “all future paid DLC” would be included with the Digital Deluxe Edition of",
@@ -434,20 +448,6 @@
           "description": "By the power of Grayskull. Publisher Clear River Games has announced a release date for its wonderfully retro side-scrolling brawler, He-Man and the Masters of the Universe: Dragon Pearl of Destruction . The game with the long name finally makes its way onto both PS5 and PS4 come 4th February, 2027.",
           "date": "2026-10-12T14:00:00+00:00",
           "image": "https://images.pushsquare.com/f0617078fd7b7/large.jpg"
-        },
-        {
-          "title": "Review: Valor Mortis (PS5) - Imperial Ambitions, Largely Realised",
-          "link": "https://www.pushsquare.com/reviews/ps5/valor-mortis",
-          "description": "Short in a few places, but a titan where it counts. Valor Mortis is an exceedingly fresh take on the tired Soulslike genre. Its engaging first-person combat, grimdark Napoleonic setting, and impeccable level design make it a must-play for enthusiasts in an already busy gaming season, even if it does",
-          "date": "2026-10-12T13:00:00+00:00",
-          "image": "https://images.pushsquare.com/a06f126fe37b3/large.jpg"
-        },
-        {
-          "title": "Protect Your iPhone 18 Pro with Striking Yoji Shinkawa Art Courtesy of Kojima Casetify Collab",
-          "link": "https://www.pushsquare.com/news/2026/10/protect-your-iphone-18-pro-with-striking-yoji-shinkawa-art-courtesy-of-kojima-casetify-collab",
-          "description": "These will be pricey. I literally just ordered a Casetify cover for my new iPhone 18 Pro, and I’m wondering if I should have waited now. I went with one of the John Kafka designs, a Korean artist I do like, but I obviously didn’t know these Yoji Shinkawa designs were coming down the line. Read the f",
-          "date": "2026-10-12T12:15:00+00:00",
-          "image": "https://images.pushsquare.com/1b6d9ce4262d1/large.jpg"
         }
       ]
     },
