@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-12T21:50:26.382963+00:00",
+  "updated": "2026-10-13T02:56:07.227109+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Stephen King Calls Mike Flanagan His “Best” Adapter, Teases Secret New Project",
+          "link": "https://bloody-disgusting.com/tv/3971541/stephen-king-mike-flanagan-adaptation/",
+          "description": "Prime Video’s Carrie series marks the fourth Stephen King adaptation from filmmaker Mike Flanagan, with a Dark Tower series still in development. While praising Flanagan’s work on social media, the horror author teased that another secret project may be on the way. King posted a video of himself on ",
+          "date": "2026-10-12T21:56:59+00:00",
+          "image": ""
+        },
         {
           "title": "‘Siren Head’ Movie Won’t Be What Fans Expect, Brian Duffield Teases",
           "link": "https://bloody-disgusting.com/movie/3971532/brian-duffield-siren-head-update/",
@@ -66,19 +73,19 @@
           "description": "What happened to Grace? That’s the question at the center of Netflix’s new psychodrama horror series “The Body,” which will premiere on the streaming service November 11, 2026. The upcoming eight-episode series is created by Quinn Shephard. “I’ve always been interested in the idea of girlhood as a r",
           "date": "2026-10-12T15:36:21+00:00",
           "image": ""
-        },
-        {
-          "title": "Special Effects Legend Carlo Rambaldi Gets Posthumous Hollywood Walk of Fame Star This Week",
-          "link": "https://bloody-disgusting.com/the-further/3971429/special-effects-legend-carlo-rambaldi-gets-posthumous-hollywood-walk-of-fame-star-this-week/",
-          "description": "Academy Award-winning special effects artist Carlo Rambaldi passed away in 2012, but his groundbreaking contributions to cinema will be celebrated this week with a posthumous Hollywood Walk of Fame ceremony. Rambaldi will receive the 2,860th star on October 15 at 11:30 am PT on 1611 Vine Street; the",
-          "date": "2026-10-12T15:05:55+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/diapo-rambaldi129.jpg?resize=1024%2C671&#038;ssl=1"
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "Mike Flanagan on Carrie White’s Place in the Stephen King Multiverse",
+          "link": "https://www.denofgeek.com/tv/mike-flanagan-carrie-way-into-stephen-king-extended-universe/",
+          "description": "This article contains spoilers for Prime Video TV series Carrie. Carrie White was never alone. While the titular teenager of Stephen King‘s debut novel may have felt isolated under the burdens of high school bullies, an abusive mother, and burgeoning telekinetic powers, in reality she was but one of",
+          "date": "2026-10-12T23:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Carrie.jpg"
+        },
         {
           "title": "15 Hot People Share What It’s Actually Like to Be Good Looking",
           "link": "https://www.denofgeek.com/msn/15-hot-people-share-what-its-actually-like-to-be-good-looking/",
@@ -141,19 +148,26 @@
           "description": "Humor is one of the most subjective things you can have in entertainment media. Taste for it changes depending on the time period and where you are geographically. And yes, technically that applies to all genres, but we can still appreciate the attempt at horror of movies of old. The humor just make",
           "date": "2026-10-12T11:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-27.jpg"
-        },
-        {
-          "title": "15 of the Most Dangerous Cults in History",
-          "link": "https://www.denofgeek.com/msn/15-of-the-most-dangerous-cults-in-history/",
-          "description": "Most people that join a cult don’t even think about them in that way, and that’s what makes these groups dangerous. They rely on charismatic leaders that sway the minds of people on a low point in their lives, promising answers to every question and doubt, even the ones humanity has none to offer. W",
-          "date": "2026-10-12T10:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-26.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "THE CRAFT Is Getting The Doll Treatment from Bratz",
+          "link": "https://www.fangoria.com/the-craft-bratz-dolls/",
+          "description": "Apologies to your bank accounts, but Bratz is releasing an official line of dolls featuring the coven of THE CRAFT.",
+          "date": "2026-10-13T00:12:08+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/847679891_2696335890804140_1369744431565979252_n-e1791850142905.jpg"
+        },
+        {
+          "title": "Dead Meat Gives Us a Delicious Bite of Fresh Meat: Volume One",
+          "link": "https://www.fangoria.com/dead-meat-fresh-meat-interview/",
+          "description": "Dead Meat founders James A. Janisse and Chelsea Rebecca have been genre darlings for nearly a decade, and with their feature-length anthology competition Fresh Meat: Volume One, they’ve truly put their money where their mouths are when it comes to discovering and championing emerging horror talent. ",
+          "date": "2026-10-12T23:00:23+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-9.48.35-PM-scaled-e1791783617918.png"
+        },
         {
           "title": "Experience The FURY OF DRACULA With Hasbro’s Revamped Board Game",
           "link": "https://www.fangoria.com/fury-of-dracula-board-game/",
@@ -209,26 +223,19 @@
           "description": "The trailer for The Exorcist: Martyrs has been unveiled, and horror fans surely have a lot of questions. Fortunately, FANGORIA got to ask director Mike Flanagan a few of our own.",
           "date": "2026-10-09T23:00:48+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/images-3.jpg"
-        },
-        {
-          "title": "Mike Flanagan’s THE EXORCIST: MARTYRS Is Already Giving Big THE EXORCIST III Vibes",
-          "link": "https://www.fangoria.com/the-exorcist-martyrs-trailer/",
-          "description": "Watch the haunting first trailer within.",
-          "date": "2026-10-09T22:51:18+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/846e245a-b1fd-401f-a12e-ecc502066d71.avif"
-        },
-        {
-          "title": "Review: OTHER MOMMY Is A Promising Idea With A Wildly Uneven Execution",
-          "link": "https://www.fangoria.com/review-other-mommy/",
-          "description": "Two Jessica Chastain performances is somehow not enough to save OTHER MOMMY.",
-          "date": "2026-10-09T19:52:46+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Screenshot-2026-09-15-112412.webp"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "Eerie PS5 Adventure Game Is Out Today on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/10/12/time-to-wake-up-ps5-playstation-store-release-october-12",
+          "description": "Fans of psychological horror and adventure games have a new title to explore The post Eerie PS5 Adventure Game Is Out Today on PlayStation Store appeared first on PlayStation LifeStyle .",
+          "date": "2026-10-12T22:06:40+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/Ps5-game.jpg?w=1024"
+        },
         {
           "title": "He-Man Fans Have a New Reason to Return to Eternia as Pre-Orders Open",
           "link": "https://www.playstationlifestyle.net/2026/10/12/he-man-masters-of-the-universe-dragon-pearl-of-destruction-game-pre-order",
@@ -291,13 +298,6 @@
           "description": "A popular PS4 action-adventure game in a beloved franchise has returned as a free PlayStation 5 upgrade. Developed by Hangar 13 and published by 2K, the title originally came out in 2016. Mafia III: Definitive Edition is now available at no extra cost for PS5 users who currently own a physical or di",
           "date": "2026-10-09T17:27:05+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/5_90bf84.jpg?w=1024"
-        },
-        {
-          "title": "Charming PS5 Adventure Game Is Out Today on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/10/09/sesame-street-friends-and-fun-ps5-ps-store-release",
-          "description": "An adventure game with customizable characters and environments is now available to play on the PlayStation 5. The game can be played on Nintendo Switch, PlayStation 4, PlayStation 5, Xbox Series X|S, and PC. Sesame Street: Friends & Fun is now available on the PlayStation Store. Sesame Street: Frie",
-          "date": "2026-10-09T15:55:33+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/Charming-PS5-Adventure-Game-Is-Out-Today-on-PlayStation-Store.jpg?w=1024"
         }
       ]
     },
