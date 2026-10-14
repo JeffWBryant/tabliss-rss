@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T01:44:00.186136+00:00",
+  "updated": "2026-10-14T07:22:37.535537+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,13 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "VisionQuest Episode 1-2 Premiere Review: Coming Into Focus",
+          "link": "https://www.denofgeek.com/tv/visionquest-episode-1-2-premiere-review/",
+          "description": "This article contains spoilers for VisionQuest season 1 episodes 1 and 2. From the first episode of VisionQuest, it seems that the chief pleasure of the show will be watching Paul Bettany and James Spader chew the scenery. The actors reprise their Marvel roles, with Bettany back as a more questionin",
+          "date": "2026-10-14T02:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Paul-Bettany-and-Ruaridh-Mollica-in-VisionQuest.jpg"
+        },
+        {
           "title": "Clive Barker’s Hellraiser: Revival Revels in the Horror of the Grotesque",
           "link": "https://www.denofgeek.com/games/clive-barkers-hellraiser-revival-revels-horror-grotesque/",
           "description": "We were incredibly relieved at Summer Game Fest 2026 when we learned that Clive Barker’s Hellraiser: Revival wouldn’t be yet another asymmetrical online horror game based on an existing cinematic property. After all, following in the steps of Dead by Daylight, there has been no shortage of them, inc",
@@ -141,13 +148,6 @@
           "description": "Imagine needing another person to connect your phone call, waiting for a horse to deliver your groceries, or spending an afternoon washing clothes by hand. None of those things would have seemed particularly unusual a century ago. Everyday life used to involve equipment, routines, and little inconve",
           "date": "2026-10-13T11:45:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/5_e163aa.jpg"
-        },
-        {
-          "title": "15 Workplace Rules That Explain Why People Quiet Quit",
-          "link": "https://www.denofgeek.com/msn/15-workplace-rules-that-explain-why-people-quiet-quit/",
-          "description": "Every workplace has rules, but some managers seem determined to turn the simplest tasks into administrative emergencies. Need a bathroom break? Ask permission. Want to sit down after standing for six hours? Absolutely not. And don't even think about leaving at 5 p.m. if your boss is still answering ",
-          "date": "2026-10-13T11:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/4_206b4b.jpg"
         }
       ]
     },
