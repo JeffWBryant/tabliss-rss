@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-13T22:30:48.073970+00:00",
+  "updated": "2026-10-14T01:44:00.186136+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Cinderella Goes Full Giallo in Trailer for ‘The Princess Murders’ Series",
+          "link": "https://bloody-disgusting.com/news/3971831/the-princess-murders-comic-series-cinderella-snow-white/",
+          "description": "Some of the most iconic figures from Disney animation have much darker histories than the movies would lead you to believe. In the Brothers Grimm version of Snow White, for example, the titular princess is only 14 years old and, despite the evil Queen’s best efforts, she fails to kill Snow White. In",
+          "date": "2026-10-13T23:10:37+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/The-Princess-Murders-Comic-Cover-5.jpg?resize=949%2C1440&#038;ssl=1"
+        },
         {
           "title": "Creepypasta Horror Movie ‘The Third Parent’ Releases First Teaser",
           "link": "https://bloody-disgusting.com/movie/3971821/the-third-parent-teaser-creepypasta-movie/",
@@ -65,13 +72,6 @@
           "link": "https://bloody-disgusting.com/movie/3971738/act-one-movie-ella-beatty-sophia-takal/",
           "description": "In previous seasons of Ryan Murphy‘s Monster on Netflix, we’ve seen major names take on the roles of despicable characters. Season 3 saw Charlie Hunnam embrace the identity of Ed Gein, while the debut season focused on Evan Peters as Jeffrey Dahmer, with that performance even scoring the actor a Gol",
           "date": "2026-10-13T18:20:17+00:00",
-          "image": ""
-        },
-        {
-          "title": "Parker Posey Starring in ‘Sleepover’ from ‘Insidious: Out of the Further’ Director",
-          "link": "https://bloody-disgusting.com/movie/3971740/parker-posey-starring-in-sleepover-from-insidious-out-of-the-further-director/",
-          "description": "Director Jacob Chase is reteaming with Blumhouse Atomic Monster for his next horror movie Sleepover, and Variety reports that Parker Posey (Scream 3, The White Lotus) has signed on. Universal Pictures will release Sleepover in theaters October 8, 2027. The film is said to be a “quintessential sleepo",
-          "date": "2026-10-13T18:04:52+00:00",
           "image": ""
         }
       ]
@@ -380,6 +380,27 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "EA Reckons Battlefield 6 Deserves a Game of the Year Edition",
+          "link": "https://www.pushsquare.com/news/2026/10/ea-reckons-battlefield-6-deserves-a-game-of-the-year-edition",
+          "description": "With a grand total of 1 GOTY award. According to a Game of the Year tracking website, Battlefield 6 won a single Game of the Year award from just over 700 outlets. And that's enough to warrant and justify a Game of the Year edition of the shooter on PS5, apparently. The new version was made availabl",
+          "date": "2026-10-14T01:00:00+00:00",
+          "image": "https://images.pushsquare.com/c334e05573aec/large.jpg"
+        },
+        {
+          "title": "First PS Plus Extra Game Removal for November 2026 Confirmed",
+          "link": "https://www.pushsquare.com/news/2026/10/first-ps-plus-extra-game-removal-for-november-2026-confirmed",
+          "description": "GTA 5 says goodbye... again. If you want to replay GTA 5 before GTA 6 comes out via your PS Plus Extra subscription, you'll need to get a move on. The open worlder from Rockstar has been confirmed as leaving the service two days before GTA 6 comes out, on 17th November 2026. Read the full article on",
+          "date": "2026-10-14T00:00:00+00:00",
+          "image": "https://images.pushsquare.com/636308d69d5cf/large.jpg"
+        },
+        {
+          "title": "The Witcher 3 Remastered PS5 Players Start to Wonder Where All the Mods Are",
+          "link": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-ps5-players-start-to-wonder-where-all-the-mods-are",
+          "description": "But at least we've got hoods. It's been two weeks since the release of The Witcher 3 Remastered on PS5, and some players are starting to question where all of the mods are at. If you didn't know, Remastered brings mod support to the console versions of the game for the first time, allowing mod autho",
+          "date": "2026-10-13T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/53d27f1221953/large.jpg"
+        },
+        {
           "title": "Modern Warfare 4 Is the Latest Call of Duty to Launch without a PS5 Platinum Trophy",
           "link": "https://www.pushsquare.com/news/2026/10/modern-warfare-4-is-the-latest-call-of-duty-to-launch-without-a-ps5-platinum-trophy",
           "description": "Back to HQ. Call of Duty is set to continue a trend that's been frustrating fans for a good few years; the PS5 version of the next instalment will arrive without a platinum Trophy. That's because Call of Duty: Modern Warfare 4 will be part of the Call of Duty HQ launcher when it arrives later this m",
@@ -427,27 +448,6 @@
           "description": "Something to sink your teeth into. Planet Zoo 2 is the latest creative management sim from Frontier and delivers a huge menagerie of content where your creativity can run wild. A direct sequel to 2024’s Planet Zoo Console Edition and the close cousin of Planet Coaster 2 , the game delivers what I ha",
           "date": "2026-10-13T12:00:00+00:00",
           "image": "https://images.pushsquare.com/ee5ccb1b763f9/large.jpg"
-        },
-        {
-          "title": "Sony Reveals Slick Midnight Black PS5 Model, But It's a Japan Exclusive for Now",
-          "link": "https://www.pushsquare.com/news/2026/10/sony-reveals-slick-midnight-black-ps5-model-but-its-a-japan-exclusive-for-now",
-          "description": "There's a Midnight Black disc drive, too. Announced overnight, Japan is getting a new PS5 model. But to be clear, it's just the colour that's different here. The console's outer casing, and the DualSense controller that's bundled with the system, are of the 'Midnight Black' variety. Read the full ar",
-          "date": "2026-10-13T11:15:00+00:00",
-          "image": "https://images.pushsquare.com/a2775b9d56283/large.jpg"
-        },
-        {
-          "title": "God of War Laufey Collector Box Available for Pre-Order Now, Doesn't Include the Game",
-          "link": "https://www.pushsquare.com/news/2026/10/god-of-war-laufey-collector-box-available-for-pre-order-now-doesnt-include-the-game",
-          "description": "Don't Laufey. PlayStation Spain appears to have jumped the gun on a new product related to God of War Laufey , as it's up for pre-order now despite no prior announcement. The item in question is the God of War Laufey Collector Box, which includes a selection of special edition merch you can't get an",
-          "date": "2026-10-13T10:15:00+00:00",
-          "image": "https://images.pushsquare.com/ed460a01aaadd/large.jpg"
-        },
-        {
-          "title": "Review: Castlevania: Belmont's Curse (PS5) - The Classic Series Returns in a Perfectly Fine Metroidvania",
-          "link": "https://www.pushsquare.com/reviews/ps5/castlevania-belmonts-curse",
-          "description": "Rose's arm's red, violence ensues. Like Dracula himself, Konami has risen from a lengthy slumber and has spent the last few years reviving its most popular series, like Metal Gear Solid and Silent Hill . Now, it's Castlevania's turn. Castlevania: Belmont's Curse , developed by Evil Empire, is the fi",
-          "date": "2026-10-13T07:00:00+00:00",
-          "image": "https://images.pushsquare.com/6306539efc754/large.jpg"
         }
       ]
     },
