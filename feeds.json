@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T21:53:24.136140+00:00",
+  "updated": "2026-10-15T00:22:41.750986+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "The Biggest GODZILLA Crossover In Years Is Coming In 2027",
+          "link": "https://www.fangoria.com/godzilla-vs-everything-comic-crossover-details/",
+          "description": "GODZILLA VS. EVERYTHING will tie together everything that IDW’s Kai-Sei era has been building ever since it launched last year and we’ve got the details right here.",
+          "date": "2026-10-14T22:00:59+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/GODZILLA-New-Design-by-Hendry-Prasetya-Cropped.jpg"
+        },
+        {
           "title": "Your Party Playlist Needs More KILLER SOUNDS OF HALLOWEEN",
           "link": "https://www.fangoria.com/killer-sounds-of-halloween-rises-from-the-grave/",
           "description": "Sean Keller has recruited a whole squad of horror talent for the fifth album in his genre-hopping mixtape series.",
@@ -216,13 +223,6 @@
           "description": "As we get closer to Halloween, iconic horror classics have begun to take over on this week's top ten list. Also, new horror favorites BACKROOMS and OBSESSION have continued to score with home viewers. Find out more at FANGORIA.",
           "date": "2026-10-13T21:10:08+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/MV5BNmRiYmVmOTQtM2ZmNy00ODk0LWI4NDYtZTllMzVkZTcxMTFiXkEyXkFqcGc@._V1_-1-scaled.jpg"
-        },
-        {
-          "title": "Rob Zombie’s Firefly Trilogy Comes To Gruesome 4K With New Box Set",
-          "link": "https://www.fangoria.com/rob-zombie-firefly-trilogy-box-set/",
-          "description": "Rob Zombie's gruesome Firefly Trilogy is coming to 4K with a new box set, including unrated versions of THE DEVIL'S REJECTS and 3 FROM HELL.",
-          "date": "2026-10-13T20:08:32+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/the-devils-rejects_c72815eb.jpg"
         }
       ]
     },
@@ -380,6 +380,20 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "First Final Fantasy Resonance PS5 Review Released, Rough Campaign Length Revealed",
+          "link": "https://www.pushsquare.com/news/2026/10/first-final-fantasy-resonance-ps5-review-released-rough-campaign-length-revealed",
+          "description": "Is it resonating with critics? The heavy release schedule continues in earnest, and while we’re approaching the endgame for this year with GTA 6 next month, there’s plenty of enthusiasm for Square Enix’s upcoming HD-2D effort, Final Fantasy Resonance . Now, ahead of its release on 22nd October next ",
+          "date": "2026-10-14T23:30:00+00:00",
+          "image": "https://images.pushsquare.com/cc34fe5509487/large.jpg"
+        },
+        {
+          "title": "Mini Review: Toy Story 3 Complete Edition (PS5) - An All-Time Great Movie Tie-In Gets a Fresh Lick of Paint",
+          "link": "https://www.pushsquare.com/reviews/ps5/toy-story-3-complete-edition",
+          "description": "The rootinest tootinest remaster in these here parts. The Toy Story 3 movie tie-in was a beloved, highly regarded title when it originally launched back in 2010. In an era of lazy movie cash grabs – or crummy mobile games in today’s world – Toy Story 3 dared to be something that its peers wouldn’t: ",
+          "date": "2026-10-14T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/1da74f4f35058/large.jpg"
+        },
+        {
           "title": "PS1 Classics on PS5 Keep on Coming in Dino Crisis 2, Out Next Week",
           "link": "https://www.pushsquare.com/news/2026/10/ps1-classics-on-ps5-keep-on-coming-in-dino-crisis-2-out-next-week",
           "description": "But don't expect Trophies. Capcom classic Dino Crisis 2 will be made available on PS5 and PS4 via the PS Store from next Tuesday, 20th October 2026. The game will be part of PS Plus Premium straight away, but it'll also be purchasable outside of the subscription, most likely for £7.99 / $9.99. This ",
@@ -434,20 +448,6 @@
           "description": "A child's play thing. Toy Story: Retro Roundup is a collection of video games from the franchise's early days, plus A Bug's Life as a bonus throw-in. While not everything here is particularly great, there are more than enough nostalgia punches and modern-day features to feel like you're getting your",
           "date": "2026-10-14T16:00:00+00:00",
           "image": "https://images.pushsquare.com/5994c89a8778a/large.jpg"
-        },
-        {
-          "title": "9 PS Plus Extra, Premium Games for October 2026 Announced",
-          "link": "https://www.pushsquare.com/news/2026/10/9-ps-plus-extra-premium-games-for-october-2026-announced",
-          "description": "Spooky scary. Sony has officially announced the full lineup of games heading into PS Plus Extra and PS Plus Premium for the month of October 2026. Here's the full rundown: Read the full article on pushsquare.com",
-          "date": "2026-10-14T15:30:00+00:00",
-          "image": "https://images.pushsquare.com/c80ca2ceffd6b/large.jpg"
-        },
-        {
-          "title": "Review: Tales of Eternia Remastered (PS5) - Classic PlayStation RPG Shows Its Age",
-          "link": "https://www.pushsquare.com/reviews/ps5/tales-of-eternia-remastered",
-          "description": "Third time's the charm. Growing up, Tales was one of my favorite Japanese RPG series, one that I wished got as much attention as Final Fantasy and Persona . With the success of the latest entry, 2021’s Tales of Arise , Bandai Namco has sought to port some of the older games to modern platforms. Many",
-          "date": "2026-10-14T15:00:00+00:00",
-          "image": "https://images.pushsquare.com/26fceb300262e/large.jpg"
         }
       ]
     },
