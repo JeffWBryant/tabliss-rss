@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T05:02:42.981639+00:00",
+  "updated": "2026-10-15T10:13:48.140829+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,13 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "15 of History’s Biggest Conquerors",
+          "link": "https://www.denofgeek.com/msn/15-of-historys-biggest-conquerors/",
+          "description": "No matter how mighty an army might be, how great their technology and weapons, it would all mean nothing without a great military mind calling the shots from behind the scenes. We study their tactics in military academies and read about them in history books, often amazed by how much territory they ",
+          "date": "2026-10-15T10:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/3_e8c872.jpg"
+        },
+        {
           "title": "Ben Affleck Hating Justice League Just Confirms He’s the Perfect Batman",
           "link": "https://www.denofgeek.com/movies/ben-affleck-hating-justice-league-confirms-hes-batman/",
           "description": "Batman knows that criminals are a suspicious, cowardly lot. Movie fans know that Ben Affleck is a sad, tired man. Put the two together and movie magic should happen. Yet, for some reason none of Affleck’s four outings as Bruce Wayne have really stuck with anyone other than the dwindling group of Zac",
@@ -141,13 +148,6 @@
           "description": "Actors, like any other person, need to work to pay the bills. Sure, a lot of them have a lot more money than the average person, but that isn’t true for all performers, much less at the start of their careers. And yet, there are a few actors that, once they gained some renown, decided to be more pic",
           "date": "2026-10-14T12:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/05/img-12-2.jpg"
-        },
-        {
-          "title": "Movies Everyone Quotes Without Having Actually Seen Them",
-          "link": "https://www.denofgeek.com/tv/movies-everyone-quotes-without-having-actually-seen-them/",
-          "description": "Movies become instant classics by covering deep themes, being incredibly entertaining, or having quotable lines. That last batch of movies have a tendency of becoming memes, catchphrases and joke enders, to the point that the quote is far more memorable than the film itself. This has the unfortunate",
-          "date": "2026-10-14T11:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/05/image_f89a5d.png"
         }
       ]
     },
