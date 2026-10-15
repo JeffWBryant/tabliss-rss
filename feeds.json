@@ -1,9 +1,58 @@
 {
-  "updated": "2026-10-15T15:16:56.002993+00:00",
+  "updated": "2026-10-15T19:20:09.367035+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Occult Horror Deckbuilder ‘The Killing Stone’ Exits Early Access, Fully Launches on October 21 [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3972007/occult-horror-deckbuilder-the-killing-stone-exits-early-access-fully-launches-on-october-21-trailer/",
+          "description": "After spending much of the year in Early Access on Steam, independent developer Question will be launching their horror deckbuilder The Killing Stone in full on October 21, as well as launching on the Epic Games Store, PlayStation 5, and the Xbox Series on the same day. Since launching in Early Acce",
+          "date": "2026-10-15T17:30:14+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Scream’ and ‘Black Phone’ Stars Unite in YA Horror ‘Bad Influence’",
+          "link": "https://bloody-disgusting.com/movie/3972056/bad-influence-madeleine-mcgraw-jack-champion/",
+          "description": "A new young adult horror movie is on the way that is bringing together some burgeoning genre stars for an all-new adventure. The upcoming Bad Influence comes from screenwriter Brandon Cohen and director Jason Perlman. According to Deadline, Scream VI star Jack Champion and The Black Phone star Madel",
+          "date": "2026-10-15T17:29:34+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Werwulf’s Williem Dafoe Reveals the Real-Life Inspiration for Robert Eggers’ Werewolf Movie",
+          "link": "https://bloody-disgusting.com/movie/3972046/werwulf-willem-dafoe-real-life-character-history-explained/",
+          "description": "'Werwulf' is set to hit theaters on December 25. The post ‘Werwulf’s Williem Dafoe Reveals the Real-Life Inspiration for Robert Eggers’ Werewolf Movie appeared first on Bloody Disgusting! .",
+          "date": "2026-10-15T16:53:47+00:00",
+          "image": ""
+        },
+        {
+          "title": "Ted Raimi Invites Horror Icons Into His Haunted Manor In ‘Your Dearest Darkest Friend’ Trailer",
+          "link": "https://bloody-disgusting.com/exclusives/3971951/ted-raimi-invites-horror-icons-into-his-haunted-manor-in-your-dearest-darkest-friend-trailer/",
+          "description": "Genre stalwart and horror host Ted Raimi enlists the help of puppets and cocktails to entertain guests in the official trailer for Screambox series Your Dearest Darkest Friend, a new darkly whimsical talk show. While the full guest lineup hasn’t been announced just yet, the trailer below features Ba",
+          "date": "2026-10-15T16:00:27+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/YDDF-Key-Art-769x1218-1.jpg?resize=769%2C1218&#038;ssl=1"
+        },
+        {
+          "title": "‘DREADMOOR’ Plunges Into Steam Early Access on November 9 [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3972003/dreadmoor-plunges-into-steam-early-access-on-november-9-trailer/",
+          "description": "With the game’s demo already out the door, Dream Dock and publisher Digital Vortex Entertainment have announced that their upcoming dark first-person fishing adventure DREADMOOR finally has a release date. The game will launch November 9 into Steam Early Access, and will feature the full core gamepl",
+          "date": "2026-10-15T15:30:07+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Obsession 2’: Inde Navarrette Would “Totally Be Open” to Returning for Sequel",
+          "link": "https://bloody-disgusting.com/movie/3972040/obsession-2-inde-navarrette-sequel-chances-nikki/",
+          "description": "The star weighed in on what her character might be up to after the credits rolled. The post ‘Obsession 2’: Inde Navarrette Would “Totally Be Open” to Returning for Sequel appeared first on Bloody Disgusting! .",
+          "date": "2026-10-15T15:29:15+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Tenebris Somnia’ Melds Pixel Art and FMV to Create a Wholly Unique Survival Horror Experience [Review]",
+          "link": "https://bloody-disgusting.com/video-games/3972010/tenebris-somnia-melds-pixel-art-and-fmv-to-create-a-wholly-unique-survival-horror-experience-review/",
+          "description": "When a game has as strong of a visual gimmick as Tenebris Somnia, that can be all people talk about. The combination of retro pixel art and live action cutscenes certainly is as noteworthy as it is effective, but nothing in the marketing gave me any indication of the exceptional narrative hiding beh",
+          "date": "2026-10-15T15:20:59+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/tenebris02.jpg?resize=900%2C580&#038;ssl=1"
+        },
         {
           "title": "Bloody Disgusting’s Splatter Sauce Now Available from TorchBearer Sauces!",
           "link": "https://bloody-disgusting.com/the-further/3970285/bloody-disgustings-splatter-sauce-now-available-from-torchbearer-sauces/",
@@ -24,61 +73,40 @@
           "description": "Renny Harlin (A Nightmare on Elm Street 4: The Dream Master, Deep Blue Sea, The Strangers: Chapter 1-3) has been extremely busy in recent years, and his next project has been announced by Deadline this morning. Harlin’s next feature is set to be a prison rescue thriller titled Evac. Here’s the offic",
           "date": "2026-10-15T13:50:35+00:00",
           "image": ""
-        },
-        {
-          "title": "New Devlog for ‘Saraab: Beyond The Veil’ Covers The Game’s Inspirations and More [Watch]",
-          "link": "https://bloody-disgusting.com/video-games/3972000/new-devlog-for-saraab-beyond-the-veil-covers-the-games-inspirations-and-more-watch/",
-          "description": "Ahead of Steam Next Fest, solo developer Rooted Elevation has released a short devlog for its upcoming psychological horror visual novel, Saraab: Beyond The Veil. The video covers the initial concept of the game, its Arabian folklore inspiration, and the creative process behind the game’s developmen",
-          "date": "2026-10-15T13:30:05+00:00",
-          "image": ""
-        },
-        {
-          "title": "Trevor Henderson’s Horror Podcast ‘Mayfair Watchers Society’ Getting a Movie Adaptation",
-          "link": "https://bloody-disgusting.com/movie/3972012/trevor-hendersons-horror-podcast-mayfair-watchers-society-getting-a-movie-adaptation/",
-          "description": "Trevor Henderson’s creatures have been invading your ears in the Bloody Disgusting horror fiction podcast Mayfair Watchers Society, and now they’re coming to life on the big screen. Bloody Disgusting’s parent company Cineverse has announced this morning that they’ve made a deal with Trevor Henderson",
-          "date": "2026-10-15T12:44:31+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-083733.png?resize=911%2C506&#038;ssl=1"
-        },
-        {
-          "title": "Return to Grimdark FPS Action Now in ‘Warhammer 40K: Boltgun II’ for PC, PS5 and Xbox [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3971997/return-to-grimdark-fps-action-now-in-warhammer-40k-boltgun-ii-for-pc-ps5-and-xbox-trailer/",
-          "description": "Time once again to decimate heretics in Auroch Digital and Big Fan Games’ Warhammer 40,000: Boltgun II, which is now available on PC via Steam, PlayStation 5, and the Xbox Series. Accompanying the release is the customary launch trailer, which shows off more of the game’s unrestrained carnage. Trave",
-          "date": "2026-10-15T11:30:19+00:00",
-          "image": ""
-        },
-        {
-          "title": "Apple TV Renews Thrilling Murder Mystery ‘Maximum Pleasure Guaranteed’ for Season 2",
-          "link": "https://bloody-disgusting.com/news/3971982/maximum-pleasure-guaranteed-season-2-renewed-apple-tv-tatiana-maslany/",
-          "description": "Slowly but surely, Apple TV has become a massive player in the streaming wars. When the platform launched, the movies and TV series available were limited to titles that the streamer created, meaning it was a limited pool of content. Seven years later, Apple TV has amassed an impressive library of e",
-          "date": "2026-10-14T21:16:57+00:00",
-          "image": ""
-        },
-        {
-          "title": "Horror Hit ‘From’ Comes to Netflix Next Week Ahead of Final Season",
-          "link": "https://bloody-disgusting.com/tv/3971981/horror-hit-from-comes-to-netflix-next-week-ahead-of-final-season/",
-          "description": "Season five of MGM+‘s hit series From is heading into production and is expected in 2027, but non-subscribers can finally check out the series’ first three seasons on Netflix starting next week, on October 19. From follows a group of strangers trapped in a mysterious small town they can’t escape, no",
-          "date": "2026-10-14T21:13:01+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/from.jpg?resize=1000%2C1440&#038;ssl=1"
-        },
-        {
-          "title": "Johnny Depp Transforms Into Scrooge in New ‘Ebenezer’ Featurette",
-          "link": "https://bloody-disgusting.com/movie/3971975/ebenzer-johnny-depp-transformation-featurette/",
-          "description": "There can simply never be enough adaptations of Charles Dickens‘ A Christmas Carol, which is why filmmaker Ti West is stepping in to deliver his own take on the material. A number of beloved actors have embraced the role of Ebenezer Scrooge over the years, and while Johnny Depp already has a number ",
-          "date": "2026-10-14T20:22:43+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Ebenezer-Poster-Johnny-Depp-scaled.jpg?resize=1728%2C2560&#038;ssl=1"
-        },
-        {
-          "title": "‘Above The Below’ First Images Trap Idris Elba In A Claustrophobic Sci-Fi Survival Thriller",
-          "link": "https://bloody-disgusting.com/movie/3971964/above-the-below-first-images-trap-idris-elba-in-a-claustrophobic-sci-fi-survival-thriller/",
-          "description": "A destructive re-entry to Earth leaves a trio of astronauts stranded in the ocean’s depths in the first images from Lionsgate’s sci-fi survival thriller Above the Below, releasing in theaters on December 4. Idris Elba (Thor: Ragnarok, Beast) stars alongside Caitlin FitzGerald (“We Were Liars”) and H",
-          "date": "2026-10-14T19:46:55+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/ATB_SG_01192RC.jpg?resize=1024%2C428&#038;ssl=1"
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "ParaNorman is the Perfect Stop-Motion Horror Movie",
+          "link": "https://www.denofgeek.com/movies/paranorman-perfect-stop-motion-horror-movie/",
+          "description": "This article contains some spoilers for ParaNorman. Every year, adults filled with nostalgia and kids ready for something a little bit spookier seek out the stop-motion classic Coraline. Even after the utterly disgusting revelations about author Neil Gaiman, who wrote the source novella, Coraline re",
+          "date": "2026-10-15T18:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/ParaNorman.jpg"
+        },
+        {
+          "title": "Street Fighter Review: A Star-Studded, Violent, Love Letter to the ‘90s",
+          "link": "https://www.denofgeek.com/movies/street-fighter-review/",
+          "description": "Street Fighter, the second attempt to bring the legendary fighting game franchise to the big screen, is somehow even weirder and more colorful than its trailers have made it look. In fact, the marketing hasn’t done it justice. But dismiss this flick as a misguided send-up at your own peril, because ",
+          "date": "2026-10-15T16:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Cammy-in-Street-Fighter.jpg"
+        },
+        {
+          "title": "Cyberpunk: Edgerunners Season 2 Promises a Brand New Night City Story",
+          "link": "https://www.denofgeek.com/tv/cyberpunk-edgerunners-season-2-showrunners-tease-new-night-city-story/",
+          "description": "This article appears in the new issue of DEN OF GEEK magazine. Find out how you can subscribe to get the full physical copy right here! Anime’s rich relationship with video games goes all the way back to the ‘80s and has only become more prominent over time. Netflix has found tremendous success with",
+          "date": "2026-10-15T16:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/Cyberpunk-Edgerunners.png"
+        },
+        {
+          "title": "TV Premiere Dates: 2026 Calendar",
+          "link": "https://www.denofgeek.com/tv/tv-premiere-dates-calendar/",
+          "description": "Wondering when your favorite shows are coming back and what new series you can look forward to? We’ve got you covered with the Den of Geek 2026 TV Premiere Dates Calendar, where we keep track of TV series premiere dates, return dates, and more for the year and beyond. We’ll continue to update this p",
+          "date": "2026-10-15T15:34:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Dexter-Resurrection-Season-2-Michael-C-Hall.jpg"
+        },
         {
           "title": "Digger: Why Movies Can No Longer Properly Conceive of the Apocalypse",
           "link": "https://www.denofgeek.com/movies/digger-movies-no-longer-conceive-apocalypse/",
@@ -94,25 +122,11 @@
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-38.jpg"
         },
         {
-          "title": "15 Movies You Could Never Make Again, and That’s a Shame",
-          "link": "https://www.denofgeek.com/msn/15-movies-you-could-never-make-again-and-thats-a-shame/",
-          "description": "Hollywood used to take some pretty wild risks. Studios released movies with outrageous premises, uncomfortable social commentary, questionable jokes, and scenes that would probably trigger endless debates if they premiered today. Some of these films pushed boundaries in ways that feel refreshing, wh",
-          "date": "2026-10-15T13:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/3_9a1e24.jpg"
-        },
-        {
           "title": "15 Old Vintage Photos Where Everything Looks Modern",
           "link": "https://www.denofgeek.com/msn/15-old-vintage-photos-where-everything-looks-modern/",
           "description": "Some old photographs have a strange way of making the past feel incredibly close. You look at someone walking down a city street, hanging out with friends, or posing for a casual picture, and nothing about the scene feels particularly unusual. The clothes might give away the decade, but the expressi",
           "date": "2026-10-15T13:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/2_350ea9.jpg"
-        },
-        {
-          "title": "15 Times Everything Was Ruined By Just One Person",
-          "link": "https://www.denofgeek.com/msn/15-times-everything-was-ruined-by-just-one-person/",
-          "description": "Sometimes, all it takes is one person to ruin something that everyone else enjoys. A single reckless decision can lead to new rules, a beloved tradition can disappear overnight, and one selfish move can spoil years of fun for an entire group. The frustrating part is that everyone else often ends up ",
-          "date": "2026-10-15T12:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-34.jpg"
         },
         {
           "title": "14 of History’s Most Stressful Moments",
@@ -129,31 +143,52 @@
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/5_eb4839.jpg"
         },
         {
-          "title": "15 Times The Actor Refused to Do What Was Written",
-          "link": "https://www.denofgeek.com/msn/15-times-the-actor-refused-to-do-what-was-written/",
-          "description": "Actors don't always agree with the scripts they're handed, and sometimes they're willing to argue about it. A joke might feel wrong for the character, a romantic storyline might come out of nowhere, or a single line might be so ridiculous that nobody wants to say it out loud. Some performers have pu",
-          "date": "2026-10-15T12:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-4-1.jpg"
-        },
-        {
           "title": "15 Older Photos Showing That Office Culture Has Always Been Weird",
           "link": "https://www.denofgeek.com/msn/15-older-photos-showing-that-office-culture-has-always-been-weird/",
           "description": "Office culture has always been a little strange. Apparently, spending eight hours a day with the same people inspires some questionable decisions, like filling a coworker's cubicle with snacks, covering an entire desk in aluminum foil, or turning someone's workspace into a bathroom. And workplace we",
           "date": "2026-10-15T11:45:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/5_4705c3.jpg"
-        },
-        {
-          "title": "14 Celebrity Photos That Look Like They Were Taken in a Completely Different Decade",
-          "link": "https://www.denofgeek.com/msn/14-celebrity-photos-that-look-like-they-were-taken-in-a-completely-different-decade/",
-          "description": "It's not always easy to tell when a celebrity photo was taken. Some pictures from the 1960s could pass for recent Instagram posts, while certain modern magazine shoots look as though they came straight out of an old Hollywood archive. A pair of sunglasses, a haircut, or the right lighting can throw ",
-          "date": "2026-10-15T11:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wpimage-id1009544sizeSluglargelinkDestinationnone-figure-classwp-block-image-size-largeimg-srchttpswww.denofgeek.comwp-contentuploads202607image_b11ece.pngresize1024617-alt-2-2.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "Sing Your Little Monsters To Sleep With Rockabye Baby’s New Halloween Album",
+          "link": "https://www.fangoria.com/rockabye-baby-halloween-album/",
+          "description": "Rockabye Baby is getting into the Halloween spirit, with a new album featuring spooky lullaby versions of songs like \"Ghostbusters\" and more.",
+          "date": "2026-10-15T17:28:33+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/unnamed_68_1.jpg"
+        },
+        {
+          "title": "Popcorn Frights’ Wicked Weekend Returns With Five Days Of Genre Madness",
+          "link": "https://www.fangoria.com/popcorn-frights-wicked-weekend-2026/",
+          "description": "Fresh Gothic horror, slasher classics, interactive fan experiences, special guests, and much more - check out the full lineup within.",
+          "date": "2026-10-15T17:00:39+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/VictorianPsycho.jpg"
+        },
+        {
+          "title": "SCREAM VI & BLACK PHONE Stars Unite For Teen Horror BAD INFLUENCE",
+          "link": "https://www.fangoria.com/bad-influence-teen-horror/",
+          "description": "The stars of SCREAM VI and THE BLACK PHONE are uniting for a new YA horror film, BAD INFLUENCE. Get all the details here.",
+          "date": "2026-10-15T16:46:00+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/black-phone-2_IRMyUO.jpg"
+        },
+        {
+          "title": "Review: CRAWLERS Will Creep Out The Arachnophobic And No One Else",
+          "link": "https://www.fangoria.com/review-crawlers/",
+          "description": "If you’ve ever wanted to see a spider hold a baby hostage, CRAWLERS is the film for you.",
+          "date": "2026-10-15T16:30:44+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/thumb_A4441BA1-A069-46EA-8E35-1FBA7E47D734.jpg"
+        },
+        {
+          "title": "How CRYSTAL LAKE’s Costume Designer Created The Look of Pamela Voorhees",
+          "link": "https://www.fangoria.com/crystal-lake-costume-designer-interview/",
+          "description": "Argue about canon all you want, but the look of CRYSTAL LAKE is undeniably awesome. We spoke with the costume designer about how it all came to be.",
+          "date": "2026-10-15T16:00:55+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/NUP_208266_01094_RF-scaled.jpg"
+        },
         {
           "title": "Feasting on the Open Veins: Fascism in Latin American Horror Cinema",
           "link": "https://www.fangoria.com/latin-american-horror-fascism/",
@@ -188,47 +223,26 @@
           "description": "FANGORIA is excited to reveal that DRAG is opening this year's New York City Horror Film Festival this December.",
           "date": "2026-10-14T20:00:56+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/19905-1-scaled.jpeg"
-        },
-        {
-          "title": "Review: WHALEFALL Is A Heartrending, Visceral Achievement",
-          "link": "https://www.fangoria.com/whalefall-review/",
-          "description": "The perennially hapless Austin Abrams gets gobbled up by a whale. You into that? We thought so. Our review will only make you more excited.",
-          "date": "2026-10-14T17:52:46+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/whalefallfango1014.webp"
-        },
-        {
-          "title": "THE THIRD PARENT Ruins Lives In New Creepypasta Adaptation Trailer",
-          "link": "https://www.fangoria.com/the-third-parent-trailer/",
-          "description": "The first trailer for the creepypasta adaptation THE THIRD PARENT has been released, previewing a strange supernatural story coming this winter.",
-          "date": "2026-10-14T17:37:14+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-1.20.45-PM.png"
-        },
-        {
-          "title": "The True Story That Inspired Ken Russell’s THE DEVILS",
-          "link": "https://www.fangoria.com/true-story-ken-russell-the-devils/",
-          "description": "The long-awaited director's cut of Ken Russell's THE DEVILS is bringing NC-17 cinema back to the theaters, and the beautiful blasphemy was loosely based on true events.",
-          "date": "2026-10-14T17:00:45+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/images-4-1.jpg"
-        },
-        {
-          "title": "The YELLOWJACKETS Get A Less Than Happy Homecoming In First Season 4 Trailer",
-          "link": "https://www.fangoria.com/yellowjackets-season-4-trailer/",
-          "description": "The acclaimed psychological horror series returns this November.",
-          "date": "2026-10-14T15:20:46+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Yellowjackets_402_DS_0413_1529_RT2.jpg.webp"
-        },
-        {
-          "title": "Jeneva Rose’s Sometimes I Scare Myself Review: FANGORIA Community Book Club Verdict",
-          "link": "https://www.fangoria.com/jeneva-roses-sometimes-i-scare-myself/",
-          "description": "When the FANGORIA Community Book Club went trick or treating at Blackstone Publishing, we all came back with copies of SOMETIMES I SCARE MYSELF by Jeneva Rose. Check out what our member thought inside.",
-          "date": "2026-10-14T14:57:32+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/jeneva-rose.png"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "PS5 Version of 2025 Surprise Hit Adventure Game Gets Release Date",
+          "link": "https://www.playstationlifestyle.net/2026/10/15/peak-ps5-physical-edition-release-date",
+          "description": "Landfall and Aggro Crab's acclaimed co-op climbing game is now coming to PlayStation 5. The post PS5 Version of 2025 Surprise Hit Adventure Game Gets Release Date appeared first on PlayStation LifeStyle .",
+          "date": "2026-10-15T19:07:46+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/g.jpg?w=1024"
+        },
+        {
+          "title": "Popular PS5 Pro Enhanced RPG Slashes Price by 85% on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/10/15/hogwarts-legacy-ps5-pro-enhanced-85-percent-off-playstation-store",
+          "description": "A popular open-world action RPG is heavily discounted on the PlayStation Store. Ahead of Harry Potter Season 1’s release, Hogwarts Legacy‘s PS5 Pro Enhanced version is available at an 85% discount. The game originally cost $69.99. It is now available for $10.49. The offer lasts until October 22, 202",
+          "date": "2026-10-15T15:52:41+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/3_d2c782.jpg?w=1024"
+        },
         {
           "title": "GTA 6 Trailer Teases a Crime Spree That Spirals Out of Control",
           "link": "https://www.playstationlifestyle.net/2026/10/15/gta-6-launch-trailer-jason-lucia",
@@ -284,26 +298,19 @@
           "description": "PlayStation has unveiled a new limited-edition PS5 controller. The post Gorgeous New PS5 DualSense Controller Gets Price and Release Date appeared first on PlayStation LifeStyle .",
           "date": "2026-10-14T17:36:42+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/ps_fe65e3.jpg?w=1024"
-        },
-        {
-          "title": "Charming PS5 Adventure RPG Is Out Today on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/10/14/the-witchs-bakery-ps5-release-october-14",
-          "description": "After a delayed August launch, a charming PlayStation game is now available on the PlayStation Store. Developed by Sunny Labs and published by Silver Lining Interactive, The Witch’s Bakery launches on the PlayStation 5, Xbox Series, Switch 2, Switch, and PC. Physical editions are available for $34.9",
-          "date": "2026-10-14T16:17:35+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/4_78ec12.jpg?w=1024"
-        },
-        {
-          "title": "Popular PS5 Warhammer Action Game Gets Massive 75% Discount on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/10/14/playstation-store-sale-warhammer-40000-space-marine-2-discount",
-          "description": "Fans can now grab Focus Entertainment's hit Warhammer title at a significantly lower price. The post Popular PS5 Warhammer Action Game Gets Massive 75% Discount on PlayStation Store appeared first on PlayStation LifeStyle .",
-          "date": "2026-10-14T15:49:16+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/warhammer.jpg?w=1024"
         }
       ]
     },
     "PlayStation Blog": {
       "url": "https://blog.playstation.com/feed/",
       "articles": [
+        {
+          "title": "Peak climbs its way onto PS5 October 22",
+          "link": "https://blog.playstation.com/2026/10/15/peak-climbs-its-way-onto-ps5-october-22/",
+          "description": "Hello Scouts! Team Peak is happy to announce that our climbing game Peak is launching on PlayStation 5 October 22. Peak is a collaboration between two studios, Aggro Crab and Landfall, together, we make Team Peak. Aggro Crab is an American studio based in Seattle, Washington, known for their games A",
+          "date": "2026-10-15T17:00:08+00:00",
+          "image": "https://live.staticflickr.com/65535/55588792618_1722c1f1c8_h.jpg"
+        },
         {
           "title": "(For Southeast Asia) Gran Turismo 7’s Spec IV (Part 1) launches today and a first look at DualSense wireless controller – Gran Turismo Limited Edition",
           "link": "https://blog.playstation.com/2026/10/14/20261015-gt7/",
@@ -366,19 +373,68 @@
           "description": "Hello everyone! I’m Takeshi Yamanaka, Producer of MARVEL Tōkon: Fighting Souls. Today, we’re excited to reveal the gameplay trailer for Phoenix Cyclops, the first DLC character included in the Year 1 Pass for MARVEL Tōkon: Fighting Souls. Arriving on November 2, Phoenix Cyclops (voiced by Ray Chase)",
           "date": "2026-10-07T17:00:48+00:00",
           "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-        },
-        {
-          "title": "Warhammer Survivors launches November 10, new characters revealed",
-          "link": "https://blog.playstation.com/2026/10/06/warhammer-survivors-launches-november-10-new-characters-revealed/",
-          "description": "Today, we’re excited to announce that Warhammer Survivors launches on PS5 November 10. To mark the occasion we’re also revealing two characters in our latest trailer. Eagle-eyed fans who have been following the game for a while may have noticed Morvenn Vahl in the game’s key art, and we’re really ex",
-          "date": "2026-10-06T14:00:51+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
         }
       ]
     },
     "Push Square": {
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
+        {
+          "title": "The Third Version of Arizona Sunshine Is Dated for January 2027",
+          "link": "https://www.pushsquare.com/news/2026/10/the-third-version-of-arizona-sunshine-is-dated-for-january-2027",
+          "description": "Third time's a charm? The third version of Arizona Sunshine , which will be completely stripped of any VR support, will be one of the PS5 titles that kicks off 2027, now dated for 21st January 2027. Originally a PSVR effort on PS4, which was then remade for PS5's dead headset PSVR2 , Vertigo Games i",
+          "date": "2026-10-15T19:00:00+00:00",
+          "image": "https://images.pushsquare.com/185031b4dae1b/large.jpg"
+        },
+        {
+          "title": "Cyberpunk 2's Director Is a Big Reason to Be Hyped for the Secretive 2077 Sequel",
+          "link": "https://www.pushsquare.com/news/2026/10/cyberpunk-2s-director-is-a-big-reason-to-be-hyped-for-the-secretive-2077-sequel",
+          "description": "Phantom Liberty lead speaks up. We're yet to really hear anything concrete about Cyberpunk 2 — as it's now officially referred to — but one thing we do know is that it's being shaped by some of CD Projket Red's top talent. And key among them is Gabe Amatangelo, who spearheaded Cyberpunk 2077's Updat",
+          "date": "2026-10-15T18:30:00+00:00",
+          "image": "https://images.pushsquare.com/8d172e4b8bb1b/large.jpg"
+        },
+        {
+          "title": "Control Resonant Cuts Through the Crazy PS5 Release Schedule with 1 Million Sales",
+          "link": "https://www.pushsquare.com/news/2026/10/control-resonant-cuts-through-the-crazy-ps5-release-schedule-with-1-million-sales",
+          "description": "Faster than Alan Wake 2. Control Resonant has sold one million copies since its release on 24th September, marking a sturdy start for the Remedy developed action game in a particularly busy schedule. It took the Finnish firm’s previous title Alan Wake 2 about two months to reach the same milestone, ",
+          "date": "2026-10-15T18:00:00+00:00",
+          "image": "https://images.pushsquare.com/ffdd703df307e/large.jpg"
+        },
+        {
+          "title": "Star Wars Zero Company Adds Modifiers, Cuts Upgrade Costs, More in Massive Update",
+          "link": "https://www.pushsquare.com/news/2026/10/star-wars-zero-company-adds-modifiers-cuts-upgrade-costs-more-in-massive-update",
+          "description": "Tactical download. EA and Bit Reactor have released a huge game update for Star Wars Zero Company , the good but rough-around-the-edges strategy game set in a galaxy far, far away. The update brings the game to version 1.2, and it's available now on all platforms, including PS5 of course. Read the f",
+          "date": "2026-10-15T17:30:00+00:00",
+          "image": "https://images.pushsquare.com/9933894dc81dc/large.jpg"
+        },
+        {
+          "title": "Fans of Baldur's Gate and Old-School RPGs Need to See Lair of Leviathan",
+          "link": "https://www.pushsquare.com/news/2026/10/fans-of-baldurs-gate-and-old-school-rpgs-need-to-see-lair-of-leviathan",
+          "description": "Adventuring to PS5. If you're into old-school, traditionally designed RPGs, then you've got to take a look at Lair of Leviathan . This turn-based, pixelated adventure is heading to PS5 and PS4 at some point in 2027, and its goal is to bring back that classic sense of being on a proper journey throug",
+          "date": "2026-10-15T17:00:00+00:00",
+          "image": "https://images.pushsquare.com/44431e3b7525d/large.jpg"
+        },
+        {
+          "title": "PS5's Saros Already an Official Award Winner",
+          "link": "https://www.pushsquare.com/news/2026/10/ps5s-saros-already-an-official-award-winner",
+          "description": "Credited for its sound and music. The year isn't done yet with new PS5 game releases, but Housemarque's own Saros has already begun winning awards. The PS5 title has been recognised at the 2026 Music + Sound Awards , which are voted on by industry professionals. It's won the following three awards: ",
+          "date": "2026-10-15T16:30:00+00:00",
+          "image": "https://images.pushsquare.com/4ef6d9d7b472e/large.jpg"
+        },
+        {
+          "title": "Movie Review: Street Fighter - Gaudy Testosterone-Fuelled Action Film Is Fun But Not a Knockout",
+          "link": "https://www.pushsquare.com/features/movie-review-street-fighter-gaudy-testosterone-fuelled-action-film-is-fun-but-not-a-knockout",
+          "description": "Ready, fight. Unlike Steven E. de Souza’s 1994 take on Street Fighter , I don’t think it’ll take decades for Kitao Sakurai’s effort to find its fans. This latest live action attempt, starring Andrew Koji and Noah Centineo as brawl bros Ryu and Ken, understands there’s zero point in trying to transfo",
+          "date": "2026-10-15T16:00:00+00:00",
+          "image": "https://images.pushsquare.com/7b282ae646aa6/large.jpg"
+        },
+        {
+          "title": "JRPG-Inspired Edge of Memories Ducks GTA 6, Delayed to a 'Quieter Period' on PS5",
+          "link": "https://www.pushsquare.com/news/2026/10/jrpg-inspired-edge-of-memories-ducks-gta-6-delayed-to-a-quieter-period-on-ps5",
+          "description": "It's for the best. Edge of Memories , the JRPG-inspired outing by French dev Midgar, had been one of the few games willing to go head-to-head with GTA 6 . It was originally due out on 5th November, which is also when Nintendo’s Ocarina of Time remake drops, by the way. Read the full article on pushs",
+          "date": "2026-10-15T15:30:00+00:00",
+          "image": "https://images.pushsquare.com/6178f902e6168/large.jpg"
+        },
         {
           "title": "GTA 6's Original Music Score Is Composed by Excellent French Electronic Duo Justice",
           "link": "https://www.pushsquare.com/news/2026/10/gta-6s-original-music-score-is-composed-by-excellent-french-electronic-duo-justice",
@@ -392,62 +448,6 @@
           "description": "Physical edition on the way. You may recall last year that Supermarket Simulator — the viral hit management sim — was announced for release on PS5. It's been awfully quiet for a while now, but it's now been confirmed exactly when the game is heading to consoles. Read the full article on pushsquare.c",
           "date": "2026-10-15T14:00:00+00:00",
           "image": "https://images.pushsquare.com/ef637881c4a4c/large.jpg"
-        },
-        {
-          "title": "Nobody Loves Cars More Than Polyphony Digital, and Its New Gran Turismo 7 Movie Proves It",
-          "link": "https://www.pushsquare.com/news/2026/10/nobody-loves-cars-more-than-polyphony-digital-and-its-new-gran-turismo-7-movie-proves-it",
-          "description": "Just a six minutes and 40 seconds opening movie. Gran Turismo 7 developer Polyphony Digital really, really loves cars. You would hope it does, anyway, since it makes one of the most successful racing series of all time. However, the Japanese team is obsessive about them, and it's proud of it. There'",
-          "date": "2026-10-15T13:30:00+00:00",
-          "image": "https://images.pushsquare.com/8a84b58ce2867/large.jpg"
-        },
-        {
-          "title": "GTA 6 Launch Trailer Available to Watch Right Now, Captured on PS5",
-          "link": "https://www.pushsquare.com/news/2026/10/gta-6-launch-trailer-available-to-watch-right-now-captured-on-ps5",
-          "description": "Just gotta get through it. Rockstar Games has released the launch trailer for GTA 6 , giving us one more fresh look at the game ahead of its arrival. Watch it here: Read the full article on pushsquare.com",
-          "date": "2026-10-15T13:10:00+00:00",
-          "image": "https://images.pushsquare.com/a75418d98eccc/large.jpg"
-        },
-        {
-          "title": "GTA 6 Barely Makes the Cut for The Game Awards' Game of the Year Vote",
-          "link": "https://www.pushsquare.com/news/2026/10/gta-6-barely-makes-the-cut-for-the-game-awards-game-of-the-year-vote",
-          "description": "Imagine if it didn't. The Game Awards will of course take place again this year, and now that we're creeping towards the big event, details on the voting process have started to emerge. As you may already know, nominees are decided by a select jury, made up of media and influencers from across the w",
-          "date": "2026-10-15T13:00:00+00:00",
-          "image": "https://images.pushsquare.com/d379b301164c3/large.jpg"
-        },
-        {
-          "title": "Game of the Month: Onimusha: Way of the Sword (September 2026)",
-          "link": "https://www.pushsquare.com/features/game-of-the-month-onimusha-way-of-the-sword-september-2026",
-          "description": "As voted by you. The time has come to vote for Push Square's official Game of the Month for September 2026 — and this particular poll promises to be a doozy. That's because last month's PS5 release schedule was stacked . We struggled to review everything and you've probably struggled to play everyth",
-          "date": "2026-10-15T12:15:00+00:00",
-          "image": "https://images.pushsquare.com/7b76f26fbcf60/large.jpg"
-        },
-        {
-          "title": "PS Plus Premium Members Treated to More New PS5 Demos Next Week",
-          "link": "https://www.pushsquare.com/news/2026/10/ps-plus-premium-members-treated-to-more-new-ps5-demos-next-week",
-          "description": "Try these PS5 games for Halloween. Should you want to get in the mood for Halloween a week ahead of time, Sony is providing PS Plus Premium users with a two new Trials on the service's top tier, all for PS5 horror games. All available from Tuesday, 20th October 2026, members can sample the following",
-          "date": "2026-10-15T11:45:00+00:00",
-          "image": "https://images.pushsquare.com/9f554dffffa65/large.jpg"
-        },
-        {
-          "title": "First Final Fantasy Resonance PS5 Review Released, Rough Campaign Length Revealed",
-          "link": "https://www.pushsquare.com/news/2026/10/first-final-fantasy-resonance-ps5-review-released-rough-campaign-length-revealed",
-          "description": "Is it resonating with critics? The heavy release schedule continues in earnest, and while we’re approaching the endgame for this year with GTA 6 next month, there’s plenty of enthusiasm for Square Enix’s upcoming HD-2D effort, Final Fantasy Resonance . Now, ahead of its release on 22nd October next ",
-          "date": "2026-10-14T23:30:00+00:00",
-          "image": "https://images.pushsquare.com/cc34fe5509487/large.jpg"
-        },
-        {
-          "title": "Mini Review: Toy Story 3 Complete Edition (PS5) - An All-Time Great Movie Tie-In Gets a Fresh Lick of Paint",
-          "link": "https://www.pushsquare.com/reviews/ps5/toy-story-3-complete-edition",
-          "description": "The rootinest tootinest remaster in these here parts. The Toy Story 3 movie tie-in was a beloved, highly regarded title when it originally launched back in 2010. In an era of lazy movie cash grabs – or crummy mobile games in today’s world – Toy Story 3 dared to be something that its peers wouldn’t: ",
-          "date": "2026-10-14T23:00:00+00:00",
-          "image": "https://images.pushsquare.com/1da74f4f35058/large.jpg"
-        },
-        {
-          "title": "PS1 Classics on PS5 Keep on Coming in Dino Crisis 2, Out Next Week",
-          "link": "https://www.pushsquare.com/news/2026/10/ps1-classics-on-ps5-keep-on-coming-in-dino-crisis-2-out-next-week",
-          "description": "But don't expect Trophies. Capcom classic Dino Crisis 2 will be made available on PS5 and PS4 via the PS Store from next Tuesday, 20th October 2026. The game will be part of PS Plus Premium straight away, but it'll also be purchasable outside of the subscription, most likely for £7.99 / $9.99. This ",
-          "date": "2026-10-14T21:30:00+00:00",
-          "image": "https://images.pushsquare.com/7a4c6fde56d04/large.jpg"
         }
       ]
     },
