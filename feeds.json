@@ -1,9 +1,23 @@
 {
-  "updated": "2026-10-15T22:37:06.803734+00:00",
+  "updated": "2026-10-16T01:06:01.124759+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘The Batman 2’: Steven Soderbergh Replaces Matt Reeves as Director on Sequel",
+          "link": "https://bloody-disgusting.com/movie/3972203/the-batman-2-matt-reeves-director-replaced-steven-soderbergh/",
+          "description": "Matt Reeves stepped away from the production earlier this month due to a family matter. The post ‘The Batman 2’: Steven Soderbergh Replaces Matt Reeves as Director on Sequel appeared first on Bloody Disgusting! .",
+          "date": "2026-10-15T22:57:03+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘The Simpsons’ Confirms Two Horror-Themed Episodes This Month With Official Photos",
+          "link": "https://bloody-disgusting.com/news/3972185/the-simpsons-halloween-special-treehouse-of-horror-the-revengening/",
+          "description": "There’s few Halloween traditions as beloved as The Simpsons‘ annual “Treehouse of Horror” specials, despite the fact that these episodes might not debut until November. Additionally, with the series having been on the air for nearly four decades, the anthology installments that parody beloved horror",
+          "date": "2026-10-15T22:51:59+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/The-Simpsons-The-RevengeningTreehouse-of-Horror-Special-Poster.jpg?resize=1080%2C1350&#038;ssl=1"
+        },
         {
           "title": "‘Crystal Lake’ Showrunner Teases ‘Twin Peaks’-Inspired Plans for Season 2 of ‘Friday the 13th’ Prequel",
           "link": "https://bloody-disgusting.com/news/3972065/crystal-lake-season-2-plans-friday-the-13th-brad-caleb-kane/",
@@ -59,20 +73,6 @@
           "description": "A new young adult horror movie is on the way that is bringing together some burgeoning genre stars for an all-new adventure. The upcoming Bad Influence comes from screenwriter Brandon Cohen and director Jason Perlman. According to Deadline, Scream VI star Jack Champion and The Black Phone star Madel",
           "date": "2026-10-15T17:29:34+00:00",
           "image": ""
-        },
-        {
-          "title": "‘Werwulf’s Williem Dafoe Reveals the Real-Life Inspiration for Robert Eggers’ Werewolf Movie",
-          "link": "https://bloody-disgusting.com/movie/3972046/werwulf-willem-dafoe-real-life-character-history-explained/",
-          "description": "'Werwulf' is set to hit theaters on December 25. The post ‘Werwulf’s Williem Dafoe Reveals the Real-Life Inspiration for Robert Eggers’ Werewolf Movie appeared first on Bloody Disgusting! .",
-          "date": "2026-10-15T16:53:47+00:00",
-          "image": ""
-        },
-        {
-          "title": "Ted Raimi Invites Horror Icons Into His Haunted Manor In ‘Your Dearest Darkest Friend’ Trailer",
-          "link": "https://bloody-disgusting.com/exclusives/3971951/ted-raimi-invites-horror-icons-into-his-haunted-manor-in-your-dearest-darkest-friend-trailer/",
-          "description": "Genre stalwart and horror host Ted Raimi enlists the help of puppets and cocktails to entertain guests in the official trailer for Screambox series Your Dearest Darkest Friend, a new darkly whimsical talk show. While the full guest lineup hasn’t been announced just yet, the trailer below features Ba",
-          "date": "2026-10-15T16:00:27+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/YDDF-Key-Art-769x1218-1.jpg?resize=769%2C1218&#038;ssl=1"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Animal Evolution Sim Ancestors Gets Surprise PS5 Version, Free Upgrade for PS4 Owners",
+          "link": "https://www.pushsquare.com/news/2026/10/animal-evolution-sim-ancestors-gets-surprise-ps5-version-free-upgrade-for-ps4-owners",
+          "description": "Out on 8th December 2026. Did you ever think you'd hear of the forgotten PS4 animal evolution sim Ancestors: A Humankind Odyssey again? I most certainly didn't, but here we are with the announcement of a PS5 version coming 8th December 2026. Panache Digital Games revealed it'll be debuting on Ninten",
+          "date": "2026-10-15T23:30:00+00:00",
+          "image": "https://images.pushsquare.com/2e2e18d2892e2/large.jpg"
+        },
+        {
           "title": "'Call of Duty Tax' Blamed for Softer CoD Reception by Marketing Lead",
           "link": "https://www.pushsquare.com/news/2026/10/call-of-duty-tax-blamed-for-softer-cod-reception-by-marketing-lead",
           "description": "Purchasing intent for MW4 down on last year's game. 6 . 8 . 4 . 8 . 7 . No, those aren’t the numbers, Mason – they’re the scores of our last five Call of Duty reviews. (Excluding this year’s Black Ops ports , which absolutely exploded on the PS5.) Read the full article on pushsquare.com",
@@ -441,13 +448,6 @@
           "description": "Ready, fight. Unlike Steven E. de Souza’s 1994 take on Street Fighter , I don’t think it’ll take decades for Kitao Sakurai’s effort to find its fans. This latest live action attempt, starring Andrew Koji and Noah Centineo as brawl bros Ryu and Ken, understands there’s zero point in trying to transfo",
           "date": "2026-10-15T16:00:00+00:00",
           "image": "https://images.pushsquare.com/7b282ae646aa6/large.jpg"
-        },
-        {
-          "title": "JRPG-Inspired Edge of Memories Ducks GTA 6, Delayed to a 'Quieter Period' on PS5",
-          "link": "https://www.pushsquare.com/news/2026/10/jrpg-inspired-edge-of-memories-ducks-gta-6-delayed-to-a-quieter-period-on-ps5",
-          "description": "It's for the best. Edge of Memories , the JRPG-inspired outing by French dev Midgar, had been one of the few games willing to go head-to-head with GTA 6 . It was originally due out on 5th November, which is also when Nintendo’s Ocarina of Time remake drops, by the way. Read the full article on pushs",
-          "date": "2026-10-15T15:30:00+00:00",
-          "image": "https://images.pushsquare.com/6178f902e6168/large.jpg"
         }
       ]
     },
