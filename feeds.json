@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-16T06:15:06.683116+00:00",
+  "updated": "2026-10-16T11:48:15.354016+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Patch 1.1 for ‘Hellraiser: Revival’ Now on Steam; Console Patch Coming Soon",
+          "link": "https://bloody-disgusting.com/video-games/3972214/patch-1-1-for-hellraiser-revival-now-on-steam-console-patch-coming-soon/",
+          "description": "It’s been a week since Clive Barker’s Hellraiser: Revival hit the scene, and Saber Interactive has been collecting player feedback and data to improve the game even further. Out now for Steam players is content Update 1.1 which addresses concerns over progression, softlocks, visuals and more. For al",
+          "date": "2026-10-16T11:30:50+00:00",
+          "image": ""
+        },
         {
           "title": "‘The Batman 2’: Steven Soderbergh Takes Over Directing Final Weeks of Principal Photography [UPDATED]",
           "link": "https://bloody-disgusting.com/movie/3972203/the-batman-2-matt-reeves-director-replaced-steven-soderbergh/",
@@ -66,19 +73,61 @@
           "description": "After spending much of the year in Early Access on Steam, independent developer Question will be launching their horror deckbuilder The Killing Stone in full on October 21, as well as launching on the Epic Games Store, PlayStation 5, and the Xbox Series on the same day. Since launching in Early Acce",
           "date": "2026-10-15T17:30:14+00:00",
           "image": ""
-        },
-        {
-          "title": "‘Scream’ and ‘Black Phone’ Stars Unite in YA Horror ‘Bad Influence’",
-          "link": "https://bloody-disgusting.com/movie/3972056/bad-influence-madeleine-mcgraw-jack-champion/",
-          "description": "A new young adult horror movie is on the way that is bringing together some burgeoning genre stars for an all-new adventure. The upcoming Bad Influence comes from screenwriter Brandon Cohen and director Jason Perlman. According to Deadline, Scream VI star Jack Champion and The Black Phone star Madel",
-          "date": "2026-10-15T17:29:34+00:00",
-          "image": ""
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "15 Historical Photos That Look More Like Movie Stills",
+          "link": "https://www.denofgeek.com/msn/15-historical-photos-that-look-more-like-movie-stills/",
+          "description": "Some historical photographs look so perfectly composed that it's hard to believe nobody called \"action\" before the camera clicked. A deserted-looking alley could belong in a crime thriller, while a crowded train station feels like the opening of an old Hollywood romance. Then there are the images th",
+          "date": "2026-10-16T11:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/15_0f543c.jpg"
+        },
+        {
+          "title": "15 Vintage Photos of People Having Way More Fun Than Expected",
+          "link": "https://www.denofgeek.com/msn/15-vintage-photos-of-people-having-way-more-fun-than-expected/",
+          "description": "Old photographs have a reputation for making everyone look terribly serious. People stand stiffly, stare into the camera, and barely crack a smile. But family albums tell a different story. Apparently, our grandparents and great-grandparents spent plenty of time dressing up, throwing parties, racing",
+          "date": "2026-10-16T11:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/14_84deec.jpg"
+        },
+        {
+          "title": "15 Photos Where Somebody Should Have Said, ‘Don’t Wear That’",
+          "link": "https://www.denofgeek.com/msn/15-photos-where-somebody-should-have-said-dont-wear-that/",
+          "description": "Fashion is highly subjective, and depending on where you live, you’re free to wear whatever you want. If you want to keep your job, avoid stares of strangers, or you’re not looking to make a fashion statement, then there might be a few things that shouldn’t make your “whatever you want” list. These ",
+          "date": "2026-10-16T11:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/13_9ebecf.jpg"
+        },
+        {
+          "title": "19 Notorious Criminals That Actually Didn’t Do That Much",
+          "link": "https://www.denofgeek.com/msn/19-notorious-criminals-that-actually-didnt-do-that-much/",
+          "description": "We’ve all heard of the exploits of legendary criminals, how they eluded law enforcement and the gruesome deeds they got up to. Like many urban legends, though, their exploits have been exaggerated over the years, to a mythical extent that makes little sense. This is why we’ve collected today the nam",
+          "date": "2026-10-16T11:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/13_e8b814.jpg"
+        },
+        {
+          "title": "20 Celebrities That Speak More Languages Than You Think",
+          "link": "https://www.denofgeek.com/msn/20-celebrities-that-speak-more-languages-than-you-think/",
+          "description": "How many languages do you think your favourite stars can speak? We often don’t really think about it, but if we should guess, we’d say only one. English, that is. It’s the required language to triumph in Hollywood, after all, but a lot of people know more than one language. Most people we know speak",
+          "date": "2026-10-16T10:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-2-2.jpg"
+        },
+        {
+          "title": "20 Iconic Actors Without the Hardware to Show for It",
+          "link": "https://www.denofgeek.com/msn/20-iconic-actors-without-the-hardware-to-show-for-it/",
+          "description": "When a given movie is incredibly well acted, you just feel like the people involved must have earned some form of reward for it. And if you see the same faces over and over that elicit that feeling, then they just have to be filled to the brim with awards and nominations, right? Well, reality doesn’",
+          "date": "2026-10-16T10:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/12_04f0cb.jpg"
+        },
+        {
+          "title": "15 Actors We Only Think of as Their Character Name",
+          "link": "https://www.denofgeek.com/msn/15-actors-we-only-think-of-as-their-character-name/",
+          "description": "Whenever someone plays a character for a long enough time, what we understand as their identity becomes that character. The actor has a background and legal name, though that matters little to the public consciousness; they’re now known as their most famous role. It can be a good thing, in the sense",
+          "date": "2026-10-16T10:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-12-1.jpg"
+        },
         {
           "title": "ParaNorman is the Perfect Stop-Motion Horror Movie",
           "link": "https://www.denofgeek.com/movies/paranorman-perfect-stop-motion-horror-movie/",
@@ -99,61 +148,19 @@
           "description": "This article appears in the new issue of DEN OF GEEK magazine. Find out how you can subscribe to get the full physical copy right here! Anime’s rich relationship with video games goes all the way back to the ‘80s and has only become more prominent over time. Netflix has found tremendous success with",
           "date": "2026-10-15T16:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/Cyberpunk-Edgerunners.png"
-        },
-        {
-          "title": "TV Premiere Dates: 2026 Calendar",
-          "link": "https://www.denofgeek.com/tv/tv-premiere-dates-calendar/",
-          "description": "Wondering when your favorite shows are coming back and what new series you can look forward to? We’ve got you covered with the Den of Geek 2026 TV Premiere Dates Calendar, where we keep track of TV series premiere dates, return dates, and more for the year and beyond. We’ll continue to update this p",
-          "date": "2026-10-15T15:34:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Dexter-Resurrection-Season-2-Michael-C-Hall.jpg"
-        },
-        {
-          "title": "Digger: Why Movies Can No Longer Properly Conceive of the Apocalypse",
-          "link": "https://www.denofgeek.com/movies/digger-movies-no-longer-conceive-apocalypse/",
-          "description": "This article contains spoilers for Digger. For a movie about the end of the world as we know it, Digger sure has a hard time imagining what that would actually look like. As the conclusion of Alejandro G. Iñárritu’s film reveals, New York City streets are overrun with floods of water, while survivor",
-          "date": "2026-10-15T14:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/07/rev-1-judy_r4_v6.0f_260708_g963_stills_july9_rec709_gamma_2-4.0357259_High_Res_JPEG.jpg"
-        },
-        {
-          "title": "15 Songs You Don’t Want to Play at a Funeral",
-          "link": "https://www.denofgeek.com/msn/15-songs-you-dont-want-to-play-at-a-funeral/",
-          "description": "Funeral music usually carries a lot of emotion, which is exactly why the wrong song can change the atmosphere in seconds. A dramatic lyric, an upbeat chorus, or a title that suddenly feels far too literal can leave mourners unsure whether to cry, laugh, or look around for whoever controls the playli",
-          "date": "2026-10-15T13:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-38.jpg"
-        },
-        {
-          "title": "15 Old Vintage Photos Where Everything Looks Modern",
-          "link": "https://www.denofgeek.com/msn/15-old-vintage-photos-where-everything-looks-modern/",
-          "description": "Some old photographs have a strange way of making the past feel incredibly close. You look at someone walking down a city street, hanging out with friends, or posing for a casual picture, and nothing about the scene feels particularly unusual. The clothes might give away the decade, but the expressi",
-          "date": "2026-10-15T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/2_350ea9.jpg"
-        },
-        {
-          "title": "14 of History’s Most Stressful Moments",
-          "link": "https://www.denofgeek.com/msn/14-of-historys-most-stressful-moments/",
-          "description": "Some moments in history have been so tense that a single decision could have changed the fate of millions of people. Leaders have faced impossible choices, soldiers have waited for orders that could send them into disaster, and ordinary people have watched events unfold without knowing whether they ",
-          "date": "2026-10-15T12:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/1_7d9bce.jpg"
-        },
-        {
-          "title": "15 Famous Movies That Hid Their Tiny Budgets",
-          "link": "https://www.denofgeek.com/msn/15-famous-movies-that-hid-their-tiny-budgets/",
-          "description": "A movie doesn't need a massive budget to become a classic, although Hollywood might disagree. Some of the most recognizable films ever made started with borrowed equipment, unpaid favors, and directors trying to stretch a few thousand dollars across an entire production. A few were shot in ordinary ",
-          "date": "2026-10-15T12:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/5_eb4839.jpg"
-        },
-        {
-          "title": "15 Older Photos Showing That Office Culture Has Always Been Weird",
-          "link": "https://www.denofgeek.com/msn/15-older-photos-showing-that-office-culture-has-always-been-weird/",
-          "description": "Office culture has always been a little strange. Apparently, spending eight hours a day with the same people inspires some questionable decisions, like filling a coworker's cubicle with snacks, covering an entire desk in aluminum foil, or turning someone's workspace into a bathroom. And workplace we",
-          "date": "2026-10-15T11:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/5_4705c3.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "Monstrous Musings: Ancient, Arcane Knowledge",
+          "link": "https://www.fangoria.com/monstrous-musings-ancient-knowledge/",
+          "description": "On the importance of tapping into the knowledge of the Old Ones.",
+          "date": "2026-10-16T09:00:32+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/evil-dead-rise-necronomicon-1024x538-1.jpg"
+        },
         {
           "title": "Here Are Your Ghoulishy Good 2026 Chainsaw Awards Presenters",
           "link": "https://www.fangoria.com/2026-chainsaw-awards-presenters/",
@@ -216,13 +223,6 @@
           "description": "FANGORIA guest authors RS Benedict and Karlo Yeager-Rodríguez explore the parallels between Latin American horror and the rise of political fascism.",
           "date": "2026-10-15T15:00:54+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/when-evil-lurks-credit-shudder.jpg"
-        },
-        {
-          "title": "MAYFAIR WATCHERS SOCIETY Is The Latest Viral Horror Sensation To Get A Movie Adaptation",
-          "link": "https://www.fangoria.com/mayfair-watchers-society-movie-adaptation/",
-          "description": "It's a very good time to be a Trevor Henderson fan.",
-          "date": "2026-10-15T13:13:47+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/MWS-1.png"
         }
       ]
     },
@@ -380,6 +380,27 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Stuntman: Hollywood Looks Like a Blast in New Knight Rider Gameplay Trailer",
+          "link": "https://www.pushsquare.com/news/2026/10/stuntman-hollywood-looks-like-a-blast-in-new-knight-rider-gameplay-trailer",
+          "description": "The whole KITT and caboodle. I'm living for the return of racing and driving games that are going against the grain, and next year's Stuntman: Hollywood is absolutely part of that conversation. It's looking really fun in this new gameplay trailer. It's focused on showcasing the sort of stunts you'll",
+          "date": "2026-10-16T11:30:00+00:00",
+          "image": "https://images.pushsquare.com/adbf6572cd111/large.jpg"
+        },
+        {
+          "title": "GTA 6 Cars Appear in Real Life as Part of Insane Miami Marketing Push",
+          "link": "https://www.pushsquare.com/news/2026/10/gta-6-cars-appear-in-real-life-as-part-of-insane-miami-marketing-push",
+          "description": "Vice City is real now. It was obvious already, but with an outrageous marketing push behind it, GTA 6 is clearly going to be absolutely massive when it arrives next month. The hotly anticipated open world action game is scheduled for 19th November, 2026, and Rockstar Games and parent company Take-Tw",
+          "date": "2026-10-16T11:00:00+00:00",
+          "image": "https://images.pushsquare.com/12cf4c78a6dea/large.jpg"
+        },
+        {
+          "title": "Pokémon Dev Already Finished with Beast of Reincarnation PS5 Patches",
+          "link": "https://www.pushsquare.com/news/2026/10/pokemon-dev-already-finished-with-beast-of-reincarnation-ps5-patches",
+          "description": "Final update on 19th October. Pokémon studio Game Freak has announced next week's Beast of Reincarnation update, arriving on 19th October 2026, will be the game's final one. The developer shared that its post-launch support of updates and patches \"is coming to a close\". It invites players to file su",
+          "date": "2026-10-16T10:30:00+00:00",
+          "image": "https://images.pushsquare.com/c37b4f7f52eef/large.jpg"
+        },
+        {
           "title": "Animal Evolution Sim Ancestors Gets Surprise PS5 Version, Free Upgrade for PS4 Owners",
           "link": "https://www.pushsquare.com/news/2026/10/animal-evolution-sim-ancestors-gets-surprise-ps5-version-free-upgrade-for-ps4-owners",
           "description": "Out on 8th December 2026. Did you ever think you'd hear of the forgotten PS4 animal evolution sim Ancestors: A Humankind Odyssey again? I most certainly didn't, but here we are with the announcement of a PS5 version coming 8th December 2026. Panache Digital Games revealed it'll be debuting on Ninten",
@@ -427,27 +448,6 @@
           "description": "Tactical download. EA and Bit Reactor have released a huge game update for Star Wars Zero Company , the good but rough-around-the-edges strategy game set in a galaxy far, far away. The update brings the game to version 1.2, and it's available now on all platforms, including PS5 of course. Read the f",
           "date": "2026-10-15T17:30:00+00:00",
           "image": "https://images.pushsquare.com/9933894dc81dc/large.jpg"
-        },
-        {
-          "title": "Fans of Baldur's Gate and Old-School RPGs Need to See Lair of Leviathan",
-          "link": "https://www.pushsquare.com/news/2026/10/fans-of-baldurs-gate-and-old-school-rpgs-need-to-see-lair-of-leviathan",
-          "description": "Adventuring to PS5. If you're into old-school, traditionally designed RPGs, then you've got to take a look at Lair of Leviathan . This turn-based, pixelated adventure is heading to PS5 and PS4 at some point in 2027, and its goal is to bring back that classic sense of being on a proper journey throug",
-          "date": "2026-10-15T17:00:00+00:00",
-          "image": "https://images.pushsquare.com/44431e3b7525d/large.jpg"
-        },
-        {
-          "title": "PS5's Saros Already an Official Award Winner",
-          "link": "https://www.pushsquare.com/news/2026/10/ps5s-saros-already-an-official-award-winner",
-          "description": "Credited for its sound and music. The year isn't done yet with new PS5 game releases, but Housemarque's own Saros has already begun winning awards. The PS5 title has been recognised at the 2026 Music + Sound Awards , which are voted on by industry professionals. It's won the following three awards: ",
-          "date": "2026-10-15T16:30:00+00:00",
-          "image": "https://images.pushsquare.com/4ef6d9d7b472e/large.jpg"
-        },
-        {
-          "title": "Movie Review: Street Fighter - Gaudy Testosterone-Fuelled Action Film Is Fun But Not a Knockout",
-          "link": "https://www.pushsquare.com/features/movie-review-street-fighter-gaudy-testosterone-fuelled-action-film-is-fun-but-not-a-knockout",
-          "description": "Ready, fight. Unlike Steven E. de Souza’s 1994 take on Street Fighter , I don’t think it’ll take decades for Kitao Sakurai’s effort to find its fans. This latest live action attempt, starring Andrew Koji and Noah Centineo as brawl bros Ryu and Ken, understands there’s zero point in trying to transfo",
-          "date": "2026-10-15T16:00:00+00:00",
-          "image": "https://images.pushsquare.com/7b282ae646aa6/large.jpg"
         }
       ]
     },
