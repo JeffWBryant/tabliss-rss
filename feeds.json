@@ -1,9 +1,23 @@
 {
-  "updated": "2026-10-17T14:20:44.609300+00:00",
+  "updated": "2026-10-17T17:28:24.837501+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Psycho Side Chick’ Review: Campy Tubi Thriller Lives Up To Its Title",
+          "link": "https://bloody-disgusting.com/reviews/3972347/psycho-side-chick-review-campy-tubi-thriller-lives-up-to-its-title/",
+          "description": "It could be argued that the title of Tubi’s new thriller, Psycho Side Chick, is a bit on the nose, but the reality is that screenwriters Lynette J. Blackwell and Octavia Singleton and director Booker T. Mattison deliver exactly what the title promises: a psycho side chick. The film opens with an unn",
+          "date": "2026-10-17T16:27:20+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Psycho-Side-Chick-2026.jpeg?resize=800%2C383&#038;ssl=1"
+        },
+        {
+          "title": "‘Trick ‘r Treat’: The Forgotten FearNet Shorts That Helped Turn Sam Into a Halloween Icon",
+          "link": "https://bloody-disgusting.com/editorials/3971761/looking-back-on-fearnets-trick-r-treat-shorts/",
+          "description": "It’s easy to take the cult classic status of Michael Dougherty’s Trick ‘r Treat for granted these days, but I think it’s worth remembering that the film’s success didn’t happen overnight. Initially released straight to video back in ’07, it took a while for this tongue-in-cheek anthology to reach it",
+          "date": "2026-10-17T15:00:46+00:00",
+          "image": ""
+        },
         {
           "title": "‘I Love Paris’ Review: Hilarious Vampire Mockumentary Is One of the Year’s Best Hidden Gems [TADFF 2026]",
           "link": "https://bloody-disgusting.com/reviews/3971858/i-love-paris-review-hilarious-vampire-mockumentary-is-one-of-the-years-best-hidden-gems-tadff-2026/",
@@ -58,20 +72,6 @@
           "link": "https://bloody-disgusting.com/movie/3972275/anything-but-ghosts-curry-barker-seth-rogen-reaction/",
           "description": "Filmmaker Curry Barker earned some viral success thanks to his found-footage horror movie Milk & Serial, which he released in full on YouTube. Outside of the movie itself’s merits, many appreciated how the filmmaker made the entire movie available for free, highlighting his devotion to getting the f",
           "date": "2026-10-16T19:32:43+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Fears to Fathom’ Video Game Series Set for Movie and TV Adaptations",
-          "link": "https://bloody-disgusting.com/movie/3972269/fears-to-fathom-video-game-movie-tv-adaptations/",
-          "description": "Horror video games don’t always fare quite so well when they are adapted into other formats, though recent years have slowly managed to correct that perception. In the 2000s, the Resident Evil series and attempts to adapt Doom largely fell flat, given the inherent challenges of trying to replicate t",
-          "date": "2026-10-16T18:35:09+00:00",
-          "image": ""
-        },
-        {
-          "title": "Kevin Bacon’s ‘Summoner’ Adds ‘Brooklyn Nine-Nine’ and ‘The Gentlemen’ Stars",
-          "link": "https://bloody-disgusting.com/news/3972264/summoner-movie-stephanie-beatriz-daniel-ings/",
-          "description": "One of Kevin Bacon‘s earliest roles is a seminal example of an actor who became a huge star after getting their start in a low-budget horror movie. Bacon’s character in Friday the 13th might not have lasted until the credits rolled, though even with minimal screen time, he impressed audiences with h",
-          "date": "2026-10-16T17:49:23+00:00",
           "image": ""
         }
       ]
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Devon Sawa: Teen Dream, Horror Icon, And The FANGORIA Chainsaw Awards Host 2026",
+          "link": "https://www.fangoria.com/devon-sawa-horror-history-fangoria-chainsaw-awards/",
+          "description": "Devon Sawa is hosting the 2026 FANGORIA Chainsaw Awards and it's a little exhausting trying not to fangirl out about how cool it is to have a horror icon joining us.",
+          "date": "2026-10-17T17:00:51+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/07/Host-Devon-Sawa-Image-Cleared-2-scaled.jpg"
+        },
+        {
           "title": "We Need To Talk About The Shocking Reveal In CRYSTAL LAKE",
           "link": "https://www.fangoria.com/crystal-lake-season-1-jason-voorhees-twist/",
           "description": "The FRIDAY THE 13TH franchise may never be the same after CRYSTAL LAKE Season 1, as it changes our understanding of Jason Voorhees in major ways.",
@@ -216,13 +223,6 @@
           "description": "We're excited to reveal the lineup for this year's Chainsaw Awards, featuring appearances from icons like Rick Baker, Mink Stole, and more.",
           "date": "2026-10-15T21:48:40+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/FANGO-ChainsawAwards2026-Header.jpg"
-        },
-        {
-          "title": "THE MUMMY 4 Finally Has A Title",
-          "link": "https://www.fangoria.com/the-mummy-4-title-book-of-the-dead/",
-          "description": "With the whole core cast returning and filming now underway, THE MUMMY 4 finally has an official title. Get all the details here.",
-          "date": "2026-10-15T21:27:39+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2024/03/The_Mummy_Universal_Pictures.jpg"
         }
       ]
     },
