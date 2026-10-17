@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T19:40:27.974993+00:00",
+  "updated": "2026-10-17T22:06:53.504441+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Horror Goes Vertical In BITE CLUB With Barbara Crampton and Russell Todd",
+          "link": "https://www.fangoria.com/bite-club-vertical-barbara-crampton/",
+          "description": "A CHOPPING MALL reunion is happening in the horror vertical series BITE CLUB, but the first rule of Bite Club… is that you’ve gotta watch it on your phone.",
+          "date": "2026-10-17T21:24:23+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/biteclub.png"
+        },
+        {
           "title": "Devon Sawa: Teen Dream, Horror Icon, And The FANGORIA Chainsaw Awards Host 2026",
           "link": "https://www.fangoria.com/devon-sawa-horror-history-fangoria-chainsaw-awards/",
           "description": "Devon Sawa is hosting the 2026 FANGORIA Chainsaw Awards and it's a little exhausting trying not to fangirl out about how cool it is to have a horror icon joining us.",
@@ -216,13 +223,6 @@
           "description": "On the importance of tapping into the knowledge of the Old Ones.",
           "date": "2026-10-16T09:00:32+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/evil-dead-rise-necronomicon-1024x538-1.jpg"
-        },
-        {
-          "title": "Here Are Your Ghoulishly Good 2026 Chainsaw Awards Presenters",
-          "link": "https://www.fangoria.com/2026-chainsaw-awards-presenters/",
-          "description": "We're excited to reveal the lineup for this year's Chainsaw Awards, featuring appearances from icons like Rick Baker, Mink Stole, and more.",
-          "date": "2026-10-15T21:48:40+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/FANGO-ChainsawAwards2026-Header.jpg"
         }
       ]
     },
