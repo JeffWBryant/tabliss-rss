@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-17T01:12:13.390586+00:00",
+  "updated": "2026-10-17T06:00:47.388948+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘IT: Welcome to Derry’ Season 2 Will Feature a Pennywise “You’ve Never Seen Before”",
+          "link": "https://bloody-disgusting.com/tv/3972342/it-welcome-to-derry-season-2-will-feature-a-pennywise-youve-never-seen-before/",
+          "description": "Pennywise will return to HBO in season two of IT: Welcome to Derry, and we’ll see a very different version of the killer clown, according to returning showrunner Brad Caleb Kane (Crystal Lake). Kane told Deadline that Bill Skarsgård plays “a different kind of Pennywise, Pennywise the way you’ve neve",
+          "date": "2026-10-17T03:42:14+00:00",
+          "image": ""
+        },
         {
           "title": "Indie Horror Icon Larry Fessenden Unleashes a Monster Mash in ‘Trauma Or, Monsters All’ Trailer",
           "link": "https://bloody-disgusting.com/movie/3972311/trauma-or-monsters-all-trailer-larry-fessenden/",
@@ -66,13 +73,6 @@
           "description": "Remedy has once again struck gold, announcing that Control Resonant has now crossed the million sales mark across PC and consoles. The news comes as the physical editions for PlayStation 5 and the Xbox Series are now available. Players can pick up the Standard edition or the SteelBook Edition, which",
           "date": "2026-10-16T17:35:00+00:00",
           "image": ""
-        },
-        {
-          "title": "‘In a Violent Nature: Part 2’ Poster Brings Back the Hook for Slasher Sequel",
-          "link": "https://bloody-disgusting.com/movie/3972260/in-a-violent-nature-2-poster-release-date/",
-          "description": "One of the surprising success stories in the horror world in 2024 was In a Violent Nature. There’s always a demand for new slasher movies, but it’s a challenge to find ways to put fresh spins on the subgenre. Turns out, merely by spending our time with the brutal slasher as he stalks his way […] The",
-          "date": "2026-10-16T17:01:05+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/In-a-Violent-Nature-2-Poster-Release-Date-scaled.jpg?resize=2048%2C2560&#038;ssl=1"
         }
       ]
     },
