@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T22:42:38.613047+00:00",
+  "updated": "2026-10-17T01:12:13.390586+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,20 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote",
+          "link": "https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote",
+          "description": "Massive news. I can’t stop laughing at Atelier Karia’s new gameplay mechanic. You may recall, back when the newest entry in Gust’s long-running apothecary franchise was revealed , that eating would comprise a big part of the gameplay. Read the full article on pushsquare.com",
+          "date": "2026-10-17T00:00:00+00:00",
+          "image": "https://images.pushsquare.com/d37ee02e4829a/large.jpg"
+        },
+        {
+          "title": "Talking Point: What Are You Playing This Weekend? - Issue 654",
+          "link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-654",
+          "description": "Scrib doon. The days are getting shorter and the cooler weather is easing in — at least here in the UK. Fortunately there are about a bazillion games to play. Here's what's keeping us busy. Graham Banas Now that Control: Resonant has a disc version, I no longer have to pretend like it hasn't release",
+          "date": "2026-10-16T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/af0bde2d8198b/large.jpg"
+        },
+        {
           "title": "The Shrek 2 Video Game Is Getting a Remaster, Leaks via Xbox Store",
           "link": "https://www.pushsquare.com/news/2026/10/the-shrek-2-video-game-is-getting-a-remaster-leaks-via-xbox-store",
           "description": "It's so ogre. Back when basically every movie got a tie-in game, Shrek 2 released on PS2, and it's fondly remembered by fans despite its rough edges. Well, if you want to feel all nostalgic, here's some good news: the co-op brawler is making its grand return in Shrek 2 Remastered. Read the full arti",
@@ -434,20 +448,6 @@
           "description": "The whole KITT and caboodle. I'm living for the return of racing and driving games that are going against the grain, and next year's Stuntman: Hollywood is absolutely part of that conversation. It's looking really fun in this new gameplay trailer. It's focused on showcasing the sort of stunts you'll",
           "date": "2026-10-16T11:30:00+00:00",
           "image": "https://images.pushsquare.com/adbf6572cd111/large.jpg"
-        },
-        {
-          "title": "GTA 6 Cars Appear in Real Life as Part of Insane Miami Marketing Push",
-          "link": "https://www.pushsquare.com/news/2026/10/gta-6-cars-appear-in-real-life-as-part-of-insane-miami-marketing-push",
-          "description": "Vice City is real now. It was obvious already, but with an outrageous marketing push behind it, GTA 6 is clearly going to be absolutely massive when it arrives next month. The hotly anticipated open world action game is scheduled for 19th November, 2026, and Rockstar Games and parent company Take-Tw",
-          "date": "2026-10-16T11:00:00+00:00",
-          "image": "https://images.pushsquare.com/12cf4c78a6dea/large.jpg"
-        },
-        {
-          "title": "Pokémon Dev Already Finished with Beast of Reincarnation PS5 Patches",
-          "link": "https://www.pushsquare.com/news/2026/10/pokemon-dev-already-finished-with-beast-of-reincarnation-ps5-patches",
-          "description": "Final update on 19th October. Pokémon studio Game Freak has announced next week's Beast of Reincarnation update, arriving on 19th October 2026, will be the game's final one. The developer shared that its post-launch support of updates and patches \"is coming to a close\". It invites players to file su",
-          "date": "2026-10-16T10:30:00+00:00",
-          "image": "https://images.pushsquare.com/c37b4f7f52eef/large.jpg"
         }
       ]
     },
