@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T19:33:41.101273+00:00",
+  "updated": "2026-10-18T22:20:06.971100+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Street Fighter Movie Cracks Over $50M at Box Office in Opening Weekend",
+          "link": "https://www.pushsquare.com/news/2026/10/street-fighter-movie-cracks-over-usd50m-at-box-office-in-opening-weekend",
+          "description": "Round two soon? There had been some concern over whether audiences would show up for the new live action Street Fighter movie, but it managed to top the worldwide box office this weekend with a $51.1 million international haul. While optimists had been hoping for a number closer to $70 million, unle",
+          "date": "2026-10-18T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/3b360257225fc/large.jpg"
+        },
+        {
           "title": "'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler",
           "link": "https://www.pushsquare.com/news/2026/10/i-dont-think-were-seeing-it-here-gta-6-launch-trailer-not-using-ps5s-new-qssr-upscaler",
           "description": "\"That's quite extravagant\". Sony introduced QSSR earlier this month , bringing a version of the PS5 Pro’s acclaimed PSSR upscaler to base PS5 hardware. While the technology is currently only incorporated into first-party titles Marvel’s Wolverine and Ghost of Yotei , it will be made available to thi",
@@ -441,13 +448,6 @@
           "description": "Version 1.0 gameplay revealed. Having been delayed out of its previously planned October release on PS5, No Rest for the Wicked has now nailed down March 2027 as its release month. Remember, this is the arrival of version 1.0, which stands to be a significant update on the early access build that's ",
           "date": "2026-10-16T15:30:00+00:00",
           "image": "https://images.pushsquare.com/224dc9600778e/large.jpg"
-        },
-        {
-          "title": "Over 1,100 Improvements Promised in The Blood of Dawnwalker Patch 1.1",
-          "link": "https://www.pushsquare.com/news/2026/10/over-1100-improvements-promised-in-the-blood-of-dawnwalker-patch-1-1",
-          "description": "Coming to PS5 next week. Dawnwalker developer Rebel Wolves has revealed a new PS5 patch for the RPG arriving next week will be packing more than 1,100 \"improvements and fixes\", and an infographic highlights the biggest ones. This is the major update the studio teased last month, where it spoke of an",
-          "date": "2026-10-16T14:30:00+00:00",
-          "image": "https://images.pushsquare.com/9930529f6eb39/large.jpg"
         }
       ]
     },
