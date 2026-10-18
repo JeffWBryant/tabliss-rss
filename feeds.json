@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T17:12:05.094324+00:00",
+  "updated": "2026-10-18T19:33:41.101273+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Welcome to CRYSTAL LAKE! Fango Dives Into The Horror Prequel Series’ Gore",
+          "link": "https://www.fangoria.com/crystal-lake-interview-sfx-david-presto/",
+          "description": "I’m standing in an abandoned shack deep in the woods of West Milford, NJ. Unstable floorboards threaten to collapse under my weight, thick spiderwebs cling to my cheeks, and a living veil of fog creeps through the doorway, coiling around my ankles. Yet, I couldn’t be happier, for just beyond the doo",
+          "date": "2026-10-18T19:00:10+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/NUP_211121_00009.jpg"
+        },
+        {
           "title": "HALLOWEEN II Novelization: Less Myers, More Mundy",
           "link": "https://www.fangoria.com/halloween-ii-novelization-less-myers-more-mundy/",
           "description": "Before you fork out a huge chunk of change for the HALLOWEEN II novelization on eBay, read our rundown of the Jack Martin/Dennis Etchison book.",
@@ -216,13 +223,6 @@
           "description": "FANGORIA has an exclusive, behind-the-scenes look at the body horror of CLAYFACE. Give it a watch... if you can stomach it.",
           "date": "2026-10-16T17:00:00+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Screenshot2026-04-22at12.11.47-PM.webp"
-        },
-        {
-          "title": "The Minds Behind WHEN EVIL LURKS Bring Movie Magic To The Horrifying Video Game Tenebris Somnia",
-          "link": "https://www.fangoria.com/tenebris-somnia-video-game-when-evil-lurks/",
-          "description": "Tenebris Somnia combines 2D survival horror with terrifying, cinematic cutscenes. Check out our interview with game director Andrés Borghi and other members of the team.",
-          "date": "2026-10-16T16:00:46+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/GZVQCixasAEE0zf.jpg"
         }
       ]
     },
