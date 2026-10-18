@@ -1,9 +1,30 @@
 {
-  "updated": "2026-10-18T13:52:43.719959+00:00",
+  "updated": "2026-10-18T17:12:05.094324+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Rollercoaster’ 4K Review: ’70s Disaster Movie Hybrid Gets a Fresh Glow-Up",
+          "link": "https://bloody-disgusting.com/home-video/3972334/rollercoaster-4k-review-70s-disaster-movie-hybrid-gets-a-fresh-glow-up/",
+          "description": "The 1970s gave us the widespread success of both disaster movies and terrorist pictures, with everything from The Taking of Pelham One Two Three to Airport to Black Sunday (the Frankenheimer film, not the Bava film) lighting up screens. Many of these films still rank as established classics today, b",
+          "date": "2026-10-18T16:00:16+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/george-rollercoaster.jpg?resize=739%2C415&#038;ssl=1"
+        },
+        {
+          "title": "Retroware’s ‘Toxic Crusaders’ Returns With New Gameplay Trailer [Watch]",
+          "link": "https://bloody-disgusting.com/video-games/3972369/retrowares-toxic-crusaders-returns-with-new-gameplay-trailer-watch/",
+          "description": "The ongoing development of Retroware’s beat-’em-up Toxic Crusaders is still a concern, but the devteam is still working at it. And to prove it, they’ve released a new gameplay trailer during the MIX Fall Online Showcase. The new trailer serves up a plenty of coin-op-inspired action, featuring Toxie,",
+          "date": "2026-10-18T14:30:57+00:00",
+          "image": ""
+        },
+        {
+          "title": "Bryan Fuller Returns to Prom: That Unexpected ‘Carrie’ Cameo Explained",
+          "link": "https://bloody-disgusting.com/editorials/3971875/bryan-fuller-returns-to-prom-that-unexpected-carrie-cameo-explained/",
+          "description": "Of all the faces we’d expect to see attending Carrie White’s cinematic prom, Bryan Fuller is not very high on the list. The writer and producer plays a chaperone in Mike Flanagan’s new adaptation of Carrie, the debut novel of Stephen King. Standing next to him is Don Mancini, creator of the Child’s ",
+          "date": "2026-10-18T14:00:39+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/carrie-2002.jpg?resize=1024%2C576&#038;ssl=1"
+        },
         {
           "title": "New Class System Revealed in Dev Update Video for ‘No Rest for the Wicked’ [Watch]",
           "link": "https://bloody-disgusting.com/video-games/3972364/new-class-system-revealed-in-dev-update-video-for-no-rest-for-the-wicked-watch/",
@@ -52,27 +73,6 @@
           "description": "The beloved filmmaker's latest will hit theaters and Digital in November. The post Indie Horror Icon Larry Fessenden Unleashes a Monster Mash in ‘Trauma Or, Monsters All’ Trailer appeared first on Bloody Disgusting! .",
           "date": "2026-10-16T21:06:32+00:00",
           "image": ""
-        },
-        {
-          "title": "‘Ralph’s Perfekt Christmas’ Trailer Turns Holiday Cheer Into a Kidnapping Nightmare",
-          "link": "https://bloody-disgusting.com/movie/3972177/ralphs-perfekt-christmas-trailer-turns-holiday-cheer-into-a-kidnapping-nightmare/",
-          "description": "A nice guy obsessed with the holidays winds up on the naughty list in the trailer for Ralph’s Perfekt Christmas, the debut feature from Next Chapter Entertainment. The darkly comedic genre-bender receives a limited theatrical engagement on October 30, ahead of Bloody Disgusting parent company Cineve",
-          "date": "2026-10-16T21:00:17+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Ralphs-Perfekt-Christmas-1.jpg?resize=1024%2C683&#038;ssl=1"
-        },
-        {
-          "title": "A Real Whale Attack Survivor Was Invited to Watch ‘Whalefall’",
-          "link": "https://bloody-disgusting.com/movie/3972272/a-real-whale-attack-survivor-was-invited-to-watch-whalefall/",
-          "description": "After a successful marketing campaign that had theatergoers cringing over the film’s claustrophobic premise before the movie was even released, Brian Duffield’s adaptation of Whalefall is finally out and making waves among audiences and critics alike. If you’ve somehow missed the terrifying trailers",
-          "date": "2026-10-16T20:16:54+00:00",
-          "image": ""
-        },
-        {
-          "title": "10 New Horror Movies Released This Week – Friday, October 16",
-          "link": "https://bloody-disgusting.com/movie/3972276/10-new-horror-movies-released-this-week-friday-october-16/",
-          "description": "The big release for this week is of course Peacock and A24’s “Crystal Lake,” the brand new Friday the 13th prequel series that just released all eight episodes at the same time. It’s likely you’ll be spending the weekend binging the long-awaited return of the Voorhees family saga, but the new series",
-          "date": "2026-10-16T20:16:17+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/07/Buddy-scaled.png?resize=2560%2C1440&#038;ssl=1"
         }
       ]
     },
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "HALLOWEEN II Novelization: Less Myers, More Mundy",
+          "link": "https://www.fangoria.com/halloween-ii-novelization-less-myers-more-mundy/",
+          "description": "Before you fork out a huge chunk of change for the HALLOWEEN II novelization on eBay, read our rundown of the Jack Martin/Dennis Etchison book.",
+          "date": "2026-10-18T15:00:22+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/images-6.jpg"
+        },
+        {
           "title": "Ice Cream, Bigfoot And Alien Babies: Telluride Horror Show Day 1 Recap",
           "link": "https://www.fangoria.com/telluride-horror-show-day-one-recap/",
           "description": "Team FANGORIA's in Telluride and ready for some terror.",
@@ -216,13 +223,6 @@
           "description": "Tenebris Somnia combines 2D survival horror with terrifying, cinematic cutscenes. Check out our interview with game director Andrés Borghi and other members of the team.",
           "date": "2026-10-16T16:00:46+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/GZVQCixasAEE0zf.jpg"
-        },
-        {
-          "title": "Exclusive: French Body Horror SPECIES Is Coming To Shudder Next Year",
-          "link": "https://www.fangoria.com/species-movie-acquired-shudder/",
-          "description": "Marion Le Correller's debut body horror film SPECIES is coming to shudder next year. Get all the exclusive details here.",
-          "date": "2026-10-16T15:30:36+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Sanguine_JPEG_Photogramme-16.jpg"
         }
       ]
     },
