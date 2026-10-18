@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T22:06:53.504441+00:00",
+  "updated": "2026-10-18T00:12:01.186290+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Ice Cream, Bigfoot And Alien Babies: Telluride Horror Show Day 1 Recap",
+          "link": "https://www.fangoria.com/telluride-horror-show-day-one-recap/",
+          "description": "Team FANGORIA's in Telluride and ready for some terror.",
+          "date": "2026-10-17T22:11:40+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/telluride-horror-show-2026-day-one-header.jpg"
+        },
+        {
           "title": "Horror Goes Vertical In BITE CLUB With Barbara Crampton and Russell Todd",
           "link": "https://www.fangoria.com/bite-club-vertical-barbara-crampton/",
           "description": "A CHOPPING MALL reunion is happening in the horror vertical series BITE CLUB, but the first rule of Bite Club… is that you’ve gotta watch it on your phone.",
@@ -216,13 +223,6 @@
           "description": "Marion Le Correller's debut body horror film SPECIES is coming to shudder next year. Get all the exclusive details here.",
           "date": "2026-10-16T15:30:36+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Sanguine_JPEG_Photogramme-16.jpg"
-        },
-        {
-          "title": "Monstrous Musings: Ancient, Arcane Knowledge",
-          "link": "https://www.fangoria.com/monstrous-musings-ancient-knowledge/",
-          "description": "On the importance of tapping into the knowledge of the Old Ones.",
-          "date": "2026-10-16T09:00:32+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/evil-dead-rise-necronomicon-1024x538-1.jpg"
         }
       ]
     },
@@ -380,6 +380,20 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler",
+          "link": "https://www.pushsquare.com/news/2026/10/i-dont-think-were-seeing-it-here-gta-6-launch-trailer-not-using-ps5s-new-qssr-upscaler",
+          "description": "\"That's quite extravagant\". Sony introduced QSSR earlier this month , bringing a version of the PS5 Pro’s acclaimed PSSR upscaler to base PS5 hardware. While the technology is currently only incorporated into first-party titles Marvel’s Wolverine and Ghost of Yotei , it will be made available to thi",
+          "date": "2026-10-18T00:00:00+00:00",
+          "image": "https://images.pushsquare.com/37a7a18543bcf/large.jpg"
+        },
+        {
+          "title": "PS6 Price Tag Facing $1,000+ Nightmare as AI Data Centres Send Component Costs Soaring",
+          "link": "https://www.pushsquare.com/news/2026/10/ps6-price-tag-facing-usd1000plus-nightmare-as-ai-data-centres-send-component-costs-soaring",
+          "description": "And it could get worse yet. In an impossible economy, upended by AI’s stranglehold on computing components, all hopes of the PS6 launching at a palatable price point appear to be dwindling by the day. It’s been interesting following the commentary of KeplerL2 on NeoGAF , a renowned hardware leaker w",
+          "date": "2026-10-17T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/44406591f819b/large.jpg"
+        },
+        {
           "title": "Guide: These 35+ PS5 and PS Plus Games Are Coming Out Next Week (19th-25th October)",
           "link": "https://www.pushsquare.com/guides/these-35plus-ps5-and-ps-plus-games-are-coming-out-next-week-19th-25th-october",
           "description": "Call of Duty: Modern Warfare 4! Final Fantasy Resonance! BeamNG.drive! Between all the new releases and PS Plus update, PS5 owners have an eye-watering 35+ new games to look forward to next week. This includes some real major titles like Call of Duty: Modern Warfare 4 , although you can already play",
@@ -434,20 +448,6 @@
           "description": "Coming to PS5 next week. Dawnwalker developer Rebel Wolves has revealed a new PS5 patch for the RPG arriving next week will be packing more than 1,100 \"improvements and fixes\", and an infographic highlights the biggest ones. This is the major update the studio teased last month, where it spoke of an",
           "date": "2026-10-16T14:30:00+00:00",
           "image": "https://images.pushsquare.com/9930529f6eb39/large.jpg"
-        },
-        {
-          "title": "Sony Has Caused 'Friction' Between It and PlayStation Fans Over Disc Mess, Says PS1, PS2, PS3 Creator",
-          "link": "https://www.pushsquare.com/news/2026/10/sony-has-caused-friction-between-it-and-playstation-fans-over-disc-mess-says-ps1-ps2-ps3-creator",
-          "description": "Kutaragi understands both sides of the argument. The general sentiment surrounding PlayStation from hardcore players is at a real low point, spurred mostly by the firm's decision to stop making disc-based copies of PlayStation games from January 2028 onwards. It has gotten to the point where fairly ",
-          "date": "2026-10-16T14:00:00+00:00",
-          "image": "https://images.pushsquare.com/94391b6db0adc/large.jpg"
-        },
-        {
-          "title": "Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
-          "link": "https://www.pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working",
-          "description": "\"I’m most definitely playing on a PS5\". Sony’s unprecedented multi-million dollar GTA 6 PS5 marketing push is already reaping dividends. A short reaction video published by juggernaut streamer IShowSpeed shows the platform holder’s approach working in real time. The manufacturer has paid handsomely ",
-          "date": "2026-10-16T13:30:00+00:00",
-          "image": "https://images.pushsquare.com/1d0c2bdb607be/large.jpg"
         }
       ]
     },
