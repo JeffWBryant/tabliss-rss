@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-18T09:48:53.419099+00:00",
+  "updated": "2026-10-18T13:52:43.719959+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "New Class System Revealed in Dev Update Video for ‘No Rest for the Wicked’ [Watch]",
+          "link": "https://bloody-disgusting.com/video-games/3972364/new-class-system-revealed-in-dev-update-video-for-no-rest-for-the-wicked-watch/",
+          "description": "Moon Studios has dropped another episode of their ‘Wicked Inside’ developer video series for their soulslike action-RPG No Rest for the Wicked, sharing details on the game’s brand new class system. Other updates include info on new factions players can join in the game, as well as other improvements",
+          "date": "2026-10-18T11:30:09+00:00",
+          "image": ""
+        },
         {
           "title": "Telluride Horror Show Day One Dispatch: Cozy Campfires, Great Horror, and Stunning Views",
           "link": "https://bloody-disgusting.com/the-further/3972357/telluride-horror-show-day-one-dispatch-cozy-campfires-great-horror-and-stunning-views/",
@@ -66,13 +73,6 @@
           "description": "The big release for this week is of course Peacock and A24’s “Crystal Lake,” the brand new Friday the 13th prequel series that just released all eight episodes at the same time. It’s likely you’ll be spending the weekend binging the long-awaited return of the Voorhees family saga, but the new series",
           "date": "2026-10-16T20:16:17+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/07/Buddy-scaled.png?resize=2560%2C1440&#038;ssl=1"
-        },
-        {
-          "title": "‘True Detective’ Season 5 to Star Nicolas Cage and Antonio Banderas",
-          "link": "https://bloody-disgusting.com/news/3972286/true-detective-season-5-nicolas-cage-antonio-banderas/",
-          "description": "Back in 2014, HBO debuted the all-new series True Detective, and while creator Nic Pizzolatto was a relative unknown, the series starred Matthew McConaughey and Woody Harrelson. That star power drew in audiences and those viewers were rewarded with a gripping murder mystery that incorporated superna",
-          "date": "2026-10-16T19:38:01+00:00",
-          "image": ""
         }
       ]
     },
