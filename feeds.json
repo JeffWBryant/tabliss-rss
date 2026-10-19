@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T22:20:06.971100+00:00",
+  "updated": "2026-10-19T00:23:40.268289+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Roasted Pigs, RIVER, And The Undead: Telluride Horror Show Day 2 Recap",
+          "link": "https://www.fangoria.com/telluride-horror-show-day-two-recap/",
+          "description": "Imagine attending a book fair in the midst of Halloweentown. That's the vibe Telluride Horror Show is bringing.",
+          "date": "2026-10-18T23:57:43+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/telluride-horror-show-day-2-river-crowd.jpg"
+        },
+        {
           "title": "Welcome to CRYSTAL LAKE! Fango Dives Into The Horror Prequel Series’ Gore",
           "link": "https://www.fangoria.com/crystal-lake-interview-sfx-david-presto/",
           "description": "I’m standing in an abandoned shack deep in the woods of West Milford, NJ. Unstable floorboards threaten to collapse under my weight, thick spiderwebs cling to my cheeks, and a living veil of fog creeps through the doorway, coiling around my ankles. Yet, I couldn’t be happier, for just beyond the doo",
@@ -216,13 +223,6 @@
           "description": "Genre legend Larry Fessenden brings HABIT, DEPRAVED, and BLACKOUT together for a big, bloody finale.",
           "date": "2026-10-16T17:15:50+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/BC-TRAUMA.jpg"
-        },
-        {
-          "title": "CLAYFACE Crawls Out Of The Darkness And Under Your Skin [Exclusive]",
-          "link": "https://www.fangoria.com/clayface-body-horror-exclusive-clip/",
-          "description": "FANGORIA has an exclusive, behind-the-scenes look at the body horror of CLAYFACE. Give it a watch... if you can stomach it.",
-          "date": "2026-10-16T17:00:00+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Screenshot2026-04-22at12.11.47-PM.webp"
         }
       ]
     },
