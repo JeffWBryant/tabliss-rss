@@ -1,9 +1,65 @@
 {
-  "updated": "2026-10-20T16:53:03.782120+00:00",
+  "updated": "2026-10-20T20:22:48.531925+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘American Horror Story’ Officially Renewed for Season 14 by FX",
+          "link": "https://bloody-disgusting.com/news/3972608/american-horror-story-renewed-season-14/",
+          "description": "After 15 years, it’s hard to remember how humble the origins of American Horror Story were. Created by Ryan Murphy and Brad Falchuk, the pair was most known for their work on Glee at the time, but the development of the unsettling series started before that musical drama. Additionally, while the Fox",
+          "date": "2026-10-20T20:06:23+00:00",
+          "image": ""
+        },
+        {
+          "title": "Keanu Reeves In Talks To Star In James Wan’s ‘The Gangster, the Cop, the Devil’ Remake",
+          "link": "https://bloody-disgusting.com/movie/3972604/keanu-reeves-in-talks-to-star-in-james-wans-the-gangster-the-cop-the-devil-remake/",
+          "description": "Korean movie The Gangster, the Cop, the Devil (2019) is getting an English-language remake with James Wan at the helm, and THR reports that Keanu Reeves is currently in talks to star. Reeves would star alongside Ma Dong-seok (Train to Busan), also known as Don Lee, who starred in the original Korean",
+          "date": "2026-10-20T20:06:05+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/the-gangster-the-cope-the-devil.jpg?resize=1024%2C596&#038;ssl=1"
+        },
+        {
+          "title": "Entire ‘Terrifier’ Trilogy Returning to Theaters for Halloween",
+          "link": "https://bloody-disgusting.com/movie/3972592/terrifier-movies-trilogy-halloween-theaters/",
+          "description": "The releases of the movies will be sponsored by 'Dead by Daylight.' The post Entire ‘Terrifier’ Trilogy Returning to Theaters for Halloween appeared first on Bloody Disgusting! .",
+          "date": "2026-10-20T19:53:19+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Ghoulies’ Reboot For New Generation Eyes 2027 Production",
+          "link": "https://bloody-disgusting.com/movie/3972593/ghoulies-reboot-back-on-track/",
+          "description": "Ghoulies co-writer and producer Jefery Levy announced plans to reboot the cult classic creature feature in 2024, but the project went quiet soon after. Brain Mutant reports that a legal battle nearly derailed the reboot, but it’s now back on track and aiming for 2027 production. Director/Co-Writer L",
+          "date": "2026-10-20T19:32:17+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2014/10/ghoulies.gif?resize=640%2C342&#038;ssl=1"
+        },
+        {
+          "title": "Telluride Horror Show Days 2 & 3: Pig Roasts, Horror Shorts, And Halloween Magic",
+          "link": "https://bloody-disgusting.com/the-further/3972576/telluride-horror-show-days-2-3-pig-roasts-horror-shorts-and-halloween-magic/",
+          "description": "The scenic Telluride Horror Show has wrapped its 17th edition, but not without packing days 2 and 3 of the fest full of screenings and events, from the Horror Book Fair and guest author signing to the annual Pig Roast, and more late-night horror. Day two kicked off with author talks and a book fair ",
+          "date": "2026-10-20T18:31:11+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/horror-1H0A8413.jpg?resize=1024%2C683&#038;ssl=1"
+        },
+        {
+          "title": "‘Hater’ – Read the Script for Glen Mazzara’s Unproduced Apocalyptic Thriller [Exclusive]",
+          "link": "https://bloody-disgusting.com/the-further/3972476/hater-read-the-script-for-glen-mazzaras-unproduced-apocalyptic-thriller-exclusive/",
+          "description": "Back in 2024, The Stunt List revealed the script for Glen Mazzara’s (“The Walking Dead”) unaired pilot episode for an unmade television series adaptation of Stephen King’s The Dark Tower, and this year’s Stunt List brings another never-seen script from Mazzara into our lives. Way back in 2008, it wa",
+          "date": "2026-10-20T17:52:06+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/HaterPoster.jpg?resize=1240%2C1650&#038;ssl=1"
+        },
+        {
+          "title": "Ahead of Launch Next Week, Check Out the Demo for Social Deduction Game ‘Mimic’",
+          "link": "https://bloody-disgusting.com/video-games/3972464/ahead-of-launch-next-week-check-out-the-demo-for-social-deduction-game-mimic/",
+          "description": "Ahead of Ryan Laley Games’ social deduction survival horror title Mimic launching into Early Access on Steam and the Epic Games Store on October 27, players can get a chance to check out the game now during Steam Next Fest with the game’s demo. The demo features one game map and matchmaking function",
+          "date": "2026-10-20T17:46:56+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Dead Space’ X ‘Battlefield 6’ Event on Now [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3972569/dead-space-x-battlefield-6-event-on-now-trailer/",
+          "description": "After last week’s tease, The Marker calls to Battlefield 6 players today with the launch of the special Dead Space limited-time crossover scenario. Those unspeakable horrors that once haunted Isaac Clarke on the USG Ishimura are now unleashed in the world of Battlefield across PC and consoles. The r",
+          "date": "2026-10-20T17:39:35+00:00",
+          "image": ""
+        },
         {
           "title": "‘Above the Below’: Idris Elba Is in Over His Head in Trailer for Survival Thriller",
           "link": "https://bloody-disgusting.com/movie/3972556/above-the-below-idris-elba-trailer/",
@@ -16,62 +72,6 @@
           "link": "https://bloody-disgusting.com/movie/3972555/deadstream-directors-joseph-and-vanessa-winter-to-helm-reddit-nosleep-horror-movie-future-me/",
           "description": "The next project under the partnership between Longevity Pictures, indie genre label Spooky Pictures, and global studio Image Nation Studios, after Home Safety Hotline, is psychological horror-thriller Future Me, written and directed by filmmaking duo Joseph and Vanessa Winter (Deadstream, V/H/S/99)",
           "date": "2026-10-20T16:27:55+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Hatchet’ and ‘Chillerama’ Star Richard Riehle Passes Away at 78",
-          "link": "https://bloody-disgusting.com/movie/3972536/richard-riehle-death-obituary/",
-          "description": "Beloved character actor Richard Riehle has passed away at the age of 78, per Deadline. In a brief statement to the outlet, Riehle’s representatives shared, “We are deeply saddened to confirm the passing of our beloved client, Richard Riehle, this past weekend.” Riehle was born in Menomonee Falls, Wi",
-          "date": "2026-10-20T16:08:57+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Diablo’ Collection for ‘Dead by Daylight’ Now Available [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3972529/diablo-collection-for-dead-by-daylight-now-available-trailer/",
-          "description": "The wait is over for Blizzard Entertainment’s iconic Diablo series to make its way to Behaviour Interactive’s Dead by Daylight. Announced during the Tenth Anniversary Livestream back in June, the new cosmetic collection is available now on PC and consoles. The Diablo Collection brings Lilith, Mephis",
-          "date": "2026-10-20T16:01:33+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/barb.jpg?resize=1920%2C1080&#038;ssl=1"
-        },
-        {
-          "title": "‘The Conjuring: Unspoken’ Review: Netflix’s Interactive Horror Game Makes Great Use of Your Phone",
-          "link": "https://bloody-disgusting.com/reviews/3972520/conjuring-unspoken-review/",
-          "description": "Earlier this year, I reviewed Unhinged, a Netflix game by the recently shuttered Night School Studio that you played through the TV using the N-Controller app on your phone. Ultimately, there wasn’t a lot of meat on the bones, with a short runtime that didn’t allow room for a compelling narrative to",
-          "date": "2026-10-20T15:46:03+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Conjuring-u-game.jpg?resize=1024%2C498&#038;ssl=1"
-        },
-        {
-          "title": "‘Unsolved Mysteries’ Returning as Video Podcast Series",
-          "link": "https://bloody-disgusting.com/news/3972522/unsolved-mysteries-reboot-podcast-series/",
-          "description": "It often feels like we’re in a renaissance of true crime stories, as every week sees a new streamer releasing a gripping limited series about a grisly situation. Whether the series focuses on murders, kidnappings, disappearances, or any number of other traumatic events, these shows are quickly repla",
-          "date": "2026-10-20T15:40:17+00:00",
-          "image": ""
-        },
-        {
-          "title": "Psychological Horror Fishing Game ‘Hookeye’ Swims to December 9 Release; Demo Out Now [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3972461/psychological-horror-fishing-game-hookeye-swims-to-december-9-release-demo-out-now-trailer/",
-          "description": "Mallorian and FloralNoise‘s horror fishing title Hookeye has locked in a December 9 release on Steam. Along with the release date announcement, the devteams have released a demo for the game during Steam Next Fest. Players will step into the boots of The Fisherman, who sits alone locked in a despera",
-          "date": "2026-10-20T15:38:36+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Hellraiser Omnibus Volume 2’ from BOOM! Studios Collects Over 500 Pages of ‘Hellraiser’ Tales [Exclusive]",
-          "link": "https://bloody-disgusting.com/comics/3972512/hellraiser-omnibus-volume-2-from-boom-studios-collects-over-500-pages-of-hellraiser-tales-exclusive/",
-          "description": "This year has been a big one for fans of Clive Barker’s Hellraiser, with BOOM! Studios unleashing several new and legacy comic books and the brand new video game Hellraiser: Revival arriving with such sights to show us earlier this Halloween season. Bloody Disgusting has also learned that Hellraiser",
-          "date": "2026-10-20T14:58:12+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Hellraiser-Omnibus-Vol.-2-scaled.jpg?resize=1665%2C2560&#038;ssl=1"
-        },
-        {
-          "title": "‘Frogman Returns’ Review: Cryptid Sequel Takes A Bigger, Weirder Worthy Leap Beyond The Original",
-          "link": "https://bloody-disgusting.com/reviews/3972501/frogman-returns-review-cryptid-sequel-takes-a-bigger-weirder-worthy-leap-beyond-the-original/",
-          "description": "2023’s Frogman is about a young man returning to the hometown he left behind in order to confront the amphibious nightmare that haunts the local landscape. It’s fitting, then, that the sequel lets the big-eyed beast that drew him home take a stab at returning as well. Frogman Returns – see, it’s rig",
-          "date": "2026-10-20T14:42:48+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/03/frogmanreturns-still4.jpg?resize=1024%2C576&#038;ssl=1"
-        },
-        {
-          "title": "IllFonic Teases Plethora of Civilian Costumes Ahead of Next Week’s DLC for ‘Halloween: The Game’ [Video]",
-          "link": "https://bloody-disgusting.com/video-games/3972502/illfonic-teases-plethora-of-civilian-costumes-ahead-of-next-weeks-dlc-for-halloween-the-game-video/",
-          "description": "While they more than likely are saving the best for last in regards to Michael Myers’ new skins, IllFonic has released a new video showing the variety of Halloween costumes in Civilian Costumes Pack 1 that you’ll be able to use in Halloween: The Game once the new DLC drops next week. The Special Hal",
-          "date": "2026-10-20T14:32:31+00:00",
           "image": ""
         }
       ]
@@ -155,6 +155,20 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "A Modern Horror Master’s Korean Thriller Remake Just Nabbed An A-List Star",
+          "link": "https://www.fangoria.com/james-wan-korean-thriller-remake/",
+          "description": "Banger incoming.",
+          "date": "2026-10-20T20:21:44+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Keanu-JW4.jpg"
+        },
+        {
+          "title": "THE HEIR: Amber Benson and Christopher Golden Reunite For Irish Folk Horror Comic Series [Exclusive]",
+          "link": "https://www.fangoria.com/the-heir-amber-benson-christopher-golden-irish-horror-exclusive/",
+          "description": "The SLAYERS: A BUFFYVERSE STORY writers are telling their own Irish horror tale, and Fango's got the exclusive first look.",
+          "date": "2026-10-20T17:00:13+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/theheirheader.jpg"
+        },
+        {
           "title": "DEADSTREAM Team To Adapt One Of Reddit’s Creepiest Horror Stories",
           "link": "https://www.fangoria.com/deadstream-directors-future-me/",
           "description": "Joseph and Vanessa Winter are the latest horror filmmakers to turn to the Internet for inspiration.",
@@ -209,20 +223,6 @@
           "description": "HENRY'S EBB, a new psychological horror film shot in North Carolina, features a young WIDOW'S BAY star. Get all the details here.",
           "date": "2026-10-19T16:50:05+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Henrys-Ebb.jpg.webp"
-        },
-        {
-          "title": "A Lost George Romero Short Film Is Coming To The Big Screen Next Year",
-          "link": "https://www.fangoria.com/george-romero-expostulations-premiere/",
-          "description": "A lost short film made by George A. Romero has been rediscovered after six decades, and will premiere in Pittsburgh next year.",
-          "date": "2026-10-19T16:09:56+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/image001.jpg"
-        },
-        {
-          "title": "An Unearthed Piece Of Horror History Has Arrived At The Box Office",
-          "link": "https://www.fangoria.com/ken-russell-the-devils-2026-box-office/",
-          "description": "Decades later, Ken Russell’s controversial horror classic THE DEVILS is finally being seen the way it was always meant to be seen.",
-          "date": "2026-10-19T14:02:01+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/05/THE-DEVILS-e1792416910582.webp"
         }
       ]
     },
@@ -380,6 +380,48 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Worried About PS6 Price? Next Xbox Could Be as Much as $1,800",
+          "link": "https://www.pushsquare.com/news/2026/10/worried-about-ps6-price-next-xbox-could-be-as-much-as-usd1800",
+          "description": "And a PS6 could be priced similarly. No matter how well they run games or how much better they make them look, the chatter surrounding the next-gen PS6 and Xbox Helix will almost certainly be dominated by their price points. Video game technology has reached a point where graphical leaps aren't so o",
+          "date": "2026-10-20T20:00:00+00:00",
+          "image": "https://images.pushsquare.com/91264711a465c/large.jpg"
+        },
+        {
+          "title": "EA Boxing Series Fight Night Back for Another Round, New Game Teased",
+          "link": "https://www.pushsquare.com/news/2026/10/ea-boxing-series-fight-night-back-for-another-round-new-game-teased",
+          "description": "\"Fight Night is coming back\". EA has revealed that its Fight Night boxing franchise, which ran during the PS2 and PS3 days, is returning. A new social media account has been set up, and its first post teases: \"To everyone who stayed in our corner: Fight Night is coming back.\" Read the full article o",
+          "date": "2026-10-20T19:30:00+00:00",
+          "image": "https://images.pushsquare.com/cf6ac0baf6f48/large.jpg"
+        },
+        {
+          "title": "PS Plus Discounts Announced for The Wolf Among Us Remastered PS5",
+          "link": "https://www.pushsquare.com/news/2026/10/ps-plus-discounts-announced-for-the-wolf-among-us-remastered-ps5",
+          "description": "Up to 50% off $24.99 game. Telltale Games has revealed a range of price discounts for The Wolf Among Us Remastered based on whether you own the original PS4 version and if you're a PS Plus subscriber. Launching next week on 29th October 2026, the remastered PS5 version has a new story trailer (viewa",
+          "date": "2026-10-20T19:00:00+00:00",
+          "image": "https://images.pushsquare.com/0b0f635a3831a/large.jpg"
+        },
+        {
+          "title": "JRPG Villion: Code Adds to the Insanity of PS5's January Release Schedule",
+          "link": "https://www.pushsquare.com/news/2026/10/jrpg-villion-code-adds-to-the-insanity-of-ps5s-january-release-schedule",
+          "description": "With character designs by one of my fave artists. The vacuum created by GTA 6 expands into next year, with January already looking like a hectic period for PS5 games. Highlights include Ananta , Stranger Than Heaven , and Until Dawn 2 – but now Idea Factory International is throwing its hat into the",
+          "date": "2026-10-20T18:00:00+00:00",
+          "image": "https://images.pushsquare.com/8a643bd82cab8/large.jpg"
+        },
+        {
+          "title": "Free Fallout 4 DLC Sees Modders Bring Back Original Voice Actors for a Spooky Adventure on PS5",
+          "link": "https://www.pushsquare.com/news/2026/10/free-fallout-4-dlc-sees-modders-bring-back-original-voice-actors-for-a-spooky-adventure-on-ps5",
+          "description": "FEVer Dreams out now. Bethesda definitely seems to be going a bit harder on bringing its official Creations to PS5. Just like with Skyrim earlier in the month, modding team Kinggath Creations has released a new DLC for Fallout 4 , in partnership with Bethesda. Read the full article on pushsquare.com",
+          "date": "2026-10-20T17:30:00+00:00",
+          "image": "https://images.pushsquare.com/36bea2e13d2c4/large.jpg"
+        },
+        {
+          "title": "'Campaign Is Easily Top Three': Modern Warfare 4's Early User Reviews Are Shockingly Positive",
+          "link": "https://www.pushsquare.com/news/2026/10/campaign-is-easily-top-three-modern-warfare-4s-early-user-reviews-are-shockingly-positive",
+          "description": "Shoot to thrill. Call of Duty: Modern Warfare 4 is enjoying some really positive word of mouth right now. The game's campaign is playable early, and it's attracting thousands of satisfied reviews on Steam, where the title currently sits at a 'Very Positive' rating. Read the full article on pushsquar",
+          "date": "2026-10-20T17:00:00+00:00",
+          "image": "https://images.pushsquare.com/5262e7fdb0a99/large.jpg"
+        },
+        {
           "title": "The Best Dead Space Can Get Now Is a Crossover in a Different Game",
           "link": "https://www.pushsquare.com/news/2026/10/the-best-dead-space-can-get-now-is-a-crossover-in-a-different-game",
           "description": "Now a multiplayer event in Battlefield 6. If you want the newest content from the Dead Space universe, you won't be booting up the latest PS5 creation starring Isaac Clarke — you'll actually just be playing Battlefield 6 . The shooter has a new time-limited event that starts today and runs until 10t",
@@ -406,48 +448,6 @@
           "description": "15 new dungeons, 10 extra tarstones, and more. Cold Symmetry has announced and launched a new Mortal Shell 2 update all at once that enhances the Souls-like with more content, items, and base game tweaks. The free patch is out now on PS5. Dubbed the Rotten Autumn update, the trailer above teases wha",
           "date": "2026-10-20T14:30:00+00:00",
           "image": "https://images.pushsquare.com/fd28a91c1e08e/large.jpg"
-        },
-        {
-          "title": "11 PS Plus Extra Game Removals for November 2026 Confirmed",
-          "link": "https://www.pushsquare.com/news/2026/10/11-ps-plus-extra-game-removals-for-november-2026-confirmed",
-          "description": "Rockstar drops PS Plus support again. This month's PS Plus Extra and PS Plus Premium game update is now live for PS5, PS4 players (or some of it is, if you are in the UK, USA, or Japan), which means it's time to learn what titles will be taken off the service in November 2026. We already know that G",
-          "date": "2026-10-20T14:00:00+00:00",
-          "image": "https://images.pushsquare.com/32e7fe1347b78/large.jpg"
-        },
-        {
-          "title": "PS Store Must Copy Steam If PC Players' Campaign Against AI Content Succeeds",
-          "link": "https://www.pushsquare.com/news/2026/10/ps-store-must-copy-steam-if-pc-players-campaign-against-ai-content-succeeds",
-          "description": "Steam Next Fest is a disaster. There's currently a huge push for an all-encompassing Steam filter that would allow users to disqualify any game that uses AI-generated assets from their search results. The campaign, which is underway across all of the usual social media platforms like Reddit, X (form",
-          "date": "2026-10-20T13:30:00+00:00",
-          "image": "https://images.pushsquare.com/93c99a6dcd6b8/large.jpg"
-        },
-        {
-          "title": "Review: Final Fantasy Resonance (PS5) - Square's Series Returns to Its Roots to Fantastic Effect",
-          "link": "https://www.pushsquare.com/reviews/ps5/final-fantasy-resonance",
-          "description": "Crystal clear. For well over a decade now, some Final Fantasy fans have been demanding a return to a more traditional gameplay structure. And while Final Fantasy Resonance is a far cry from being a mainline AAA Final Fantasy game, it provides a glimpse of what a modern instalment could look like, if",
-          "date": "2026-10-20T13:00:00+00:00",
-          "image": "https://images.pushsquare.com/0e8a6690507ed/large.jpg"
-        },
-        {
-          "title": "Rumour: Iconic RPG Vampire: The Masquerade - Bloodlines Is Being Remastered",
-          "link": "https://www.pushsquare.com/news/2026/10/rumour-iconic-rpg-vampire-the-masquerade-bloodlines-is-being-remastered",
-          "description": "Could it finally come to consoles? A remastered Vampire: The Masquerade - Bloodlines is apparently in the works. This could be a huge deal, because the beloved RPG has been stuck on PC since its original launch all the way back in 2004. Assuming this remaster is real, there's a chance it could final",
-          "date": "2026-10-20T12:30:00+00:00",
-          "image": "https://images.pushsquare.com/fc5c1dcdf4dde/large.jpg"
-        },
-        {
-          "title": "Ace Combat 8 Carpet Bombs a Massive List of Bugs in an Upcoming Patch on PS5",
-          "link": "https://www.pushsquare.com/news/2026/10/ace-combat-8-carpet-bombs-a-massive-list-of-bugs-in-an-upcoming-patch-on-ps5",
-          "description": "Fix two! Developer Bandai Namco Aces has published details on an upcoming patch for Ace Combat 8: Wings of Theve . Scheduled to go live on 23rd October, the update makes a ton of fixes and adjustments to both the campaign and the online multiplayer modes. Read the full article on pushsquare.com",
-          "date": "2026-10-20T12:00:00+00:00",
-          "image": "https://images.pushsquare.com/46b92eec2d6e8/large.jpg"
-        },
-        {
-          "title": "5 October 2026 PS Plus Extra, Premium Games Available to Download Now",
-          "link": "https://www.pushsquare.com/news/2026/10/5-october-2026-ps-plus-extra-premium-games-available-to-download-now",
-          "description": "Or the full lineup if you're outside the UK, USA, and Japan. Today's the day for your monthly PS Plus Extra and PS Plus Premium update to come into force, with the October 2026 refresh bringing nine new additions. Obviously, because Sony is experimenting with the rollout of these games, how many you",
-          "date": "2026-10-20T09:00:00+00:00",
-          "image": "https://images.pushsquare.com/cf0660c8f731f/large.jpg"
         }
       ]
     },
