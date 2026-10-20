@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-19T22:12:20.106065+00:00",
+  "updated": "2026-10-20T01:10:50.895082+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Widow’s Bay’ Star’s New Psychological Horror Releases First Look",
+          "link": "https://bloody-disgusting.com/news/3972442/henrys-ebb-kingston-rumi-southwick/",
+          "description": "Apple TV‘s Widow’s Bay is one of the biggest success stories of the year on streaming. Even though there were a handful of accomplished names attached to the project, no one could have anticipated such a quirky horror series about otherworldly forces targeting an island community would be such a hit",
+          "date": "2026-10-19T22:35:27+00:00",
+          "image": ""
+        },
         {
           "title": "‘Clayface’ Cast & Crew on Spitting Up “Flesh Balls” and Being Influenced by ‘The Fly’ [INTERVIEW]",
           "link": "https://bloody-disgusting.com/movie/3972437/clayface-interview-dc-tom-rhys-harries-naomi-ackie-james-watkins/",
@@ -66,19 +73,19 @@
           "description": "We always appreciate an ambitious, high-concept horror movie with dense mythology and lore that can be unpacked over multiple subsequent installments. On the other hand, we also appreciate a horror movie that is as straightforward as the premise: what if you got swallowed by a whale? Based on the Da",
           "date": "2026-10-19T16:44:30+00:00",
           "image": ""
-        },
-        {
-          "title": "George A. Romero’s Long-Lost First Movie to Finally Screen at One-Night-Only Event",
-          "link": "https://bloody-disgusting.com/movie/3972398/george-a-romero-first-movie-expostulations-screening-event/",
-          "description": "Romero's 'Expostulations' was thought to be lost to time. The post George A. Romero’s Long-Lost First Movie to Finally Screen at One-Night-Only Event appeared first on Bloody Disgusting! .",
-          "date": "2026-10-19T15:30:42+00:00",
-          "image": ""
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "The Simpsons Pulled a Page from Family Guy’s Book For its Big Comeback",
+          "link": "https://www.denofgeek.com/tv/the-simpsons-pulled-page-family-guy-big-comeback/",
+          "description": "The Simpsons delivered one of its biggest surprises in years with the season 38 episode “Treehouse of Horror Presents: The Revengening,” in which a mysterious figure suffers unintentional yet utterly humiliating deaths at the hands of Springfield’s citizens and decides to take revenge. That figure t",
+          "date": "2026-10-19T23:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/The-Simpsons.jpg"
+        },
         {
           "title": "The Best Horror Movies of the 2020s So Far",
           "link": "https://www.denofgeek.com/movies/best-horror-movies-of-the-2020s-so-far/",
@@ -141,13 +148,6 @@
           "description": "Some actors are perfectly happy to let a stunt professional handle the dangerous stuff. Others would rather jump off the building themselves. Tom Cruise has made a career out of terrifying insurance companies, but he's hardly the first performer to take that approach. Long before Hollywood had digit",
           "date": "2026-10-19T12:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/15_8798a3.jpg"
-        },
-        {
-          "title": "15 Shows We Don’t Think Are Funny Anymore",
-          "link": "https://www.denofgeek.com/msn/15-shows-we-dont-think-are-funny-anymore/",
-          "description": "Some sitcoms are better left as fond memories. You put on an old favorite expecting to laugh at the same jokes, only to spend half the episode wondering how certain scenes made it onto television. A surprising amount of comedy in the 1990s and 2000s came down to fat jokes, creepy behavior played for",
-          "date": "2026-10-19T11:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/14_87ccd7.jpg"
         }
       ]
     },
@@ -230,6 +230,13 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "Star Wars Battlefront 3 Rumor Suggests Two Major Studios Could Take Over the Franchise",
+          "link": "https://www.playstationlifestyle.net/2026/10/19/star-wars-battlefront-3-developer-rumor-bungie-dice",
+          "description": "An update has surfaced online about which studio might be helming Star Wars Battlefront 3. The post Star Wars Battlefront 3 Rumor Suggests Two Major Studios Could Take Over the Franchise appeared first on PlayStation LifeStyle .",
+          "date": "2026-10-19T22:59:49+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/swa.jpg?w=1024"
+        },
+        {
           "title": "Obsession Horror Movie Gets Unexpected Video Game Crossover Just in Time for Halloween",
           "link": "https://www.playstationlifestyle.net/2026/10/19/fortnite-obsession-crossover-one-wish-willow-trailer",
           "description": "Epic Games’ Fortnite has teased a haunting crossover with Curry Barker‘s Obsession this Halloween. But the Battle Royale hasn’t revealed what’s in store for horror fans yet. Fortnite’s official account shared an eight-second video on X that teased the world of One Wish Willow with a tape, an unident",
@@ -291,13 +298,6 @@
           "description": "Players can now play the next chapter in the Call of Duty franchise early. Modern Warfare 4 begins its early access today across multiple platforms, including PlayStation 5. The game is currently available for preorder and is scheduled for full release on October 23, 3036. The game’s premise reads, ",
           "date": "2026-10-16T17:00:00+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/08/modern-warfare-4-1.jpg?w=1024"
-        },
-        {
-          "title": "Popular PS4, PS5 Naruto Game Slashes Price by 67% on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/10/16/naruto-boruto-ultimate-ninja-storm-connections-ps5-67-percent-off",
-          "description": "Naruto anime fans can now grab a popular action-fighting game at 67% discount. The post Popular PS4, PS5 Naruto Game Slashes Price by 67% on PlayStation Store appeared first on PlayStation LifeStyle .",
-          "date": "2026-10-16T15:09:04+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/nr.jpg?w=1024"
         }
       ]
     },
