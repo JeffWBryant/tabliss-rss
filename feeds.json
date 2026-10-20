@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-20T06:27:05.616837+00:00",
+  "updated": "2026-10-20T12:00:11.724530+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Demo Out Now for Psychological Horror Take on Winnie-the-Pooh in ‘WINNIE-THE-POOH: Honey Distortion’ [Teaser]",
+          "link": "https://bloody-disgusting.com/video-games/3972455/demo-out-now-for-psychological-horror-take-on-winnie-the-pooh-in-winnie-the-pooh-honey-distortion-teaser/",
+          "description": "Just in case you missed it, Winnie-the-Pooh is celebrating 100 years since it was first published this month. And in celebration, developer/publisher Ignis Sanat has dropped a demo for their upcoming psychological horror game featuring the iconic bear in WINNIE-THE-POOH: Honey Distortion. Launching ",
+          "date": "2026-10-20T11:30:44+00:00",
+          "image": ""
+        },
         {
           "title": "‘Widow’s Bay’ Star’s New Psychological Horror Releases First Look",
           "link": "https://bloody-disgusting.com/news/3972442/henrys-ebb-kingston-rumi-southwick/",
@@ -66,19 +73,61 @@
           "description": "Curry Barker‘s Obsession has been available on multiple home-video formats for months, and has even made its return to theaters in honor of the Halloween season. Even though Peacock subscribers can stream the horror movie at home, that platform isn’t nearly as popular as Netflix. Luckily for Netflix",
           "date": "2026-10-19T17:07:28+00:00",
           "image": ""
-        },
-        {
-          "title": "‘Whalefall’ Debuts to $8 Million at the U.S. Box Office",
-          "link": "https://bloody-disgusting.com/movie/3972405/whalefall-opening-weekend-box-office-austin-abrams/",
-          "description": "We always appreciate an ambitious, high-concept horror movie with dense mythology and lore that can be unpacked over multiple subsequent installments. On the other hand, we also appreciate a horror movie that is as straightforward as the premise: what if you got swallowed by a whale? Based on the Da",
-          "date": "2026-10-19T16:44:30+00:00",
-          "image": ""
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "15 People Taking Their Hobbies Way Too Seriously",
+          "link": "https://www.denofgeek.com/msn/15-people-taking-their-hobbies-way-too-seriously/",
+          "description": "Most hobbies start innocently enough. You buy a few LEGO sets, pick up a board game, or bring home a houseplant because the corner looks empty. Then another purchase seems reasonable, followed by a third, and suddenly you're rearranging furniture to make room for everything. Some people spend years ",
+          "date": "2026-10-20T12:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/3_39ec4f.jpg"
+        },
+        {
+          "title": "15 Photos of 1978 Being the Best Time to Be Alive",
+          "link": "https://www.denofgeek.com/msn/15-photos-of-1978-being-the-best-time-to-be-alive/",
+          "description": "If you had a good stereo, a few friends, and somewhere to hang out, 1978 had plenty to offer. Disco was everywhere, skateboarding was taking off, and video games were finding their way into living rooms. People threw parties in their backyards, dressed up for Halloween, and went to concerts wearing ",
+          "date": "2026-10-20T11:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-1-2.jpg"
+        },
+        {
+          "title": "15 Design Choices That Clearly Didn’t Age Well",
+          "link": "https://www.denofgeek.com/msn/15-design-choices-that-clearly-didnt-age-well/",
+          "description": "There was a time when putting carpet in a bathroom seemed like a perfectly reasonable decorating decision. Kitchens came in shades of avocado green and burnt orange, wallpaper covered nearly every available surface, and nobody seemed particularly worried about cleaning any of it. Some of those old i",
+          "date": "2026-10-20T11:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024617_-3.jpg"
+        },
+        {
+          "title": "15 Characters We Were Actually Supposed to Think Were Ugly",
+          "link": "https://www.denofgeek.com/msn/15-characters-we-were-actually-supposed-to-think-were-ugly/",
+          "description": "Hollywood has spent years trying to convince audiences that a beautiful woman becomes unattractive the moment she puts on glasses. Add messy hair, baggy clothes, or a pair of braces, and apparently nobody at school will give her a second look. Then comes the makeover, usually involving a dress and s",
+          "date": "2026-10-20T11:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024617_-2.jpg"
+        },
+        {
+          "title": "15 Places in the US With the Absolute Worst People",
+          "link": "https://www.denofgeek.com/msn/15-places-in-the-us-with-the-absolute-worst-people/",
+          "description": "A beautiful destination can, sadly, still leave you dreading the locals. Across the United States, people have very different experiences of friendliness, from cities where strangers seem permanently irritated to small towns where newcomers struggle to feel welcome. These reputations often emerge fr",
+          "date": "2026-10-20T11:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-5-3.jpg"
+        },
+        {
+          "title": "14 Photos Showing the 1970s at Their Most Memorable",
+          "link": "https://www.denofgeek.com/msn/14-photos-showing-the-1970s-at-their-most-memorable/",
+          "description": "We all remember the decades we lived through fondly, although few are remembered better than the years from 1970 to 1979. The fashion, the politics and vision people had set the foundation for everything that would come, from the glam of the 80s to the grunge of the 90s. This is why we’ll go through",
+          "date": "2026-10-20T10:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/3_1b71f8.jpg"
+        },
+        {
+          "title": "15 Times a Movie Character Suffered a Fate Worse Than Death",
+          "link": "https://www.denofgeek.com/msn/15-times-a-movie-character-suffered-a-fate-worse-than-death/",
+          "description": "When we see a movie and follow the main character around, we want them to survive no matter what. After all, that means they’ve won, right? Well, not quite. While we don’t know what happens after we die, a life of absolute suffering (or a similar fate) doesn’t sound all that enticing. We’ve gathered",
+          "date": "2026-10-20T10:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-2-3.jpg"
+        },
         {
           "title": "The Simpsons Pulled a Page from Family Guy’s Book For its Big Comeback",
           "link": "https://www.denofgeek.com/tv/the-simpsons-pulled-page-family-guy-big-comeback/",
@@ -99,55 +148,6 @@
           "description": "This article contains spoilers for the fights of Street Fighter (2026). The new Street Fighter is a wonderful, campy fever dream of an action movie featuring far too many characters. As it should be, really. The lore of Street Fighter is pretty interesting as there is more emphasis on the characters",
           "date": "2026-10-19T16:10:01+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Chun-Li-in-Street-Fighter-Movie.jpg"
-        },
-        {
-          "title": "Capcom’s Original Icon Is Back in the Spotlight with Mega Man: Dual Override",
-          "link": "https://www.denofgeek.com/games/capcom-original-icon-back-mega-man-dual-override/",
-          "description": "Not counting remasters and collections, there hasn’t been a new Mega Man game since 2018’s Mega Man 11, despite the long-running Capcom franchise being an industry icon since the ‘80s. Just in time for the series’ 40th anniversary in 2027, the new mainline game Mega Man: Dual Override is coming to v",
-          "date": "2026-10-19T14:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Mega-Man-Dual-Override.png"
-        },
-        {
-          "title": "15 Actors Who Fought Age and Won",
-          "link": "https://www.denofgeek.com/msn/15-actors-who-fought-age-and-won/",
-          "description": "Hollywood has a funny way of treating age like an expiration date, especially when it comes to actors. But some performers have spent their later years proving that the best work of a career can arrive long after the industry expects it. They have delivered award winning performances, taken on deman",
-          "date": "2026-10-19T13:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-37.jpg"
-        },
-        {
-          "title": "14 Movies You Could Never Make Again, and That’s a Shame",
-          "link": "https://www.denofgeek.com/msn/15-movies-you-could-never-make-again-and-thats-a-shame/",
-          "description": "Hollywood used to take some pretty wild risks. Studios released movies with outrageous premises, uncomfortable social commentary, questionable jokes, and scenes that would probably trigger endless debates if they premiered today. Some of these films pushed boundaries in ways that feel refreshing, wh",
-          "date": "2026-10-19T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/3_9a1e24.jpg"
-        },
-        {
-          "title": "15 Times Everything Was Ruined By Just One Person",
-          "link": "https://www.denofgeek.com/msn/15-times-everything-was-ruined-by-just-one-person/",
-          "description": "Sometimes, all it takes is one person to ruin something that everyone else enjoys. A single reckless decision can lead to new rules, a beloved tradition can disappear overnight, and one selfish move can spoil years of fun for an entire group. The frustrating part is that everyone else often ends up ",
-          "date": "2026-10-19T12:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-34.jpg"
-        },
-        {
-          "title": "The 14 Funniest Movies That Aren’t Trying to Be",
-          "link": "https://www.denofgeek.com/msn/the-14-funniest-movies-that-arent-trying-to-be/",
-          "description": "The quality of a piece of art is fully dependent on the audience, since if something makes you cry or laugh, it is really up to your own sensibilities. Of course, an artist can aim to capture a given emotion, which is why you’re often scared when watching horror movies instead of relaxed. Even with ",
-          "date": "2026-10-19T12:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-10-2.jpg"
-        },
-        {
-          "title": "15 Movies That Didn’t Care About Silly Things Like, ‘Consistency’ or ‘Logic’",
-          "link": "https://www.denofgeek.com/msn/15-movies-that-didnt-care-about-silly-things-like-consistency-or-logic/",
-          "description": "Some movie mistakes are so obvious that you wonder how they survived the editing process. A character's breakfast changes halfway through a conversation, a car suddenly looks brand new after a crash, or an entire cliff appears where there was perfectly normal ground a few minutes earlier. Of course,",
-          "date": "2026-10-19T12:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-1-1.jpg"
-        },
-        {
-          "title": "15 Actors Who Didn’t Need Stunt Doubles To Do Their Dirty Work",
-          "link": "https://www.denofgeek.com/msn/15-actors-who-didnt-need-stunt-doubles-to-do-their-dirty-work/",
-          "description": "Some actors are perfectly happy to let a stunt professional handle the dangerous stuff. Others would rather jump off the building themselves. Tom Cruise has made a career out of terrifying insurance companies, but he's hardly the first performer to take that approach. Long before Hollywood had digit",
-          "date": "2026-10-19T12:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/15_8798a3.jpg"
         }
       ]
     },
@@ -380,6 +380,20 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Another Huge Cyberpunk 2077 PS5 Update Incoming, Patch 2.5 Revealed in Livestream Tomorrow",
+          "link": "https://www.pushsquare.com/news/2026/10/another-huge-cyberpunk-2077-ps5-update-incoming-patch-2-5-revealed-in-livestream-tomorrow",
+          "description": "In collab with Edgerunners season 2. CD Projekt Red has announced it's got yet another Cyberpunk 2077 patch on the way, this time in collaboration with the second season of its anime TV show spin-off, Edgerunners . The developer will update the RPG to version 2.5 on 22nd October 2026, and tomorrow i",
+          "date": "2026-10-20T11:15:00+00:00",
+          "image": "https://images.pushsquare.com/7b51496b9b293/large.jpg"
+        },
+        {
+          "title": "5 October 2026 PS Plus Extra, Premium Games Available to Download Now",
+          "link": "https://www.pushsquare.com/news/2026/10/5-october-2026-ps-plus-extra-premium-games-available-to-download-now",
+          "description": "Or the full lineup if you're outside the UK, USA, and Japan. Today's the day for your monthly PS Plus Extra and PS Plus Premium update to come into force, with the October 2026 refresh bringing nine new additions. Obviously, because Sony is experimenting with the rollout of these games, how many you",
+          "date": "2026-10-20T09:00:00+00:00",
+          "image": "https://images.pushsquare.com/cf0660c8f731f/large.jpg"
+        },
+        {
           "title": "Review: Stupid Never Dies (PS5) - Toilet-Flushing, Monster-Munching Roguelite Stands Out in a Stacked Genre",
           "link": "https://www.pushsquare.com/reviews/ps5/stupid-never-dies",
           "description": "Basket case. With a scribblecore aesthetic and a story so unhinged it’d make even Suda51 smile, Stupid Never Dies is not your average roguelite. I think that’s important, because this debut action effort from Japanese dev GPTRACK50 is entering a genre that’s quickly becoming overstuffed with options",
@@ -434,20 +448,6 @@
           "description": "Kojima's character makes a cameo appearance. Having appeared as Hideyoshi Oshima in a Cyberpunk 2077 quest (if you searched hard enough), Metal Gear Solid and Death Stranding creator Hideo Kojima will return to the Cyberpunk 2077 universe for a cameo appearance in the anime TV show Cyberpunk: Edgeru",
           "date": "2026-10-19T15:30:00+00:00",
           "image": "https://images.pushsquare.com/caaa972b85401/large.jpg"
-        },
-        {
-          "title": "Hands On: BeamNG.drive's Insanely Ambitious Simulation Sandbox Is a Minor Miracle on PS5",
-          "link": "https://www.pushsquare.com/features/hands-on-beamng-drives-insanely-ambitious-simulation-sandbox-is-a-minor-miracle-on-ps5",
-          "description": "Will it blend? BeamNG.drive makes its debut on PS5 today, 19th October 2026, and it's unlike anything else available on the console. Squeezing this vehicular physics simulation onto the six-year-old machine is a feat that fans of driving games shouldn't ignore. This is a truly unique offering that p",
-          "date": "2026-10-19T15:00:00+00:00",
-          "image": "https://images.pushsquare.com/fbfd7d11a12e0/large.jpg"
-        },
-        {
-          "title": "Phantom Blade Zero Will Gobble Up a Massive Chunk of Your PS5's SSD",
-          "link": "https://www.pushsquare.com/news/2026/10/phantom-blade-zero-will-gobble-up-a-massive-chunk-of-your-ps5s-ssd",
-          "description": "Space raiders. If you’re planning to play Phantom Blade Zero this month, then you may want to start juggling your PS5’s storage space in anticipation. PlayStation Game Size reports that the Chinese-developed console exclusive will eat up a whopping ~135GB – and this is presumably without any planned",
-          "date": "2026-10-19T14:30:00+00:00",
-          "image": "https://images.pushsquare.com/2877079cf81b1/large.jpg"
         }
       ]
     },
