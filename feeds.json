@@ -1,84 +1,98 @@
 {
-  "updated": "2026-10-21T18:12:39.407446+00:00",
+  "updated": "2026-10-21T21:55:21.088805+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Victorian Psycho’ – FREE Sneak Screenings of Maika Monroe’s New Psychological Horror Movie",
+          "link": "https://bloody-disgusting.com/news/3972530/victorian-psycho-screenings/",
+          "description": "Maika Monroe is back in blood in Victorian Psycho, only she’s the one doing the stalking this time around. The upcoming psychological horror thriller doesn’t hit theaters until November 13th, but we’ve got the FREE and EARLY ticket. On Tuesday, October 27th, Bloody Disgusting and Bleecker Street inv",
+          "date": "2026-10-21T21:08:51+00:00",
+          "image": ""
+        },
+        {
+          "title": "Did You Catch the ‘Rawhead Rex’ Easter Egg in Jeremy Saulnier’s ‘Slayground’ Teaser?",
+          "link": "https://bloody-disgusting.com/editorials/3972818/slayground-rawhead-rex/",
+          "description": "Yesterday’s teaser debut of Jeremy Saulnier’s (Green Room, Rebel Ridge) upcoming thriller Slayground packs in the Halloween iconography from scarecrows and trick-or-treating to haunted attractions. Eagle-eyed horror fans might’ve spotted an even more curious inclusion that has us intrigued: Clive Ba",
+          "date": "2026-10-21T20:03:20+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2018/02/rawhead-rex.png?resize=1024%2C580&#038;ssl=1"
+        },
+        {
+          "title": "‘Zero Hour’ – Mysterious Ovals Appear in the Sky in Upcoming Paramount+ Sci-Fi Series",
+          "link": "https://bloody-disgusting.com/tv/3972811/zero-hour-mysterious-ovals-appear-in-the-sky-in-upcoming-paramount-sci-fi-series/",
+          "description": "Paramount+ is looking up to the skies for their next original genre series “Zero Hour,” with Deadline detailing this afternoon that the streamer is in development on the sci-fi thriller series. From writer and showrunner Matthew Michael Carnahan (World War Z, Deepwater Horizon) and AGBO (Everything ",
+          "date": "2026-10-21T19:55:32+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Ken Russell’s The Devils’ Director’s Cut Extends Theatrical Run Due To Popular Demand",
+          "link": "https://bloody-disgusting.com/movie/3972809/ken-russells-the-devils-directors-cut-extends-theatrical-run-due-to-popular-demand/",
+          "description": "The exclusive one-week run of the Director’s Cut of Ken Russell’s controversial 1971 horror movie The Devils that launched on October 16 is officially receiving an extension, due to popular demand. This past weekend, Warner Bros. Clockwork opened Ken Russell’s The Devils in 350 locations across Nort",
+          "date": "2026-10-21T19:26:33+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/The-Devils-Poster-CU-1Sheet-scaled.jpg?resize=1728%2C2560&#038;ssl=1"
+        },
+        {
+          "title": "Netflix Supernatural Series ‘Pagans’ Adds Four New Cast Members Alongside Steven Yeun",
+          "link": "https://bloody-disgusting.com/tv/3972805/netflix-pagans-adds-four-to-cast/",
+          "description": "Steven Yeun (Nope, The Walking Dead) plays a man who becomes a caretaker of two children in Netflix’s supernatural drama series Pagans, and new casting details shared by Deadline reveal a Walking Dead connection between Yeun and the actor playing his son. Sabine Grace, Logan Kim (Ghostbusters: After",
+          "date": "2026-10-21T19:02:27+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2023/05/BGM-06553.jpg?resize=1024%2C683&#038;ssl=1"
+        },
+        {
+          "title": "‘Clayface’ Review: DC’s Bold Body Horror Gamble Is At Its Best When It Gets Gross",
+          "link": "https://bloody-disgusting.com/reviews/3972755/clayface-review-dcs-bold-body-horror-gamble-is-at-its-best-when-it-gets-gross/",
+          "description": "DC Studios isn’t skittishly toe-dipping into its first-ever foray into the genre with Clayface; it’s a full-on body horror movie filled with squirm-inducing moments. At least for the first half. Director James Watkins (Speak No Evil) delivers a gnarly introduction to one of Batman’s most notorious f",
+          "date": "2026-10-21T19:00:48+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/rev-1-CLAY-T1-0005_High_Res_JPEG.jpeg?resize=1024%2C561&#038;ssl=1"
+        },
+        {
+          "title": "Mike Flanagan Recommends Six 1990s Horror Movies You Need to Watch",
+          "link": "https://bloody-disgusting.com/movie/3972776/mike-flanagan-recommends-six-1990s-horror-movies-you-need-to-watch/",
+          "description": "It’s always a treat when respected filmmakers share their own personal horror movie recommendations, and October is usually when lists of that sort start popping up around the net. James Gunn recently shared 12 body horror movies you should check out before seeing Clayface in theaters, and now Mike ",
+          "date": "2026-10-21T18:32:08+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/tumblr_3e71d317ee1add79e9ee8d5cc68ef40c_09a1f10b_1280.jpg?resize=1080%2C1350&#038;ssl=1"
+        },
+        {
+          "title": "‘Poppy Playtime’ Goes Co-Op With ‘Escape From Playtime’ in Early Access Today [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3972759/poppy-playtime-goes-co-op-with-escape-from-playtime-in-early-access-today-trailer/",
+          "description": "Mob Entertainment’s foray into expanding the Poppy Playtime universe kicks off today with the Early Access launch of their co-op spin-off, Escape From Playtime. Out now on Steam, Escape From Playtime launches into Early Access with all eight Smiling Critters available to play, including four unlocke",
+          "date": "2026-10-21T18:26:59+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Watchers’ Blu-ray Review: Dean Koontz’s Cult Creature Feature Gets a Fan-Pleasing Upgrade",
+          "link": "https://bloody-disgusting.com/reviews/3972446/watchers-blu-ray-review-fan-pleasing-upgrade/",
+          "description": "Trailing far behind Stephen King, in terms of novel-to-screen adaptations, is fellow author Dean Koontz. His ideas have generally stayed on the page, although there have been efforts to manifest them. After the novels Demon Seed and Shattered were each adapted into movies in the 1970s, we saw only o",
+          "date": "2026-10-21T18:21:15+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/watchers.jpg?resize=1024%2C547&#038;ssl=1"
+        },
         {
           "title": "Steam Next Fest: 5 Must-Play Horror Demos for the Halloween Season",
           "link": "https://bloody-disgusting.com/editorials/3972671/steam-next-fest-5-must-play-horror-demos-for-the-halloween-season/",
           "description": "Every October, I have the urge to cram in as many horror games as I possibly can to celebrate the Halloween season. What better way to get in lots of horror gaming for free than to check out Steam Next Fest? There’s always a plethora of demos to go through every time Next Fest rolls […] The post Ste",
           "date": "2026-10-21T17:59:15+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/elpaso.jpg?resize=900%2C580&#038;ssl=1"
-        },
-        {
-          "title": "Matt Mercer Joins ‘Mr Magpie’s Harmless Card Game’, Which Will Now Launch on Consoles, PC [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3972668/matt-mercer-joins-mr-magpies-harmless-card-game-which-will-now-launch-on-consoles-pc-trailer/",
-          "description": "Giant Light Studios will be bringing Mr Magpie’s Harmless Card Game to consoles. The announcement comes alongside a new trailer that reveals that Leon S. Kennedy himself, Matt Mercer, is the voice of the eponymous puppet, as well as an “early 2027” release window for the corporate horror deckbuilder",
-          "date": "2026-10-21T17:30:44+00:00",
-          "image": ""
-        },
-        {
-          "title": "14 Things We Learned from the ‘Dead & Buried’ Commentary",
-          "link": "https://bloody-disgusting.com/editorials/3972739/14-things-we-learned-from-the-dead-buried-commentary/",
-          "description": "The horror genre is filled with immense talents who left the world too soon, and the great Dan O’Bannon sits high among them. As writer/co-writer, he’s the man behind genre gems like Dark Star, Alien, Lifeforce, Total Recall, and more, and as director, he gifted horror fans with 1991’s The Resurrect",
-          "date": "2026-10-21T17:00:41+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Dead-and-buried-1981.jpg?resize=1024%2C576&#038;ssl=1"
-        },
-        {
-          "title": "‘The Headliners’ – Multiplayer Horror Video Game Getting a ‘Cloverfield’ Inspired Movie Adaptation",
-          "link": "https://bloody-disgusting.com/movie/3972757/the-headliners-multiplayer-horror-video-game-getting-a-cloverfield-inspired-movie-adaptation/",
-          "description": "Last year’s multiplayer horror video game The Headliners has been tapped for movie adaptation by Studiocanal’s genre label Sixth Dimension, Variety exclusively reports this morning. The video game adaptation is in early development at this time. Variety details, “The Headliners puts up to eight play",
-          "date": "2026-10-21T16:38:44+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/ss_db47806019517355162e7d138c5bdcd343934d4e.1920x1080.jpg?resize=1920%2C1079&#038;ssl=1"
-        },
-        {
-          "title": "Twisted Pet Sim ‘Pepper the Giant Purple Dog’ Heading to Consoles [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3972662/twisted-pet-sim-pepper-the-giant-purple-dog-heading-to-consoles-trailer/",
-          "description": "Feardemic Games and Silvercity Sharks have announced that their twist on a “harmless” pet simulator in Pepper the Giant Purple Dog will be heading to consoles. In addition to a Steam release next year, the game will also be headed to the PlayStation 5, the Xbox Series, and the Nintendo Switch. And i",
-          "date": "2026-10-21T15:27:05+00:00",
-          "image": ""
-        },
-        {
-          "title": "Jeremy Saulnier’s ‘Green Room’ Gets 10th Anniversary Halloween Re-Release With ‘Slayground’ Popcorn Bucket And Themed Menu",
-          "link": "https://bloody-disgusting.com/exclusives/3972565/jeremy-saulniers-green-room-gets-10th-anniversary-halloween-re-release-with-slayground-popcorn-bucket-and-themed-menu/",
-          "description": "Ten years ago, a punk band walked into the wrong venue and was forced into an ultra-violent bid for survival in A24’s Green Room, writer-director Jeremy Saulnier’s visceral, nerve-shredding thriller. On October 30, Alamo Drafthouse invites audiences nationwide to revisit the ferocious siege thriller",
-          "date": "2026-10-21T15:00:04+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2015/08/NxXMVz_greenroom_02_o2_8676968_1439243380.jpg?resize=1024%2C576&#038;ssl=1"
-        },
-        {
-          "title": "‘The Night Driver’ – Cineverse Buys Horror Movie Starring David Arquette, Josh Lucas & Alyssa Milano",
-          "link": "https://bloody-disgusting.com/movie/3972745/the-night-driver-cineverse-buys-horror-movie-starring-david-arquette-josh-lucas-alyssa-milano/",
-          "description": "Fresh off the film’s premiere at the Screamfest Horror Film Festival, Deadline breaks the news this week that Bloody Disgusting’s parent company Cineverse has acquired The Night Driver. From director Jeremy Weiss, The Night Driver stars Josh Lucas, David Arquette, and Alyssa Milano, and the horror m",
-          "date": "2026-10-21T14:52:05+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/MV5BZjNjYjg0ZTQtMjk5My00NTAxLWFlZjYtM2JiMjlmNzcxNzE0XkEyXkFqcGc%40._V1_-scaled.jpg?resize=1707%2C2560&#038;ssl=1"
-        },
-        {
-          "title": "Did You Spot This Original ‘Friday the 13th’ Actor in a New Role in ‘Crystal Lake’?",
-          "link": "https://bloody-disgusting.com/movie/3972735/did-you-spot-this-original-friday-the-13th-actor-in-a-new-role-in-crystal-lake/",
-          "description": "The brand new Friday the 13th prequel series “Crystal Lake” – now streaming in full on Peacock – features the screen return of several characters from the original horror classic, including Pamela Voorhees, Jason Voorhees, Officer Dorf, and original victims Barry and Claudette. But do any actors fro",
-          "date": "2026-10-21T14:29:16+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Screenshot-2026-10-18-162540.png?resize=1146%2C688&#038;ssl=1"
-        },
-        {
-          "title": "First ‘Night Tales Club’ Teaser Brings J-Horror Masters Together For Disney+ Anthology Series",
-          "link": "https://bloody-disgusting.com/tv/3972719/first-night-tales-club-teaser-brings-j-horror-masters-together/",
-          "description": "Disney+ in Japan has unveiled the first teaser for the upcoming supernatural series Night Tales Club, and the anthology has assembled an impressive filmmaker lineup filled with J-horror greats. The teaser introduces Hojo, a businessman whose obsession with the unknown leads him to solve strange myst",
-          "date": "2026-10-21T14:11:11+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘A Quiet Place Part III’ – Cillian Murphy and Jack O’Connell Playing Brothers",
-          "link": "https://bloody-disgusting.com/movie/3972724/a-quiet-place-part-iii-cillian-murphy-and-jack-oconnell-playing-brothers/",
-          "description": "John Krasinski is back to write, direct and produce the upcoming A Quiet Place Part III, and we recently learned that Jack O’Connell (Sinners) will be joining the franchise in Part III. Cillian Murphy (28 Years Later: The Bone Temple) will also be back to reprise his role from A Quiet Place Part II,",
-          "date": "2026-10-21T14:07:23+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2025/02/jackoconnell-sinners.jpg?resize=1280%2C720&#038;ssl=1"
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "Peter Jackson Partners with Colossal to Bring Giant Moa Egg Back to New Zealand",
+          "link": "https://www.denofgeek.com/culture/peter-jackson-partners-with-colossal-to-bring-giant-moa-egg-back-to-new-zealand/",
+          "description": "There are not even 40 confirmed, sufficiently complete moa eggs known about on this planet. Those that survive are a glimpse, a keyhole really, into a past and time when these great, enormous birds dominated the islands of New Zealand (or Aotearoa, as it is known in Māori). Of those less than 40 sur",
+          "date": "2026-10-21T21:54:08+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2025/07/Peter-Jackson-and-Ben-Lamm-and-the-Giant-Moa.jpg"
+        },
+        {
+          "title": "Clayface Review: A Horror Triumph for DC Studios",
+          "link": "https://www.denofgeek.com/movies/clayface-review-horror-triumph-dc-studios/",
+          "description": "It’s been a wild year for the movie industry and the world, which might explain why so many folks were nervous about whether DC Studios’ highly-anticipated, big swing of an R-Rated Clayface would be able to deliver the goods. Walking out of director James Watkins’ shockingly extreme, and enjoyable, ",
+          "date": "2026-10-21T20:41:27+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Matt-Hagen-in-Clayface.jpeg"
+        },
         {
           "title": "The 10 Best PG-13 Horror Movies",
           "link": "https://www.denofgeek.com/movies/best-pg-13-horror-movies/",
@@ -134,26 +148,26 @@
           "description": "It's hard to imagine Marilyn Monroe without her platinum blonde hair or Albert Einstein without his famously wild hairstyle. Some famous faces become so closely associated with a particular look that their earlier photographs can be genuinely surprising. Before the signature outfits, recognizable ha",
           "date": "2026-10-21T12:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-1-3.jpg"
-        },
-        {
-          "title": "15 Vintage Photos Where Work Life ‘Balance’ is Literal",
-          "link": "https://www.denofgeek.com/msn/15-vintage-photos-where-work-life-balance-is-literal/",
-          "description": "Some people complain about their office chairs. Others spend their workdays standing on steel beams hundreds of feet above traffic, cleaning windows outside skyscrapers, or climbing structures that most of us would rather admire from the sidewalk. Working at extreme heights is nothing new, either. V",
-          "date": "2026-10-21T11:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/2_d02f0e.jpg"
-        },
-        {
-          "title": "15 ‘Uncomfortable’ Facts to Make You Just a Little Uneasy",
-          "link": "https://www.denofgeek.com/msn/15-uncomfortable-facts-to-make-you-just-a-little-uneasy/",
-          "description": "Isn’t trivia fun? We all love to share little tidbits of knowledge we got from around the world. More and more though, and mostly thanks to the prevalence of the world wide web, people have been sharing the same fun facts at gatherings and parties. It’s time for an update. We need to make it memorab",
-          "date": "2026-10-21T11:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/1_c6b793.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "Review: WHEN YOU SEE IT Is One Of The Best Found Footage Movies In Years",
+          "link": "https://www.fangoria.com/review-when-you-see-it-telluride-horror-show/",
+          "description": "The low-budget found footage flick WHEN YOU SEE IT was one of the standouts at the Telluride Horror Show 2026.",
+          "date": "2026-10-21T20:00:30+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-10.50.33-AM-2-e1792605306445.png"
+        },
+        {
+          "title": "Netflix’s New Supernatural Series PAGANS Is Now A WALKING DEAD Family Reunion",
+          "link": "https://www.fangoria.com/steven-yeun-pagans-casting/",
+          "description": "Steven Yeun leads the \"horrifying and humorous\" show from SAY NOTHING creator Joshua Zetumer.",
+          "date": "2026-10-21T18:42:31+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Glenn-TWD-e1792607495995.jpeg"
+        },
         {
           "title": "Rejoice! Console Gamers Can Finally Play One Of 2024’s Most Acclaimed Horror Games",
           "link": "https://www.fangoria.com/mouthwashing-console-release-date/",
@@ -209,26 +223,19 @@
           "description": "Watch the new trailer for Season 7 of THE BOULET BROTHERS' DRAGULA, premiering on Shudder on October 27.",
           "date": "2026-10-20T20:38:44+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/rUFm8dj8-copy.jpg"
-        },
-        {
-          "title": "A Modern Horror Master’s Korean Thriller Remake Just Nabbed An A-List Star",
-          "link": "https://www.fangoria.com/james-wan-korean-thriller-remake/",
-          "description": "Banger incoming.",
-          "date": "2026-10-20T20:21:44+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Keanu-JW4.jpg"
-        },
-        {
-          "title": "THE HEIR: Amber Benson and Christopher Golden Reunite For Irish Folk Horror Comic Series [Exclusive]",
-          "link": "https://www.fangoria.com/the-heir-amber-benson-christopher-golden-irish-horror-exclusive/",
-          "description": "The SLAYERS: A BUFFYVERSE STORY writers are telling their own Irish horror tale, and Fango's got the exclusive first look.",
-          "date": "2026-10-20T17:00:13+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/theheirheader.jpg"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "EA’s New Mass Effect Game Is Being Canceled for a Heartbreaking Reason",
+          "link": "https://www.playstationlifestyle.net/2026/10/21/ea-new-mass-effect-game-canceled-heartbreaking-reason",
+          "description": "The new Mass Effect game may never see the light of day following EA’s latest announcement. The fifth installment in the beloved sci-fi franchise had been in development for nearly five years since its initial reveal. EA will shut down its long-running development studio BioWare as part of a plan to",
+          "date": "2026-10-21T21:09:18+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/Deepesh-personal-1200-675-89.png?w=1024"
+        },
         {
           "title": "Obsession’s New Video Game Crossover Has Every Inde Navarrette Fan Saying the Same Thing",
           "link": "https://www.playstationlifestyle.net/2026/10/21/fortnite-nikki-skin-obsession-fans-reaction",
@@ -291,13 +298,6 @@
           "description": "Each week Sony brings PlayStation 4, PlayStation 5, PlayStation VR, and PlayStation Plus owners new content, add-ons, games, and more. Here is the complete global PlayStation Store update. PlayStation LifeStyle catalogs the PlayStation Store updates for the major regions across the globe. Check back",
           "date": "2026-10-20T21:00:00+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2023/03/psglobalupdate.jpg?w=1024"
-        },
-        {
-          "title": "Popular PS5 Harry Potter Game Slashes Price by 85% on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/10/20/lego-harry-potter-collection-ps5-85-percent-off-playstation-store",
-          "description": "A PlayStation 5 Harry Potter game has slashed its price just two months ahead of HBO’s series premiere. The LEGO Harry Potter Collection, which sits at 4.38/5 on the PlayStation Store based on over 14,000 reviews, is now available at an 85% discount. The game, initially retailing at $39.99, is now a",
-          "date": "2026-10-20T15:00:00+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/Untitled-design-22.png?w=1024"
         }
       ]
     },
@@ -380,6 +380,27 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Sony's Revamped PS5 Pulse Headset Launches Alongside GTA 6, on 19th November",
+          "link": "https://www.pushsquare.com/news/2026/10/sonys-revamped-ps5-pulse-headset-launches-alongside-gta-6-on-19th-november",
+          "description": "Price and pre-order details confirmed. If you’re looking to upgrade your audio experience for GTA 6 , Sony has confirmed that it will launch its new revamped PlayStation Pulse headset alongside Rockstar’s highly anticipated game on 19th November. Pre-orders will open on PS Direct next week, from 10A",
+          "date": "2026-10-21T19:30:00+00:00",
+          "image": "https://images.pushsquare.com/b4b76355c836b/large.jpg"
+        },
+        {
+          "title": "Star Wars Battlefront 3 in Dev at DICE and Respawn, Multiple Sources Say",
+          "link": "https://www.pushsquare.com/news/2026/10/star-wars-battlefront-3-in-dev-at-dice-and-respawn-multiple-sources-say",
+          "description": "In a galaxy hopefully not too far away. EA will pull together its two top first-person shooter teams – Apex Legends’ Respawn and Battlefield’s DICE – to create a new Star Wars Battlefront game, Variety reports. The site cites “multiple sources” familiar with the publisher’s plans, although nothing h",
+          "date": "2026-10-21T19:00:00+00:00",
+          "image": "https://images.pushsquare.com/8dcc1dda75fd2/large.jpg"
+        },
+        {
+          "title": "PS6 Costs $200 Less to Make Than Xbox Helix, Snoop Claims",
+          "link": "https://www.pushsquare.com/news/2026/10/ps6-costs-usd200-less-to-make-than-xbox-helix-snoop-claims",
+          "description": "But how much will it matter? Following rumours that Microsoft’s next-gen Xbox Helix could cost as much as $1,800, noted hardware snoop KeplerL2 says the PS6 currently costs Sony around $200 less to manufacture. Given current trends that number could change, but it’s always been expected that Sony’s ",
+          "date": "2026-10-21T18:30:00+00:00",
+          "image": "https://images.pushsquare.com/827616a2eaff9/large.jpg"
+        },
+        {
           "title": "EA Shutting Down RPG Dev BioWare, Next Mass Effect Game Cancelled",
           "link": "https://www.pushsquare.com/news/2026/10/ea-shutting-down-rpg-dev-bioware-next-mass-effect-game-cancelled",
           "description": "400 job cuts at EA in total. EA is closing RPG studio BioWare. The maker of Mass Effect and Dragon Age will shut down as EA cuts \"around\" 400 roles within the company, which will include roughly 50 at BioWare. As a result, the next Mass Effect game has been cancelled. Read the full article on pushsq",
@@ -427,27 +448,6 @@
           "description": "Sweeping changes to Microsoft subscription in 2027. Sony’s been criticised for a lot this generation, but to its credit it looks like it’ll be proved correct about Xbox Game Pass . It feels like a long time ago now, but I remember at the start of the PS5 era, the manufacturer was under intense press",
           "date": "2026-10-21T15:30:00+00:00",
           "image": "https://images.pushsquare.com/c53817a24d981/large.jpg"
-        },
-        {
-          "title": "Feature: 40+ PS5, PS4 Games to Buy in PS Store's Planet of the Deals Sale",
-          "link": "https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-ps-stores-planet-of-the-deals-sale",
-          "description": "Recommended games going cheap. Planet of the Deals is the PS Store's latest sale, running from now until 4th November, 2026. As always, there are thousands of PS5 and PS4 games on offer, and that's an awful lot of potential purchases to scroll through. Read the full article on pushsquare.com",
-          "date": "2026-10-21T15:00:00+00:00",
-          "image": "https://images.pushsquare.com/b73e27df787ab/large.jpg"
-        },
-        {
-          "title": "Fans Have Done What SEGA's Scared to Do: Remaster the Craziest Yakuza Game",
-          "link": "https://www.pushsquare.com/news/2026/10/fans-have-done-what-segas-scared-to-do-remaster-the-craziest-yakuza-game",
-          "description": "Not-so-Dead Souls. If you're at all familiar with Yakuza: Dead Souls , then congratulations, you're a True Fan (capitalised) of SEGA's long-running series. Unfortunately, the frankly insane spin-off, which sees series protagonist Kiryu and his pals shoot their way through a zombie-plagued Kamurocho,",
-          "date": "2026-10-21T14:30:00+00:00",
-          "image": "https://images.pushsquare.com/baf80f241e114/large.jpg"
-        },
-        {
-          "title": "You Won't Have to Wait Long for The Apothecary Diaries' PS5 Game",
-          "link": "https://www.pushsquare.com/news/2026/10/you-wont-have-to-wait-long-for-the-apothecary-diaries-ps5-game",
-          "description": "Yes, you can play as Maomao the Cat. Light novel, manga, and anime sensation The Apothecary Diaries is coming to the PS5 on 18th March, according to a new Japanese trailer. While I’m still waiting for English PR – and will update once Koei Tecmo sends that through – a new trailer confirms that chara",
-          "date": "2026-10-21T14:15:00+00:00",
-          "image": "https://images.pushsquare.com/1c578a55c29f5/large.jpg"
         }
       ]
     },
