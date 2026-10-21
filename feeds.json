@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T01:54:37.721905+00:00",
+  "updated": "2026-10-21T07:22:40.413945+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,20 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "VisionQuest Makes One of Marvel’s Lamer Villains Into Something Cool",
+          "link": "https://www.denofgeek.com/tv/visionquest-marvel-lame-villain-intosomething-cool-paladdin/",
+          "description": "With abilities that include flight, strength, intangibility, and laser beams, the Vision is one of the most formidable heroes in the Marvel bullpen. He’s gone against the galaxy’s greatest villains, including his own maker, the genocidal robot Ultron. But with Ultron off the board in the new show Vi",
+          "date": "2026-10-21T02:01:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Paladin-VisionQuest.jpg"
+        },
+        {
+          "title": "VisionQuest Episode 4 Review: Changing Channels",
+          "link": "https://www.denofgeek.com/tv/visionquest-episode-4-review/",
+          "description": "This article contains spoilers for VisionQuest season 1 episode 4. Now halfway through VisionQuest’s eight-episode season, we’ve seen E.D.I.T.H. don all sorts of costumes. But it’s not really until she puts on a duster, chews a toothpick, and explains the photos and strings on an evidence board that",
+          "date": "2026-10-21T02:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/TM_Trailer2_Still_3.jpg"
+        },
+        {
           "title": "VisionQuest Episode 3 Review: Fake People, Real Emotions",
           "link": "https://www.denofgeek.com/tv/visionquest-episode-3-review/",
           "description": "This article contains spoilers for VisionQuest season 1 episode 3. We watchers of the Marvel Cinematic Universe know that Robert Downey Jr. is coming back in mere months, this time as Doctor Doom in Avengers: Doomsday. But the MCU still isn’t over Tony Stark, a point that VisionQuest makes when F.R.",
@@ -134,20 +148,6 @@
           "description": "If you had a good stereo, a few friends, and somewhere to hang out, 1978 had plenty to offer. Disco was everywhere, skateboarding was taking off, and video games were finding their way into living rooms. People threw parties in their backyards, dressed up for Halloween, and went to concerts wearing ",
           "date": "2026-10-20T11:45:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-1-2.jpg"
-        },
-        {
-          "title": "15 Design Choices That Clearly Didn’t Age Well",
-          "link": "https://www.denofgeek.com/msn/15-design-choices-that-clearly-didnt-age-well/",
-          "description": "There was a time when putting carpet in a bathroom seemed like a perfectly reasonable decorating decision. Kitchens came in shades of avocado green and burnt orange, wallpaper covered nearly every available surface, and nobody seemed particularly worried about cleaning any of it. Some of those old i",
-          "date": "2026-10-20T11:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024617_-3.jpg"
-        },
-        {
-          "title": "15 Characters We Were Actually Supposed to Think Were Ugly",
-          "link": "https://www.denofgeek.com/msn/15-characters-we-were-actually-supposed-to-think-were-ugly/",
-          "description": "Hollywood has spent years trying to convince audiences that a beautiful woman becomes unattractive the moment she puts on glasses. Add messy hair, baggy clothes, or a pair of braces, and apparently nobody at school will give her a second look. Then comes the makeover, usually involving a dress and s",
-          "date": "2026-10-20T11:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024617_-2.jpg"
         }
       ]
     },
