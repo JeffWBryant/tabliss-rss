@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-21T07:22:40.413945+00:00",
+  "updated": "2026-10-21T13:07:34.244228+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "IllFonic Introduces Scythe-Wielding ‘Halloween 5’ Michael Myers Skin for ‘Halloween: The Game’ [Teaser]",
+          "link": "https://bloody-disgusting.com/video-games/3972653/illfonic-introduces-scythe-wielding-halloween-5-michael-myers-skin-for-halloween-the-game-teaser/",
+          "description": "That certainly didn’t take long. After just showing off the various costumes as part of the Special Halloween Civilian Costumes Pack, IllFonic has released a new teaser that reveals the Halloween 5: The Revenge of Michael Myers skin for Halloween: The Game, complete with scythe. The skin will launch",
+          "date": "2026-10-21T11:30:33+00:00",
+          "image": ""
+        },
         {
           "title": "How ‘The Cycle’ Became the Year’s Biggest Genre-Bending Surprise [INTERVIEW]",
           "link": "https://bloody-disgusting.com/movie/3972585/the-cycle-interview-deborah-ann-woll-jeffrey-donovan-jordan-downey/",
@@ -66,13 +73,6 @@
           "description": "Ghoulies co-writer and producer Jefery Levy announced plans to reboot the cult classic creature feature in 2024, but the project went quiet soon after. Brain Mutant reports that a legal battle nearly derailed the reboot, but it’s now back on track and aiming for 2027 production. Director/Co-Writer L",
           "date": "2026-10-20T19:32:17+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2014/10/ghoulies.gif?resize=640%2C342&#038;ssl=1"
-        },
-        {
-          "title": "Telluride Horror Show Days 2 & 3: Pig Roasts, Horror Shorts, And Halloween Magic",
-          "link": "https://bloody-disgusting.com/the-further/3972576/telluride-horror-show-days-2-3-pig-roasts-horror-shorts-and-halloween-magic/",
-          "description": "The scenic Telluride Horror Show has wrapped its 17th edition, but not without packing days 2 and 3 of the fest full of screenings and events, from the Horror Book Fair and guest author signing to the annual Pig Roast, and more late-night horror. Day two kicked off with author talks and a book fair ",
-          "date": "2026-10-20T18:31:11+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/horror-1H0A8413.jpg?resize=1024%2C683&#038;ssl=1"
         }
       ]
     },
@@ -80,80 +80,87 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
-          "title": "VisionQuest Makes One of Marvel’s Lamer Villains Into Something Cool",
-          "link": "https://www.denofgeek.com/tv/visionquest-marvel-lame-villain-intosomething-cool-paladdin/",
-          "description": "With abilities that include flight, strength, intangibility, and laser beams, the Vision is one of the most formidable heroes in the Marvel bullpen. He’s gone against the galaxy’s greatest villains, including his own maker, the genocidal robot Ultron. But with Ultron off the board in the new show Vi",
-          "date": "2026-10-21T02:01:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Paladin-VisionQuest.jpg"
+          "title": "Slow Horses Season 6 Ending Explained: What Happened to River?",
+          "link": "https://www.denofgeek.com/tv/slow-horses-season-6-ending-explained/",
+          "description": "This article contains spoilers for the season 6 finale of Slow Horses and Mick Herron’s Slough House book series In the explosive finale of Slow Horses season 6, lives are lost and deals are made to protect the remaining joes of Slough House. After Jackson Lamb and his team get together to toast the",
+          "date": "2026-10-21T13:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/09/Slow_Horses.jpg"
         },
         {
-          "title": "VisionQuest Episode 4 Review: Changing Channels",
-          "link": "https://www.denofgeek.com/tv/visionquest-episode-4-review/",
-          "description": "This article contains spoilers for VisionQuest season 1 episode 4. Now halfway through VisionQuest’s eight-episode season, we’ve seen E.D.I.T.H. don all sorts of costumes. But it’s not really until she puts on a duster, chews a toothpick, and explains the photos and strings on an evidence board that",
-          "date": "2026-10-21T02:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/TM_Trailer2_Still_3.jpg"
+          "title": "15 Cars, Seen Before We Used Them for Social Media Clout",
+          "link": "https://www.denofgeek.com/msn/15-cars-seen-before-we-used-them-for-social-media-clout/",
+          "description": "Cars were turning heads long before anyone could post a photo of their new ride online. People took their automobiles on family vacations, decorated them for parades, and posed beside them in their Sunday best. Of course, owning a car also meant dealing with muddy roads, mechanical trouble, and the ",
+          "date": "2026-10-21T12:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/3_25cf10.jpg"
         },
         {
-          "title": "VisionQuest Episode 3 Review: Fake People, Real Emotions",
-          "link": "https://www.denofgeek.com/tv/visionquest-episode-3-review/",
-          "description": "This article contains spoilers for VisionQuest season 1 episode 3. We watchers of the Marvel Cinematic Universe know that Robert Downey Jr. is coming back in mere months, this time as Doctor Doom in Avengers: Doomsday. But the MCU still isn’t over Tony Stark, a point that VisionQuest makes when F.R.",
-          "date": "2026-10-21T01:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/VisionQuest_TF_2-2.jpg"
+          "title": "13 People Share Things They Saw That Made Them Deeply Uncomfortable",
+          "link": "https://www.denofgeek.com/msn/13-people-share-things-they-saw-that-made-them-deeply-uncomfortable/",
+          "description": "Not everything creepy happens in an abandoned mansion at midnight. Sometimes it's a strange doll sitting in an attic, a hotel hallway that seems to go on forever, or an ordinary object discovered somewhere it definitely doesn't belong. Reddit users have shared plenty of unsettling photographs that d",
+          "date": "2026-10-21T12:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-2-1.jpg"
         },
         {
-          "title": "The Greatest Gross Horror Movies Ever Made",
-          "link": "https://www.denofgeek.com/movies/greatest-gross-movies-ever-made/",
-          "description": "Everyone loves horror movies in October. Every year when spooky season comes around, even your timid grandma likes to put on something that makes her skin crawl at least a little. But for the weirdos who watch horror movies 12 months out of the year, October is a chance to kick it up a notch. […] Th",
-          "date": "2026-10-20T21:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/The-Evil-Dead-2013.png"
+          "title": "15 Famous People Who Look Completely Different in Their Earliest Photos",
+          "link": "https://www.denofgeek.com/msn/15-famous-people-who-look-completely-different-in-their-earliest-photos/",
+          "description": "It's hard to imagine Marilyn Monroe without her platinum blonde hair or Albert Einstein without his famously wild hairstyle. Some famous faces become so closely associated with a particular look that their earlier photographs can be genuinely surprising. Before the signature outfits, recognizable ha",
+          "date": "2026-10-21T12:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-1-3.jpg"
         },
         {
-          "title": "15 Sitcoms That Would Be Legitimately Uncomfortable Without Their Laugh Track",
-          "link": "https://www.denofgeek.com/msn/15-sitcoms-that-would-be-legitimately-uncomfortable-without-their-laugh-track/",
-          "description": "Sitcoms have a very particular formula, one that can fill us with comfort once we get used to its familiarity. There’s a setup, a punchline, and the loud roar of a studio audience telling us exactly when to chuckle. It’s a comforting rhythm that has been the backbone of television comedy for decades",
-          "date": "2026-10-20T13:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/2_1f9abe.jpg"
+          "title": "15 Vintage Photos Where Work Life ‘Balance’ is Literal",
+          "link": "https://www.denofgeek.com/msn/15-vintage-photos-where-work-life-balance-is-literal/",
+          "description": "Some people complain about their office chairs. Others spend their workdays standing on steel beams hundreds of feet above traffic, cleaning windows outside skyscrapers, or climbing structures that most of us would rather admire from the sidewalk. Working at extreme heights is nothing new, either. V",
+          "date": "2026-10-21T11:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/2_d02f0e.jpg"
         },
         {
-          "title": "The Best Version of Clayface Isn’t in Batman: The Animated Series",
-          "link": "https://www.denofgeek.com/tv/best-version-clayface-isnt-batman-the-animated-series/",
-          "description": "Since Clayface began production, one key influence has lingered over the movie. Mike Flanagan, who penned the screenplay, named the Batman: The Animated Series two-part episode “Feat of Clay” as a major inspiration. Flanagan chose well, as “Feat of Clay” has all the hallmarks of a great Batman story",
-          "date": "2026-10-20T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Clayface-in-The-Batman-2004.png"
+          "title": "15 ‘Uncomfortable’ Facts to Make You Just a Little Uneasy",
+          "link": "https://www.denofgeek.com/msn/15-uncomfortable-facts-to-make-you-just-a-little-uneasy/",
+          "description": "Isn’t trivia fun? We all love to share little tidbits of knowledge we got from around the world. More and more though, and mostly thanks to the prevalence of the world wide web, people have been sharing the same fun facts at gatherings and parties. It’s time for an update. We need to make it memorab",
+          "date": "2026-10-21T11:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/1_c6b793.jpg"
         },
         {
-          "title": "15 Cinematic Tricks You’ll Notice the Next Time You See Them Used",
-          "link": "https://www.denofgeek.com/msn/15-cinematic-tricks-youll-notice-the-next-time-you-see-them-used/",
-          "description": "The term ‘movie magic’ has been used since the inception of cinema, although today it’s mostly used to describe CGI more than anything else. While what can be done with CGI is nothing less than impressive, it isn’t the only way to create magic, or rather, the illusion of something happening before y",
-          "date": "2026-10-20T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-1-3.jpg"
+          "title": "15 People Share Simple Things That Strike Them as Just a Bit Strange",
+          "link": "https://www.denofgeek.com/msn/15-people-share-simple-things-that-strike-them-as-just-a-bit-strange/",
+          "description": "People love to share all kinds of things over the internet, particularly on Reddit. There, they share pictures of events that seem just a little bit strange to them, even if they likely have some form of explanation attached to them. As surfers of the web, we love to see what people around the world",
+          "date": "2026-10-21T11:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-9-3.jpg"
         },
         {
-          "title": "15 Funny Photos from History We Can’t Help But Laugh At",
-          "link": "https://www.denofgeek.com/msn/15-funny-photos-from-history-we-cant-help-but-laugh-at/",
-          "description": "Looking at old photographs, it's clear that people have always enjoyed making fools of themselves. There were ridiculous costumes, enormous hats, questionable attempts at acrobatics, and apparently even chess games played with actual people. Some posed proudly for the camera, while others couldn't r",
-          "date": "2026-10-20T12:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/4_bbd322.jpg"
+          "title": "15 Doctors Share What They Don’t Tell the Patients, Even if They Want To",
+          "link": "https://www.denofgeek.com/msn/15-doctors-share-what-they-dont-tell-the-patients-even-if-they-want-to/",
+          "description": "Doctors sometimes have thoughts they can't share in the blunt, unfiltered way they'd express them outside the exam room. A Reddit thread asking medical professionals what they wish they could tell patients offered a revealing mix of frustration, hard-earned perspective, and a little dose of dark hum",
+          "date": "2026-10-21T11:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-8-3.jpg"
         },
         {
-          "title": "15 People Taking Their Hobbies Way Too Seriously",
-          "link": "https://www.denofgeek.com/msn/15-people-taking-their-hobbies-way-too-seriously/",
-          "description": "Most hobbies start innocently enough. You buy a few LEGO sets, pick up a board game, or bring home a houseplant because the corner looks empty. Then another purchase seems reasonable, followed by a third, and suddenly you're rearranging furniture to make room for everything. Some people spend years ",
-          "date": "2026-10-20T12:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/3_39ec4f.jpg"
+          "title": "15 Images of People Sharing Their Fandoms With Bad Tats",
+          "link": "https://www.denofgeek.com/msn/15-images-of-people-sharing-their-fandoms-with-bad-tats/",
+          "description": "A common way to immortalize your preferred fandom is to have a tattoo of it, carrying it with you on your skin forever more. In any case, having a good tattoo made of that subject depends on the design and the artist involved. These following tattoos had one of those two elements go wrong. We’ve gat",
+          "date": "2026-10-21T10:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-7-3.jpg"
         },
         {
-          "title": "15 Photos of 1978 Being the Best Time to Be Alive",
-          "link": "https://www.denofgeek.com/msn/15-photos-of-1978-being-the-best-time-to-be-alive/",
-          "description": "If you had a good stereo, a few friends, and somewhere to hang out, 1978 had plenty to offer. Disco was everywhere, skateboarding was taking off, and video games were finding their way into living rooms. People threw parties in their backyards, dressed up for Halloween, and went to concerts wearing ",
-          "date": "2026-10-20T11:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-1-2.jpg"
+          "title": "The 15 Most Iconic Moments From Vintage Cinema",
+          "link": "https://www.denofgeek.com/msn/the-15-most-iconic-moments-from-vintage-cinema/",
+          "description": "There are several things that make a moment iconic, but the key factor is time. We can’t know for sure what will be considered iconic in the future, since we’re living in the present. We do remember the past, and when something is repeated enough, it becomes part of the wider consciousness. Repetiti",
+          "date": "2026-10-21T10:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-6-3.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "J-Horror Heavyweights Unite For New Supernatural Anthology Series",
+          "link": "https://www.fangoria.com/night-tales-club-j-horror-series/",
+          "description": "Kiyoshi Kurosawa, Takashi Shimizu and more will bring to life the terrors of the NIGHT TALES CLUB. Watch the first teaser within.",
+          "date": "2026-10-21T12:50:04+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/NIGHT-TALES-CLUB-scaled.png"
+        },
         {
           "title": "AMERICAN HORROR STORY Renewed For Season 14",
           "link": "https://www.fangoria.com/american-horror-story-season-14-renewed/",
@@ -216,19 +223,26 @@
           "description": "STUPID NEVER DIES never quite reaches its full potential, but the zombie roguelite game is still worth playing.",
           "date": "2026-10-19T22:00:39+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Stupid-Never-Dies-Hero-Image.png"
-        },
-        {
-          "title": "Zombie Sheep, No Sleep & Demon Knights: Telluride Horror Show Day 3 Recap",
-          "link": "https://www.fangoria.com/zombie-sheep-no-sleep-demon-knights-telluride-horror-show-day-3-recap/",
-          "description": "The festival has come to an end, and we're bummed about it!",
-          "date": "2026-10-19T20:28:36+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/telluride-horrror-show-day-3-header.jpg"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "Best PS5 Role-Playing Game on PS Plus Getting Big Free Update",
+          "link": "https://www.playstationlifestyle.net/2026/10/21/ps-plus-ps5-rpg-cyberpunk-2077-free-game-update-2-5",
+          "description": "The best and most popular PS5 role-playing game on PS Plus is surprising players with another free update, and it’s a big one. CD Projekt RED will fully reveal Cyberpunk 2077 update 2.5 in a livestream today, but an overview was leaked by a content creator with early access. What we know about PS Pl",
+          "date": "2026-10-21T12:58:44+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/ps-plus-game-Cyberpunk-2077-free-update.jpg?w=1024"
+        },
+        {
+          "title": "Second PS5 System Update for October 2026 Rolled Out",
+          "link": "https://www.playstationlifestyle.net/2026/10/21/ps5-system-software-firmware-update-october-21",
+          "description": "Sony Interactive Entertainment has stealth-dropped PS5 system software update 26.07-14.20.00 — the second firmware update for October 2026. Like the previous update, don’t expect anything exciting from this one. PS5 system software update 26.07-14.20.00 patch notes (October 21, 2026) “We’ve improved",
+          "date": "2026-10-21T11:40:41+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/03/ps5-and-ps5-pro-system-software-update.jpg?w=1024"
+        },
         {
           "title": "Beloved PS2 Action-Adventure Game Gets Release Date Trailer for Next Month",
           "link": "https://www.playstationlifestyle.net/2026/10/20/beloved-ps2-action-adventure-game-release-date-trailer-for-next-month",
@@ -284,26 +298,19 @@
           "description": "PS Plus Extra and Premium October 2026 games have begun rolling out in regions where it’s now Tuesday the 20th, with their release staggered by region. As a reminder, Sony has a different release schedule in the US, UK, and Japan, so players in these three regions will not be able to access the full",
           "date": "2026-10-20T02:26:07+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/09/ps-plus-october.jpg?w=1024"
-        },
-        {
-          "title": "Games Leaving PlayStation Plus in November 2026 Confirmed",
-          "link": "https://www.playstationlifestyle.net/2026/10/19/games-leaving-ps-plus-extra-premium-november-2026",
-          "description": "PS Store has revealed the list of games leaving PS Plus Extra and Premium in November 2026, as the October lineup has begun rolling out in regions where it’s midday Tuesday, the 20th. As we recently shared, Grand Theft Auto V headlines the games departing next month. List of games leaving PS Plus Ex",
-          "date": "2026-10-20T02:24:22+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2024/08/games-leaving-ps-plus-last-chance-to-play.jpg?w=1024"
-        },
-        {
-          "title": "Star Wars Battlefront 3 Rumor Suggests Two Major Studios Could Take Over the Franchise",
-          "link": "https://www.playstationlifestyle.net/2026/10/19/star-wars-battlefront-3-developer-rumor-bungie-dice",
-          "description": "An update has surfaced online about which studio might be helming Star Wars Battlefront 3. The post Star Wars Battlefront 3 Rumor Suggests Two Major Studios Could Take Over the Franchise appeared first on PlayStation LifeStyle .",
-          "date": "2026-10-19T22:59:49+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/swa.jpg?w=1024"
         }
       ]
     },
     "PlayStation Blog": {
       "url": "https://blog.playstation.com/feed/",
       "articles": [
+        {
+          "title": "PlayStation Store’s Planet of the Deals promotion is live now",
+          "link": "https://blog.playstation.com/2026/10/21/playstation-stores-planet-of-the-deals-promotion-is-live-now/",
+          "description": "Embark on a new adventure with PlayStation Store’s latest promotion, Planet of the Deals, which is live now. Players can browse hundreds of PS5 and PS4 games featured in the deals and which are discounted for a limited time.* You can preview a selection of titles right now with the below list. Then,",
+          "date": "2026-10-21T12:00:08+00:00",
+          "image": ""
+        },
         {
           "title": "How Final Fantasy Resonance uses Visions to change how we see the series",
           "link": "https://blog.playstation.com/2026/10/20/how-final-fantasy-resonance-uses-visions-to-change-how-we-see-the-series/",
@@ -366,19 +373,54 @@
           "description": "Picture this: A chilly autumn breeze ripples through the forest as a battalion of Automatons amble towards an outpost. They move together like cogs in a larger wheel, chanting in their electric tongues as they march, when a peal of thunder breaks their mechanical trance. But it’s not thunder. It’s y",
           "date": "2026-10-13T13:00:36+00:00",
           "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-        },
-        {
-          "title": "Escape Academy 2: Back 2 School comes to PS5 on November 5",
-          "link": "https://blog.playstation.com/2026/10/13/escape-academy-2-back-2-school-comes-to-ps5-on-november-5/",
-          "description": "Hello Puzzlers and PlayStation fans! The team at Coin Crew Games is excited to share that Escape Academy 2: Back 2 School will be coming to PS5 on November 5. To celebrate, we are sharing some deep-dive information about what players can expect in this sequel that expands the first game from a more ",
-          "date": "2026-10-13T12:04:54+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
         }
       ]
     },
     "Push Square": {
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
+        {
+          "title": "You Won't Have to Wait Long for The Apothecary Diaries' PS5 Game",
+          "link": "https://www.pushsquare.com/news/2026/10/you-wont-have-to-wait-long-for-the-apothecary-diaries-ps5-game",
+          "description": "Yes, you can play as Maomao the Cat. Light novel, manga, and anime sensation The Apothecary Diaries is coming to the PS5 on 18th March, according to a new Japanese trailer. While I’m still waiting for English PR – and will update once Koei Tecmo sends that through – a new trailer confirms that chara",
+          "date": "2026-10-21T13:00:00+00:00",
+          "image": "https://images.pushsquare.com/1c578a55c29f5/large.jpg"
+        },
+        {
+          "title": "First-Person Soulslike Valor Mortis an Official Success, Now Turning a Profit",
+          "link": "https://www.pushsquare.com/news/2026/10/first-person-soulslike-valor-mortis-an-official-success-now-turning-a-profit",
+          "description": "Game breaks even after one week. Valor Mortis is now officially making a profit for developer One More Level and publisher Lyrical Games, as revealed by the latter on social media. It took just one week on the market for it to break even, meaning all the costs of the game's development have been rec",
+          "date": "2026-10-21T12:15:00+00:00",
+          "image": "https://images.pushsquare.com/d4da48a82bd0b/large.jpg"
+        },
+        {
+          "title": "You've Not Seen Anything Like This Bizarre PS5 Open World RPG, Ordinary Oddness",
+          "link": "https://www.pushsquare.com/news/2026/10/youve-not-seen-anything-like-this-bizarre-ps5-open-world-rpg-ordinary-oddness",
+          "description": "Extraordinary. I wasn't sure what to expect going into the announcement trailer for Ordinary Oddness , and it's left me with more questions than answers, but I think that's sort of the point. This is a new open world RPG from publisher Tencent and developer COSMICPUP, and its 22-minute debut video i",
+          "date": "2026-10-21T11:00:00+00:00",
+          "image": "https://images.pushsquare.com/627f3f9ab931d/large.jpg"
+        },
+        {
+          "title": "PS5 Firmware Update 26.07-14.20.00 Available to Download Now",
+          "link": "https://www.pushsquare.com/news/2026/10/ps5-firmware-update-26-07-14-20-00-available-to-download-now",
+          "description": "What does version 26.07-14.20.00 do? Sony has today pushed live a new PS5 firmware patch that updates the console to version number 26.07-14.20.00. The new firmware is live now, so you should be prompted to download it shortly. As per the official PlayStation website , the single patch note for upda",
+          "date": "2026-10-21T09:00:00+00:00",
+          "image": "https://images.pushsquare.com/4cad35fc2b20a/large.jpg"
+        },
+        {
+          "title": "Crimson Desert Reveals Just How Big Its PS5 DLC Really Is in New Trailer",
+          "link": "https://www.pushsquare.com/news/2026/10/crimson-desert-reveals-just-how-big-its-ps5-dlc-really-is-in-new-trailer",
+          "description": "Get a full overview of Charting the Unknown. Crimson Desert studio Pearl Abyss doesn't do things by halves; it's demonstrated how it's the literal embodiment of the phrase \"go big or go home\" in the video game industry. After a stupidly large base game and an absurd amount of post-launch patches, th",
+          "date": "2026-10-21T08:45:00+00:00",
+          "image": "https://images.pushsquare.com/f82fe3de274f6/large.jpg"
+        },
+        {
+          "title": "Guide: All PS Plus Games Available Now",
+          "link": "https://www.pushsquare.com/guides/all-ps-plus-games-available-now",
+          "description": "Every PS Plus game, updated in one place. We’re tracking every PS Plus game available now, so you always know exactly what’s included in your tier of Sony’s subscription service. This page lists all current PS Plus Essential , PS Plus Extra , and PS Plus Premium games across PS5 and PS4 , alongside ",
+          "date": "2026-10-21T08:00:00+00:00",
+          "image": "https://images.pushsquare.com/82a68dc7ca28d/large.jpg"
+        },
         {
           "title": "Xbox to Slash Even More Jobs This Month, with Further Cuts in November and January",
           "link": "https://www.pushsquare.com/news/2026/10/xbox-to-slash-even-more-jobs-this-month-with-further-cuts-in-november-and-january",
@@ -406,48 +448,6 @@
           "description": "And a PS6 could be priced similarly. No matter how well they run games or how much better they make them look, the chatter surrounding the next-gen PS6 and Xbox Helix will almost certainly be dominated by their price points. Video game technology has reached a point where graphical leaps aren't so o",
           "date": "2026-10-20T20:00:00+00:00",
           "image": "https://images.pushsquare.com/91264711a465c/large.jpg"
-        },
-        {
-          "title": "EA Boxing Series Fight Night Back for Another Round, New Game Teased",
-          "link": "https://www.pushsquare.com/news/2026/10/ea-boxing-series-fight-night-back-for-another-round-new-game-teased",
-          "description": "\"Fight Night is coming back\". EA has revealed that its Fight Night boxing franchise, which ran during the PS2 and PS3 days, is returning. A new social media account has been set up, and its first post teases: \"To everyone who stayed in our corner: Fight Night is coming back.\" Read the full article o",
-          "date": "2026-10-20T19:30:00+00:00",
-          "image": "https://images.pushsquare.com/cf6ac0baf6f48/large.jpg"
-        },
-        {
-          "title": "PS Plus Discounts Announced for The Wolf Among Us Remastered PS5",
-          "link": "https://www.pushsquare.com/news/2026/10/ps-plus-discounts-announced-for-the-wolf-among-us-remastered-ps5",
-          "description": "Up to 50% off $24.99 game. Telltale Games has revealed a range of price discounts for The Wolf Among Us Remastered based on whether you own the original PS4 version and if you're a PS Plus subscriber. Launching next week on 29th October 2026, the remastered PS5 version has a new story trailer (viewa",
-          "date": "2026-10-20T19:00:00+00:00",
-          "image": "https://images.pushsquare.com/0b0f635a3831a/large.jpg"
-        },
-        {
-          "title": "JRPG Villion: Code Adds to the Insanity of PS5's January Release Schedule",
-          "link": "https://www.pushsquare.com/news/2026/10/jrpg-villion-code-adds-to-the-insanity-of-ps5s-january-release-schedule",
-          "description": "With character designs by one of my fave artists. The vacuum created by GTA 6 expands into next year, with January already looking like a hectic period for PS5 games. Highlights include Ananta , Stranger Than Heaven , and Until Dawn 2 – but now Idea Factory International is throwing its hat into the",
-          "date": "2026-10-20T18:00:00+00:00",
-          "image": "https://images.pushsquare.com/8a643bd82cab8/large.jpg"
-        },
-        {
-          "title": "Free Fallout 4 DLC Sees Modders Bring Back Original Voice Actors for a Spooky Adventure on PS5",
-          "link": "https://www.pushsquare.com/news/2026/10/free-fallout-4-dlc-sees-modders-bring-back-original-voice-actors-for-a-spooky-adventure-on-ps5",
-          "description": "FEVer Dreams out now. Bethesda definitely seems to be going a bit harder on bringing its official Creations to PS5. Just like with Skyrim earlier in the month, modding team Kinggath Creations has released a new DLC for Fallout 4 , in partnership with Bethesda. Read the full article on pushsquare.com",
-          "date": "2026-10-20T17:30:00+00:00",
-          "image": "https://images.pushsquare.com/36bea2e13d2c4/large.jpg"
-        },
-        {
-          "title": "'Campaign Is Easily Top Three': Modern Warfare 4's Early User Reviews Are Shockingly Positive",
-          "link": "https://www.pushsquare.com/news/2026/10/campaign-is-easily-top-three-modern-warfare-4s-early-user-reviews-are-shockingly-positive",
-          "description": "Shoot to thrill. Call of Duty: Modern Warfare 4 is enjoying some really positive word of mouth right now. The game's campaign is playable early, and it's attracting thousands of satisfied reviews on Steam, where the title currently sits at a 'Very Positive' rating. Read the full article on pushsquar",
-          "date": "2026-10-20T17:00:00+00:00",
-          "image": "https://images.pushsquare.com/5262e7fdb0a99/large.jpg"
-        },
-        {
-          "title": "The Best Dead Space Can Get Now Is a Crossover in a Different Game",
-          "link": "https://www.pushsquare.com/news/2026/10/the-best-dead-space-can-get-now-is-a-crossover-in-a-different-game",
-          "description": "Now a multiplayer event in Battlefield 6. If you want the newest content from the Dead Space universe, you won't be booting up the latest PS5 creation starring Isaac Clarke — you'll actually just be playing Battlefield 6 . The shooter has a new time-limited event that starts today and runs until 10t",
-          "date": "2026-10-20T16:00:00+00:00",
-          "image": "https://images.pushsquare.com/c4b586a2da8c3/large.jpg"
         }
       ]
     },
