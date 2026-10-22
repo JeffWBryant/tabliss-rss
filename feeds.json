@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-22T20:29:39.646780+00:00",
+  "updated": "2026-10-22T23:32:51.211573+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Charli xcx To Cameo In Martin Scorsese’s Gothic Horror Movie ‘What Happens at Night’",
+          "link": "https://bloody-disgusting.com/movie/3973012/charli-xcx-to-cameo-in-martin-scorseses-gothic-horror-movie-what-happens-at-night/",
+          "description": "Leonardo DiCaprio and Jennifer Lawrence star in Martin Scorsese’s gothic horror movie What Happens at Night, and Variety reports that pop star Charli xcx will join in a cameo role. Described as a Gothic psychological horror film, What Happens at Night is a dream-like story of a married American coup",
+          "date": "2026-10-22T21:39:03+00:00",
+          "image": ""
+        },
         {
           "title": "‘Alien’ Actor Tom Skerritt Has Passed Away At 93 Years Old",
           "link": "https://bloody-disgusting.com/news/3973004/alien-actor-tom-skerritt-has-passed-away-at-93-years-old/",
@@ -65,13 +72,6 @@
           "link": "https://bloody-disgusting.com/video-games/3972931/saber-interactive-celebrates-such-sights-in-new-hellraiser-revival-accolades-trailer-watch/",
           "description": "Saber Interactive has unleashed a new trailer for Clive Barker’s Hellraiser: Revival, celebrating the accolades that the single-player survival horror title has garnered since it was let out of the box earlier this month. Coming hot off the launch on PC via Steam, PlayStation 5, the Xbox Series, and",
           "date": "2026-10-22T16:32:58+00:00",
-          "image": ""
-        },
-        {
-          "title": "New Season Update for ‘The Outlast Trials’ Brings Back the “Geister” Program [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3972844/new-season-update-for-the-outlast-trials-brings-back-the-geister-program-trailer/",
-          "description": "Red Barrels is following up from last month’s “Chemical Leak” event with their Season 7.2 Update “Geister”, which sees the return of the nefarious Program. Reagents must band together to find Intel that may bring them closer to their long-awaited dreams of escape in Phase 3, or they can entertain th",
-          "date": "2026-10-22T15:30:35+00:00",
           "image": ""
         }
       ]
@@ -230,6 +230,13 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "3 Beloved PS4, PS5 Adventure Game Remasters Are 80% Off on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/10/22/tomb-raider-i-iii-remastered-ps5-80-percent-off",
+          "description": "A beloved collection of classic action-adventure games for PlayStation 4 and PlayStation 5 is available at a discount on the PlayStation Store. The collection currently holds an average rating of 4.16 out of 5 from more than 12,000 player ratings. Tomb Raider I-III Remastered Starring Lara Croft is ",
+          "date": "2026-10-22T22:34:53+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/3-Beloved-PS4-PS5-Adventure-Game-Remasters-Are-80-Off-on-PlayStation-Store.jpg?w=1024"
+        },
+        {
           "title": "Dark PS5 Tactical RPG Is Out Today on PlayStation Store",
           "link": "https://www.playstationlifestyle.net/2026/10/22/demons-night-fever-ps5-playstation-store-release-october-22",
           "description": "A new dark and speedrun-focused simulation RPG is now available on PS5. Drecom and SuperNiche developed the game, and Arc System Works published it. Tactical role-playing title Demons’ Night Fever has finally been released on the PlayStation Store. The single-player game offers a fast-paced, grid-ba",
@@ -291,13 +298,6 @@
           "description": "Swedish developer Wrong Organ's critically acclaimed 2024 horror adventure game is coming soon to PS5 The post Award-Winning 2024 Adventure Game Gets PS5 Release Date appeared first on PlayStation LifeStyle .",
           "date": "2026-10-21T15:13:44+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/Ps5-Game-1.jpg?w=1024"
-        },
-        {
-          "title": "Fun 2023 PS5 Action Game Delisted From PS Store Without Notice",
-          "link": "https://www.playstationlifestyle.net/2026/10/21/ps5-action-game-transformers-earthspark-delisted",
-          "description": "A 2023 PS5 and PS4 action adventure game has been delisted from the PS Store without a warning. Developed by Tessera Studios and published by Outright Games, Transformers: EarthSpark – Expedition is the latest in a long list of Outright titles that have been removed from sale. PS5, PS4 action advent",
-          "date": "2026-10-21T13:53:47+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/ps5-ps4-action-game-delisted.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Leaked Mass Effect 5 Trailer Is Real, Offers Glimpse of Cancelled Game",
+          "link": "https://www.pushsquare.com/news/2026/10/leaked-mass-effect-5-trailer-is-real-offers-glimpse-of-cancelled-game",
+          "description": "\"We were making a great game\". A Mass Effect 5 trailer, made using “pre-production assets”, appears to have leaked on Reddit following dev BioWare’s closure this week . While it’s difficult to corroborate the validity of the footage, it does not initially appear to be AI. It was also reported by IGN",
+          "date": "2026-10-22T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/fa29e5ef2e74e/large.jpg"
+        },
+        {
           "title": "Gears of War: E-Day, Cancelled Last-Minute for PS5, May Have Cost Half a Billion to Make",
           "link": "https://www.pushsquare.com/news/2026/10/gears-of-war-e-day-cancelled-last-minute-for-ps5-may-have-cost-half-a-billion-to-make",
           "description": "Fenix down. Gears of War: E-Day may be one of the most expensive games ever made, making Microsoft’s decision to cancel an almost-complete PS5 version of the game even more bemusing. Kotaku started the speculation earlier today when it cited sources who claim the third-person shooter cost an eye-wat",
@@ -406,13 +413,6 @@
           "description": "The huge Edgerunners 2 update. CD Projekt Red shocked everyone when it announced that a major new Cyberpunk 2077 update would be dropping around the same time as the Edgerunners 2 anime. While I imagine some fans might have expected a small surprise to coincide with the show, the scale of Patch 2.5 ",
           "date": "2026-10-22T17:00:00+00:00",
           "image": "https://images.pushsquare.com/40b0d5877e39c/large.jpg"
-        },
-        {
-          "title": "Mass Effect 5 Trailer Allegedly Leaks Following BioWare Closure",
-          "link": "https://www.pushsquare.com/news/2026/10/mass-effect-5-trailer-allegedly-leaks-following-bioware-closure",
-          "description": "\"We were making a great game\". A Mass Effect 5 trailer, made using “pre-production assets”, appears to have leaked on Reddit following dev BioWare’s closure this week . While it’s difficult to corroborate the validity of the footage, it does not initially appear to be AI. It was also reported by IGN",
-          "date": "2026-10-22T16:45:00+00:00",
-          "image": "https://images.pushsquare.com/fa29e5ef2e74e/large.jpg"
         },
         {
           "title": "Sony's Marketing the Hell Out of PS5 Console Exclusive Phantom Blade Zero in China",
