@@ -1,9 +1,65 @@
 {
-  "updated": "2026-10-22T16:58:15.030913+00:00",
+  "updated": "2026-10-22T20:29:39.646780+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Alien’ Actor Tom Skerritt Has Passed Away At 93 Years Old",
+          "link": "https://bloody-disgusting.com/news/3973004/alien-actor-tom-skerritt-has-passed-away-at-93-years-old/",
+          "description": "Bloody Disgusting is deeply saddened to learn that actor Tom Skerritt, best known among horror fans as Captain Dallas of the Nostromo in Ridley Scott’s Alien, has passed away of natural causes at the age of 93. Thomas Roy Skerritt was born in Detroit and attended Wayne State University and UCLA, and",
+          "date": "2026-10-22T20:05:38+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Tom-skerritt-the-dead-zone.jpg?resize=1024%2C582&#038;ssl=1"
+        },
+        {
+          "title": "‘Halloweentown 5’ in Early Development at Disney",
+          "link": "https://bloody-disgusting.com/movie/3972988/halloweentown-5-in-early-development-at-disney/",
+          "description": "The Disney Channel Original Movie Halloweentown launched a franchise when it premiered back in 1998, with that original family-friendly Halloween movie being followed by Halloweentown II: Kalabar’s Revenge in 2001, Halloweentown High in 2004, and Return to Halloweentown in 2006. Twenty years after t",
+          "date": "2026-10-22T19:21:03+00:00",
+          "image": ""
+        },
+        {
+          "title": "Art the Clown Is Ready to Burn Survivors in New ‘Dead by Daylight’ Reveal",
+          "link": "https://bloody-disgusting.com/video-games/3972978/art-the-clown-is-ready-to-burn-survivors-in-new-dead-by-daylight-reveal/",
+          "description": "Halloween is in full swing for Dead by Daylight, celebrating its 10th anniversary this year, with the return of its annual Haunted by Daylight event. Today brings a new look at horror icon Art the Clown, set to join the game on October 27. The trailer for Dead by Daylight‘s October offerings gave a ",
+          "date": "2026-10-22T19:18:15+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/HVQU4kfXEAE_TS0.jpg?resize=819%2C1024&#038;ssl=1"
+        },
+        {
+          "title": "‘Halloween: The Game’ Takes You Back to 2018 With New Michael Myers Skin [Video]",
+          "link": "https://bloody-disgusting.com/video-games/3972947/halloween-the-game-takes-you-back-to-2018-with-the-upcoming-halloween-skin-video/",
+          "description": "After revealing Michael’s look from Halloween 5 earlier this week, IllFonic and Gun Interactive have at last given Halloween: The Game players a glimpse at Michael’s second DLC skin, this one inspired by Halloween 2018. No sign of what this skin will include as a weapon. Admittedly, it’ll be tough t",
+          "date": "2026-10-22T18:58:44+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘The Carvers’ – A Killer Family Is Hard to Find in New Comic Series from BOOM! Studios [Exclusive]",
+          "link": "https://bloody-disgusting.com/comics/3972964/the-carvers-a-killer-family-is-hard-to-find-in-new-comic-series-from-boom-studios-exclusive/",
+          "description": "Writer and filmmaker Breyden Boyd is getting set to unleash his debut comic series The Carvers, and Bloody Disgusting has the exclusive scoop from BOOM! Studios this week. Releasing in February of next year, this darkly humorous new horror series from writer Breyden Boyd and artist Nathan Wells prom",
+          "date": "2026-10-22T18:56:22+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/The-Carvers-1-A-Main-Dressed-Wells-scaled.jpg?resize=1665%2C2560&#038;ssl=1"
+        },
+        {
+          "title": "Watch Three Brand New Crypt Keeper Intro Segments from This Year’s AMC FearFest",
+          "link": "https://bloody-disgusting.com/tv/3972950/watch-three-brand-new-crypt-keeper-intro-segments-from-this-years-amc-fearfest/",
+          "description": "The legendary Crypt Keeper is back this Halloween as the host of AMC FearFest, with Greg Nicotero re-creating the classic HBO character and John Kassir returning to voice the horror icon. The Crypt Keeper is serving up shocktails all month long on FearFest, presented by Bacardi. If you’ve been watch",
+          "date": "2026-10-22T18:18:01+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Jump Scare’: Rock And Roll Cannibal Horror Heads to Theaters on Halloween Hangover Tour",
+          "link": "https://bloody-disgusting.com/movie/3972924/jump-scare-acquired-for-release/",
+          "description": "Throw up the metal horns for new rock and roll horror: Antenna Releasing has acquired North American rights to Jump Scare, the horror feature from director Donnie Hobbie and Ugly Duckling Pictures, and it’s going on a “Halloween Hangover Tour” this fall. The “Halloween Hangover Tour,” a theatrical r",
+          "date": "2026-10-22T17:34:50+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Jump-Scare-Still-2.png?resize=1024%2C576&#038;ssl=1"
+        },
+        {
+          "title": "Dinosaur Horror Game ‘Welcome to Sunnybrook’ Stomps to October 27 Release [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3972847/dinosaur-horror-game-welcome-to-sunnybrook-stomps-to-october-27-release-trailer/",
+          "description": "Breaking Dimensions and Polygon Dust have announced an October 27 release date for their first-person dinosaur horror game, Welcome to Sunnybrook. In addition, the teams have released a new gameplay trailer. From the creators of Oakwood and Rip Current (which also happen to involve dinosaurs) comes ",
+          "date": "2026-10-22T17:30:11+00:00",
+          "image": ""
+        },
         {
           "title": "Saber Interactive Celebrates Such Sights in New ‘Hellraiser: Revival’ Accolades Trailer [Watch]",
           "link": "https://bloody-disgusting.com/video-games/3972931/saber-interactive-celebrates-such-sights-in-new-hellraiser-revival-accolades-trailer-watch/",
@@ -17,68 +73,19 @@
           "description": "Red Barrels is following up from last month’s “Chemical Leak” event with their Season 7.2 Update “Geister”, which sees the return of the nefarious Program. Reagents must band together to find Intel that may bring them closer to their long-awaited dreams of escape in Phase 3, or they can entertain th",
           "date": "2026-10-22T15:30:35+00:00",
           "image": ""
-        },
-        {
-          "title": "‘Brute 1986’ Trailer – The ‘Brute 1976’ Sequel Is Coming Soon",
-          "link": "https://bloody-disgusting.com/movie/3972900/brute-1986-trailer-the-brute-1976-sequel-is-coming-soon/",
-          "description": "Following in the wake of this year’s blood-soaked Brute 1976 is the sequel Brute 1986, with director Marcel Walz (Blood Feast, Blind) this time around paying tribute to 1980s horror. Watch the official trailer for Brute 1986 below. In the upcoming Brute 1986, “A glam metal band and their crew ventur",
-          "date": "2026-10-22T15:29:26+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/BRUTE-1986_key-art_13_625x20_125.jpg?resize=1040%2C1536&#038;ssl=1"
-        },
-        {
-          "title": "‘Yaga’ Review: Carrie-Anne Moss Steals This Seductive Folkloric Horror Mystery Series",
-          "link": "https://bloody-disgusting.com/reviews/3972859/yaga-review-carrie-anne-moss-steals-this-seductive-folkloric-horror-mystery-series/",
-          "description": "There’s something amiss in the town of Whittock, the small island town where Yaga is set. This is where Charlie Rapp (Noah Reid, The Vampire Lestat), a private investigator/fixer, finds himself after Henry Park, the son of his wealthy clients, goes missing. The fact that Henry is played by Heated Ri",
-          "date": "2026-10-22T15:12:40+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/MAIN_IMAGE_LtoR_Hudson_Williams_and_Carrie-Anne_Moss_in_YAGA_photo_credit_Crave_and_Christopher_Lawrence.jpg?resize=1024%2C683&#038;ssl=1"
-        },
-        {
-          "title": "Mike Flanagan’s ‘Carrie’ Renewed for Season 2 at Prime Video",
-          "link": "https://bloody-disgusting.com/tv/3972905/mike-flanagans-carrie-renewed-for-season-2-at-prime-video/",
-          "description": "Amazon Prime Video has made the official announcement that Mike Flanagan’s new Stephen King television series “Carrie” will return for an upcoming second season from the streamer. Deadline reports this morning, “The pickup comes two weeks after Carrie‘s eight-episode first season was released on Oct",
-          "date": "2026-10-22T15:06:00+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/CarrieS2.png?resize=1000%2C563&#038;ssl=1"
-        },
-        {
-          "title": "This 3-Hour ‘Sam: The Soul of Halloween’ Video Brings the Perfect Halloween Ambience",
-          "link": "https://bloody-disgusting.com/the-further/3972895/this-3-hour-sam-the-soul-of-halloween-video-brings-the-perfect-halloween-ambience/",
-          "description": "Michael Dougherty’s Halloween icon Sam is back this October with all kinds of new tricks and treats under the Sam: The Soul of Halloween umbrella, a new multimedia project from Dougherty that gives Sam his own online home for the very first time. Just in time for spooky season, new original Sam cont",
-          "date": "2026-10-22T14:42:47+00:00",
-          "image": ""
-        },
-        {
-          "title": "Jane Levy Wants to Know If You Want to See Mia Return in a Future ‘Evil Dead’ Project",
-          "link": "https://bloody-disgusting.com/movie/3972877/jane-levy-wants-to-know-if-you-want-to-see-mia-return-in-a-future-evil-dead-project/",
-          "description": "Jane Levy makes her return to the horror genre early next year in the acclaimed slasher movie River, but it was of course Fede Alvarez’s Evil Dead back in 2013 that forever made Levy a fan favorite here in the world of horror. Jane Levy’s Mia is easily the most beloved character from the franchise [",
-          "date": "2026-10-22T14:21:48+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/08/81ma6ot.png?resize=800%2C798&#038;ssl=1"
-        },
-        {
-          "title": "‘Ebenezer’ Starring Johnny Depp Gets PG-13 Rating for “Frightening Material”",
-          "link": "https://bloody-disgusting.com/movie/3972871/ebenezer-starring-johnny-depp-gets-pg-13-rating-for-frightening-material/",
-          "description": "Director Ti West (X, Pearl, MaXXXine) had recently stated that he aimed to make his upcoming movie Ebenezer a “spookier version” of Charles Dickens’ A Christmas Carol “than ever before,” but just how far does West push the horror in the Johnny Depp-starring ghost story? Well, as you might expect, no",
-          "date": "2026-10-22T13:38:32+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/HVHNe7oWwAA8gcg.jpg?resize=1088%2C1344&#038;ssl=1"
-        },
-        {
-          "title": "Zombie Action RPG ‘Stupid Never Dies’ Out Now on PC, PlayStation 5 [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3972842/zombie-action-rpg-stupid-never-dies-out-now-on-pc-playstation-5-trailer/",
-          "description": "Just in time for Halloween, developer GPTRACK50 and publisher SEGA’s pop-punk, fast and furious action RPG Stupid Never Dies is now available for PC via Steam and PlayStation 5. To celebrate this launch, the team has released a new live action prequel video that provides some details about Julia bef",
-          "date": "2026-10-22T13:30:28+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Welcome to Derry’ Season 2 Will Be “Very Bloody” and “Very Different” from the First Season",
-          "link": "https://bloody-disgusting.com/tv/3972863/welcome-to-derry-season-2-will-be-very-bloody-and-very-different-from-the-first-season/",
-          "description": "Pennywise will return to HBO in Season 2 of the hit horror series “IT: Welcome to Derry,” and showrunner Brad Caleb Kane (“Crystal Lake”) had recently teased that the upcoming second season will introduce us to “a different kind of Pennywise… Pennywise the way you’ve never seen that character before",
-          "date": "2026-10-22T13:29:48+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/01/welcometoderry-pennywise.jpg?resize=1920%2C1080&#038;ssl=1"
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "Carrie Season 2 Can Finally Do a Stephen King TV Universe Justice",
+          "link": "https://www.denofgeek.com/tv/carrie-season-2-finally-do-stephen-king-universe-justice/",
+          "description": "This article contains spoilers for Carrie season 1. Carrie White does not, it turns out, burn in Hell. Whatever we were told by Sue Snell’s dream sequence at the end of the 1976 Brian De Palma movie, Amazon has different plans for its take on the poor bullied telekinetic. A second season of the Prim",
+          "date": "2026-10-22T20:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/CARR_S1_FG_00094917_Still252_3000.jpg"
+        },
         {
           "title": "Werwulf: Exclusive First Look Inside Robert Eggers’ New Movie and a Career in Moonlight",
           "link": "https://www.denofgeek.com/movies/werwulf-exclusive-look-robert-eggers-career/",
@@ -141,19 +148,19 @@
           "description": "History is packed with figures whose legacies are just purely dark. We read about their terrible deeds today, and honestly, it is hard not to imagine hopping in a time machine to stop them before they started, by any means necessary. In this list, we look at some of the absolute worst leaders, cruel",
           "date": "2026-10-22T11:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-13-1.jpg"
-        },
-        {
-          "title": "15 Influencers With More Money Than Hollywood Stars",
-          "link": "https://www.denofgeek.com/msn/15-influencers-with-more-money-than-hollywood-stars/",
-          "description": "When we think of movie stars, we tend to view them as larger than life figures with enough money to buy a small country, while influencers are seen as closer to us, clearly wealthy but not as detached from our everyday lives. Well, it turns out several influencers have reached heights higher than an",
-          "date": "2026-10-22T10:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-12-2.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "PROJECT SHAMROCK: THE SECRET ORIGINS OF MICHAEL MYERS EXPOSED Is A Must Watch",
+          "link": "https://www.fangoria.com/project-shamrock-the-secret-origins-of-michael-myers-exposed/",
+          "description": "With PROJECT SHAMROCK, genre superstar Jason Eisener is back with a killer fan film that finally makes some sense of the HALLOWEEN canon.",
+          "date": "2026-10-22T17:27:29+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-10.20.25-AM.png"
+        },
         {
           "title": "YA Vampire Series HOUSE OF NIGHT Is Coming To The Silver Screen",
           "link": "https://www.fangoria.com/house-of-night-film-adaptation/",
@@ -216,13 +223,6 @@
           "description": "Steven Yeun leads the \"horrifying and humorous\" show from SAY NOTHING creator Joshua Zetumer.",
           "date": "2026-10-21T18:42:31+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Glenn-TWD-e1792607495995.jpeg"
-        },
-        {
-          "title": "Rejoice! Console Gamers Can Finally Play One Of 2024’s Most Acclaimed Horror Games",
-          "link": "https://www.fangoria.com/mouthwashing-console-release-date/",
-          "description": "Want something existentially terrifying to play this Halloween? Look no further.",
-          "date": "2026-10-21T17:23:21+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2025/10/hq720-2.jpg"
         }
       ]
     },
@@ -380,6 +380,41 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Gears of War: E-Day, Cancelled Last-Minute for PS5, May Have Cost Half a Billion to Make",
+          "link": "https://www.pushsquare.com/news/2026/10/gears-of-war-e-day-cancelled-last-minute-for-ps5-may-have-cost-half-a-billion-to-make",
+          "description": "Fenix down. Gears of War: E-Day may be one of the most expensive games ever made, making Microsoft’s decision to cancel an almost-complete PS5 version of the game even more bemusing. Kotaku started the speculation earlier today when it cited sources who claim the third-person shooter cost an eye-wat",
+          "date": "2026-10-22T19:30:00+00:00",
+          "image": "https://images.pushsquare.com/9f8ab112b5381/large.jpg"
+        },
+        {
+          "title": "Promising Sci-Fi RPG Exodus Changes Its Main Character's Face After Fan Criticism",
+          "link": "https://www.pushsquare.com/news/2026/10/promising-sci-fi-rpg-exodus-changes-its-main-characters-face-after-fan-criticism",
+          "description": "Mugged. It's still a good six months or so until Exodus releases on PS5, so developer Archetype Entertainment's got plenty of time to tweak its Mass Effect -style RPG. And that's exactly what it's done with the game's main character, Jun. Read the full article on pushsquare.com",
+          "date": "2026-10-22T18:00:00+00:00",
+          "image": "https://images.pushsquare.com/defe289c30ae4/large.jpg"
+        },
+        {
+          "title": "Hellraiser 'Performing Extremely Well' Says Saber Boss in Bid for Return of AA Games",
+          "link": "https://www.pushsquare.com/news/2026/10/hellraiser-performing-extremely-well-says-saber-boss-in-bid-for-return-of-aa-games",
+          "description": "Calls them \"the future to maintaining growth and momentum\". Saber Interactive's CEO, Matthew Karch, believes the double-A game space, which has long been absent in the push towards major triple-A productions, is key to survival in a turbulent industry. He has pointed to the recent release of Hellrai",
+          "date": "2026-10-22T17:30:00+00:00",
+          "image": "https://images.pushsquare.com/2bb5a7a9d8204/large.jpg"
+        },
+        {
+          "title": "Feature: Is Cyberpunk 2077 Patch 2.5 Worth Returning to Night City For?",
+          "link": "https://www.pushsquare.com/features/is-cyberpunk-2077-patch-2-5-worth-returning-to-night-city-for",
+          "description": "The huge Edgerunners 2 update. CD Projekt Red shocked everyone when it announced that a major new Cyberpunk 2077 update would be dropping around the same time as the Edgerunners 2 anime. While I imagine some fans might have expected a small surprise to coincide with the show, the scale of Patch 2.5 ",
+          "date": "2026-10-22T17:00:00+00:00",
+          "image": "https://images.pushsquare.com/40b0d5877e39c/large.jpg"
+        },
+        {
+          "title": "Mass Effect 5 Trailer Allegedly Leaks Following BioWare Closure",
+          "link": "https://www.pushsquare.com/news/2026/10/mass-effect-5-trailer-allegedly-leaks-following-bioware-closure",
+          "description": "\"We were making a great game\". A Mass Effect 5 trailer, made using “pre-production assets”, appears to have leaked on Reddit following dev BioWare’s closure this week . While it’s difficult to corroborate the validity of the footage, it does not initially appear to be AI. It was also reported by IGN",
+          "date": "2026-10-22T16:45:00+00:00",
+          "image": "https://images.pushsquare.com/fa29e5ef2e74e/large.jpg"
+        },
+        {
           "title": "Sony's Marketing the Hell Out of PS5 Console Exclusive Phantom Blade Zero in China",
           "link": "https://www.pushsquare.com/news/2026/10/sonys-marketing-the-hell-out-of-ps5-console-exclusive-phantom-blade-zero-in-china",
           "description": "It's gonna be big. PC and mobile undoubtedly rule the gaming market in China, but Sony is putting up an impressive fight. Earlier in the generation, it built a successful campaign around console exclusive Black Myth: Wukong , and now it’s poised to repeat the feat with next week’s Phantom Blade Zero",
@@ -413,41 +448,6 @@
           "description": "Even more friendly. Developer Fuse Games has pushed a new game update for Star Wars: Galactic Racer, and it makes a much-requested improvement to the game's online multiplayer. As promised a while ago, the studio has doubled the size of parties you can form with friends; with this new update install",
           "date": "2026-10-22T14:30:00+00:00",
           "image": "https://images.pushsquare.com/92f1805866329/large.jpg"
-        },
-        {
-          "title": "PS5 Exclusive Marvel's Wolverine Is Sony's Biggest Launch Since Helldivers 2",
-          "link": "https://www.pushsquare.com/news/2026/10/ps5-exclusive-marvels-wolverine-is-sonys-biggest-launch-since-helldivers-2",
-          "description": "Gone berserk. Marvel's Wolverine has clearly done well for itself in terms of sales, with new data from PS Store charts as well as Circana painting a very positive picture. The recent superhero action title from Insomniac Games launched last month exclusively for PS5, and in terms of the PS Store, i",
-          "date": "2026-10-22T14:00:00+00:00",
-          "image": "https://images.pushsquare.com/106536b1d9052/large.jpg"
-        },
-        {
-          "title": "PS5 Beats Switch 2 in Strongest US Sales Month Since May 2025",
-          "link": "https://www.pushsquare.com/news/2026/10/ps5-beats-switch-2-in-strongest-us-sales-month-since-may-2025",
-          "description": "On the back of the blackout. Consumers responded to social media’s big PS5 blackout campaign by rewarding Sony with its best US dollar share of the hardware market since May 2025, as the price hiked console outsold the Switch 2 in units and dollar sales in September. Unit sales of the PS5 increased ",
-          "date": "2026-10-22T13:45:00+00:00",
-          "image": "https://images.pushsquare.com/ddf508be033fc/large.jpg"
-        },
-        {
-          "title": "Sony Exits UHD Blu-ray Player Market as Pull Back from Physical Media Continues",
-          "link": "https://www.pushsquare.com/news/2026/10/sony-exits-uhd-blu-ray-player-market-as-pull-back-from-physical-media-continues",
-          "description": "Won't be restocked with no replacement on the way. Sony is seemingly exiting the UHD Blu-ray player market, as it ends shipments of its UBP-X700/K device with no replacement in sight. If accurate, it means Panasonic is the only recognisable consumer electronics manufacturer still making UHD Blu-ray ",
-          "date": "2026-10-22T13:00:00+00:00",
-          "image": "https://images.pushsquare.com/78ea29f1c0520/large.jpg"
-        },
-        {
-          "title": "Disgaea Creator Wants to Make 66 More Games Before He Turns 75, But There's a Catch",
-          "link": "https://www.pushsquare.com/news/2026/10/disgaea-creator-wants-to-make-66-more-games-before-he-turns-75-but-theres-a-catch",
-          "description": "\"Consider it a form of crowdfunding\". I really enjoy reading Sohei Niikawa’s posts on social media. While I find a lot of the content on X miserable, there’s an earnestness to the Disgaea creator’s messages which I genuinely enjoy. Read the full article on pushsquare.com",
-          "date": "2026-10-22T12:30:00+00:00",
-          "image": "https://images.pushsquare.com/12e3c0e0e396c/large.jpg"
-        },
-        {
-          "title": "Despite BioWare Closure, Mass Effect TV Series Is Reportedly Still in Development",
-          "link": "https://www.pushsquare.com/news/2026/10/despite-bioware-closure-mass-effect-tv-series-is-reportedly-still-in-development",
-          "description": "The show must go on. In a bombshell announcement, publisher EA confirmed it's closing the celebrated RPG developer BioWare amid an eye-watering 400-person layoff . The studio's next game, a fourth Mass Effect entry, has been cancelled as a result — but it seems we haven't seen the last of the franch",
-          "date": "2026-10-22T12:00:00+00:00",
-          "image": "https://images.pushsquare.com/316fcad7e8815/large.jpg"
         }
       ]
     },
