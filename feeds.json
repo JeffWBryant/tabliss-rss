@@ -1,84 +1,126 @@
 {
-  "updated": "2026-10-22T11:32:26.063974+00:00",
+  "updated": "2026-10-22T16:58:15.030913+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
         {
-          "title": "Ripcord’s Halloween Film Festival – Watch and Vote on 50 Genre Shorts for Free!",
-          "link": "https://bloody-disgusting.com/sponsored/3972826/ripcords-register-vote/",
-          "description": "Ripcord’s Halloween Film Festival is live! Genre fans and Horror hounds can now watch and vote on 50 horror, sci-fi, thriller, and fantasy shorts, all curated from more than 500 submissions. Registration is free at Ripcord.film and voting is open until October 22nd. As previously reported, the Top 1",
-          "date": "2026-10-22T02:22:51+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/DREAMCREEP_HiRes_PreStab.jpg?resize=2048%2C1152&#038;ssl=1"
-        },
-        {
-          "title": "‘Victorian Psycho’ – FREE Sneak Screenings of Maika Monroe’s New Psychological Horror Movie",
-          "link": "https://bloody-disgusting.com/news/3972530/victorian-psycho-screenings/",
-          "description": "Maika Monroe is back in blood in Victorian Psycho, only she’s the one doing the stalking this time around. The upcoming psychological horror thriller doesn’t hit theaters until November 13th, but we’ve got the FREE and EARLY ticket. On Tuesday, October 27th, Bloody Disgusting and Bleecker Street inv",
-          "date": "2026-10-21T21:08:51+00:00",
+          "title": "Saber Interactive Celebrates Such Sights in New ‘Hellraiser: Revival’ Accolades Trailer [Watch]",
+          "link": "https://bloody-disgusting.com/video-games/3972931/saber-interactive-celebrates-such-sights-in-new-hellraiser-revival-accolades-trailer-watch/",
+          "description": "Saber Interactive has unleashed a new trailer for Clive Barker’s Hellraiser: Revival, celebrating the accolades that the single-player survival horror title has garnered since it was let out of the box earlier this month. Coming hot off the launch on PC via Steam, PlayStation 5, the Xbox Series, and",
+          "date": "2026-10-22T16:32:58+00:00",
           "image": ""
         },
         {
-          "title": "Did You Catch the ‘Rawhead Rex’ Easter Egg in Jeremy Saulnier’s ‘Slayground’ Teaser?",
-          "link": "https://bloody-disgusting.com/editorials/3972818/slayground-rawhead-rex/",
-          "description": "Yesterday’s teaser debut of Jeremy Saulnier’s (Green Room, Rebel Ridge) upcoming thriller Slayground packs in the Halloween iconography from scarecrows and trick-or-treating to haunted attractions. Eagle-eyed horror fans might’ve spotted an even more curious inclusion that has us intrigued: Clive Ba",
-          "date": "2026-10-21T20:03:20+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2018/02/rawhead-rex.png?resize=1024%2C580&#038;ssl=1"
-        },
-        {
-          "title": "‘Zero Hour’ – Mysterious Ovals Appear in the Sky in Upcoming Paramount+ Sci-Fi Series",
-          "link": "https://bloody-disgusting.com/tv/3972811/zero-hour-mysterious-ovals-appear-in-the-sky-in-upcoming-paramount-sci-fi-series/",
-          "description": "Paramount+ is looking up to the skies for their next original genre series “Zero Hour,” with Deadline detailing this afternoon that the streamer is in development on the sci-fi thriller series. From writer and showrunner Matthew Michael Carnahan (World War Z, Deepwater Horizon) and AGBO (Everything ",
-          "date": "2026-10-21T19:55:32+00:00",
+          "title": "New Season Update for ‘The Outlast Trials’ Brings Back the “Geister” Program [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3972844/new-season-update-for-the-outlast-trials-brings-back-the-geister-program-trailer/",
+          "description": "Red Barrels is following up from last month’s “Chemical Leak” event with their Season 7.2 Update “Geister”, which sees the return of the nefarious Program. Reagents must band together to find Intel that may bring them closer to their long-awaited dreams of escape in Phase 3, or they can entertain th",
+          "date": "2026-10-22T15:30:35+00:00",
           "image": ""
         },
         {
-          "title": "‘Ken Russell’s The Devils’ Director’s Cut Extends Theatrical Run Due To Popular Demand",
-          "link": "https://bloody-disgusting.com/movie/3972809/ken-russells-the-devils-directors-cut-extends-theatrical-run-due-to-popular-demand/",
-          "description": "The exclusive one-week run of the Director’s Cut of Ken Russell’s controversial 1971 horror movie The Devils that launched on October 16 is officially receiving an extension, due to popular demand. This past weekend, Warner Bros. Clockwork opened Ken Russell’s The Devils in 350 locations across Nort",
-          "date": "2026-10-21T19:26:33+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/The-Devils-Poster-CU-1Sheet-scaled.jpg?resize=1728%2C2560&#038;ssl=1"
+          "title": "‘Brute 1986’ Trailer – The ‘Brute 1976’ Sequel Is Coming Soon",
+          "link": "https://bloody-disgusting.com/movie/3972900/brute-1986-trailer-the-brute-1976-sequel-is-coming-soon/",
+          "description": "Following in the wake of this year’s blood-soaked Brute 1976 is the sequel Brute 1986, with director Marcel Walz (Blood Feast, Blind) this time around paying tribute to 1980s horror. Watch the official trailer for Brute 1986 below. In the upcoming Brute 1986, “A glam metal band and their crew ventur",
+          "date": "2026-10-22T15:29:26+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/BRUTE-1986_key-art_13_625x20_125.jpg?resize=1040%2C1536&#038;ssl=1"
         },
         {
-          "title": "Netflix Supernatural Series ‘Pagans’ Adds Four New Cast Members Alongside Steven Yeun",
-          "link": "https://bloody-disgusting.com/tv/3972805/netflix-pagans-adds-four-to-cast/",
-          "description": "Steven Yeun (Nope, The Walking Dead) plays a man who becomes a caretaker of two children in Netflix’s supernatural drama series Pagans, and new casting details shared by Deadline reveal a Walking Dead connection between Yeun and the actor playing his son. Sabine Grace, Logan Kim (Ghostbusters: After",
-          "date": "2026-10-21T19:02:27+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2023/05/BGM-06553.jpg?resize=1024%2C683&#038;ssl=1"
+          "title": "‘Yaga’ Review: Carrie-Anne Moss Steals This Seductive Folkloric Horror Mystery Series",
+          "link": "https://bloody-disgusting.com/reviews/3972859/yaga-review-carrie-anne-moss-steals-this-seductive-folkloric-horror-mystery-series/",
+          "description": "There’s something amiss in the town of Whittock, the small island town where Yaga is set. This is where Charlie Rapp (Noah Reid, The Vampire Lestat), a private investigator/fixer, finds himself after Henry Park, the son of his wealthy clients, goes missing. The fact that Henry is played by Heated Ri",
+          "date": "2026-10-22T15:12:40+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/MAIN_IMAGE_LtoR_Hudson_Williams_and_Carrie-Anne_Moss_in_YAGA_photo_credit_Crave_and_Christopher_Lawrence.jpg?resize=1024%2C683&#038;ssl=1"
         },
         {
-          "title": "‘Clayface’ Review: DC’s Bold Body Horror Gamble Is At Its Best When It Gets Gross",
-          "link": "https://bloody-disgusting.com/reviews/3972755/clayface-review-dcs-bold-body-horror-gamble-is-at-its-best-when-it-gets-gross/",
-          "description": "DC Studios isn’t skittishly toe-dipping into its first-ever foray into the genre with Clayface; it’s a full-on body horror movie filled with squirm-inducing moments. At least for the first half. Director James Watkins (Speak No Evil) delivers a gnarly introduction to one of Batman’s most notorious f",
-          "date": "2026-10-21T19:00:48+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/rev-1-CLAY-T1-0005_High_Res_JPEG.jpeg?resize=1024%2C561&#038;ssl=1"
+          "title": "Mike Flanagan’s ‘Carrie’ Renewed for Season 2 at Prime Video",
+          "link": "https://bloody-disgusting.com/tv/3972905/mike-flanagans-carrie-renewed-for-season-2-at-prime-video/",
+          "description": "Amazon Prime Video has made the official announcement that Mike Flanagan’s new Stephen King television series “Carrie” will return for an upcoming second season from the streamer. Deadline reports this morning, “The pickup comes two weeks after Carrie‘s eight-episode first season was released on Oct",
+          "date": "2026-10-22T15:06:00+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/CarrieS2.png?resize=1000%2C563&#038;ssl=1"
         },
         {
-          "title": "Mike Flanagan Recommends Six 1990s Horror Movies You Need to Watch",
-          "link": "https://bloody-disgusting.com/movie/3972776/mike-flanagan-recommends-six-1990s-horror-movies-you-need-to-watch/",
-          "description": "It’s always a treat when respected filmmakers share their own personal horror movie recommendations, and October is usually when lists of that sort start popping up around the net. James Gunn recently shared 12 body horror movies you should check out before seeing Clayface in theaters, and now Mike ",
-          "date": "2026-10-21T18:32:08+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/tumblr_3e71d317ee1add79e9ee8d5cc68ef40c_09a1f10b_1280.jpg?resize=1080%2C1350&#038;ssl=1"
-        },
-        {
-          "title": "‘Poppy Playtime’ Goes Co-Op With ‘Escape From Playtime’ in Early Access Today [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3972759/poppy-playtime-goes-co-op-with-escape-from-playtime-in-early-access-today-trailer/",
-          "description": "Mob Entertainment’s foray into expanding the Poppy Playtime universe kicks off today with the Early Access launch of their co-op spin-off, Escape From Playtime. Out now on Steam, Escape From Playtime launches into Early Access with all eight Smiling Critters available to play, including four unlocke",
-          "date": "2026-10-21T18:26:59+00:00",
+          "title": "This 3-Hour ‘Sam: The Soul of Halloween’ Video Brings the Perfect Halloween Ambience",
+          "link": "https://bloody-disgusting.com/the-further/3972895/this-3-hour-sam-the-soul-of-halloween-video-brings-the-perfect-halloween-ambience/",
+          "description": "Michael Dougherty’s Halloween icon Sam is back this October with all kinds of new tricks and treats under the Sam: The Soul of Halloween umbrella, a new multimedia project from Dougherty that gives Sam his own online home for the very first time. Just in time for spooky season, new original Sam cont",
+          "date": "2026-10-22T14:42:47+00:00",
           "image": ""
         },
         {
-          "title": "‘Watchers’ Blu-ray Review: Dean Koontz’s Cult Creature Feature Gets a Fan-Pleasing Upgrade",
-          "link": "https://bloody-disgusting.com/reviews/3972446/watchers-blu-ray-review-fan-pleasing-upgrade/",
-          "description": "Trailing far behind Stephen King, in terms of novel-to-screen adaptations, is fellow author Dean Koontz. His ideas have generally stayed on the page, although there have been efforts to manifest them. After the novels Demon Seed and Shattered were each adapted into movies in the 1970s, we saw only o",
-          "date": "2026-10-21T18:21:15+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/watchers.jpg?resize=1024%2C547&#038;ssl=1"
+          "title": "Jane Levy Wants to Know If You Want to See Mia Return in a Future ‘Evil Dead’ Project",
+          "link": "https://bloody-disgusting.com/movie/3972877/jane-levy-wants-to-know-if-you-want-to-see-mia-return-in-a-future-evil-dead-project/",
+          "description": "Jane Levy makes her return to the horror genre early next year in the acclaimed slasher movie River, but it was of course Fede Alvarez’s Evil Dead back in 2013 that forever made Levy a fan favorite here in the world of horror. Jane Levy’s Mia is easily the most beloved character from the franchise [",
+          "date": "2026-10-22T14:21:48+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/08/81ma6ot.png?resize=800%2C798&#038;ssl=1"
+        },
+        {
+          "title": "‘Ebenezer’ Starring Johnny Depp Gets PG-13 Rating for “Frightening Material”",
+          "link": "https://bloody-disgusting.com/movie/3972871/ebenezer-starring-johnny-depp-gets-pg-13-rating-for-frightening-material/",
+          "description": "Director Ti West (X, Pearl, MaXXXine) had recently stated that he aimed to make his upcoming movie Ebenezer a “spookier version” of Charles Dickens’ A Christmas Carol “than ever before,” but just how far does West push the horror in the Johnny Depp-starring ghost story? Well, as you might expect, no",
+          "date": "2026-10-22T13:38:32+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/HVHNe7oWwAA8gcg.jpg?resize=1088%2C1344&#038;ssl=1"
+        },
+        {
+          "title": "Zombie Action RPG ‘Stupid Never Dies’ Out Now on PC, PlayStation 5 [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3972842/zombie-action-rpg-stupid-never-dies-out-now-on-pc-playstation-5-trailer/",
+          "description": "Just in time for Halloween, developer GPTRACK50 and publisher SEGA’s pop-punk, fast and furious action RPG Stupid Never Dies is now available for PC via Steam and PlayStation 5. To celebrate this launch, the team has released a new live action prequel video that provides some details about Julia bef",
+          "date": "2026-10-22T13:30:28+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Welcome to Derry’ Season 2 Will Be “Very Bloody” and “Very Different” from the First Season",
+          "link": "https://bloody-disgusting.com/tv/3972863/welcome-to-derry-season-2-will-be-very-bloody-and-very-different-from-the-first-season/",
+          "description": "Pennywise will return to HBO in Season 2 of the hit horror series “IT: Welcome to Derry,” and showrunner Brad Caleb Kane (“Crystal Lake”) had recently teased that the upcoming second season will introduce us to “a different kind of Pennywise… Pennywise the way you’ve never seen that character before",
+          "date": "2026-10-22T13:29:48+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/01/welcometoderry-pennywise.jpg?resize=1920%2C1080&#038;ssl=1"
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "Werwulf: Exclusive First Look Inside Robert Eggers’ New Movie and a Career in Moonlight",
+          "link": "https://www.denofgeek.com/movies/werwulf-exclusive-look-robert-eggers-career/",
+          "description": "Robert Eggers is in the midst of transformation. When we catch up with the 21st-century maestro of the macabre, he is in a pitch-black room (of course) at his London studio, supervising the final mix of sound and effects for Werwulf. Like other Eggers films that are now staples of modern horror, fro",
+          "date": "2026-10-22T16:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Werwulf-Web-Lead.jpg"
+        },
+        {
+          "title": "15 People Share How to Tell That You’re Actually Ugly",
+          "link": "https://www.denofgeek.com/msn/15-people-share-how-to-tell-that-youre-actually-ugly/",
+          "description": "Nobody enjoys finding out what other people really think about their appearance, especially when the feedback arrives without anyone asking for it. Unfortunately, Reddit users have plenty of stories about awkward compliments, disastrous dates, and strangers who apparently never learned when to keep ",
+          "date": "2026-10-22T13:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/5_822a9b.jpg"
+        },
+        {
+          "title": "Gravity Falls Is the Perfect Gateway to Horror",
+          "link": "https://www.denofgeek.com/tv/gravity-falls-perfect-gateway-to-horror/",
+          "description": "Halloween is fundamentally a kid’s holiday, a day for youngsters to dress up as their favorite characters and gather candy from their neighbors. But for those older kids and preteens, Halloween can be frustrating too. They’re edging out of the age for trick-or-treating, and want to indulge in some o",
+          "date": "2026-10-22T13:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Gravity-Falls-Summerween.png"
+        },
+        {
+          "title": "The 10 Best American Presidents, Ranked By How Much They Loved to Party",
+          "link": "https://www.denofgeek.com/msn/the-10-best-american-presidents-ranked-by-how-much-they-loved-to-party/",
+          "description": "The White House has hosted its share of formal dinners, diplomatic receptions, and carefully planned celebrations, but not every president stuck to the official program. Some enjoyed late-night poker games, while others preferred live music, crowded parties, or a good excuse to invite half of Washin",
+          "date": "2026-10-22T12:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/4_e397a5.jpg"
+        },
+        {
+          "title": "15 DIY Projects That Went Much Further Than Necessary",
+          "link": "https://www.denofgeek.com/msn/15-diy-projects-that-went-much-further-than-necessary/",
+          "description": "Some people fix a broken shelf and call it a productive weekend. Others start building a simple piece of furniture and somehow end up with a secret doorway, a miniature movie theater, or an entire pirate ship in the backyard. Reddit is full of ambitious DIY projects that make assembling a bookcase s",
+          "date": "2026-10-22T12:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-8.jpg"
+        },
+        {
+          "title": "15 Classic Pics That Turn the ‘American’ Up to the Max",
+          "link": "https://www.denofgeek.com/msn/15-classic-pics-that-turn-the-american-up-to-the-max/",
+          "description": "Americans have never been particularly shy about making things bigger, louder, or more patriotic than necessary. A giant peanut monument? Sure. A gas station built inside a tree? Why not? Vintage photographs capture a country that loved enormous roadside attractions, extravagant cars, and celebratio",
+          "date": "2026-10-22T11:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/3_93a33d.jpg"
+        },
         {
           "title": "15 Unsettling History Facts from its Darker Periods",
           "link": "https://www.denofgeek.com/msn/15-unsettling-history-facts-from-its-darker-periods/",
@@ -106,54 +148,54 @@
           "description": "When we think of movie stars, we tend to view them as larger than life figures with enough money to buy a small country, while influencers are seen as closer to us, clearly wealthy but not as detached from our everyday lives. Well, it turns out several influencers have reached heights higher than an",
           "date": "2026-10-22T10:45:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-12-2.jpg"
-        },
-        {
-          "title": "15 Actors That People Keep Mixing Up With Someone Else",
-          "link": "https://www.denofgeek.com/msn/15-actors-that-people-keep-mixing-up-with-someone-else/",
-          "description": "Do you ever get the names of actors mixed up? Don’t worry, it happens to everyone. Unless you’re deep into cinema culture, or you work in anything related to the industry, keeping track of who’s who is a day job in and of itself. Some mix up, though, are a bit more frequent than others. What we have",
-          "date": "2026-10-22T10:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/1_6c8a0f.jpg"
-        },
-        {
-          "title": "Peter Jackson Partners with Colossal to Bring Giant Moa Egg Back to New Zealand",
-          "link": "https://www.denofgeek.com/culture/peter-jackson-partners-with-colossal-to-bring-giant-moa-egg-back-to-new-zealand/",
-          "description": "There are not even 40 confirmed, sufficiently complete moa eggs known about on this planet. Those that survive are a glimpse, a keyhole really, into a past and time when these great, enormous birds dominated the islands of New Zealand (or Aotearoa, as it is known in Māori). Of those less than 40 sur",
-          "date": "2026-10-21T21:54:08+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2025/07/Peter-Jackson-and-Ben-Lamm-and-the-Giant-Moa.jpg"
-        },
-        {
-          "title": "Clayface Review: A Horror Triumph for DC Studios",
-          "link": "https://www.denofgeek.com/movies/clayface-review-horror-triumph-dc-studios/",
-          "description": "It’s been a wild year for the movie industry and the world, which might explain why so many folks were nervous about whether DC Studios’ highly-anticipated, big swing of an R-Rated Clayface would be able to deliver the goods. Walking out of director James Watkins’ shockingly extreme, and enjoyable, ",
-          "date": "2026-10-21T20:41:27+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Matt-Hagen-in-Clayface.jpeg"
-        },
-        {
-          "title": "The 10 Best PG-13 Horror Movies",
-          "link": "https://www.denofgeek.com/movies/best-pg-13-horror-movies/",
-          "description": "Horror movie fans are a unique breed. We will turn on Shudder and watch anything that happens to hit the screen. We’ll sit through a critically-panned, utterly reviled slog if it even has potential to include one good scare. We’ll watch Exorcist sequels. But Halloween is for everyone, not just the w",
-          "date": "2026-10-21T18:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Happy-Death-Day.jpg"
-        },
-        {
-          "title": "The Legacy of Lara Croft: Why Tomb Raider Still Thrills 30 Years Later",
-          "link": "https://www.denofgeek.com/games/legacy-lara-croft-tomb-raider-still-thrills/",
-          "description": "This year marks the 30th anniversary of Tomb Raider, the seminal action-adventure platformer that debuted on the Sega Saturn, PC, and PlayStation in 1996. Protagonist Lara Croft quickly became an industry icon, receiving a whole line of sequels, revivals, and reboots, with games gracing virtually ev",
-          "date": "2026-10-21T15:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Tomb-Raider-Legacy-of-Atlantis.jpg"
-        },
-        {
-          "title": "VisionQuest Explores the Tension Between Marvel Magic and Marvel Science",
-          "link": "https://www.denofgeek.com/tv/visionquest-tension-between-marvel-magic-marvel-science/",
-          "description": "This article contains spoilers for VisionQuest season 1 episodes 3 and 4. The third episode of VisionQuest ends with the titular synthazoid possessed. On a literal level, some aggressive program has hacked into his system and taken control of him, overwriting his code. Figuratively, however, the att",
-          "date": "2026-10-21T14:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/VisionQuest-Paul-Bettany.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "YA Vampire Series HOUSE OF NIGHT Is Coming To The Silver Screen",
+          "link": "https://www.fangoria.com/house-of-night-film-adaptation/",
+          "description": "Nearly 20 years after it began, the YA vampire series HOUSE OF NIGHT is getting a film adaptation. Get all the details here.",
+          "date": "2026-10-22T16:00:32+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/9781466849747.jpg-copy.jpg"
+        },
+        {
+          "title": "A Female-Led DRACULA Reimagining Is In The Works",
+          "link": "https://www.fangoria.com/dracula-reimagining-amanda-jiang/",
+          "description": "A new, female-led DRACULA reimagining is currently filming, led by Amanda Jiang and stars from BARBARIAN and OUTLANDER.",
+          "date": "2026-10-22T15:47:24+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/aaawatch16.jpg"
+        },
+        {
+          "title": "Mike Flanagan’s CARRIE Will Return For Season 2",
+          "link": "https://www.fangoria.com/mike-flanagan-carrie-season-2/",
+          "description": "In unsurprising but no less exciting news.",
+          "date": "2026-10-22T15:27:42+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Carrie.webp"
+        },
+        {
+          "title": "10 Years Later, The Boulet Brothers’ Dragula Is Uglier Than Ever",
+          "link": "https://www.fangoria.com/the-boulet-brothers-dragula-interview-10-year-anniversary/",
+          "description": "THE BOULET BROTHERS' DRAGULA is celebrating 10 years of grotesque glam, and FANGORIA sat down with Swanthula and Dracmorda ahead of the show's Season 7 premiere for an exclusive interview.",
+          "date": "2026-10-22T15:00:21+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Press01.jpg"
+        },
+        {
+          "title": "The Becky Films Are The Definitive Trilogy of the 2020s",
+          "link": "https://www.fangoria.com/becky-films-definitive-trilogy-2020s/",
+          "description": "THE LAST TEMPTATION OF BECKY is on her way, so we're looking back at the most cathartic trilogy of the 2020s. Get your tickets now for the third installment, coming to select theaters on November 4, 2026.",
+          "date": "2026-10-22T14:00:58+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/BECKY-2-scaled.png"
+        },
+        {
+          "title": "The Headless Horseman & The SMILE Demon Join New HELLBREAK Game Expansion",
+          "link": "https://www.fangoria.com/hellbreak-expansion-smile-a-quiet-place/",
+          "description": "The new HELLBREAK card game is adding even more monsters, with creatures from A QUIET PLACE, SMILE, and more joining the fray.",
+          "date": "2026-10-22T12:30:05+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/SpinMaster_Hellbreak_CardArtwork_Smile_Monster_Unleashed_TheMonstrosity_TraumaParasite.png"
+        },
         {
           "title": "Artist to Artist: JoAnne McGrath talks Horror and GOODBYE, MONSTER With Tess Givnish",
           "link": "https://www.fangoria.com/joanne-mcgrath-goodbye-monster-poster/",
@@ -181,54 +223,47 @@
           "description": "Want something existentially terrifying to play this Halloween? Look no further.",
           "date": "2026-10-21T17:23:21+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2025/10/hq720-2.jpg"
-        },
-        {
-          "title": "Larry Fessenden’s Glass Eye Pix Celebrates 40 Years With Special NYC Event",
-          "link": "https://www.fangoria.com/larry-fessenden-glass-eye-pix-event/",
-          "description": "Ahead of the release of TRAUMA, OR MONSTERS ALL, Larry Fessenden's Glass Eye Pix is throwing a fortieth anniversary party in New York.",
-          "date": "2026-10-21T17:14:01+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.01.50-PM.png"
-        },
-        {
-          "title": "“I AM Mr. Lobo”: The Legendary Horror Host on Growing Into Himself",
-          "link": "https://www.fangoria.com/mr-lobo-horror-host-interview/",
-          "description": "Here's all the stuff we couldn't fit in the magazine about the legendary horror host’s late night world.",
-          "date": "2026-10-21T17:00:08+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/MG_0369-scaled.jpg"
-        },
-        {
-          "title": "Jeremy Saulnier’s GREEN ROOM Comes Back To Theaters Ahead Of SLAYGROUND",
-          "link": "https://www.fangoria.com/green-room-screening-alamo-drafthouse/",
-          "description": "Ahead of the release of SLAYGROUND, Alamo Drafthouse is bringing Jeremy Saulnier's GREEN ROOM back to theaters this month.",
-          "date": "2026-10-21T16:40:08+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-12.31.25-PM.png"
-        },
-        {
-          "title": "Was FANGORIA’S Trivia At Telluride Horror Show Scarier Than The Movies?",
-          "link": "https://www.fangoria.com/telluride-horror-show-trivia-2026/",
-          "description": "Can you correctly answer more questions than the players of FANGORIA's horror trivia at The Telluride Horror Show 2026?",
-          "date": "2026-10-21T15:00:42+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/horror-1H0A8842.jpg"
-        },
-        {
-          "title": "J-Horror Heavyweights Unite For New Supernatural Anthology Series",
-          "link": "https://www.fangoria.com/night-tales-club-j-horror-series/",
-          "description": "Kiyoshi Kurosawa, Takashi Shimizu and more will bring to life the terrors of the NIGHT TALES CLUB. Watch the first teaser within.",
-          "date": "2026-10-21T12:50:04+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/NIGHT-TALES-CLUB-scaled.png"
-        },
-        {
-          "title": "AMERICAN HORROR STORY Renewed For Season 14",
-          "link": "https://www.fangoria.com/american-horror-story-season-14-renewed/",
-          "description": "After debuting an all-star thirteenth season, AMERICAN HORROR STORY has been renewed for Season 14. Get all the details here.",
-          "date": "2026-10-20T21:16:52+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Screenshot-2026-09-10-at-12.51.16-PM.png"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "Dark PS5 Tactical RPG Is Out Today on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/10/22/demons-night-fever-ps5-playstation-store-release-october-22",
+          "description": "A new dark and speedrun-focused simulation RPG is now available on PS5. Drecom and SuperNiche developed the game, and Arc System Works published it. Tactical role-playing title Demons’ Night Fever has finally been released on the PlayStation Store. The single-player game offers a fast-paced, grid-ba",
+          "date": "2026-10-22T14:47:14+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/DEMONS-NIGHT-FEVER.jpg?w=1024"
+        },
+        {
+          "title": "Awesome PS5 Exclusive RPG 85% Off on PS Store, DLC Included",
+          "link": "https://www.playstationlifestyle.net/2026/10/22/demons-souls-ps-store-deal-october-2026",
+          "description": "One of the best PS5 exclusive RPGs is at its lowest price on the PS Store in a brand-new, limited-time deal. Developed by the now-shuttered Bluepoint Games, Demon’s Souls 2020 remake’s Digital Deluxe Edition is a whopping 85% off in the Planet of the Deals promotion. Demon’s Souls Digital Deluxe Edi",
+          "date": "2026-10-22T13:31:14+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/04/demons-souls-ps-store-deal.jpg?w=1024"
+        },
+        {
+          "title": "PS Plus Users Should Avoid Renewing Membership Right Now",
+          "link": "https://www.playstationlifestyle.net/2026/10/22/dont-renew-ps-plus-before-black-friday-2026",
+          "description": "PS Plus members are reminded not to renew their membership and to turn off auto-renewal ahead of November 2026. Like previous years, existing members may be locked out of the biggest annual PS Plus discount during Black Friday. Renewing PS Plus ahead of November may lock members out of Black Friday ",
+          "date": "2026-10-22T13:16:30+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/10/ps-plus-renew-black-friday-discount.jpg?w=1024"
+        },
+        {
+          "title": "New PS5 Accessories Launching Alongside GTA VI",
+          "link": "https://www.playstationlifestyle.net/2026/10/22/new-ps5-accessories-gta-vi-release-date",
+          "description": "Sony has announced that another set of PS5 accessories has been scheduled to launch alongside Grand Theft Auto VI in November. Not only will players have new DualSense controllers to play with, but they’ll also have new headsets to immerse themselves in the game’s world. All new PS5 accessories laun",
+          "date": "2026-10-22T12:50:32+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/ps5-accessories.jpg?w=1024"
+        },
+        {
+          "title": "Acclaimed Square Enix PS5 RPG Out Now on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/10/22/ps5-rpg-final-fantasy-resonance-out-on-ps-store",
+          "description": "A new PS5 RPG in a beloved Square Enix series is finally out on the PlayStation Store, where it has received positive reviews. Final Fantasy Resonance‘s standard edition comes with an early purchase bonus that’s available until November 5, 2026. PS5 RPG Final Fantasy Resonance Earns 85/100 Critic Ra",
+          "date": "2026-10-22T12:35:10+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/ps5-rpg-final-fantasy-resonance.jpg?w=1024"
+        },
         {
           "title": "EA’s New Mass Effect Game Is Being Canceled for a Heartbreaking Reason",
           "link": "https://www.playstationlifestyle.net/2026/10/21/ea-new-mass-effect-game-canceled-heartbreaking-reason",
@@ -263,47 +298,33 @@
           "description": "A 2023 PS5 and PS4 action adventure game has been delisted from the PS Store without a warning. Developed by Tessera Studios and published by Outright Games, Transformers: EarthSpark – Expedition is the latest in a long list of Outright titles that have been removed from sale. PS5, PS4 action advent",
           "date": "2026-10-21T13:53:47+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/ps5-ps4-action-game-delisted.jpg?w=1024"
-        },
-        {
-          "title": "Beloved PlayStation 2 & PS3-Era Action Game Series Returning",
-          "link": "https://www.playstationlifestyle.net/2026/10/21/playstation-action-game-series-fight-night-returning",
-          "description": "A fan-favorite PlayStation 2 and PS3-era action game series is making a surprise return, publisher Electronic Arts has announced. Boxing franchise Fight Night hasn’t seen a new entry in 15 years, but that’s all set to change. EA action game series Fight Night hasn’t seen a new entry since PlayStatio",
-          "date": "2026-10-21T13:22:18+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/playstation-action-game-series-fight-night.jpg?w=1024"
-        },
-        {
-          "title": "Best PS5 Role-Playing Game on PS Plus Getting Big Free Update",
-          "link": "https://www.playstationlifestyle.net/2026/10/21/ps-plus-ps5-rpg-cyberpunk-2077-free-game-update-2-5",
-          "description": "The best and most popular PS5 role-playing game on PS Plus is surprising players with another free update, and it’s a big one. CD Projekt RED will fully reveal Cyberpunk 2077 update 2.5 in a livestream today, but an overview was leaked by a content creator with early access. What we know about PS Pl",
-          "date": "2026-10-21T12:58:44+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/ps-plus-game-Cyberpunk-2077-free-update.jpg?w=1024"
-        },
-        {
-          "title": "Second PS5 System Update for October 2026 Rolled Out",
-          "link": "https://www.playstationlifestyle.net/2026/10/21/ps5-system-software-firmware-update-october-21",
-          "description": "Sony Interactive Entertainment has stealth-dropped PS5 system software update 26.07-14.20.00 — the second firmware update for October 2026. Like the previous update, don’t expect anything exciting from this one. PS5 system software update 26.07-14.20.00 patch notes (October 21, 2026) “We’ve improved",
-          "date": "2026-10-21T11:40:41+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/03/ps5-and-ps5-pro-system-software-update.jpg?w=1024"
-        },
-        {
-          "title": "Beloved PS2 Action-Adventure Game Gets Release Date Trailer for Next Month",
-          "link": "https://www.playstationlifestyle.net/2026/10/20/beloved-ps2-action-adventure-game-release-date-trailer-for-next-month",
-          "description": "A beloved PS2 action-adventure game from the early 2000s is getting a remaster, with a brand new trailer out now highlighting some of the big changes ahead of its release next month. DreamWorks Shrek 2 Remastered, which brings forward the definitive edition of the fan-favorite 2004 game, is set to r",
-          "date": "2026-10-20T22:04:11+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/playstation-2-hero-shot.png?w=1024"
-        },
-        {
-          "title": "PlayStation Store Update Worldwide October 20, 2026",
-          "link": "https://www.playstationlifestyle.net/2026/10/20/playstation-store-update-worldwide-october-20-2026",
-          "description": "Each week Sony brings PlayStation 4, PlayStation 5, PlayStation VR, and PlayStation Plus owners new content, add-ons, games, and more. Here is the complete global PlayStation Store update. PlayStation LifeStyle catalogs the PlayStation Store updates for the major regions across the globe. Check back",
-          "date": "2026-10-20T21:00:00+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2023/03/psglobalupdate.jpg?w=1024"
         }
       ]
     },
     "PlayStation Blog": {
       "url": "https://blog.playstation.com/feed/",
       "articles": [
+        {
+          "title": "Marvel’s Wolverine: Photo Mode guide",
+          "link": "https://blog.playstation.com/2026/10/22/marvels-wolverine-photo-mode-guide/",
+          "description": "Photo Modes are a rewarding way to get to grips with some essential elements of photography, while letting you more closely examine and appreciate a game’s art design and increasingly photorealistic visuals. Feature-rich Photo Modes put an entire suite of virtual lighting rigs at your fingertips, su",
+          "date": "2026-10-22T14:00:31+00:00",
+          "image": "https://live.staticflickr.com/65535/55601775300_b1c47c96e0_k.jpg"
+        },
+        {
+          "title": "PlayStation Store: September 2026’s top downloads",
+          "link": "https://blog.playstation.com/2026/10/22/playstation-store-september-2026s-top-downloads/",
+          "description": "It’s time to see which PS5, PS4, PS VR2, and free-to-play games topped last month’s download charts. In September, Marvel’s Wolverine led the PS5 charts in the US, followed by EA Sports FC 27, while in the EU, EA Sports FC 27 led the PS5 charts, followed by Marvel’s Wolverine. Check out the full lis",
+          "date": "2026-10-22T13:00:25+00:00",
+          "image": ""
+        },
+        {
+          "title": "Tomb Raider: Legacy of Atlantis – the evolution of Lara Croft’s design",
+          "link": "https://blog.playstation.com/2026/10/22/tomb-raider-legacy-of-atlantis-the-evolution-of-lara-crofts-design/",
+          "description": "When Lara Croft first leapt onto screens in 1996, she was a few hundred polygons and a fistful of pixels. Thirty years later, Tomb Raider: Legacy of Atlantis reimagines that same adventurer with technology the original team could only dream of. Through it all, one goal held steady: she had to look l",
+          "date": "2026-10-22T11:59:38+00:00",
+          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
+        },
         {
           "title": "Once Human’s Isles of Abyss expansion launches on PS5 tomorrow",
           "link": "https://blog.playstation.com/2026/10/21/once-humans-isles-of-abyss-expansion-launches-on-ps5-tomorrow/",
@@ -352,27 +373,6 @@
           "description": "Email us at PSPodcast@sony.com! Subscribe via Apple Podcasts, Spotify, or download here Hey, y’all! Sid, Tim, O’Dell, and Kristen are back this week to talk about some of the spooky games they have been playing, how 2026 may go down in gaming history, and titles we’ve missed. Plus, Tim interviews Je",
           "date": "2026-10-16T16:46:26+00:00",
           "image": "https://blog.playstation.com/tachyon/2026/09/1c3481bf10fb1f00372ad48b52fcb3e181dfb759.jpg"
-        },
-        {
-          "title": "Share of the Week: Marvel’s Wolverine – Suits",
-          "link": "https://blog.playstation.com/2026/10/16/share-of-the-week-marvels-wolverine-suits/",
-          "description": "Last week, we asked you to share your favorite looks from Marvel’s Wolverine using #PSshare #PSBlog for a chance to be featured. Here are this week’s highlights: NickVPgamer shared a glinting portrait in the Ultimate Red Suit NemesisNatVP shared standing in front of a Nightmare door in the Old Man L",
-          "date": "2026-10-16T15:59:52+00:00",
-          "image": "https://live.staticflickr.com/65535/55590647037_fcd36f6731_k.jpg"
-        },
-        {
-          "title": "Peak climbs its way onto PS5 October 22",
-          "link": "https://blog.playstation.com/2026/10/15/peak-climbs-its-way-onto-ps5-october-22/",
-          "description": "Hello Scouts! Team Peak is happy to announce that our climbing game Peak is launching on PlayStation 5 October 22. Peak is a collaboration between two studios, Aggro Crab and Landfall, together, we make Team Peak. Aggro Crab is an American studio based in Seattle, Washington, known for their games A",
-          "date": "2026-10-15T17:00:08+00:00",
-          "image": "https://live.staticflickr.com/65535/55588792618_1722c1f1c8_h.jpg"
-        },
-        {
-          "title": "(For Southeast Asia) Gran Turismo 7’s Spec IV (Part 1) launches today and a first look at DualSense wireless controller – Gran Turismo Limited Edition",
-          "link": "https://blog.playstation.com/2026/10/14/20261015-gt7/",
-          "description": "Hey everyone, we’re excited to share news on Gran Turismo with you today. For starters, we have full details on today’s Part 1 of the Gran Turismo 7 Spec IV update. Plus, we celebrate 30 years of Gran Turismo with the first look at the Gran Turismo Limited Edition DualSense wireless controller! Read",
-          "date": "2026-10-15T02:06:55+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
         }
       ]
     },
@@ -380,74 +380,74 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
-          "title": "Cyberpunk 2077 Has Over 50 Mods on PS5, Including New Quests, Improved Romance, Cut Content, and More",
-          "link": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-has-over-50-mods-on-ps5-including-new-quests-improved-romance-cut-content-and-more",
-          "description": "V good. With the release of Patch 2.5 , Cyberpunk 2077 players on PS5 now have access to user-created mods — and there are 52 of them to choose from at launch. Just like The Witcher 3 Remastered , downloading and installing mods is really easy: you just click the new 'Mods' option on the title's mai",
-          "date": "2026-10-22T11:00:00+00:00",
-          "image": "https://images.pushsquare.com/90d3301cf0e03/large.jpg"
+          "title": "Sony's Marketing the Hell Out of PS5 Console Exclusive Phantom Blade Zero in China",
+          "link": "https://www.pushsquare.com/news/2026/10/sonys-marketing-the-hell-out-of-ps5-console-exclusive-phantom-blade-zero-in-china",
+          "description": "It's gonna be big. PC and mobile undoubtedly rule the gaming market in China, but Sony is putting up an impressive fight. Earlier in the generation, it built a successful campaign around console exclusive Black Myth: Wukong , and now it’s poised to repeat the feat with next week’s Phantom Blade Zero",
+          "date": "2026-10-22T16:30:00+00:00",
+          "image": "https://images.pushsquare.com/9f5fd4c888144/large.jpg"
         },
         {
-          "title": "Dawnwalker PS5 Patch 1.1 Is Available to Download Now, 13GB Update with Over 1,100 Improvements",
-          "link": "https://www.pushsquare.com/news/2026/10/dawnwalker-ps5-patch-1-1-is-available-to-download-now-13gb-update-with-over-1100-improvements",
-          "description": "Get all the patch notes here. As promised by developer Rebel Wolves last week, a new Dawnwalker update has gone live today that marks the PS5 game's first major overhaul and slate of enhancements. The patch is 12.882GB on PS5, and you can download it now. Since the studio already published some of t",
-          "date": "2026-10-22T10:45:00+00:00",
-          "image": "https://images.pushsquare.com/01bb2adae2140/large.jpg"
+          "title": "Dispatch PS5 Marks First Anniversary with New Commentary, Storyboard Modes",
+          "link": "https://www.pushsquare.com/news/2026/10/dispatch-ps5-marks-first-anniversary-with-new-commentary-storyboard-modes",
+          "description": "Free for Deluxe Edition owners. PS5 story game Dispatch turns one year old today, 22nd October 2026. Happy birthday to Dispatch! To celebrate the occasion, Adhoc Studio has released new DLC that adds new commentary and storyboard modes to the experience. Anyone who owns the Deluxe Edition of Dispatc",
+          "date": "2026-10-22T16:15:00+00:00",
+          "image": "https://images.pushsquare.com/497962bcf7e41/large.jpg"
         },
         {
-          "title": "Cyberpunk 2077 PS5 Update 2.5 Live Now, Get the Patch Notes Here",
-          "link": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-update-2-5-live-now-get-the-patch-notes-here",
-          "description": "Get the full list of updates and changes here. CD Projekt Red has announced it's got yet another Cyberpunk 2077 patch on the way, this time in collaboration with the second season of its anime TV show spin-off, Edgerunners . The developer will update the RPG to version 2.5 on 22nd October 2026, and ",
-          "date": "2026-10-22T10:15:00+00:00",
-          "image": "https://images.pushsquare.com/7b51496b9b293/large.jpg"
+          "title": "Alice in Wonderland Roguelite Is Free to Try on PS5 Now",
+          "link": "https://www.pushsquare.com/news/2026/10/alice-in-wonderland-roguelite-is-free-to-try-on-ps5-now",
+          "description": "Give it a go. Regular readers will know I’m pretty Alice in Wonderland obsessed, so I’ve been keeping a keen eye on CRYMELIGHT . This is the latest bishoujo effort from dev FuRyu, and I actually went hands-on with it at Gamescom . I was impressed how dense and interesting it all was. Read the full a",
+          "date": "2026-10-22T15:30:00+00:00",
+          "image": "https://images.pushsquare.com/4a3db0e63d06d/large.jpg"
         },
         {
-          "title": "Reminder: Pre-Orders Go Live Today for Gran Turismo's Gorgeous PS5 Controller",
-          "link": "https://www.pushsquare.com/news/2026/10/reminder-pre-orders-go-live-today-for-gran-turismos-gorgeous-ps5-controller",
-          "description": "New model. In case you missed it, Sony announced a special, limited edition DualSense PS5 controller that celebrates the Gran Turismo series' 30th anniversary. It's a really nice-looking controller, with go-faster stripes on the touchpad, carbon fibre-like detailing, and a bunch of racing-inspired d",
-          "date": "2026-10-22T10:00:00+00:00",
-          "image": "https://images.pushsquare.com/4f9314a7ccfdd/large.jpg"
+          "title": "Feature: These 20 PS5, PS4 Exclusives Are Cheaper Than Ever on PS Store",
+          "link": "https://www.pushsquare.com/features/these-20-ps5-ps4-exclusives-are-cheaper-than-ever-on-ps-store",
+          "description": "PS Studios games slash prices. As is always the case, the PS Store has a sale on right now — but it seems Sony has been feeling extra generous, as many of its first-party games are currently at their lowest ever prices. In the Planet of the Deals sale , running from now until 4th November 2026, a nu",
+          "date": "2026-10-22T15:00:00+00:00",
+          "image": "https://images.pushsquare.com/6fb377c54e0aa/large.jpg"
         },
         {
-          "title": "Phantom Blade Zero Physical Version Set for 2027, 3 PS5 Editions Revealed",
-          "link": "https://www.pushsquare.com/news/2026/10/phantom-blade-zero-physical-version-set-for-2027-3-ps5-editions-revealed",
-          "description": "Own it on a PS5 disc next year. S-GAME has announced a physical version of Phantom Blade Zero will be available next year. The developer shared the news as a stinger at the end of its new launch trailer, with the full title launch via digital means coming next week, 29th October 2026. Check it out a",
-          "date": "2026-10-22T08:30:00+00:00",
-          "image": "https://images.pushsquare.com/c8caed9539628/large.jpg"
+          "title": "Star Wars: Galactic Racer Doubles Online Party Size in First Major PS5 Update",
+          "link": "https://www.pushsquare.com/news/2026/10/star-wars-galactic-racer-doubles-online-party-size-in-first-major-ps5-update",
+          "description": "Even more friendly. Developer Fuse Games has pushed a new game update for Star Wars: Galactic Racer, and it makes a much-requested improvement to the game's online multiplayer. As promised a while ago, the studio has doubled the size of parties you can form with friends; with this new update install",
+          "date": "2026-10-22T14:30:00+00:00",
+          "image": "https://images.pushsquare.com/92f1805866329/large.jpg"
         },
         {
-          "title": "Do Not Miss This PlayStation All-Timer While It Costs Less Than a Frothy Coffee",
-          "link": "https://www.pushsquare.com/news/2026/10/do-not-miss-this-playstation-all-timer-while-it-costs-less-than-a-frothy-coffee",
-          "description": "An all-time low for an all-time great. If you’ve never played Fumito Ueda’s iconic Shadow of the Colossus , you really have no excuse now: Bluepoint’s brilliant PS4 remake of the PS2 all-timer currently costs less than a frothy coffee. The game’s 75% off in the US , making it just $4.99; in the UK i",
-          "date": "2026-10-22T00:00:00+00:00",
-          "image": "https://images.pushsquare.com/aeeb25ba16c51/large.jpg"
+          "title": "PS5 Exclusive Marvel's Wolverine Is Sony's Biggest Launch Since Helldivers 2",
+          "link": "https://www.pushsquare.com/news/2026/10/ps5-exclusive-marvels-wolverine-is-sonys-biggest-launch-since-helldivers-2",
+          "description": "Gone berserk. Marvel's Wolverine has clearly done well for itself in terms of sales, with new data from PS Store charts as well as Circana painting a very positive picture. The recent superhero action title from Insomniac Games launched last month exclusively for PS5, and in terms of the PS Store, i",
+          "date": "2026-10-22T14:00:00+00:00",
+          "image": "https://images.pushsquare.com/106536b1d9052/large.jpg"
         },
         {
-          "title": "All PS Plus Deluxe Members in Korea Get a Free Upgrade as Cloud Streaming Arrives",
-          "link": "https://www.pushsquare.com/news/2026/10/all-ps-plus-deluxe-members-in-korea-get-a-free-upgrade-as-cloud-streaming-arrives",
-          "description": "From Deluxe to Premium. I think Sony’s commitment to cloud gaming remains a footer for most PlayStation enthusiasts, but its PS Plus Premium solution is actually pretty good. Based on my own experiences, the image quality and latency is up there with the best services from the likes of Nvidia, and m",
-          "date": "2026-10-21T23:00:00+00:00",
-          "image": "https://images.pushsquare.com/9afdcf6bb544a/large.jpg"
+          "title": "PS5 Beats Switch 2 in Strongest US Sales Month Since May 2025",
+          "link": "https://www.pushsquare.com/news/2026/10/ps5-beats-switch-2-in-strongest-us-sales-month-since-may-2025",
+          "description": "On the back of the blackout. Consumers responded to social media’s big PS5 blackout campaign by rewarding Sony with its best US dollar share of the hardware market since May 2025, as the price hiked console outsold the Switch 2 in units and dollar sales in September. Unit sales of the PS5 increased ",
+          "date": "2026-10-22T13:45:00+00:00",
+          "image": "https://images.pushsquare.com/ddf508be033fc/large.jpg"
         },
         {
-          "title": "Sony's Revamped PS5 Pulse Headset Launches Alongside GTA 6, on 19th November",
-          "link": "https://www.pushsquare.com/news/2026/10/sonys-revamped-ps5-pulse-headset-launches-alongside-gta-6-on-19th-november",
-          "description": "Price and pre-order details confirmed. If you’re looking to upgrade your audio experience for GTA 6 , Sony has confirmed that it will launch its new revamped PlayStation Pulse headset alongside Rockstar’s highly anticipated game on 19th November. Pre-orders will open on PS Direct next week, from 10A",
-          "date": "2026-10-21T19:30:00+00:00",
-          "image": "https://images.pushsquare.com/b4b76355c836b/large.jpg"
+          "title": "Sony Exits UHD Blu-ray Player Market as Pull Back from Physical Media Continues",
+          "link": "https://www.pushsquare.com/news/2026/10/sony-exits-uhd-blu-ray-player-market-as-pull-back-from-physical-media-continues",
+          "description": "Won't be restocked with no replacement on the way. Sony is seemingly exiting the UHD Blu-ray player market, as it ends shipments of its UBP-X700/K device with no replacement in sight. If accurate, it means Panasonic is the only recognisable consumer electronics manufacturer still making UHD Blu-ray ",
+          "date": "2026-10-22T13:00:00+00:00",
+          "image": "https://images.pushsquare.com/78ea29f1c0520/large.jpg"
         },
         {
-          "title": "Star Wars Battlefront 3 in Dev at DICE and Respawn, Multiple Sources Say",
-          "link": "https://www.pushsquare.com/news/2026/10/star-wars-battlefront-3-in-dev-at-dice-and-respawn-multiple-sources-say",
-          "description": "In a galaxy hopefully not too far away. EA will pull together its two top first-person shooter teams – Apex Legends’ Respawn and Battlefield’s DICE – to create a new Star Wars Battlefront game, Variety reports. The site cites “multiple sources” familiar with the publisher’s plans, although nothing h",
-          "date": "2026-10-21T19:00:00+00:00",
-          "image": "https://images.pushsquare.com/8dcc1dda75fd2/large.jpg"
+          "title": "Disgaea Creator Wants to Make 66 More Games Before He Turns 75, But There's a Catch",
+          "link": "https://www.pushsquare.com/news/2026/10/disgaea-creator-wants-to-make-66-more-games-before-he-turns-75-but-theres-a-catch",
+          "description": "\"Consider it a form of crowdfunding\". I really enjoy reading Sohei Niikawa’s posts on social media. While I find a lot of the content on X miserable, there’s an earnestness to the Disgaea creator’s messages which I genuinely enjoy. Read the full article on pushsquare.com",
+          "date": "2026-10-22T12:30:00+00:00",
+          "image": "https://images.pushsquare.com/12e3c0e0e396c/large.jpg"
         },
         {
-          "title": "PS6 Costs $200 Less to Make Than Xbox Helix, Snoop Claims",
-          "link": "https://www.pushsquare.com/news/2026/10/ps6-costs-usd200-less-to-make-than-xbox-helix-snoop-claims",
-          "description": "But how much will it matter? Following rumours that Microsoft’s next-gen Xbox Helix could cost as much as $1,800, noted hardware snoop KeplerL2 says the PS6 currently costs Sony around $200 less to manufacture. Given current trends that number could change, but it’s always been expected that Sony’s ",
-          "date": "2026-10-21T18:30:00+00:00",
-          "image": "https://images.pushsquare.com/827616a2eaff9/large.jpg"
+          "title": "Despite BioWare Closure, Mass Effect TV Series Is Reportedly Still in Development",
+          "link": "https://www.pushsquare.com/news/2026/10/despite-bioware-closure-mass-effect-tv-series-is-reportedly-still-in-development",
+          "description": "The show must go on. In a bombshell announcement, publisher EA confirmed it's closing the celebrated RPG developer BioWare amid an eye-watering 400-person layoff . The studio's next game, a fourth Mass Effect entry, has been cancelled as a result — but it seems we haven't seen the last of the franch",
+          "date": "2026-10-22T12:00:00+00:00",
+          "image": "https://images.pushsquare.com/316fcad7e8815/large.jpg"
         }
       ]
     },
