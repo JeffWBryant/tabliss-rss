@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T21:55:21.088805+00:00",
+  "updated": "2026-10-22T00:33:10.878503+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Artist to Artist: JoAnne McGrath talks Horror and GOODBYE, MONSTER With Tess Givnish",
+          "link": "https://www.fangoria.com/joanne-mcgrath-goodbye-monster-poster/",
+          "description": "Ever wonder what goes into making a movie poster? FANGORIA Studios summoned GOODBYE, MONSTER poster artist JoAnne McGrath for an artist-to-artist chat with Fango contributor and painter Tess Givnish. Get the behind-the-scenes scoop on painting Luke Barnett's latest horror comedy short.",
+          "date": "2026-10-21T22:26:40+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/image00008-scaled.jpeg"
+        },
+        {
           "title": "Review: WHEN YOU SEE IT Is One Of The Best Found Footage Movies In Years",
           "link": "https://www.fangoria.com/review-when-you-see-it-telluride-horror-show/",
           "description": "The low-budget found footage flick WHEN YOU SEE IT was one of the standouts at the Telluride Horror Show 2026.",
@@ -216,13 +223,6 @@
           "description": "After debuting an all-star thirteenth season, AMERICAN HORROR STORY has been renewed for Season 14. Get all the details here.",
           "date": "2026-10-20T21:16:52+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/09/Screenshot-2026-09-10-at-12.51.16-PM.png"
-        },
-        {
-          "title": "THE BOULET BROTHERS’ DRAGULA Returns In Style With New Season 7 Trailer",
-          "link": "https://www.fangoria.com/the-boulet-brothers-dragula-season-7-trailer/",
-          "description": "Watch the new trailer for Season 7 of THE BOULET BROTHERS' DRAGULA, premiering on Shudder on October 27.",
-          "date": "2026-10-20T20:38:44+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/rUFm8dj8-copy.jpg"
         }
       ]
     },
@@ -380,6 +380,20 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Do Not Miss This PlayStation All-Timer While It Costs Less Than a Frothy Coffee",
+          "link": "https://www.pushsquare.com/news/2026/10/do-not-miss-this-playstation-all-timer-while-it-costs-less-than-a-frothy-coffee",
+          "description": "An all-time low for an all-time great. If you’ve never played Fumito Ueda’s iconic Shadow of the Colossus , you really have no excuse now: Bluepoint’s brilliant PS4 remake of the PS2 all-timer currently costs less than a frothy coffee. The game’s 75% off in the US , making it just $4.99; in the UK i",
+          "date": "2026-10-22T00:00:00+00:00",
+          "image": "https://images.pushsquare.com/aeeb25ba16c51/large.jpg"
+        },
+        {
+          "title": "All PS Plus Deluxe Members in Korea Get a Free Upgrade as Cloud Streaming Arrives",
+          "link": "https://www.pushsquare.com/news/2026/10/all-ps-plus-deluxe-members-in-korea-get-a-free-upgrade-as-cloud-streaming-arrives",
+          "description": "From Deluxe to Premium. I think Sony’s commitment to cloud gaming remains a footer for most PlayStation enthusiasts, but its PS Plus Premium solution is actually pretty good. Based on my own experiences, the image quality and latency is up there with the best services from the likes of Nvidia, and m",
+          "date": "2026-10-21T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/9afdcf6bb544a/large.jpg"
+        },
+        {
           "title": "Sony's Revamped PS5 Pulse Headset Launches Alongside GTA 6, on 19th November",
           "link": "https://www.pushsquare.com/news/2026/10/sonys-revamped-ps5-pulse-headset-launches-alongside-gta-6-on-19th-november",
           "description": "Price and pre-order details confirmed. If you’re looking to upgrade your audio experience for GTA 6 , Sony has confirmed that it will launch its new revamped PlayStation Pulse headset alongside Rockstar’s highly anticipated game on 19th November. Pre-orders will open on PS Direct next week, from 10A",
@@ -434,20 +448,6 @@
           "description": "Peak-aboo. In case you missed it, one of 2025's biggest hits — Peak — is heading onto PS5 at last. As it turns out, this isn't the only so-called \"friendslop\" game bound for Sony's console in the near future. Friendslop is a term coined to describe a particular brand of online co-op games, with Peak",
           "date": "2026-10-21T16:00:00+00:00",
           "image": "https://images.pushsquare.com/1d57f0604870a/large.jpg"
-        },
-        {
-          "title": "Cyberpunk 2077 PS5 Patch 2.5 Notes Revealed, Update Live on Thursday",
-          "link": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-patch-2-5-notes-revealed-update-live-on-thursday",
-          "description": "Get the full list of updates and changes here. CD Projekt Red has announced it's got yet another Cyberpunk 2077 patch on the way, this time in collaboration with the second season of its anime TV show spin-off, Edgerunners . The developer will update the RPG to version 2.5 on 22nd October 2026, and ",
-          "date": "2026-10-21T15:45:00+00:00",
-          "image": "https://images.pushsquare.com/7b51496b9b293/large.jpg"
-        },
-        {
-          "title": "Sony Said Xbox Game Pass Isn't Sustainable, Now It Seems the Gravy Train Is Almost Over",
-          "link": "https://www.pushsquare.com/news/2026/10/sony-said-xbox-game-pass-isnt-sustainable-now-it-seems-the-gravy-train-is-almost-over",
-          "description": "Sweeping changes to Microsoft subscription in 2027. Sony’s been criticised for a lot this generation, but to its credit it looks like it’ll be proved correct about Xbox Game Pass . It feels like a long time ago now, but I remember at the start of the PS5 era, the manufacturer was under intense press",
-          "date": "2026-10-21T15:30:00+00:00",
-          "image": "https://images.pushsquare.com/c53817a24d981/large.jpg"
         }
       ]
     },
