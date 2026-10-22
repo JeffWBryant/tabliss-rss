@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-22T00:33:10.878503+00:00",
+  "updated": "2026-10-22T05:54:51.964906+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Ripcord’s Halloween Film Festival – Watch and Vote on 50 Genre Shorts for Free!",
+          "link": "https://bloody-disgusting.com/sponsored/3972826/ripcords-register-vote/",
+          "description": "Ripcord’s Halloween Film Festival is live! Genre fans and Horror hounds can now watch and vote on 50 horror, sci-fi, thriller, and fantasy shorts, all curated from more than 500 submissions. Registration is free at Ripcord.film and voting is open until October 22nd. As previously reported, the Top 1",
+          "date": "2026-10-22T02:22:51+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/DREAMCREEP_HiRes_PreStab.jpg?resize=2048%2C1152&#038;ssl=1"
+        },
         {
           "title": "‘Victorian Psycho’ – FREE Sneak Screenings of Maika Monroe’s New Psychological Horror Movie",
           "link": "https://bloody-disgusting.com/news/3972530/victorian-psycho-screenings/",
@@ -66,13 +73,6 @@
           "description": "Trailing far behind Stephen King, in terms of novel-to-screen adaptations, is fellow author Dean Koontz. His ideas have generally stayed on the page, although there have been efforts to manifest them. After the novels Demon Seed and Shattered were each adapted into movies in the 1970s, we saw only o",
           "date": "2026-10-21T18:21:15+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/watchers.jpg?resize=1024%2C547&#038;ssl=1"
-        },
-        {
-          "title": "Steam Next Fest: 5 Must-Play Horror Demos for the Halloween Season",
-          "link": "https://bloody-disgusting.com/editorials/3972671/steam-next-fest-5-must-play-horror-demos-for-the-halloween-season/",
-          "description": "Every October, I have the urge to cram in as many horror games as I possibly can to celebrate the Halloween season. What better way to get in lots of horror gaming for free than to check out Steam Next Fest? There’s always a plethora of demos to go through every time Next Fest rolls […] The post Ste",
-          "date": "2026-10-21T17:59:15+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/elpaso.jpg?resize=900%2C580&#038;ssl=1"
         }
       ]
     },
