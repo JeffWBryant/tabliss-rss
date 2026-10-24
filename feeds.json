@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T22:31:54.473217+00:00",
+  "updated": "2026-10-24T01:26:51.438659+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Talking Point: What Are You Playing This Weekend? - Issue 655",
+          "link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-655",
+          "description": "Wet and windy. The weather is miserable, guys. Like, truly miserable. I’m not going out this weekend unless I have to. I’m playing games. Aaron Bayne Not exactly what I was expecting, but I'll be spending this weekend with Modern Warfare 4 . It's been a couple of years since I last dove into a Call ",
+          "date": "2026-10-23T23:00:00+00:00",
+          "image": "https://images.pushsquare.com/6976f1890c71d/large.jpg"
+        },
+        {
           "title": "'What a Loss for All of Us': Boss of Baldur's Gate 3 Maker Reacts to BioWare Closure",
           "link": "https://www.pushsquare.com/news/2026/10/what-a-loss-for-all-of-us-boss-of-baldurs-gate-3-maker-reacts-to-bioware-closure",
           "description": "Larian Studios CEO shares his thoughts. Publisher EA shocked fans and industry veterans alike earlier this week with its 400-person layoff , notably including the closure of the legendary RPG studio, BioWare. Many people have shared their thoughts on the matter, with almost everybody lamenting the m",
@@ -441,13 +448,6 @@
           "description": "\"Death Proof, I do all my own stunts\". Blackpink star Lisa released her highly anticipated new Press Play EP overnight, alongside latest single Tarantino . And as expected, the PlayStation global ambassador squeezed in a PS5 reference towards the end of the music video. Read the full article on push",
           "date": "2026-10-23T12:30:00+00:00",
           "image": "https://images.pushsquare.com/b78934208e4ff/large.jpg"
-        },
-        {
-          "title": "Leaked Mass Effect 5 Trailer Is Real, Offers Glimpse of Cancelled Game",
-          "link": "https://www.pushsquare.com/news/2026/10/leaked-mass-effect-5-trailer-is-real-offers-glimpse-of-cancelled-game",
-          "description": "\"We were making a great game\". A Mass Effect 5 trailer, made using “pre-production assets”, appears to have leaked on Reddit following dev BioWare’s closure this week . While it’s difficult to corroborate the validity of the footage, it does not initially appear to be AI. It was also reported by IGN",
-          "date": "2026-10-22T23:00:00+00:00",
-          "image": "https://images.pushsquare.com/fa29e5ef2e74e/large.jpg"
         }
       ]
     },
