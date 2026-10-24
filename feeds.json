@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-24T11:27:48.238200+00:00",
+  "updated": "2026-10-24T14:48:29.879849+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Trevor Henderson’s Monsterverse Explained: From Viral Monsters to Hollywood Adaptations",
+          "link": "https://bloody-disgusting.com/editorials/3972658/the-rise-of-trevor-hendersons-monsterverse/",
+          "description": "As someone who spent the better part of his school years doodling strange creatures in the margins of beat-up notebooks, I have the utmost respect for artists who are talented enough to turn the act of creating weird little freaks into a full-on career. That’s why I’m such a huge fan of the online m",
+          "date": "2026-10-24T13:45:10+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/07/siren-head.jpg?resize=1024%2C683&#038;ssl=1"
+        },
         {
           "title": "Ridley Scott Reteams With ‘Raised By Wolves’ Creator On New ‘Alien’ Movie",
           "link": "https://bloody-disgusting.com/movie/3973162/ridley-scott-reteams-with-raised-by-wolves-creator-on-new-alien-movie/",
@@ -65,13 +72,6 @@
           "link": "https://bloody-disgusting.com/the-further/3973102/shudders-season-of-screams-continues-past-halloween-heres-the-november-and-december-lineup/",
           "description": "You might think that Shudder’s “Season of Screams” ends when Halloween ends, but this year’s four-month-long celebration is actually continuing through the remainder of 2026. Here’s what’s coming to Shudder in November and December for “Season of Screams” 2026. BRAND NEW FILMS AND SERIES – NOVEMBER ",
           "date": "2026-10-23T17:44:36+00:00",
-          "image": ""
-        },
-        {
-          "title": "Chucky and the ‘Child’s Play’ Chapter Leaving ‘Dead by Daylight’ on November 24",
-          "link": "https://bloody-disgusting.com/video-games/3973100/chucky-and-the-childs-play-chapter-leaving-dead-by-daylight-on-november-24/",
-          "description": "Pesky licensing agreements have reared their ugly heads once again for Dead by Daylight. This time, it’s coming for Child’s Play‘s Chucky. Per the official X account, Dead by Daylight will no longer be selling the Child’s Play chapter and its associated content from in-game and first-party stores on",
-          "date": "2026-10-23T17:37:54+00:00",
           "image": ""
         }
       ]
