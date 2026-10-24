@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T17:59:57.322742+00:00",
+  "updated": "2026-10-24T20:40:38.139169+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,20 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "13 Must-Watch Horror Movies On Shudder",
+          "link": "https://www.fangoria.com/13-must-watch-horror-movies-shudder/",
+          "description": "So you got a Shudder subscription to watch the 2026 FANGORIA Chainsaw Awards, eh? Well, while you're there, here are 13 must-watch movies on the platform.",
+          "date": "2026-10-24T20:00:10+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/oddity-e1792790015372.webp"
+        },
+        {
+          "title": "CRYSTAL LAKE Showrunner Brad Caleb Kane Explains The Show’s Big Twist",
+          "link": "https://www.fangoria.com/crystal-lake-brad-caleb-kane-interview/",
+          "description": "Still not over the big reveal of CRYSTAL LAKE? Showrunner Brad Caleb Kane explains the thought process behind the massive creative swing.",
+          "date": "2026-10-24T18:00:57+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/NUP_211117_00001.jpg"
+        },
+        {
           "title": "LADY IN WHITE: The Alchemy of Nostalgia And 1960s Social Realism Is Scary As Hell",
           "link": "https://www.fangoria.com/lady-in-white-interview-frank-laloggia/",
           "description": "LADY IN WHITE writer/director Frank LaLoggia chats with FANGORIA in honor of the terrifying fantasy horror mystery film's new 4K restoration.",
@@ -209,20 +223,6 @@
           "description": "Sometimes a non-horror movie features incredibly scary moments that catch the audience off guard. Here's five of the most terrifying that we can't stop thinking about after all these years.",
           "date": "2026-10-23T15:00:33+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/nimhspider2.jpg"
-        },
-        {
-          "title": "Vera Farmiga’s Band The Yagas Just Dropped An Awesome (And Creepy) New Music Video",
-          "link": "https://www.fangoria.com/the-yagas-runaway-vera-farmiga/",
-          "description": "Vera Farmiga's alt rock band The Yagas just dropped a creepy new music video for their single \"Runaway.\" Watch it here.",
-          "date": "2026-10-23T14:05:55+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/unnamed-2-1.jpg"
-        },
-        {
-          "title": "Monstrous Musings: Stranger Danger",
-          "link": "https://www.fangoria.com/monstrous-musings-stranger-danger/",
-          "description": "How the 1982 Tylenol Murders changed not only Halloween, but how children in America are (and aren't) kept safe.",
-          "date": "2026-10-23T10:00:18+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/halloween-2-razorblade.webp"
         }
       ]
     },
