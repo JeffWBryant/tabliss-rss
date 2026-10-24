@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T14:48:29.879849+00:00",
+  "updated": "2026-10-24T17:59:57.322742+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -16,7 +16,7 @@
           "link": "https://bloody-disgusting.com/movie/3973162/ridley-scott-reteams-with-raised-by-wolves-creator-on-new-alien-movie/",
           "description": "A mysterious new Alien movie is in the works for 20th Century Studios and Ridley Scott, and THR reports that “Raised by Wolves” series creator Aaron Guzikowski has been hired to write it. Details remain under wraps at this time, but the new Alien feature won’t be an Alien: Romulus sequel. Ridley Sco",
           "date": "2026-10-23T22:02:42+00:00",
-          "image": ""
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2015/11/Prometheus-Engineer.jpg?resize=1920%2C1080&#038;ssl=1"
         },
         {
           "title": "‘Crystal Lake’ Showrunner Debunks Theory That Jason Voorhees Has Cockroach DNA",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "LADY IN WHITE: The Alchemy of Nostalgia And 1960s Social Realism Is Scary As Hell",
+          "link": "https://www.fangoria.com/lady-in-white-interview-frank-laloggia/",
+          "description": "LADY IN WHITE writer/director Frank LaLoggia chats with FANGORIA in honor of the terrifying fantasy horror mystery film's new 4K restoration.",
+          "date": "2026-10-24T15:00:18+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/lady-1.jpg"
+        },
+        {
           "title": "Bonnie Aarons Is The Mom From Hell In THE MORTICIAN’S DAUGHTER",
           "link": "https://www.fangoria.com/the-morticians-daughter-short-film/",
           "description": "Bonnie Aarons stars in the new short film THE MORTICIAN'S DAUGHTER, directed by Elwood Quincy Walker. Watch it here.",
@@ -216,19 +223,19 @@
           "description": "How the 1982 Tylenol Murders changed not only Halloween, but how children in America are (and aren't) kept safe.",
           "date": "2026-10-23T10:00:18+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/halloween-2-razorblade.webp"
-        },
-        {
-          "title": "PROJECT SHAMROCK: THE SECRET ORIGINS OF MICHAEL MYERS EXPOSED Is A Must Watch",
-          "link": "https://www.fangoria.com/project-shamrock-the-secret-origins-of-michael-myers-exposed/",
-          "description": "With PROJECT SHAMROCK, genre superstar Jason Eisener is back with a killer fan film that finally makes some sense of the HALLOWEEN canon.",
-          "date": "2026-10-22T17:27:29+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-10.20.25-AM.png"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "PS5 Zombie Shooter Is Now Under $10 on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/10/24/world-war-z-aftermath-ps5-75-percent-off-playstation-store",
+          "description": "PlayStation 5 gamers can now purchase a zombie shooter game by Saber Interactive at a low price. The game is reportedly available for less than $10 on the PlayStation Store through November 5, 2026. World War Z: Aftermath is reportedly 75% off on the PlayStation Store, reducing its price to $9.99. T",
+          "date": "2026-10-24T15:00:00+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/PS5-Zombie-Shooter-Is-Now-Under-10-on-PlayStation-Store.jpg?w=1024"
+        },
         {
           "title": "GTA 6 Takes a Swipe at OnlyFans With Its Own Subscription App",
           "link": "https://www.playstationlifestyle.net/2026/10/23/gta-6-peekhole-onlyfans-parody",
@@ -291,13 +298,6 @@
           "description": "The battle has officially begun. Activision’s 2026 tactical game Call of Duty: Modern Warfare 4 has officially landed on the PlayStation Store. This marks the franchise’s 23rd installment overall and the fourth and final entry in the rebooted Modern Warfare sub-series. Developed by Infinity Ward and",
           "date": "2026-10-23T04:00:00+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/Deepesh-personal-1200-675-2026-10-23T024435.339.png?w=1024"
-        },
-        {
-          "title": "3 Beloved PS4, PS5 Adventure Game Remasters Are 80% Off on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/10/22/tomb-raider-i-iii-remastered-ps5-80-percent-off",
-          "description": "A beloved collection of classic action-adventure games for PlayStation 4 and PlayStation 5 is available at a discount on the PlayStation Store. The collection currently holds an average rating of 4.16 out of 5 from more than 12,000 player ratings. Tomb Raider I-III Remastered Starring Lara Croft is ",
-          "date": "2026-10-22T22:34:53+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/3-Beloved-PS4-PS5-Adventure-Game-Remasters-Are-80-Off-on-PlayStation-Store.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,27 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "PS5's Release Schedule Is Insane Next Week, and It's Just Added Another Must-Play",
+          "link": "https://www.pushsquare.com/news/2026/10/ps5s-release-schedule-is-insane-next-week-and-its-just-added-another-must-play",
+          "description": "How about a survival horror RPG? Putting together next week’s PS5 releases , I was utterly flabbergasted by the number of truly great games on the way. But not long after I completed my guide, Devolver Digital added another title to the list: the acclaimed survival horror and RPG mash-up Look Outsid",
+          "date": "2026-10-24T17:30:00+00:00",
+          "image": "https://images.pushsquare.com/24ee693c29983/large.jpg"
+        },
+        {
+          "title": "Sony's New Walkman Is a Real Status Symbol, with a $6,000 Price Point to Match",
+          "link": "https://www.pushsquare.com/news/2026/10/sonys-new-walkman-is-a-real-status-symbol-with-a-usd6000-price-point-to-match",
+          "description": "Sound good? Aside from PlayStation, it’s probably fair to say the Walkman is Sony’s most iconic product. The portable music player has declined in importance as the world has embraced smartphones, but the Japanese giant does continue to manufacture them for legacy purposes. Read the full article on ",
+          "date": "2026-10-24T17:00:00+00:00",
+          "image": "https://images.pushsquare.com/e4f52f01949ef/large.jpg"
+        },
+        {
+          "title": "Feature: Star Wars: Galactic Racer Is the Blueprint for a New Burnout, and I Need It to Happen",
+          "link": "https://www.pushsquare.com/features/star-wars-galactic-racer-is-the-blueprint-for-a-new-burnout-and-i-need-it-to-happen",
+          "description": "Lit Fuse. Hello. I'm a Burnout psycho, and I've been playing Star Wars: Galactic Racer — the best Burnout game since Paradise . Obviously, it isn't technically related to Criterion Games' arcade racing series at all, but as has been pointed out many times already, Galactic Racer has Burnout in its b",
+          "date": "2026-10-24T15:00:00+00:00",
+          "image": "https://images.pushsquare.com/4fa7a6364e039/large.jpg"
+        },
+        {
           "title": "Guide: These 45+ PS5 and PS Plus Games Are Coming Out Next Week (26th-1st November)",
           "link": "https://www.pushsquare.com/guides/these-45plus-ps5-and-ps-plus-games-are-coming-out-next-week-26th-1st-november",
           "description": "Phantom Blade Zero! The Wolf Among Us! STEINS;GATE! The PS5 release schedule is absolutely, utterly stacked next week – in fact, this is the biggest update I think I’ve put together since we started this series. There should be no guesses about the biggest new game: it’s unquestionably Phantom Blade",
@@ -427,27 +448,6 @@
           "description": "Players are \"keeping the game alive\". One of the more successful recent attempts at a live service game is Helldivers 2 , published by Sony and developed by Arrowhead Studios. It seems the latter is in no rush to follow it up with a Helldivers 3. Speaking to Rock Paper Shotgun , chief creative offic",
           "date": "2026-10-23T15:15:00+00:00",
           "image": "https://images.pushsquare.com/58c6ba9de60ff/large.jpg"
-        },
-        {
-          "title": "Round Up: STEINS;GATE RE:BOOT PS5 Reviews - Here's What the Critics Are Saying",
-          "link": "https://www.pushsquare.com/news/2026/10/round-up-steinsgate-reboot-ps5-reviews-heres-what-the-critics-are-saying",
-          "description": "Back to Akihabara. I’ve not had a chance to finish reading STEINS;GATE RE:BOOT yet, and considering how busy my current work schedule is, I think I’m going to put it down for now and concede defeat. (I do intend to get back to it at some point.) However, I still wanted to get something up on the sit",
-          "date": "2026-10-23T14:45:00+00:00",
-          "image": "https://images.pushsquare.com/96af5932aa12e/large.jpg"
-        },
-        {
-          "title": "AC Black Flag Rescyned Wants You to Play It Again in New Game Plus Patch Next Week",
-          "link": "https://www.pushsquare.com/news/2026/10/ac-black-flag-rescyned-wants-you-to-play-it-again-in-new-game-plus-patch-next-week",
-          "description": "There and back again. If you've got the urge to replay Assassin's Creed: Black Flag Resynced a few months on from your original playthrough in the summer, then Ubisoft has the perfect PS5 update for you: a New Game Plus mode is coming next week. This has been a long time coming for PS5 players, as f",
-          "date": "2026-10-23T14:15:00+00:00",
-          "image": "https://images.pushsquare.com/ba91167acb4f5/large.jpg"
-        },
-        {
-          "title": "Call of Duty: Modern Warfare 4's Multiplayer Unlocked Early, But Feedback Has Been Brutal So Far",
-          "link": "https://www.pushsquare.com/news/2026/10/call-of-duty-modern-warfare-4s-multiplayer-unlocked-early-but-feedback-has-been-brutal-so-far",
-          "description": "\"Worst Call of Duty ever\". Call of Duty: Modern Warfare 4 is officially available for everyone, after a complicated release rollout which saw the campaign unlock for some last week and extraction mode DMZ for others on Tuesday. Feeling bullish, Infinity Ward opened up the competitive multiplayer sui",
-          "date": "2026-10-23T13:00:00+00:00",
-          "image": "https://images.pushsquare.com/33e15909900c3/large.jpg"
         }
       ]
     },
