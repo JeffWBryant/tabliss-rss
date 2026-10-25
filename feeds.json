@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-25T19:29:19.883775+00:00",
+  "updated": "2026-10-25T22:00:22.573664+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Crystal Lake’ Scrapbooks the Past for Campers Old and New [Halloweenies Podcast]",
+          "link": "https://bloody-disgusting.com/podcast-news/3973235/crystal-lake-halloweenies/",
+          "description": "We don’t wanna scare anyone, but we’re gonna give it to you straight about Jason: The Friday the 13th franchise was never recovered from the lake of development hell after reboot, and sequel, and video game, and lawsuit drowned the IP. But now he’s back in Peacock’s Crystal Lake, and the Halloweenie",
+          "date": "2026-10-25T21:58:23+00:00",
+          "image": ""
+        },
         {
           "title": "Physical PlayStation 5 Edition of ‘Project Songbird’ Now Available at Retailers",
           "link": "https://bloody-disgusting.com/video-games/3973186/physical-playstation-5-edition-of-project-songbird-now-available-at-retailers/",
@@ -66,13 +73,6 @@
           "description": "After the classic Goosebumps show went off the air, and after a Tim Burton-produced movie was off the table, there was another attempt to keep R. L. Stine’s name on television. Two, if you count the stand-alone pilot for Ghosts of Fear Street in 1998. While The Nightmare Room did actually make it to",
           "date": "2026-10-23T20:54:08+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/the-evil-thing.jpg?resize=1024%2C577&#038;ssl=1"
-        },
-        {
-          "title": "‘Connected’ – Debut Novel from Bloody Disgusting Contributor Jason Jenkins Now Available",
-          "link": "https://bloody-disgusting.com/books/3973127/connected-debut-novel-from-bloody-disgusting-contributor-jason-jenkins-now-available/",
-          "description": "Bloody Disgusting contributor Jason Jenkins is the man behind the popular Phantom Limbs column (and the same-titled book based on the column), and we’re excited to let you know on the road to Halloween that Jason’s debut novel, titled Connected, is now available. Encyclopocalypse Publications invite",
-          "date": "2026-10-23T20:30:10+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Connected-PrintRes-Text-scaled.jpg?resize=1829%2C2560&#038;ssl=1"
         }
       ]
     },
