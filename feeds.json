@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T01:29:13.329834+00:00",
+  "updated": "2026-10-25T06:44:27.958306+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Top Horror Movies Streaming This Week",
+          "link": "https://www.fangoria.com/top-horror-movies-streaming-this-week/",
+          "description": "Irish terror takes the wheel of this week's list with director Damian McCarthy's HOKUM. Four classic terror tales and some of this year's favorite films, BACKROOMS and EVIL DEAD BURN, fill out the list that will provide a howling good time.",
+          "date": "2026-10-25T02:02:39+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/MV5BMTE4MzM1YmEtNmYzZi00MDI5LThjYmUtYzI1Y2Y4ZGI5MDc3XkEyXkFqcGc@._V1_.jpg"
+        },
+        {
           "title": "13 Must-Watch Horror Movies On Shudder",
           "link": "https://www.fangoria.com/13-must-watch-horror-movies-shudder/",
           "description": "So you got a Shudder subscription to watch the 2026 FANGORIA Chainsaw Awards, eh? Well, while you're there, here are 13 must-watch movies on the platform.",
@@ -216,13 +223,6 @@
           "description": "RECLUSE, the feature debut from writer-director Henry Chaisson, comes to theaters next year. Get all the details here.",
           "date": "2026-10-23T15:49:18+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/full_Recluse-Clean-16x9-03-1.jpg"
-        },
-        {
-          "title": "5 Scary Moments From Non-Horror Movies (And Why They Stay With Us)",
-          "link": "https://www.fangoria.com/5-scary-moments-non-horror-movies/",
-          "description": "Sometimes a non-horror movie features incredibly scary moments that catch the audience off guard. Here's five of the most terrifying that we can't stop thinking about after all these years.",
-          "date": "2026-10-23T15:00:33+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/nimhspider2.jpg"
         }
       ]
     },
@@ -378,78 +378,8 @@
     },
     "Push Square": {
       "url": "https://www.pushsquare.com/feeds/latest",
-      "articles": [
-        {
-          "title": "PS5's Release Schedule Is Insane Next Week, and It's Just Added Another Must-Play",
-          "link": "https://www.pushsquare.com/news/2026/10/ps5s-release-schedule-is-insane-next-week-and-its-just-added-another-must-play",
-          "description": "How about a survival horror RPG? Putting together next week’s PS5 releases , I was utterly flabbergasted by the number of truly great games on the way. But not long after I completed my guide, Devolver Digital added another title to the list: the acclaimed survival horror and RPG mash-up Look Outsid",
-          "date": "2026-10-24T17:30:00+00:00",
-          "image": "https://images.pushsquare.com/24ee693c29983/large.jpg"
-        },
-        {
-          "title": "Sony's New Walkman Is a Real Status Symbol, with a $6,000 Price Point to Match",
-          "link": "https://www.pushsquare.com/news/2026/10/sonys-new-walkman-is-a-real-status-symbol-with-a-usd6000-price-point-to-match",
-          "description": "Sound good? Aside from PlayStation, it’s probably fair to say the Walkman is Sony’s most iconic product. The portable music player has declined in importance as the world has embraced smartphones, but the Japanese giant does continue to manufacture them for legacy purposes. Read the full article on ",
-          "date": "2026-10-24T17:00:00+00:00",
-          "image": "https://images.pushsquare.com/e4f52f01949ef/large.jpg"
-        },
-        {
-          "title": "Feature: Star Wars: Galactic Racer Is the Blueprint for a New Burnout, and I Need It to Happen",
-          "link": "https://www.pushsquare.com/features/star-wars-galactic-racer-is-the-blueprint-for-a-new-burnout-and-i-need-it-to-happen",
-          "description": "Lit Fuse. Hello. I'm a Burnout psycho, and I've been playing Star Wars: Galactic Racer — the best Burnout game since Paradise . Obviously, it isn't technically related to Criterion Games' arcade racing series at all, but as has been pointed out many times already, Galactic Racer has Burnout in its b",
-          "date": "2026-10-24T15:00:00+00:00",
-          "image": "https://images.pushsquare.com/4fa7a6364e039/large.jpg"
-        },
-        {
-          "title": "Guide: These 45+ PS5 and PS Plus Games Are Coming Out Next Week (26th-1st November)",
-          "link": "https://www.pushsquare.com/guides/these-45plus-ps5-and-ps-plus-games-are-coming-out-next-week-26th-1st-november",
-          "description": "Phantom Blade Zero! The Wolf Among Us! STEINS;GATE! The PS5 release schedule is absolutely, utterly stacked next week – in fact, this is the biggest update I think I’ve put together since we started this series. There should be no guesses about the biggest new game: it’s unquestionably Phantom Blade",
-          "date": "2026-10-24T11:00:00+00:00",
-          "image": "https://images.pushsquare.com/ccbae66e9794d/large.jpg"
-        },
-        {
-          "title": "Talking Point: What Are You Playing This Weekend? - Issue 655",
-          "link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-655",
-          "description": "Wet and windy. The weather is miserable, guys. Like, truly miserable. I’m not going out this weekend unless I have to. I’m playing games. Aaron Bayne Not exactly what I was expecting, but I'll be spending this weekend with Modern Warfare 4 . It's been a couple of years since I last dove into a Call ",
-          "date": "2026-10-23T23:00:00+00:00",
-          "image": "https://images.pushsquare.com/6976f1890c71d/large.jpg"
-        },
-        {
-          "title": "'What a Loss for All of Us': Boss of Baldur's Gate 3 Maker Reacts to BioWare Closure",
-          "link": "https://www.pushsquare.com/news/2026/10/what-a-loss-for-all-of-us-boss-of-baldurs-gate-3-maker-reacts-to-bioware-closure",
-          "description": "Larian Studios CEO shares his thoughts. Publisher EA shocked fans and industry veterans alike earlier this week with its 400-person layoff , notably including the closure of the legendary RPG studio, BioWare. Many people have shared their thoughts on the matter, with almost everybody lamenting the m",
-          "date": "2026-10-23T17:00:00+00:00",
-          "image": "https://images.pushsquare.com/a55c610259183/large.jpg"
-        },
-        {
-          "title": "'We're Victims of Xbox's Change in Strategy': Dishonored Dev Has Weeks to Save Itself",
-          "link": "https://www.pushsquare.com/news/2026/10/were-victims-of-xboxs-change-in-strategy-dishonored-dev-has-weeks-to-save-itself",
-          "description": "Update: Journalist says he'd be surprised if studio shuts down. While the future of former Xbox first-party devs like Double Fine and Undead Labs has already been determined, it’s been a while since we heard word from Arkane Lyon , the studio behind the acclaimed Dishonored games. Now an article by ",
-          "date": "2026-10-23T16:30:00+00:00",
-          "image": "https://images.pushsquare.com/2be0861d0e436/large.jpg"
-        },
-        {
-          "title": "Poll: Are You Taking Time Off for GTA 6?",
-          "link": "https://www.pushsquare.com/features/poll-are-you-taking-time-off-for-gta-6",
-          "description": "USA set for a massive financial hit on 19th November. We're now less than a month away from the arrival of GTA 6 , and according to recent reporting , its launch day alone may cost America $1 billion. That's because an estimated 1.5 million workers are planning to take 19th November 2026 as a day of",
-          "date": "2026-10-23T16:00:00+00:00",
-          "image": "https://images.pushsquare.com/7c5a6fd3be635/large.jpg"
-        },
-        {
-          "title": "Nearly 12 Million Capcom ID Accounts Affected in Huge Data Breach",
-          "link": "https://www.pushsquare.com/news/2026/10/nearly-12-million-capcom-id-accounts-affected-in-huge-data-breach",
-          "description": "\"Capcom sincerely apologizes\". Japanese publisher Capcom has released a statement regarding a recent data breach, which has resulted in the unauthorised access to nearly 12 million Capcom ID accounts. Capcom ID is a free unified account system that grants access to online play in certain Capcom game",
-          "date": "2026-10-23T15:45:00+00:00",
-          "image": "https://images.pushsquare.com/f2f9f3d019d87/large.jpg"
-        },
-        {
-          "title": "Helldivers 3? Not Unless It's Very Different from Helldivers 2, Says Arrowhead",
-          "link": "https://www.pushsquare.com/news/2026/10/helldivers-3-not-unless-its-very-different-from-helldivers-2-says-arrowhead",
-          "description": "Players are \"keeping the game alive\". One of the more successful recent attempts at a live service game is Helldivers 2 , published by Sony and developed by Arrowhead Studios. It seems the latter is in no rush to follow it up with a Helldivers 3. Speaking to Rock Paper Shotgun , chief creative offic",
-          "date": "2026-10-23T15:15:00+00:00",
-          "image": "https://images.pushsquare.com/58c6ba9de60ff/large.jpg"
-        }
-      ]
+      "articles": [],
+      "error": "521 Server Error: <none> for url: https://www.pushsquare.com/feeds/latest"
     },
     "Steam": {
       "url": "https://store.steampowered.com/feeds/news.xml",
