@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-25T22:00:22.573664+00:00",
+  "updated": "2026-10-26T00:36:20.178807+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Margaret White Is the MVP of Mike Flanagan’s ‘Carrie’ [The Losers’ Club Podcast]",
+          "link": "https://bloody-disgusting.com/podcast-news/3973234/mike-flanagan-carrie-losers-club/",
+          "description": "Mike Flanagan‘s Carrie is now streaming on Amazon Prime. The Losers’ Club binged it all weeks ago, and they’ve since recorded two reviews. Join Jenn Adams, Michael Roffman, and returning guest Julianne Clancy, Senior Director of Marketing at Vintage Books as they offer a spoiler-free consensus on th",
+          "date": "2026-10-25T22:08:57+00:00",
+          "image": ""
+        },
         {
           "title": "‘Crystal Lake’ Scrapbooks the Past for Campers Old and New [Halloweenies Podcast]",
           "link": "https://bloody-disgusting.com/podcast-news/3973235/crystal-lake-halloweenies/",
@@ -66,13 +73,6 @@
           "description": "Peacock’s Crystal Lake traces the murderous origins of Pamela Voorhees (Linda Cardellini) in the wake of losing her young son, Jason Voorhees (Callum Vinson), infusing it with lore brand new to the IP. That includes attributing Jason’s unkillable status to Cold War-era genetic experimentation, court",
           "date": "2026-10-23T21:18:42+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/NUP_211580_00010.jpg?resize=1000%2C606&#038;ssl=1"
-        },
-        {
-          "title": "R. L. Stine’s Gateway Horror ‘The Haunting Hour: Don’t Think About It’ Deserves a Halloween Rewatch",
-          "link": "https://bloody-disgusting.com/editorials/3972775/revisiting-gateway-horror-r-l-stines-the-haunting-hour-dont-think-about-it/",
-          "description": "After the classic Goosebumps show went off the air, and after a Tim Burton-produced movie was off the table, there was another attempt to keep R. L. Stine’s name on television. Two, if you count the stand-alone pilot for Ghosts of Fear Street in 1998. While The Nightmare Room did actually make it to",
-          "date": "2026-10-23T20:54:08+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/the-evil-thing.jpg?resize=1024%2C577&#038;ssl=1"
         }
       ]
     },
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "The Next FRIDAY THE 13TH Movie Can Finally Fix An Infamous Mistake",
+          "link": "https://www.fangoria.com/friday-the-13th-bring-kane-hodder-jason-back/",
+          "description": "A new FRIDAY THE 13TH movie is in the works and it's time for the greatest Jason Voorhees actor of them all to return to Camp Crystal Lake.",
+          "date": "2026-10-25T22:00:44+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Kane1.jpg"
+        },
+        {
           "title": "Top Horror Movies Streaming This Week",
           "link": "https://www.fangoria.com/top-horror-movies-streaming-this-week/",
           "description": "Irish terror takes the wheel of this week's list with director Damian McCarthy's HOKUM. Four classic terror tales and some of this year's favorite films, BACKROOMS and EVIL DEAD BURN, fill out the list that will provide a howling good time.",
@@ -216,13 +223,6 @@
           "description": "FANGORIA spoke with Mike Dougherty and Trent Shy about their delightful stop-motion short, SAM'S HARVEST. Be warned, if you disrespect jack-'o-lanterns, you'll only have yourself to blame...",
           "date": "2026-10-23T16:05:25+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/sam-stills-sam-stop-motion-01-768x432-1.png"
-        },
-        {
-          "title": "A Terrifying Curse Comes To Call In New Family Horror RECLUSE",
-          "link": "https://www.fangoria.com/recluse-movie-vertical-entertainment/",
-          "description": "RECLUSE, the feature debut from writer-director Henry Chaisson, comes to theaters next year. Get all the details here.",
-          "date": "2026-10-23T15:49:18+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/full_Recluse-Clean-16x9-03-1.jpg"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Review: Phantom Blade Zero (PS5) - One of the Generation's Greatest Action Experiences",
+          "link": "https://www.pushsquare.com/reviews/ps5/phantom-blade-zero",
+          "description": "I got Soul but I'm not a Soulslike. Should you ever wonder what it might feel like to be the coolest person on the planet, then Phantom Blade Zero is utterly hell-bent on fulfilling that fantasy. The western debut from S-GAME makes a punchy, stylish, and deep combat system the nucleus of an adventur",
+          "date": "2026-10-26T00:00:00+00:00",
+          "image": "https://images.pushsquare.com/reviews/ps5/phantom-blade-zero/large.jpg"
+        },
+        {
           "title": "Shenmue 3 Revival Postponed, as PS5 Re-Release Is Delayed to Early 2027",
           "link": "https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027",
           "description": "I see. Us Shenmue fans know a thing or two about waiting around, so it’s no real surprise to see Shenmue 3 Enhanced delayed. The PS5 re-release of Ys Net’s sequel – published by ININ – had been due out in 2026, but as the year has progressed, a postponement into 2027 always seemed inevitable. Read t",
@@ -441,13 +448,6 @@
           "description": "Larian Studios CEO shares his thoughts. Publisher EA shocked fans and industry veterans alike earlier this week with its 400-person layoff , notably including the closure of the legendary RPG studio, BioWare. Many people have shared their thoughts on the matter, with almost everybody lamenting the m",
           "date": "2026-10-23T17:00:00+00:00",
           "image": "https://images.pushsquare.com/a55c610259183/large.jpg"
-        },
-        {
-          "title": "'We're Victims of Xbox's Change in Strategy': Dishonored Dev Has Weeks to Save Itself",
-          "link": "https://www.pushsquare.com/news/2026/10/were-victims-of-xboxs-change-in-strategy-dishonored-dev-has-weeks-to-save-itself",
-          "description": "Update: Journalist says he'd be surprised if studio shuts down. While the future of former Xbox first-party devs like Double Fine and Undead Labs has already been determined, it’s been a while since we heard word from Arkane Lyon , the studio behind the acclaimed Dishonored games. Now an article by ",
-          "date": "2026-10-23T16:30:00+00:00",
-          "image": "https://images.pushsquare.com/2be0861d0e436/large.jpg"
         }
       ]
     },
