@@ -1,84 +1,126 @@
 {
-  "updated": "2026-10-26T12:39:20.083851+00:00",
+  "updated": "2026-10-26T19:06:11.903272+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
         {
-          "title": "Fan Developing Game Based Off of Zach Cregger’s ‘Resident Evil’",
-          "link": "https://bloody-disgusting.com/video-games/3973244/fan-developing-game-based-off-of-zach-creggers-resident-evil/",
-          "description": "When Zach Cregger‘s Resident Evil was released, a segment of fans complained that the film was nothing like the game series. Well, that’s apparently being corrected in a sense, as a fan has begun adapting the film into its own video game. Per IGN, an indie developer named “Chicanogoth” has shared fo",
-          "date": "2026-10-26T11:30:54+00:00",
+          "title": "‘WNUF Halloween Special’ Creator Takes On New Year’s Eve Horror With ‘Spirit Tasting’",
+          "link": "https://bloody-disgusting.com/movie/3973377/wnuf-halloween-special-creator-takes-on-new-years-eve-horror-with-spirit-tasting/",
+          "description": "WNUF Halloween Special writer-director Chris LaMartina is taking on New Year’s Eve with experimental seasonal project Spirit Tasting, Variety reports today. Spirit Tasting will be screening in a holiday roadshow across the country with to-be-announced dates from November to early January. Chris LaMa",
+          "date": "2026-10-26T17:59:06+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/70989406-be6d-b404-59d6-d4bc7e5163a4.jpg?resize=1000%2C667&#038;ssl=1"
+        },
+        {
+          "title": "Ahead of Tomorrow’s DLC, ‘Halloween: The Game’ Introduces Twitch Drops",
+          "link": "https://bloody-disgusting.com/video-games/3973383/ahead-of-tomorrows-dlc-halloween-the-game-introduces-twitch-drops/",
+          "description": "To go along with tomorrow’s launch of the first DLC for Halloween: The Game, IllFonic has announced that players will now be able to earn Twitch Drops from now until November 3. Doing so will earn you a total of three cosmetics, and all you have to do is watch participating Twitch streamers playing ",
+          "date": "2026-10-26T17:57:49+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/halloweentwitch.jpg?resize=1920%2C1080&#038;ssl=1"
+        },
+        {
+          "title": "Canceled ‘Paranormal Activity’ Horror Game Finds New Life as ‘Playable Archive’ Free Release on Steam [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3973369/darkstone-digital-shadow-drops-playable-archive-for-free-on-steam-trailer/",
+          "description": "It was a major bummer when DarkStone Digital and DreadXP had to cancel Paranormal Activity: Threshold after Paramount had declined to give them an extension on the development of the project. However, Brian Clarke decided to polish what was there and release it for free as Playable Archive, which is",
+          "date": "2026-10-26T17:42:54+00:00",
+          "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26b0.png"
+        },
+        {
+          "title": "‘MADiSON’ – The Terrifying Video Game is Getting a Horror Movie Adaptation",
+          "link": "https://bloody-disgusting.com/movie/3973367/madison-the-terrifying-video-game-is-getting-a-horror-movie-adaptation/",
+          "description": "Selected as one of Bloody Disgusting’s 10 Best Horror Games of 2022, psychological horror game MADiSON is getting a movie adaptation from Story Kitchen, Variety reports this week. Variety details, “Los Angeles-based Story Kitchen, a production company specializing in game-to-movie adaptations, has i",
+          "date": "2026-10-26T17:36:33+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/madison.jpg?resize=830%2C535&#038;ssl=1"
+        },
+        {
+          "title": "Andrew Saullo Announces ‘Dino Crisis’ Fan Film Project ‘The Third Energy Crisis’",
+          "link": "https://bloody-disgusting.com/news/3973302/andrew-saullo-announces-dino-crisis-fan-film-project-the-third-energy-crisis/",
+          "description": "After two Resident Evil fan films, director Andrew Saullo is pivoting to another Capcom survival horror title for his next adaptation with The Third Energy Crisis, a live-action, not-for-profit short fan film inspired by Dino Crisis. Saullo and his production company Black Ridge Media Productions wi",
+          "date": "2026-10-26T17:29:50+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/energycrisisonesheet-copy.jpg?resize=1200%2C1500&#038;ssl=1"
+        },
+        {
+          "title": "Why Horror Remakes Aren’t the Enemy: The Art of Reimagining The Classics",
+          "link": "https://bloody-disgusting.com/editorials/3973359/why-horror-remakes-arent-the-enemy-the-art-of-reimagining-the-classics/",
+          "description": "The easiest way to create chaos among horror fans? Utter the word “remake” in their presence. It’s the equivalent of throwing a Molotov Cocktail into a crowded bar. Or worse, wearing a Dallas Cowboys jersey in the middle of Philadelphia. It’s not uncommon for some fans to treat the movies and televi",
+          "date": "2026-10-26T17:06:25+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2019/06/The-Texas-Chainsaw-Massacre-2003.jpg?resize=1024%2C576&#038;ssl=1"
+        },
+        {
+          "title": "‘Devour’ – Tricia Helfer Starring in Erotic Body Horror Movie",
+          "link": "https://bloody-disgusting.com/movie/3973341/devour-tricia-helfer-starring-in-erotic-body-horror-movie/",
+          "description": "Actress Tricia Helfer (seen above in Shudder’s Creepshow) will lead the cast of the upcoming erotic body horror movie Devour, which is a wonderful combination of words. The Hollywood Reporter breaks the news that Erica Orofino will be writing & directing Devour. Here’s the official synopsis: “Tricia",
+          "date": "2026-10-26T17:04:39+00:00",
           "image": ""
         },
         {
-          "title": "Margaret White Is the MVP of Mike Flanagan’s ‘Carrie’ [The Losers’ Club Podcast]",
-          "link": "https://bloody-disgusting.com/podcast-news/3973234/mike-flanagan-carrie-losers-club/",
-          "description": "Mike Flanagan‘s Carrie is now streaming on Amazon Prime. The Losers’ Club binged it all weeks ago, and they’ve since recorded two reviews. Join Jenn Adams, Michael Roffman, and returning guest Julianne Clancy, Senior Director of Marketing at Vintage Books as they offer a spoiler-free consensus on th",
-          "date": "2026-10-25T22:08:57+00:00",
+          "title": "‘Crystal Lake’ Showrunner Teases Season 2 Wishlist: More Sackhead Jason, Carnage, and Classic ‘Friday the 13th’ Characters",
+          "link": "https://bloody-disgusting.com/interviews/3973329/crystal-lake-season-2-wishlist/",
+          "description": "Peacock‘s Crystal Lake, which takes place nearly a decade before the events of the original Friday the 13th, wrapped up its major questions by season’s end while leaving the door ajar for future slaughter, courtesy of Pamela Voorhees (Linda Cardellini) and Jason Voorhees. Familiar faces like Ralph (",
+          "date": "2026-10-26T16:24:56+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/NUP_208779_00327-1.jpg?resize=1000%2C667&#038;ssl=1"
+        },
+        {
+          "title": "Here’s the Full AMC FearFest Schedule for Halloween Week 2026",
+          "link": "https://bloody-disgusting.com/tv/3973330/heres-the-full-amc-fearfest-schedule-for-halloween-week-2026/",
+          "description": "AMC’s annual FearFest programming has been running all October long, and the fun and frights continue through Halloween Day. Can you believe October 31 is already THIS WEEK?! October has gone by in a flash, and we are now just days away from the big day. Halloween is taking place on a Saturday this ",
+          "date": "2026-10-26T15:48:52+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/HVkCFFuWUAAHaH_.jpg?resize=1080%2C1350&#038;ssl=1"
+        },
+        {
+          "title": "‘SCP: Project Pneuma’ Now Available in Steam Early Access [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3973255/scp-project-pneuma-now-available-in-steam-early-access-trailer/",
+          "description": "Independent developer and publisher Zatun has released their first-person psychological survival horror title SCP: Project Pneuma into Steam Early Access. Inspired by the SCP universe, the game challenges players to investigate a containment disaster while evading entities they cannot overpower and ",
+          "date": "2026-10-26T15:30:47+00:00",
           "image": ""
-        },
-        {
-          "title": "‘Crystal Lake’ Scrapbooks the Past for Campers Old and New [Halloweenies Podcast]",
-          "link": "https://bloody-disgusting.com/podcast-news/3973235/crystal-lake-halloweenies/",
-          "description": "We don’t wanna scare anyone, but we’re gonna give it to you straight about Jason: The Friday the 13th franchise was never recovered from the lake of development hell after reboot, and sequel, and video game, and lawsuit drowned the IP. But now he’s back in Peacock’s Crystal Lake, and the Halloweenie",
-          "date": "2026-10-25T21:58:23+00:00",
-          "image": ""
-        },
-        {
-          "title": "Physical PlayStation 5 Edition of ‘Project Songbird’ Now Available at Retailers",
-          "link": "https://bloody-disgusting.com/video-games/3973186/physical-playstation-5-edition-of-project-songbird-now-available-at-retailers/",
-          "description": "Released earlier this year (and one of our top horror games in the first half of 2026), publisher Selecta Play and indie studio FYRE Games have announced that the PlayStation 5 physical edition for its narrative-driven, horror game Project Songbird is now available at retailers. Project Songbird rec",
-          "date": "2026-10-25T17:36:24+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/782972a7-1917-27db-dd0a-fbde2010db09.jpg?resize=1200%2C675&#038;ssl=1"
-        },
-        {
-          "title": "James Tynion IV’s ‘Exquisite Corpses’ Is a Gory Halloween Epic Packed with Iconic Killers",
-          "link": "https://bloody-disgusting.com/comics/3972835/james-tynion-ivs-exquisite-corpses-is-a-gory-halloween-epic-packed-with-iconic-killers/",
-          "description": "James Tynion IV, who has been on a horror hot streak since his breakout comic Something Is Killing the Children, understands the magic of Halloween and has assembled a murderers row of talent for Exquisite Corpses, a high-octane miniseries about a sadistic battle royale that descends on a quiet Amer",
-          "date": "2026-10-25T16:00:41+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/congregation.jpg?resize=1000%2C681&#038;ssl=1"
-        },
-        {
-          "title": "‘Trilogy of Terror II’ and ‘Terror Tract’: Exhuming USA Network’s Horror Anthologies For Halloween",
-          "link": "https://bloody-disgusting.com/editorials/3971794/trilogy-of-terror-ii-and-terror-tract-exhuming-usa-networks-horror-anthologies-for-halloween/",
-          "description": "There was a time when the USA Network was a great place to find horror on television. On top of their own original movies, Night Flight, USA Saturday Nightmares, and USA Up All Night satisfied the craving for horror all year long. Yet it was in the weeks leading up to Halloween that USA turned […] T",
-          "date": "2026-10-25T15:00:55+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Trilogy-of-Terror-II-Lysette-Anthony.jpg?resize=1024%2C768&#038;ssl=1"
-        },
-        {
-          "title": "‘CODE EXIT’ Demo 2.0 Available Now on Steam [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3973183/code-exit-demo-2-0-available-now-on-steam-trailer/",
-          "description": "Steam Next Fest may be over, but not for CODE EXIT. Developer Phase 8 Studio and publisher LINE Games have released the Demo 2.0 for the sci-fi co-op survival horror game, ahead of Steam Scream V Fest. Following a successful three-week global playtest, Demo 2.0 introduces new gameplay systems and im",
-          "date": "2026-10-25T14:26:38+00:00",
-          "image": ""
-        },
-        {
-          "title": "“The Great October Update” Now Available for ‘Pathologic 3’ [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3973181/the-great-october-update-now-available-for-pathologic-3-trailer/",
-          "description": "Eschewing what some would say is an easy reference to Halloween, Ice Pick Lodge and HypeTrain Digital have released The Great October Update for Pathologic 3 on PC and consoles. This major update has been in development since early summer, bringing significant improvements to accessibility and perfo",
-          "date": "2026-10-25T11:29:03+00:00",
-          "image": ""
-        },
-        {
-          "title": "Trevor Henderson’s Monsterverse Explained: From Viral Monsters to Hollywood Adaptations",
-          "link": "https://bloody-disgusting.com/editorials/3972658/the-rise-of-trevor-hendersons-monsterverse/",
-          "description": "As someone who spent the better part of his school years doodling strange creatures in the margins of beat-up notebooks, I have the utmost respect for artists who are talented enough to turn the act of creating weird little freaks into a full-on career. That’s why I’m such a huge fan of the online m",
-          "date": "2026-10-24T13:45:10+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/07/siren-head.jpg?resize=1024%2C683&#038;ssl=1"
-        },
-        {
-          "title": "Ridley Scott Reteams With ‘Raised By Wolves’ Creator On New ‘Alien’ Movie",
-          "link": "https://bloody-disgusting.com/movie/3973162/ridley-scott-reteams-with-raised-by-wolves-creator-on-new-alien-movie/",
-          "description": "A mysterious new Alien movie is in the works for 20th Century Studios and Ridley Scott, and THR reports that “Raised by Wolves” series creator Aaron Guzikowski has been hired to write it. Details remain under wraps at this time, but the new Alien feature won’t be an Alien: Romulus sequel. Ridley Sco",
-          "date": "2026-10-23T22:02:42+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2015/11/Prometheus-Engineer.jpg?resize=1920%2C1080&#038;ssl=1"
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "Adam McArthur Talks Jujutsu Kaisen Season 3, Anime Fandom, and New Projects",
+          "link": "https://www.denofgeek.com/tv/adam-mcarthur-jujutsu-kaisen-season-3-anime-fandom/",
+          "description": "One of the biggest anime properties in the world is Jujutsu Kaisen, based on the best-selling manga series by Gege Akutami, which launched its third season at the start of the year. Among the fan-favorite actors who bring the English-language dub of the hit supernatural action series to life is Adam",
+          "date": "2026-10-26T17:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Adam-McArthur.jpeg"
+        },
+        {
+          "title": "Perfectly Balanced Infinity Gauntlet Replica Up for Auction",
+          "link": "https://www.denofgeek.com/movies/perfectly-balanced-infinity-gauntlet-replica-up-for-auction/",
+          "description": "Throughout the Infinity Saga of the Marvel Cinematic Universe, Thanos had to work really, really hard to get his Infinity Gauntlet. He had to employ various minions, fight Earth’s mightiest heroes, and he had to sacrifice his own beloved daughter, Gamora. He even had to brutalize the elf Eitri of Ni",
+          "date": "2026-10-26T16:49:04+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Thanos-and-Infinity-gauntlet-marvel-comics.avif"
+        },
+        {
+          "title": "James Gunn Is Underselling the Appeal of the Superhero Shared Universe",
+          "link": "https://www.denofgeek.com/movies/james-gunn-underselling-appeal-superhero-shared-universe/",
+          "description": "There are many reasons that superhero movies have dropped off from their position atop the cultural landscape in the 2010s. Lackluster projects, market saturation, and simple shifting audience interests have all led to what we call “superhero fatigue.” Undoubtedly, one of the biggest reasons is the ",
+          "date": "2026-10-26T16:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/rev-1-CLAY-04629_High_Res_JPEG.jpg"
+        },
+        {
+          "title": "15 Famous People With Surprisingly Unusual Pets",
+          "link": "https://www.denofgeek.com/msn/15-famous-people-with-surprisingly-unusual-pets/",
+          "description": "A dog or a cat would have been the obvious choice, but some famous people had very different ideas about pets. Salvador Dalí took an ocelot to public appearances, Audrey Hepburn went shopping with a young deer, and Mike Tyson once kept tigers at home. There are plenty of photographs to prove these s",
+          "date": "2026-10-26T13:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-10-1.jpg"
+        },
+        {
+          "title": "The 15 Best Horror Movies of the 2000s",
+          "link": "https://www.denofgeek.com/movies/best-horror-movies-of-the-2000s/",
+          "description": "As they were happening, the 2000s seemed like a low point for horror. The slasher revival that launched with Scream in 1996 had waned, remakes cluttered theaters, and torture porn was being talked about like it was the end of civilization. However, with more than 15 years since the end of the decade",
+          "date": "2026-10-26T13:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/The-Host-1.jpg"
+        },
+        {
+          "title": "15 Strange Ways People Traveled Before Modern Transportation",
+          "link": "https://www.denofgeek.com/msn/15-strange-ways-people-traveled-before-modern-transportation/",
+          "description": "Getting from one place to another used to involve some pretty unusual arrangements. Horses were useful, of course, but people also relied on dogs, camels, human-powered carts, and vehicles that looked like somebody's unfinished experiment. Some inventions were surprisingly clever, while others seem ",
+          "date": "2026-10-26T12:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/7_72a3f2.jpg"
+        },
         {
           "title": "15 Photos Remembering What it Looked Like to Go to High School in the 1970s",
           "link": "https://www.denofgeek.com/msn/15-photos-remembering-what-it-looked-like-to-go-to-high-school-in-the-1970s/",
@@ -106,48 +148,6 @@
           "description": "Before they became Hollywood stars, plenty of familiar faces turned up in television shows that most people barely remember. Some played teenagers in short-lived sitcoms, others appeared in crime reenactments, and a few got their start on children's television. Looking back at those performances can",
           "date": "2026-10-26T11:45:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-7-1.jpg"
-        },
-        {
-          "title": "14 Historical Photos Showing Things You Might Not Expect to See",
-          "link": "https://www.denofgeek.com/msn/14-historical-photos-showing-things-you-might-not-expect-to-see/",
-          "description": "We like to think we know everything about the past, as if every single moment has already been documented. That is far from the truth, since people are constantly sharing over the internet the incredible photos they have of ages gone by, either of their families or vintage pictures they found out in",
-          "date": "2026-10-26T11:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/7_e3b9e0.jpg"
-        },
-        {
-          "title": "17 Famous Folks With the Best Car Collections",
-          "link": "https://www.denofgeek.com/msn/17-famous-folks-with-the-best-car-collections/",
-          "description": "Famous people have a lot of money, often so much that their hobbies go beyond what we might envision for ourselves. We can’t even afford to collect table top games, while celebrities have garages filled with the most expensive cars you can ever imagine. Some are custom made, too. Sure, they also hav",
-          "date": "2026-10-26T11:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-26-1.jpg"
-        },
-        {
-          "title": "19 Incredibly Nice Actors That Always Play Villains",
-          "link": "https://www.denofgeek.com/msn/19-incredibly-nice-actors-that-always-play-villains/",
-          "description": "We always need to remember that actors are not the characters they portray, no matter how well they sell the role. They’re just acting, after all, not showing their true colors. So finding out an actor that normally plays villains is actually a decent person shouldn’t be surprising. And no, it isn’t",
-          "date": "2026-10-26T11:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-25-1.jpg"
-        },
-        {
-          "title": "16 Vintage Movies We Wish Time Could Help Us Forget",
-          "link": "https://www.denofgeek.com/msn/16-vintage-movies-we-wish-time-could-help-us-forget/",
-          "description": "Looking back at the movies we grew up with can sometimes feel like stepping on a landmine of awful decisions. What passed for entertainment decades ago can leave modern audiences baffled at how these scripts were ever made, let alone approved and developed into film. This is why we’ve decided to col",
-          "date": "2026-10-26T10:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/6_9ca93f.jpg"
-        },
-        {
-          "title": "14 Behind-the-Scenes Photos of Movie Villains Looking Ridiculous",
-          "link": "https://www.denofgeek.com/msn/15-behind-the-scenes-photos-of-movie-villains-looking-ridiculous/",
-          "description": "It's hard to take a movie villain seriously after seeing them on a lunch break. Michael Myers apparently enjoys a soda, Leatherface has time for a card game, and Loki looks perfectly happy taking a nap. Of course, some villains have a harder time maintaining their image than others. Thanos spends hi",
-          "date": "2026-10-26T10:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-3-2.jpg"
-        },
-        {
-          "title": "15 Movies So Popular We Forget How Strange They Are",
-          "link": "https://www.denofgeek.com/msn/15-movies-so-popular-we-forget-how-strange-they-are/",
-          "description": "Certain movies have become such an integral part of our culture that, without a second thought, we accept them for what they are. Even more than that, we often take them for granted, as works of fiction that have always been around us like the wind and the rain. And yet, they were once new products ",
-          "date": "2026-10-26T10:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-23-2.jpg"
         }
       ]
     },
@@ -155,80 +155,108 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Alfonso Cuarón’s New Cult Horror Series Just Added An Acclaimed Oscar Nominee",
+          "link": "https://www.fangoria.com/ascension-cast-update/",
+          "description": "In ASCENSION, the end might be nigh(y).",
+          "date": "2026-10-26T18:33:00+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Nighy-First-Omen-scaled.avif"
+        },
+        {
+          "title": "Set Sail For Spooky Adventure With SIR REGINALD & THE CLOCKWORK HEART",
+          "link": "https://www.fangoria.com/sir-reginald-the-clockwork-heart/",
+          "description": "SIR REGINALD & THE CLOCKWORK HEART, a comic anthology featuring five new horror adventure tales, is coming soon. Get details here.",
+          "date": "2026-10-26T18:23:17+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/SIR-REGINALDANDTHECLOCKWORKHEART-copy.jpeg"
+        },
+        {
+          "title": "How The Hell Do The FANGORIA Chainsaw Awards Even Happen?",
+          "link": "https://www.fangoria.com/fangoria-chainsaw-awards-2026-michael-varrati-interview/",
+          "description": "For the past five years, Michael Varrati has written, directed, and produced the FANGORIA Chainsaw Awards. Today, he explains how the hell he makes it happen.",
+          "date": "2026-10-26T18:00:10+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/IMG_8828-scaled.png"
+        },
+        {
+          "title": "FATAL ATTRACTION Meets Body Horror in New Sapphic Film DEVOUR",
+          "link": "https://www.fangoria.com/devour-tricia-helfer/",
+          "description": "Tricia Helfer is set to star in DEVOUR, a new body horror film from writer-director Erica Orofino. Get all the details here.",
+          "date": "2026-10-26T18:00:05+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/creepshow_aZ4Wj9.jpg"
+        },
+        {
+          "title": "Psychological Horror Game MADISON Snaps Up A Movie Adaptation",
+          "link": "https://www.fangoria.com/madison-game-adaptation/",
+          "description": "The first-person psychological horror MADISON is the latest video game to get a movie adaptation. Get all the details here.",
+          "date": "2026-10-26T17:43:37+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/f7oW1UcdrCvZZ3Vfb1DZySY8.png-copy.jpg"
+        },
+        {
+          "title": "VAMPIRE CARNIVAL Trailer: Jason Isaacs Is A Punk-Rock Vamp",
+          "link": "https://www.fangoria.com/vampire-carnival-trailer/",
+          "description": "Watch the trailer for VAMPIRE CARNIVAL, a new Halloween horror film starring Jason Isaacs that comes to VOD this week.",
+          "date": "2026-10-26T17:16:29+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Still-19-scaled.jpg"
+        },
+        {
+          "title": "SPIRIT TASTING Brings New Holiday Horror From WNUF HALLOWEEN SPECIAL Director",
+          "link": "https://www.fangoria.com/spirit-tasting-holiday-horror/",
+          "description": "The \"post-punk riff on THE MONKEY'S PAW\" hits select theaters later this year.",
+          "date": "2026-10-26T16:42:22+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/SPIRIT-TASTING1.png.webp"
+        },
+        {
+          "title": "Nikolaj Coster-Waldau Will Lead THE BLACK TAPES Adaptation At MGM+",
+          "link": "https://www.fangoria.com/nikolaj-coster-waldau-the-black-tapes/",
+          "description": "The GAME OF THRONES star will play a brilliant psychiatrist with a mysterious past in a new TV take on the hit horror podcast.",
+          "date": "2026-10-26T15:31:21+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/MAMA.jpg.avif"
+        },
+        {
+          "title": "DC Tops The Box Office Not With A Superhero, But Body Horror",
+          "link": "https://www.fangoria.com/clayface-box-office-opening-numbers/",
+          "description": "DC Studios’ CLAYFACE delivered R-rated genre fare that is far removed from what we typically associate with comic book movies. That bold move paid off.",
+          "date": "2026-10-26T14:05:13+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/CLAYFACE.png.webp"
+        },
+        {
           "title": "Here Are The 2026 FANGORIA Chainsaw Awards Winners",
           "link": "https://www.fangoria.com/2026-fangoria-chainsaw-awards-winners/",
           "description": "And with that, we wave adieu to the 2026 FANGORIA Chainsaw Awards. Here's the complete list of this year's winners, as chosen by Fango readers.",
           "date": "2026-10-26T02:30:05+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/FANGO-Chainsaw2026-WINNERS-header.jpg"
-        },
-        {
-          "title": "The Next FRIDAY THE 13TH Movie Can Finally Fix An Infamous Mistake",
-          "link": "https://www.fangoria.com/friday-the-13th-bring-kane-hodder-jason-back/",
-          "description": "A new FRIDAY THE 13TH movie is in the works and it's time for the greatest Jason Voorhees actor of them all to return to Camp Crystal Lake.",
-          "date": "2026-10-25T22:00:44+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Kane1.jpg"
-        },
-        {
-          "title": "Top Horror Movies Streaming This Week",
-          "link": "https://www.fangoria.com/top-horror-movies-streaming-this-week/",
-          "description": "Irish terror takes the wheel of this week's list with director Damian McCarthy's HOKUM. Four classic terror tales and some of this year's favorite films, BACKROOMS and EVIL DEAD BURN, fill out the list that will provide a howling good time.",
-          "date": "2026-10-25T02:02:39+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/MV5BMTE4MzM1YmEtNmYzZi00MDI5LThjYmUtYzI1Y2Y4ZGI5MDc3XkEyXkFqcGc@._V1_.jpg"
-        },
-        {
-          "title": "13 Must-Watch Horror Movies On Shudder",
-          "link": "https://www.fangoria.com/13-must-watch-horror-movies-shudder/",
-          "description": "So you got a Shudder subscription to watch the 2026 FANGORIA Chainsaw Awards, eh? Well, while you're there, here are 13 must-watch movies on the platform.",
-          "date": "2026-10-24T20:00:10+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/oddity-e1792790015372.webp"
-        },
-        {
-          "title": "CRYSTAL LAKE Showrunner Brad Caleb Kane Explains The Show’s Big Twist",
-          "link": "https://www.fangoria.com/crystal-lake-brad-caleb-kane-interview/",
-          "description": "Still not over the big reveal of CRYSTAL LAKE? Showrunner Brad Caleb Kane explains the thought process behind the massive creative swing.",
-          "date": "2026-10-24T18:00:57+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/NUP_211117_00001.jpg"
-        },
-        {
-          "title": "LADY IN WHITE: The Alchemy of Nostalgia And 1960s Social Realism Is Scary As Hell",
-          "link": "https://www.fangoria.com/lady-in-white-interview-frank-laloggia/",
-          "description": "LADY IN WHITE writer/director Frank LaLoggia chats with FANGORIA in honor of the terrifying fantasy horror mystery film's new 4K restoration.",
-          "date": "2026-10-24T15:00:18+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/lady-1.jpg"
-        },
-        {
-          "title": "Bonnie Aarons Is The Mom From Hell In THE MORTICIAN’S DAUGHTER",
-          "link": "https://www.fangoria.com/the-morticians-daughter-short-film/",
-          "description": "Bonnie Aarons stars in the new short film THE MORTICIAN'S DAUGHTER, directed by Elwood Quincy Walker. Watch it here.",
-          "date": "2026-10-23T19:15:26+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2025/10/TheMorticiansDaughter_Promo-Still-1.png"
-        },
-        {
-          "title": "A Horrific New Slasher Debuts In Terror Jr.’s “Lie To Me” Music Video",
-          "link": "https://www.fangoria.com/terror-jr-lie-to-me-music-video/",
-          "description": "FANGORIA is excited to debut the music video for \"Lie to Me,\" the new Terror Jr. song written for the upcoming slasher HORRIFIED.",
-          "date": "2026-10-23T19:05:59+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-1.13.12-PM.png"
-        },
-        {
-          "title": "GODZILLA MINUS ZERO Is Inspired By The Greatest Sequels Of All Time",
-          "link": "https://www.fangoria.com/godzilla-minus-zero-sequel-inspiration/",
-          "description": "Takashi Yamazaki's latest chapter of kaiju chaos is going bigger, bloodier, and more brutal than ever before.",
-          "date": "2026-10-23T16:38:13+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/07/Screenshot-1563-Cropped.png"
-        },
-        {
-          "title": "Review: CLAYFACE Is A Low-Budget Superhero Movie Grafted Onto a Low-Budget Horror Movie",
-          "link": "https://www.fangoria.com/review-clayface/",
-          "description": "Depending on what you're looking for from CLAYFACE, your mileage may vary.",
-          "date": "2026-10-23T16:20:23+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/CLAYFACE.png.webp"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "Square Enix’s Latest PS5 RPG Remake Gets Exciting New Details",
+          "link": "https://www.playstationlifestyle.net/2026/10/26/romancing-saga-3-destinies-united-new-details",
+          "description": "Square Enix reveals new details for its upcoming remake of a beloved JRPG. The post Square Enix’s Latest PS5 RPG Remake Gets Exciting New Details appeared first on PlayStation LifeStyle .",
+          "date": "2026-10-26T18:36:17+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/jprg.jpg?w=1024"
+        },
+        {
+          "title": "Acclaimed PS5 Action Game Is 75% Off on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/10/26/the-last-of-us-part-i-digital-deluxe-edition-ps5-deal",
+          "description": "A widely acclaimed action game on PS5 is being offered at a tremendous discount. The post Acclaimed PS5 Action Game Is 75% Off on PlayStation Store appeared first on PlayStation LifeStyle .",
+          "date": "2026-10-26T15:56:05+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/pl_95c590.jpg?w=1024"
+        },
+        {
+          "title": "Spooky PS5 World-Building Game Is Out Today on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/10/26/fangtopia-ps5-playstation-store-release-october-26",
+          "description": "PS5 players have got a brand new, spooky and cozy puzzle game arriving today on the PlayStation Store. The post Spooky PS5 World-Building Game Is Out Today on PlayStation Store appeared first on PlayStation LifeStyle .",
+          "date": "2026-10-26T14:59:53+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/fang.jpg?w=1024"
+        },
+        {
+          "title": "Popular PS5 Exclusive RPG 70% Off on PS Store, Lowest Price",
+          "link": "https://www.playstationlifestyle.net/2026/10/26/horizon-forbidden-west-ps-store-deal-october-2026",
+          "description": "A fan-favorite 2022 PS5 and PS4 exclusive action RPG is at its lowest price in a new limited-time PS Store deal. Guerrilla Games’ Horizon Forbidden West is 70% off as part of the Planet of the Deals promotion. Horizon Forbidden West is $14.99 for the first time in fantastic-value PS Store deal PS5 a",
+          "date": "2026-10-26T13:00:37+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/horizon-forbidden-west-ps-store-deal.jpg?w=1024"
+        },
         {
           "title": "Acclaimed 2025 RPG Finally Gets PS5 Release Date, Out Soon",
           "link": "https://www.playstationlifestyle.net/2026/10/26/ps5-rpg-look-outside-release-date",
@@ -270,34 +298,6 @@
           "description": "PlayStation 5 gamers can now purchase a zombie shooter game by Saber Interactive at a low price. The game is reportedly available for less than $10 on the PlayStation Store through November 5, 2026. World War Z: Aftermath is reportedly 75% off on the PlayStation Store, reducing its price to $9.99. T",
           "date": "2026-10-24T15:00:00+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/PS5-Zombie-Shooter-Is-Now-Under-10-on-PlayStation-Store.jpg?w=1024"
-        },
-        {
-          "title": "GTA 6 Takes a Swipe at OnlyFans With Its Own Subscription App",
-          "link": "https://www.playstationlifestyle.net/2026/10/23/gta-6-peekhole-onlyfans-parody",
-          "description": "GTA 6 is teasing its own OnlyFans alternative ahead of the awaited launch next month. The open-world game is developed and published by Rockstar Games. GTA 6 appears to feature parodies of real-world websites, and OnlyFans happens to be one of them. The apparent parody is called Peekhole. Fans have ",
-          "date": "2026-10-23T21:05:28+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/GTA-6-Takes-a-Swipe-at-OnlyFans-With-Its-Own-Subscription-App.jpg?w=1024"
-        },
-        {
-          "title": "Call of Duty: Modern Warfare 4 Breaks Metacritic Record After 15 Years",
-          "link": "https://www.playstationlifestyle.net/2026/10/23/most-anticipated-ps5-shooter-year-best-metacritic-score-15-years",
-          "description": "Call of Duty: Modern Warfare 4 has redeemed the franchise after over a decade. Modern Warfare 4 has broken the series record after 15 years with a very positive Metacritic score. At the time of this writing, it holds a fantastic Metascore of 86 from 17 critic reviews and is subject to change. Notabl",
-          "date": "2026-10-23T18:23:22+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/call-of-duty-modern-warfare-4.jpg?w=1024"
-        },
-        {
-          "title": "Cozy PS5 Action RPG Is Out Today on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/10/23/warrior-cats-clans-of-the-forest-ps5-release",
-          "description": "A cozy PS5 RPG based on a popular fantasy book series is available for purchase on the PlayStation Store now. The game is developed by Trailmark Games and Four Trees Media. Warrior Cats: Clans of the Forest is an action-adventure RPG that thrusts players into the world of Warriors, the hit children’",
-          "date": "2026-10-23T16:33:19+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/Cozy-PS5-Action-RPG-Is-Out-Today-on-PlayStation-Store.jpg?w=1024"
-        },
-        {
-          "title": "2026’s Biggest PS5 Shooter Is Out Today on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/10/23/call-of-duty-modern-warfare-4-ps5-release-october-23",
-          "description": "The wait is now over for 2026’s biggest PlayStation 5 shooter. The new title offers intense action and a military shooting experience. Activision’s Call of Duty: Modern Warfare 4 finally landed on the PlayStation Store today. Call of Duty: Modern Warfare 4 comes with enhanced visual features built s",
-          "date": "2026-10-23T15:17:25+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/modern-warfare-4.jpg?w=1024"
         }
       ]
     },
@@ -305,9 +305,16 @@
       "url": "https://blog.playstation.com/feed/",
       "articles": [
         {
+          "title": "New Marvel Cosmic Invasion: The Siege of Castle Doom gameplay details",
+          "link": "https://blog.playstation.com/2026/10/26/new-marvel-cosmic-invasion-the-siege-of-castle-doom-gameplay-details/",
+          "description": "What was Doctor Doom up to during the Annihilation Wave? How would the master of Latveria react to an invasion of this magnitude to his doorstep? This was the first question we’ve asked ourselves while tackling the design of our second DLC for Marvel Cosmic Invasion. We knew players demanded a mode ",
+          "date": "2026-10-26T16:00:09+00:00",
+          "image": "https://live.staticflickr.com/65535/55598875302_1cf5f7dd64_k.jpg"
+        },
+        {
           "title": "Celebrate Helldivers 2 Liberty Day 2026 with in-game gifts today",
           "link": "https://blog.playstation.com/2026/10/26/celebrate-helldivers-2-liberty-day-2026-with-in-game-gifts-today/",
-          "description": "We at Arrowhead Studios are excited to mark Liberty Day, the Helldivers 2 in-universe celebration, that’s now in its third year. As with previous celebrations, we’re marking the anniversary with a range of in-game gifts for active Helldivers, decorating your ship lobby to mark the occasion, and much",
+          "description": "We at Arrowhead Game Studios are excited to mark Liberty Day, the Helldivers 2 in-universe celebration, that’s now in its third year. As with previous celebrations, we’re marking the anniversary with a range of in-game gifts for active Helldivers, decorating your ship lobby to mark the occasion, and",
           "date": "2026-10-26T10:00:05+00:00",
           "image": "https://live.staticflickr.com/65535/55603240376_90f7f85a16_k.jpg"
         },
@@ -366,13 +373,6 @@
           "description": "Fists clashing, bones crunching—it’s combat at its most visceral. On the flip side, there is the glitz and glamour of show business, where you handle everything from song composition to live stage productions. Stranger Than Heaven, an all-new title from RGG Studio, the team behind the Like a Dragon ",
           "date": "2026-10-21T14:01:18+00:00",
           "image": "https://live.staticflickr.com/65535/55601703000_0996628389_k.jpg"
-        },
-        {
-          "title": "PlayStation Store’s Planet of the Deals promotion is live now",
-          "link": "https://blog.playstation.com/2026/10/21/playstation-stores-planet-of-the-deals-promotion-is-live-now/",
-          "description": "Embark on a new adventure with PlayStation Store’s latest promotion, Planet of the Deals, which is live now. Players can browse hundreds of PS5 and PS4 games featured in the deals and which are discounted for a limited time.* You can preview a selection of titles right now with the below list. Then,",
-          "date": "2026-10-21T12:00:08+00:00",
-          "image": ""
         }
       ]
     },
@@ -380,74 +380,74 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
-          "title": "Guide: These 46+ PS5 and PS Plus Games Are Coming Out This Week (26th-1st November)",
-          "link": "https://www.pushsquare.com/guides/these-46plus-ps5-and-ps-plus-games-are-coming-out-this-week-26th-1st-november",
-          "description": "Phantom Blade Zero! The Wolf Among Us! STEINS;GATE! The PS5 release schedule is absolutely, utterly stacked this week – in fact, this is the biggest update I think I’ve put together since we started this series. There should be no guesses about the biggest new game: it’s unquestionably Phantom Blade",
-          "date": "2026-10-26T12:45:00+00:00",
-          "image": "https://images.pushsquare.com/ccbae66e9794d/large.jpg"
+          "title": "Marvel Cosmic Invasion's New DLC Adds Roguelike Mode Next Month on PS5",
+          "link": "https://www.pushsquare.com/news/2026/10/marvel-cosmic-invasions-new-dlc-adds-roguelike-mode-next-month-on-ps5",
+          "description": "Siege of Castle Doom dated. Dotemu and Tribute Games have finally revealed more details about the upcoming DLC for their retro-inspired beat-'em-up, Marvel Cosmic Invasion . Titled Siege of Castle Doom, the DLC pack is scheduled to launch for the PS5 and PS4 game on 10th November, 2026, as revealed ",
+          "date": "2026-10-26T19:00:00+00:00",
+          "image": "https://images.pushsquare.com/f1e367d28e186/large.jpg"
         },
         {
-          "title": "Amazon Prime Turns Fallout Shelter into a 'Competition' TV Show",
-          "link": "https://www.pushsquare.com/news/2026/10/amazon-prime-turns-fallout-shelter-into-a-competition-tv-show",
-          "description": "Debuts on 13th January 2027. With its main Fallout TV series an absolute hit, with two seasons already under its belt, Amazon Prime is expanding its scope with another adaptation, this time of the management sim spin-off, Fallout Shelter . In that game, which eventually came to PS4, you took up the ",
-          "date": "2026-10-26T12:30:00+00:00",
-          "image": "https://images.pushsquare.com/c136fc260d97f/large.jpg"
+          "title": "Capcom Says Onimusha: Way of the Sword Isn't Too Easy, and the Player Data Proves It",
+          "link": "https://www.pushsquare.com/news/2026/10/capcom-says-onimusha-way-of-the-sword-isnt-too-easy-and-the-player-data-proves-it",
+          "description": "Honed to perfection. Before its release, there was a lot of discussion around Onimusha: Way of the Sword's difficulty. Basically, some players argued that the game's demo was too easy. Enemies lacked aggression, and although Capcom promised a greater challenge in the full thing, not everyone was con",
+          "date": "2026-10-26T18:00:00+00:00",
+          "image": "https://images.pushsquare.com/f9ded8ed34204/large.jpg"
         },
         {
-          "title": "EA Scrubbing Mass Effect from Other Games as Series Starts to Die Off",
-          "link": "https://www.pushsquare.com/news/2026/10/ea-scrubbing-mass-effect-from-other-games-as-series-starts-to-die-off",
-          "description": "Future cosmetics for Battlefield 6 event removed. Unless another studio receives the license or the IP is bought out entirely, it seems the Mass Effect series is no more. EA has cancelled the next entry in the RPG franchise and shut down the storied developer making it, BioWare. Now, the publisher i",
-          "date": "2026-10-26T12:00:00+00:00",
-          "image": "https://images.pushsquare.com/70a061908be5f/large.jpg"
+          "title": "Hear About Assassin's Creed's Future This Week in Franchise Update",
+          "link": "https://www.pushsquare.com/news/2026/10/hear-about-assassins-creeds-future-this-week-in-franchise-update",
+          "description": "BF Resynced's New Game Plus update out tomorrow. Ubisoft will share an update on the future of the Assassin's Creed franchise later this week, in a Fall 2026 Update that is scheduled to go live on Thursday, 29th October 2026. In the broadcast, head of content Jean Guesdon will \"share another update ",
+          "date": "2026-10-26T17:30:00+00:00",
+          "image": "https://images.pushsquare.com/b56b5f1cd422b/large.jpg"
         },
         {
-          "title": "Sonic X Shadow Generations Speeds Past 3 Million Sales as It Turns Two Years Old",
-          "link": "https://www.pushsquare.com/news/2026/10/sonic-x-shadow-generations-speeds-past-3-million-sales-as-it-turns-two-years-old",
-          "description": "The ultimate life form. Sonic X Shadow Generations has now officially sold more than 3 million copies, publisher SEGA has announced. In a new social post, it's been confirmed the remaster (which comes with the Shadow Generations companion piece) has reached the new milestone. Read the full article o",
-          "date": "2026-10-26T11:30:00+00:00",
-          "image": "https://images.pushsquare.com/b41344aa52656/large.jpg"
+          "title": "Ghost of Yotei Dev Sucker Punch Hit with Layoffs as Leadership Eyes Next PlayStation Project",
+          "link": "https://www.pushsquare.com/news/2026/10/ghost-of-yotei-dev-sucker-punch-hit-with-layoffs-as-leadership-eyes-next-playstation-project",
+          "description": "Sony studio makes cuts. Sucker Punch Productions, the Sony-owned PlayStation Studio and Ghost of Yotei developer, has reportedly made cuts to its workforce. According to Aftermath , who cite an unnamed ex-Sucker Punch employee, at least 26 jobs have been slashed. It's estimated that the studio emplo",
+          "date": "2026-10-26T16:45:00+00:00",
+          "image": "https://images.pushsquare.com/15bda98b82e51/large.jpg"
         },
         {
-          "title": "Feature: 50+ PS5, PS4 Games to Buy in PS Store's Planet of the Deals Sale (North America/Europe)",
-          "link": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-planet-of-the-deals-sale-north-americaeurope",
-          "description": "Recommended games going cheap. Planet of the Deals is the PS Store's latest sale, running until 4th November, 2026. As always, there are thousands of PS5 and PS4 games on offer, and that's an awful lot of potential purchases to scroll through. Read the full article on pushsquare.com",
-          "date": "2026-10-26T10:00:00+00:00",
-          "image": "https://images.pushsquare.com/b73e27df787ab/large.jpg"
+          "title": "SEGA's Glitzy Virtua Fighter PS5 Revival Teases New Info for This Week",
+          "link": "https://www.pushsquare.com/news/2026/10/segas-glitzy-virtua-fighter-ps5-revival-teases-new-info-for-this-week",
+          "description": "Hopefully a release date. It’s been several months since our last update on Virtua Fighter Crossroads , the revival of SEGA’s long-running 3D fighting game franchise from RGG Studio. But it looks like the Japanese publisher is ready to peel back the curtain a little more, as it’s teasing a 29th Octo",
+          "date": "2026-10-26T16:30:00+00:00",
+          "image": "https://images.pushsquare.com/60e61f173e7c0/large.jpg"
         },
         {
-          "title": "Microsoft Gives Dishonored Dev More Time to Find a Buyer, Needs a Partner to Finish Blade",
-          "link": "https://www.pushsquare.com/news/2026/10/microsoft-gives-dishonored-dev-more-time-to-find-a-buyer-needs-a-partner-to-finish-blade",
-          "description": "Now has until 13th December 2026. The deadline relating to Arkane Lyon's search for a new owner has been extended by one month, Microsoft confirmed. The developer and Microsoft previously set a cut-off point of 13th November 2026, but that has now been extended to 13th December, as per comments from",
-          "date": "2026-10-26T09:30:00+00:00",
-          "image": "https://images.pushsquare.com/81a3527d27581/large.jpg"
+          "title": "The Cutest Little Sonic Game Is Coming Soon to PS5, But It Won't Have a Platinum Trophy",
+          "link": "https://www.pushsquare.com/news/2026/10/the-cutest-little-sonic-game-is-coming-soon-to-ps5-but-it-wont-have-a-platinum-trophy",
+          "description": "Sonic Pico Park's Trophy list revealed. In case you weren't aware, a new Sonic game is coming to PS5 very soon indeed, though it's not quite what you'd expect. Sonic Pico Park was announced earlier this year as part of the series' 35th anniversary celebrations, and it's now just a few weeks away, la",
+          "date": "2026-10-26T16:00:00+00:00",
+          "image": "https://images.pushsquare.com/50c34253c1dbf/large.jpg"
         },
         {
-          "title": "Review: Phantom Blade Zero (PS5) - One of the Generation's Greatest Action Experiences",
-          "link": "https://www.pushsquare.com/reviews/ps5/phantom-blade-zero",
-          "description": "I got Soul but I'm not a Soulslike. Should you ever wonder what it might feel like to be the coolest person on the planet, then Phantom Blade Zero is utterly hell-bent on fulfilling that fantasy. The western debut from S-GAME makes a punchy, stylish, and deep combat system the nucleus of an adventur",
-          "date": "2026-10-26T00:00:00+00:00",
-          "image": "https://images.pushsquare.com/reviews/ps5/phantom-blade-zero/large.jpg"
+          "title": "Save Mass Effect Petition Rockets Past 200,000 Signatures as Fans Ask EA to Continue the Series",
+          "link": "https://www.pushsquare.com/news/2026/10/save-mass-effect-petition-rockets-past-200000-signatures-as-fans-ask-ea-to-continue-the-series",
+          "description": "My favourite petition on the Citadel. Over 200,000 fans have signed an online petition to save Mass Effect . This movement began late last week, after BioWare's closure had been confirmed. The developer had been working on the next Mass Effect — seemingly codenamed Mass Effect Universe — but unsurpr",
+          "date": "2026-10-26T15:30:00+00:00",
+          "image": "https://images.pushsquare.com/24acd2c89942d/large.jpg"
         },
         {
-          "title": "Shenmue 3 Revival Postponed, as PS5 Re-Release Is Delayed to Early 2027",
-          "link": "https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027",
-          "description": "I see. Us Shenmue fans know a thing or two about waiting around, so it’s no real surprise to see Shenmue 3 Enhanced delayed. The PS5 re-release of Ys Net’s sequel – published by ININ – had been due out in 2026, but as the year has progressed, a postponement into 2027 always seemed inevitable. Read t",
-          "date": "2026-10-25T18:30:00+00:00",
-          "image": "https://images.pushsquare.com/90fa4e4d2a34e/large.jpg"
+          "title": "Phantom Blade Zero PS5 Trophy List Revealed, Plot Your Way to Platinum Trophy Now",
+          "link": "https://www.pushsquare.com/news/2026/10/phantom-blade-zero-ps5-trophy-list-revealed-plot-your-way-to-platinum-trophy-now",
+          "description": "36 Trophies for PS5 action game. Scheduled to release on 29th October 2026, the Trophy list for Phantom Blade Zero has gone live on PS5. The full list is published on Exophase , revealing 36 Trophies — including a Platinum Trophy, of course — for players to unlock. With the launch just days away, I ",
+          "date": "2026-10-26T15:00:00+00:00",
+          "image": "https://images.pushsquare.com/c82d8ada4c8ac/large.jpg"
         },
         {
-          "title": "PS5's War Against Jailbreaks Triggers Fresh Wave of Criticism",
-          "link": "https://www.pushsquare.com/news/2026/10/ps5s-war-against-jailbreaks-triggers-fresh-wave-of-criticism",
-          "description": "But it's nothing new. Sony’s battle against PS5 jailbreaks is bringing a fresh wave of criticism, as it requires players to update their firmware in order to play certain games. The Japanese giant – already on thin ice online due to its decision to cease manufacturing discs – has been deploying upda",
-          "date": "2026-10-25T16:30:00+00:00",
-          "image": "https://images.pushsquare.com/00478f01b8ee1/large.jpg"
+          "title": "Final Fantasy's 40th Anniversary Album Picks Just One Track from Each Main Game, and It'll Split Fan Opinion",
+          "link": "https://www.pushsquare.com/news/2026/10/final-fantasys-40th-anniversary-album-picks-just-one-track-from-each-main-game-and-itll-split-fan-opinion",
+          "description": "There can only be one. Square Enix has announced Final Fantasy 40th Anniversary: The Crystal Edition — a 16-track series-spanning album that's out in January. Hold on, 16 tracks? Is that all? Yep, it's made up of just one track per mainline Final Fantasy game. Read the full article on pushsquare.com",
+          "date": "2026-10-26T14:30:00+00:00",
+          "image": "https://images.pushsquare.com/8a1d6340e2954/large.jpg"
         },
         {
-          "title": "Feature: PS5 Answers 'Bleakest' Month with a 22% Upswing in Sales",
-          "link": "https://www.pushsquare.com/features/ps5-answers-bleakest-month-with-a-22percent-upswing-in-sales",
-          "description": "How much does the enthusiast discourse matter? I’ve been covering PlayStation since the early PS3 days, and aside from the PSN outage in 2011 , I can’t think of a worse month for the brand than September 2026. PS5’s public image was on the floor, with the ramifications of a widely publicised “ black",
-          "date": "2026-10-25T14:30:00+00:00",
-          "image": "https://images.pushsquare.com/da8e33caf2657/large.jpg"
+          "title": "Round Up: Modern Warfare 4 Is the Highest-Rated Call of Duty in 15 Years",
+          "link": "https://www.pushsquare.com/features/round-up-modern-warfare-4-is-the-highest-rated-call-of-duty-in-15-years",
+          "description": "Reviews are in. This year's rendition of Call of Duty has arrived, and with it the first batch of reviews. It seems this might be one to pay attention to, as Call of Duty: Modern Warfare 4 is the highest-rated entry in the series in 15 years. With a Metascore of 86, it's the best-reviewed game in th",
+          "date": "2026-10-26T14:00:00+00:00",
+          "image": "https://images.pushsquare.com/0dcd035309134/large.jpg"
         }
       ]
     },
