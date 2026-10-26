@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T00:36:20.178807+00:00",
+  "updated": "2026-10-26T05:54:09.362574+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Here Are The 2026 FANGORIA Chainsaw Awards Winners",
+          "link": "https://www.fangoria.com/2026-fangoria-chainsaw-awards-winners/",
+          "description": "And with that, we wave adieu to the 2026 FANGORIA Chainsaw Awards. Here's the complete list of this year's winners, as chosen by Fango readers.",
+          "date": "2026-10-26T02:30:05+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/FANGO-Chainsaw2026-WINNERS-header.jpg"
+        },
+        {
           "title": "The Next FRIDAY THE 13TH Movie Can Finally Fix An Infamous Mistake",
           "link": "https://www.fangoria.com/friday-the-13th-bring-kane-hodder-jason-back/",
           "description": "A new FRIDAY THE 13TH movie is in the works and it's time for the greatest Jason Voorhees actor of them all to return to Camp Crystal Lake.",
@@ -216,13 +223,6 @@
           "description": "Depending on what you're looking for from CLAYFACE, your mileage may vary.",
           "date": "2026-10-23T16:20:23+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/CLAYFACE.png.webp"
-        },
-        {
-          "title": "Sam Goes Stop-Motion! Inside The Adorably Gruesome New Short from Michael Dougherty and Trent Shy",
-          "link": "https://www.fangoria.com/michael-dougherty-trent-shy-sam-stop-motion/",
-          "description": "FANGORIA spoke with Mike Dougherty and Trent Shy about their delightful stop-motion short, SAM'S HARVEST. Be warned, if you disrespect jack-'o-lanterns, you'll only have yourself to blame...",
-          "date": "2026-10-23T16:05:25+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/sam-stills-sam-stop-motion-01-768x432-1.png"
         }
       ]
     },
