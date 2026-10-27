@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T23:15:44.603847+00:00",
+  "updated": "2026-10-27T02:21:11.086021+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -305,6 +305,13 @@
       "url": "https://blog.playstation.com/feed/",
       "articles": [
         {
+          "title": "(For Southeast Asia) Crunchyroll Arrives for PS5 and PS4 users in Indonesia, Malaysia and Thailand",
+          "link": "https://blog.playstation.com/2026/10/26/20261027-roll/",
+          "description": "We are excited to share that Crunchyroll, the global and ultimate destination for anime fandom, has arrived for PlayStation 5 and PlayStation 4 users in Indonesia, Malaysia and Thailand. Anime fans can now subscribe to Crunchyroll directly through PlayStation Media Hub on PS5 or PS4. Crunchyroll off",
+          "date": "2026-10-27T02:01:28+00:00",
+          "image": ""
+        },
+        {
           "title": "New Marvel Cosmic Invasion: The Siege of Castle Doom gameplay details",
           "link": "https://blog.playstation.com/2026/10/26/new-marvel-cosmic-invasion-the-siege-of-castle-doom-gameplay-details/",
           "description": "What was Doctor Doom up to during the Annihilation Wave? How would the master of Latveria react to an invasion of this magnitude to his doorstep? This was the first question we’ve asked ourselves while tackling the design of our second DLC for Marvel Cosmic Invasion. We knew players demanded a mode ",
@@ -366,13 +373,6 @@
           "description": "There is joy in being a little scared. From pleasantly spooky atmospheres to frights that make your fingers fidget on the controller. Our team has played many horror-themed indie games, from cozy to creepy, and we’re excited to share some of our favorites to keep players frightened and having fun th",
           "date": "2026-10-21T16:00:31+00:00",
           "image": "https://live.staticflickr.com/65535/55592397564_75c4bcf69a_k.jpg"
-        },
-        {
-          "title": "Stranger Than Heaven hands-on report: brutal combat and the glitz of show business intermix",
-          "link": "https://blog.playstation.com/2026/10/21/stranger-than-heaven-hands-on-report-brutal-combat-and-the-glitz-of-show-business-intermix/",
-          "description": "Fists clashing, bones crunching—it’s combat at its most visceral. On the flip side, there is the glitz and glamour of show business, where you handle everything from song composition to live stage productions. Stranger Than Heaven, an all-new title from RGG Studio, the team behind the Like a Dragon ",
-          "date": "2026-10-21T14:01:18+00:00",
-          "image": "https://live.staticflickr.com/65535/55601703000_0996628389_k.jpg"
         }
       ]
     },
