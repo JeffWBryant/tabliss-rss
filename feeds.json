@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T23:43:12.868219+00:00",
+  "updated": "2026-10-28T05:06:58.286909+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,27 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "VisionQuest Finally Introduces One of the Strangest Avengers",
+          "link": "https://www.denofgeek.com/tv/visionquest-finally-introduces-strangest-avenger-jocasta/",
+          "description": "This article contains spoilers for VisionQuest season 1 episodes 5 and 6. For its first four episodes, VisionQuest pit its heroes against a mysterious figure hidden under a cloak. We’ve watched her attack various members of an AI advancement research team led by scientist Katerina Wells (Mary McDonn",
+          "date": "2026-10-28T02:01:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/VisionQuest-Jocasta.jpg"
+        },
+        {
+          "title": "VisionQuest Episode 6 Review: The Marvel Method Strikes Again",
+          "link": "https://www.denofgeek.com/tv/visionquest-episode-6-review/",
+          "description": "This article contains spoilers for VisionQuest season 1 episode 6. Let’s be 100% clear. I love Marvel. I love Marvel Comics, I love the MCU. I wouldn’t know things about Ravager 2099 or Eternals if I didn’t. But we should also be honest about the fact that, sometimes, Marvel tropes can be annoying, ",
+          "date": "2026-10-28T02:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Paul-Bettany-and-Emily-Hampshire-in-VisionQuest.jpg"
+        },
+        {
+          "title": "VisionQuest Episode 5 Review: The New Age of Ultron",
+          "link": "https://www.denofgeek.com/tv/visionquest-episode-5-review/",
+          "description": "This article contains spoilers for VisionQuest season 1 episode 5. Throughout Avengers: Age of Ultron, the titular evil super robot sang a creepy version of a Pinocchio song, crooning, “I had strings, but now I’m free.” Ultron repeats that song at the end of VisionQuest‘s fifth episode, “Firewall,” ",
+          "date": "2026-10-28T01:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/James-Spader-in-VisionQuest.jpg"
+        },
+        {
           "title": "Dune 3 Final Trailer Reveals a Major Deviation from the Books",
           "link": "https://www.denofgeek.com/movies/dune-3-final-trailer-reveals-a-major-deviation-from-the-books/",
           "description": "Ever since the final moments of Dune: Part Two, we’ve been worried. Not about Paul Atreides, the protagonist of the Dune series, who becomes more of a tyrant with each film. Anyone paying attention to the movie or has read the books knows that author Frank Herbert wrote them as a warning against cha",
@@ -127,33 +148,19 @@
           "description": "History books tend to focus on what famous people accomplished, leaving out the strange things they did in their spare time. Isaac Newton spent years studying alchemy, Charles Darwin conducted experiments on earthworms, and one Russian emperor developed a rather alarming interest in dentistry. Some ",
           "date": "2026-10-27T11:45:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/10_ffd0e0.jpg"
-        },
-        {
-          "title": "15 Photos Before Our Biggest Stars Hit Their ‘Glow Up’",
-          "link": "https://www.denofgeek.com/msn/15-photos-before-our-biggest-stars-hit-their-glow-up/",
-          "description": "We get so used to seeing Hollywood’s biggest names as the impeccable image they showcase, we forget that they had to start from somewhere. Their image is something carefully planned by more people than just them, so it’s always fun to see them before all that created makeover. So that’s what we’ve b",
-          "date": "2026-10-27T11:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/9_6fe281.jpg"
-        },
-        {
-          "title": "15 Actors Who’ll Never Work With a Director Again",
-          "link": "https://www.denofgeek.com/msn/15-actors-wholl-never-work-with-a-director-again/",
-          "description": "Taking on any kind of creative endeavor, particularly when we’re talking about a group effort, will have people clashing with each other at some point or another. It’s only natural for that to happen when creative minds clash, although when all is said and done, some people never want to go through ",
-          "date": "2026-10-27T11:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/8_7f87c8.jpg"
-        },
-        {
-          "title": "19 Dangerous Cars You Can Legally Own Anyway",
-          "link": "https://www.denofgeek.com/msn/19-dangerous-cars-you-can-legally-own-anyway/",
-          "description": "Car safety has advanced so much over the last few decades, it makes vehicles that are still out on the road feel like a massive gamble to drive. Many of those old cars, despite their questionable engineering or tendency to spin out of control, are still perfectly legal to own and drive. This is why ",
-          "date": "2026-10-27T10:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/7_2eba74.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "Did The FANGORIA Chainsaw Awards Predict A Future Oscar Nominee?",
+          "link": "https://www.fangoria.com/fangoria-chainsaw-awards-inde-navarrette/",
+          "description": "The FANGORIA Chainsaw Awards are now available to stream on YouTube. Did we (once again) predict a future Oscar nominee? Watch the show and start your predictions now!",
+          "date": "2026-10-28T01:52:11+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/05/obsession-inde-navarrette.webp"
+        },
         {
           "title": "DEAD GIVEAWAY Trailer: Ruby Modine Needs To Solve A Murder Before Brunch",
           "link": "https://www.fangoria.com/dead-giveaway-trailer/",
@@ -216,13 +223,6 @@
           "description": "SIR REGINALD & THE CLOCKWORK HEART, a comic anthology featuring five new horror adventure tales, is coming soon. Get details here.",
           "date": "2026-10-26T18:23:17+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/SIR-REGINALDANDTHECLOCKWORKHEART-copy.jpeg"
-        },
-        {
-          "title": "How The Hell Do The FANGORIA Chainsaw Awards Even Happen?",
-          "link": "https://www.fangoria.com/fangoria-chainsaw-awards-2026-michael-varrati-interview/",
-          "description": "For the past five years, Michael Varrati has written, directed, and produced the FANGORIA Chainsaw Awards. Today, he explains how the hell he makes it happen.",
-          "date": "2026-10-26T18:00:10+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/IMG_8828-scaled.png"
         }
       ]
     },
@@ -305,6 +305,13 @@
       "url": "https://blog.playstation.com/feed/",
       "articles": [
         {
+          "title": "(For Southeast Asia) PlayStation 11.11 Power Deals returns from 30 October to 12 November 2026",
+          "link": "https://blog.playstation.com/2026/10/27/20261028-sale/",
+          "description": "PlayStation 11.11 Power Deals returns to Singapore, Malaysia, Thailand, Indonesia and Vietnam from 30th October to 12th November 2026, with discounts on PS5 peripherals and disc versions of PS5 games from PlayStation Studios. Highlights of this year’s 11.11 Power Deals include: The 2026 PlayStation ",
+          "date": "2026-10-28T02:01:10+00:00",
+          "image": ""
+        },
+        {
           "title": "Aloft and Conan Exiles Enhanced launch on PS5 in early 2027",
           "link": "https://blog.playstation.com/2026/10/27/aloft-and-conan-exiles-enhanced-launch-on-ps5-in-early-2027/",
           "description": "We’ve just launched Dune: Awakening on PlayStation 5, but we’re only getting started. We’re excited to bring two more of our open-world survival adventures to PlayStation 5 in early 2027. Soar the skies in Aloft, then visit the unforgiving Exiled Lands in Conan Exiles Enhanced. Aloft: Build a home a",
@@ -366,19 +373,19 @@
           "description": "Housemarque and Nixxes developed Saros in close collaboration; one area was developing the set-piece bosses. Housemarque brought the creative vision, world, combat language, visual concepts, and signature bullet-hell DNA. Nixxes brought the bosses to life through encounter design, animation, environ",
           "date": "2026-10-23T11:59:40+00:00",
           "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-        },
-        {
-          "title": "Marvel’s Wolverine: Photo Mode guide",
-          "link": "https://blog.playstation.com/2026/10/22/marvels-wolverine-photo-mode-guide/",
-          "description": "Photo Modes are a rewarding way to get to grips with some essential elements of photography, while letting you more closely examine and appreciate a game’s art design and increasingly photorealistic visuals. Feature-rich Photo Modes put an entire suite of virtual lighting rigs at your fingertips, su",
-          "date": "2026-10-22T14:00:31+00:00",
-          "image": "https://live.staticflickr.com/65535/55601775300_b1c47c96e0_k.jpg"
         }
       ]
     },
     "Push Square": {
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
+        {
+          "title": "Guide: GTA 6 Release Times and Preload: When Can You Start Playing?",
+          "link": "https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing",
+          "description": "All the GTA 6 release info you need. Probably the most anticipated game of all time, GTA 6 is now just a few weeks away. As the launch draws closer, we're covering everything you need to know about its PS5 launch, including preload options and release times. In this GTA 6 guide , we cover the GTA 6 ",
+          "date": "2026-10-28T00:00:00+00:00",
+          "image": "https://images.pushsquare.com/43e69a3687e26/large.jpg"
+        },
         {
           "title": "Review: Silver Pines (PS5) - Lynchian Metroidvania Is a Cut Above",
           "link": "https://www.pushsquare.com/reviews/ps5/silver-pines",
@@ -441,13 +448,6 @@
           "description": "Get the patch notes here for 4.5GB update. Ubisoft has today deployed its final Assassin's Creed: Black Flag Resynced content update, which weighs in at 4.5GB. It is available to download on your PS5 now. While there will be more quality-of-life patches in the future, the publisher has confirmed tod",
           "date": "2026-10-27T14:00:00+00:00",
           "image": "https://images.pushsquare.com/07cfefe504f91/large.jpg"
-        },
-        {
-          "title": "Sim Racer Project Motor Racing Is Free to Play All This Week on PS5, No PS Plus Required",
-          "link": "https://www.pushsquare.com/news/2026/10/sim-racer-project-motor-racing-is-free-to-play-all-this-week-on-ps5-no-ps-plus-required",
-          "description": "Worth a test drive. Publisher Giants Software has made its sim racing game, Project Motor Racing , free to play on PS5, giving you the chance to try the full game for a limited time. The title typically costs $49.99/£44.99, but all this week — 26th October to 1st November — the full game has been ma",
-          "date": "2026-10-27T13:30:00+00:00",
-          "image": "https://images.pushsquare.com/f7148cc573a07/large.jpg"
         }
       ]
     },
