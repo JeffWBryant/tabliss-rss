@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T05:06:58.286909+00:00",
+  "updated": "2026-10-28T11:31:33.342392+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,55 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "15 Shows With the 10/10 Most Un-Skippable Theme Songs",
+          "link": "https://www.denofgeek.com/msn/15-shows-with-the-10-10-most-un-skippable-theme-songs/",
+          "description": "We've all done it. You're halfway through a streaming marathon, the opening credits start, and your finger heads straight for the skip button. But every once in a while, a show has a theme song so good that you actually want to hear it again. Maybe you know every word, or maybe it's an instrumental ",
+          "date": "2026-10-28T11:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-1-5.jpg"
+        },
+        {
+          "title": "15 People Who Made the American Dream Come True",
+          "link": "https://www.denofgeek.com/msn/15-people-who-made-the-american-dream-come-true/",
+          "description": "The American Dream means something different to everyone, but for some famous faces, it involved a pretty dramatic change of circumstances. A few grew up in homes where money was constantly running short. Others arrived in the United States with unfamiliar surroundings, limited English, or careers t",
+          "date": "2026-10-28T11:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024617_-6.jpg"
+        },
+        {
+          "title": "16 Random Historical Facts That Are Unsettling None the Less",
+          "link": "https://www.denofgeek.com/msn/16-random-historical-facts-that-are-unsettling-none-the-less/",
+          "description": "We all have a strange tidbit of lore about our upbringing, or something questionable that we did in our past, and we only share it with the people we trust. Since everyone has at least one of these unsettling truths, you just know history itself is filled with them as well. And your own integrity is",
+          "date": "2026-10-28T11:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-10-4.jpg"
+        },
+        {
+          "title": "12 Times a War Was Fought and Won in a Day",
+          "link": "https://www.denofgeek.com/msn/12-times-a-war-was-fought-and-won-in-a-day/",
+          "description": "The word ‘war’ can elicit some terrible thoughts, particularly for anyone that lived through them or similar armed conflicts. These lethal and harrowing events shape nations and destroy the land, although they don’t always take decades to resolve. After all, wars aren’t defined by a minimum required",
+          "date": "2026-10-28T10:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-9-4.jpg"
+        },
+        {
+          "title": "15 Historical Figures Who Looked Good and Played Good",
+          "link": "https://www.denofgeek.com/msn/15-historical-figures-who-looked-good-and-played-good/",
+          "description": "Many people throughout history have accomplished great things, pushing humanity to greater heights. Not all of them though, did it while looking incredibly good. This is an admittedly shallow thing to focus on, but a fun one nonetheless, since looking good while doing good is always a great match. D",
+          "date": "2026-10-28T10:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-8-4.jpg"
+        },
+        {
+          "title": "16 Characters Who Knew How to Throw a Fit",
+          "link": "https://www.denofgeek.com/msn/16-characters-who-knew-how-to-throw-a-fit/",
+          "description": "Since movies are a visual medium, a great character isn’t only what they say or do, but also how they look. And we’re not talking about being conventionally attractive, we’re talking about dressing for the occasion, be that a social gathering or a high-adrenaline action sequence. This is why the ent",
+          "date": "2026-10-28T10:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-7-4.jpg"
+        },
+        {
+          "title": "16 First Responders Share the Most Dangerous Things People Do",
+          "link": "https://www.denofgeek.com/msn/16-first-responders-share-the-most-dangerous-things-people-do/",
+          "description": "First responders regularly witness how ordinary decisions can turn into life-threatening emergencies. Things that we consider completely safe can be the last ones we make, since just because nothing bad happened so far, doesn’t mean something bad can’t happen in the future. This isn’t about being pa",
+          "date": "2026-10-28T10:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/1_675aad.jpg"
+        },
+        {
           "title": "VisionQuest Finally Introduces One of the Strangest Avengers",
           "link": "https://www.denofgeek.com/tv/visionquest-finally-introduces-strangest-avenger-jocasta/",
           "description": "This article contains spoilers for VisionQuest season 1 episodes 5 and 6. For its first four episodes, VisionQuest pit its heroes against a mysterious figure hidden under a cloak. We’ve watched her attack various members of an AI advancement research team led by scientist Katerina Wells (Mary McDonn",
@@ -99,55 +148,6 @@
           "description": "This article contains spoilers for VisionQuest season 1 episode 5. Throughout Avengers: Age of Ultron, the titular evil super robot sang a creepy version of a Pinocchio song, crooning, “I had strings, but now I’m free.” Ultron repeats that song at the end of VisionQuest‘s fifth episode, “Firewall,” ",
           "date": "2026-10-28T01:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/James-Spader-in-VisionQuest.jpg"
-        },
-        {
-          "title": "Dune 3 Final Trailer Reveals a Major Deviation from the Books",
-          "link": "https://www.denofgeek.com/movies/dune-3-final-trailer-reveals-a-major-deviation-from-the-books/",
-          "description": "Ever since the final moments of Dune: Part Two, we’ve been worried. Not about Paul Atreides, the protagonist of the Dune series, who becomes more of a tyrant with each film. Anyone paying attention to the movie or has read the books knows that author Frank Herbert wrote them as a warning against cha",
-          "date": "2026-10-27T18:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Zendaya-Dune-Three.jpg"
-        },
-        {
-          "title": "The Debut Review: Julianne Moore Gives a Russian Nesting Doll of a Performance",
-          "link": "https://www.denofgeek.com/movies/the-debut-review-julianne-moore-russian-doll/",
-          "description": "I never participated in community theater, that peculiar intersection of (sometimes) professional-grade talent and a hobbyist’s after-hours work schedule. But I did get to join a couple of school plays back in my younger days, and it’s easy to remember the sense of kindness and togetherness that ema",
-          "date": "2026-10-27T16:32:33+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Julianne-Moore-and-Paul-Giamatti-in-The-Debut-Review.jpg"
-        },
-        {
-          "title": "15 People Share the Worst Thing Someone Has Ever Done in Their Home",
-          "link": "https://www.denofgeek.com/msn/15-people-share-the-worst-thing-someone-has-ever-done-in-their-home/",
-          "description": "Having people over is usually pretty straightforward. You offer them something to drink, maybe order food, and hope they remember to close the door on their way out. But some guests apparently see an invitation as permission to do absolutely anything. One person had a visitor walk off with an entire",
-          "date": "2026-10-27T13:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-15.jpg"
-        },
-        {
-          "title": "15 Historical Photos Where Work Looks Especially Exhausting",
-          "link": "https://www.denofgeek.com/msn/15-historical-photos-where-work-looks-especially-exhausting/",
-          "description": "A long day at the office can be tiring, but some old workplace photographs put that feeling into perspective. Imagine spending your shift balancing on the steel framework of a skyscraper, hauling fishing nets out of the ocean, or digging through solid ground to make room for a subway station. These ",
-          "date": "2026-10-27T12:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/11_ae5ede.jpg"
-        },
-        {
-          "title": "15 Vintage ‘Work’ Photos Making Your Job Seem Pretty Normal",
-          "link": "https://www.denofgeek.com/msn/15-vintage-work-photos-making-your-job-seem-pretty-normal/",
-          "description": "Bad days at work aren't exactly a modern invention. Long before office computers, video meetings, and endless email chains, people had jobs that involved climbing into chimneys, resetting bowling pins by hand, or spending entire days connecting telephone calls. Some occupations have disappeared comp",
-          "date": "2026-10-27T12:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-11-1.jpg"
-        },
-        {
-          "title": "15 Vintage Ads Reminding You it Was a Different Time",
-          "link": "https://www.denofgeek.com/msn/15-vintage-ads-reminding-you-it-was-a-different-time/",
-          "description": "Old advertisements can tell you a surprising amount about what people used to buy, eat, and expect from everyday life. A vacuum cleaner was once promoted as a perfectly good Christmas present, vegetables somehow ended up inside gelatin desserts, and buying a home computer required a budget that woul",
-          "date": "2026-10-27T12:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-12.jpg"
-        },
-        {
-          "title": "15 Historical Figures Who Were Into Some Weird Stuff",
-          "link": "https://www.denofgeek.com/msn/15-historical-figures-who-were-into-some-weird-stuff/",
-          "description": "History books tend to focus on what famous people accomplished, leaving out the strange things they did in their spare time. Isaac Newton spent years studying alchemy, Charles Darwin conducted experiments on earthworms, and one Russian emperor developed a rather alarming interest in dentistry. Some ",
-          "date": "2026-10-27T11:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/10_ffd0e0.jpg"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Former Fall Guys Devs Are Bringing Their Co-Op Platformer Frog Sqwad to PS5 Today",
+          "link": "https://www.pushsquare.com/news/2026/10/former-fall-guys-devs-are-bringing-their-co-op-platformer-frog-sqwad-to-ps5-today",
+          "description": "Hoppers. Developer Panic Stations has just launched its debut game, Frog Sqwad , on PS5, a few months following its initial release on PC. Available now, Frog Sqwad is an online co-op multiplayer game in which a group of up to eight players dive into the sewers, gather what they can, and hope to ful",
+          "date": "2026-10-28T10:00:00+00:00",
+          "image": "https://images.pushsquare.com/ce17b14553f4d/large.jpg"
+        },
+        {
           "title": "Guide: GTA 6 Release Times and Preload: When Can You Start Playing?",
           "link": "https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing",
           "description": "All the GTA 6 release info you need. Probably the most anticipated game of all time, GTA 6 is now just a few weeks away. As the launch draws closer, we're covering everything you need to know about its PS5 launch, including preload options and release times. In this GTA 6 guide , we cover the GTA 6 ",
@@ -441,13 +448,6 @@
           "description": "This means war. Warhorse Studios, the team behind the highly-regarded Kingdom Come: Deliverance series, has confirmed it has been the victim of a cyberattack. Posting about the matter on its social channels, the studio is \"working with cybersecurity specialists to secure our systems and understand t",
           "date": "2026-10-27T15:00:00+00:00",
           "image": "https://images.pushsquare.com/a9916ef2661ed/large.jpg"
-        },
-        {
-          "title": "Assassin's Creed Black Flag Resynced Update 1.0.8 Available to Download on PS5, Adds New Game Plus",
-          "link": "https://www.pushsquare.com/news/2026/10/assassins-creed-black-flag-resynced-update-1-0-8-available-to-download-on-ps5-adds-new-game-plus",
-          "description": "Get the patch notes here for 4.5GB update. Ubisoft has today deployed its final Assassin's Creed: Black Flag Resynced content update, which weighs in at 4.5GB. It is available to download on your PS5 now. While there will be more quality-of-life patches in the future, the publisher has confirmed tod",
-          "date": "2026-10-27T14:00:00+00:00",
-          "image": "https://images.pushsquare.com/07cfefe504f91/large.jpg"
         }
       ]
     },
