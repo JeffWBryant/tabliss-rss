@@ -1,9 +1,23 @@
 {
-  "updated": "2026-10-28T22:46:35.230027+00:00",
+  "updated": "2026-10-29T02:15:19.464069+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Smile 3’ Officially Moving Forward With David Bruckner Directing, Nick Antosca Writing",
+          "link": "https://bloody-disgusting.com/movie/3973822/smile-3-officially-moving-forward-with-david-bruckner-directing-nick-antosca-writing/",
+          "description": "Smile 3 is officially a go, but with a new creative team at the helm, according to Variety. Paramount has hired David Bruckner to direct and Nick Antosca to write the screenplay for the sequel, while Smile originator Parker Finn is occupied with Possession. Finn will remain on board as producer and ",
+          "date": "2026-10-29T00:40:16+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Winnie-the-Pooh: Blood and Honey 3’: Somehow, the Poohniverse Returns in New Trailer",
+          "link": "https://bloody-disgusting.com/movie/3973812/winnie-the-pooh-blood-and-honey-3-trailer-poohniverse/",
+          "description": "The horror genre has seen a number of trends come and go throughout the years, such as the slasher craze of the ’80s or the found-footage boom of the 2000s. More recently, one of the more bizarre trends has been taking iconic children’s characters who have been around long enough to have entered the",
+          "date": "2026-10-28T23:28:11+00:00",
+          "image": ""
+        },
         {
           "title": "‘Predator: Badlands’ Finally Arrives in “Fortnitemares” [Video]",
           "link": "https://bloody-disgusting.com/video-games/3973801/predator-badlands-finally-arrives-in-fortnitemares-video/",
@@ -59,20 +73,6 @@
           "description": "Ted Raimi has worn many hats over decades of filmmaking. He’s an actor, a director, a writer, a producer, and an icon of multiple genres. Now, he’s trying on yet another hat, one that seems to fit him quite well: Talk show host. This week, Screambox will premiere Your Dearest, Darkest Friend, a funn",
           "date": "2026-10-28T19:54:21+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Episode-3-Ted.jpg?resize=1024%2C681&#038;ssl=1"
-        },
-        {
-          "title": "‘Them!’ Remake Director Gives Long-Awaited Update:”We’re Doing the Best We Can”",
-          "link": "https://bloody-disgusting.com/news/3973743/them-remake-reboot-michael-giacchino-update/",
-          "description": "Part of what makes so many sci-fi and horror movies from the ’50s and ’60s so beloved is that they suffered from a variety of financial limitations, which almost immediately dated them when they were unleashed. Due to the rudimentary visual effects and production budgets, this often meant a movie su",
-          "date": "2026-10-28T19:52:23+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘The Farmer & The Shark’ – Unique New ‘JAWS’ Documentary Will Premiere at the Key West Film Festival",
-          "link": "https://bloody-disgusting.com/exclusives/3973746/the-farmer-the-shark-unique-new-jaws-documentary-will-premiere-at-the-key-west-film-festival/",
-          "description": "We first told you about The Farmer & The Shark back in June of last year, a documentary from director John Campopiano (Pennywise: The Story of IT, Hollywood Dreams & Nightmares: The Robert Englund Story) that celebrates the enduring legacy of JAWS through a very unique lens. This particular JAWS-rel",
-          "date": "2026-10-28T19:49:01+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Bloody-Disgusting-ConradKrumm_JAWS_image20_TFATS_watermark-scaled.jpg?resize=2560%2C1996&#038;ssl=1"
         }
       ]
     },
@@ -305,6 +305,20 @@
       "url": "https://blog.playstation.com/feed/",
       "articles": [
         {
+          "title": "(For Southeast Asia) First look inside the Prism Collection, with three new transparent designs for PS5 accessories",
+          "link": "https://blog.playstation.com/2026/10/28/20261029-ps5/",
+          "description": "Get ready to see your PS5 console and DualSense controller in a whole new way. Today, we are pleased to introduce the Prism Collection, featuring three striking transparent designs for DualSense wireless controllers and PS5 console covers: Flare Orange, Emerald Green, and Graphite Gray. The new coll",
+          "date": "2026-10-29T02:03:29+00:00",
+          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
+        },
+        {
+          "title": "Phantom Blade Zero: How boss weapons transform combat and exploration",
+          "link": "https://blog.playstation.com/2026/10/28/phantom-blade-zero-how-boss-weapons-transform-combat-and-exploration/",
+          "description": "Phantom Blade Zero blends influences from a variety of sources to create intense, fast-paced combat and a supernaturally infused Kungfupunk world. It draws on the tough, powerful bosses of Soulslikes, the quick, combo-focused combat of hack-and-slash games, the fascinating stories and characters of ",
+          "date": "2026-10-29T02:00:00+00:00",
+          "image": ""
+        },
+        {
           "title": "Modern Warfare 4 Season 1: Everything you need to know for November 6 launch",
           "link": "https://blog.playstation.com/2026/10/28/modern-warfare-4-season-1-everything-you-need-to-know-for-november-6-launch/",
           "description": "Get ready for Season 1, with new maps, modes, events and rewards across Multiplayer and DMZ. Explore the unforgiving corridors of X01, wield new weapons and attachments, acquire new Operator Skins, Weapon Blueprints, DMZ Survival Kits, and more. Call of Duty: Modern Warfare 4 Season 1 goes live on N",
@@ -359,20 +373,6 @@
           "description": "When I founded WDR Studios with my colleagues, the goal was simple: make the kind of games that we’d want to play. I wanted to apply the lessons I’d learned from years of managing a successful YouTube channel to the medium of video games, drawing inspiration from some of my favourite titles to creat",
           "date": "2026-10-27T14:00:38+00:00",
           "image": "https://live.staticflickr.com/65535/55604165075_330582d43d_3k.jpg"
-        },
-        {
-          "title": "The sound of Saros: Building an audio identity for Carcosa",
-          "link": "https://blog.playstation.com/2026/10/27/the-sound-of-saros-building-an-audio-identity-for-carcosa/",
-          "description": "When we started working on Saros, we knew we had an interesting challenge ahead of us. We had established a very distinctive audio identity with Returnal, and Housemarque gave us a clear direction from the beginning: “Refinement, not Reinvention.” That became a useful principle throughout developmen",
-          "date": "2026-10-27T13:01:26+00:00",
-          "image": "https://live.staticflickr.com/65535/55604767642_326f9e682b_h.jpg"
-        },
-        {
-          "title": "(For Southeast Asia) Crunchyroll Arrives for PS5 and PS4 users in Indonesia, Malaysia and Thailand",
-          "link": "https://blog.playstation.com/2026/10/26/20261027-roll/",
-          "description": "We are excited to share that Crunchyroll, the global and ultimate destination for anime fandom, has arrived for PlayStation 5 and PlayStation 4 users in Indonesia, Malaysia and Thailand. Anime fans can now subscribe to Crunchyroll directly through PlayStation Media Hub on PS5 or PS4. Crunchyroll off",
-          "date": "2026-10-27T02:01:28+00:00",
-          "image": ""
         }
       ]
     },
@@ -383,7 +383,7 @@
           "title": "This Classic PS1 Star Wars Game Just Got a Neat PS5 Enhancement",
           "link": "https://www.pushsquare.com/news/2026/10/this-classic-ps1-star-wars-game-just-got-a-neat-ps5-enhancement",
           "description": "Go back to The Phantom Menace for a Platinum. The video game adaptation of Star Wars: Episode I - The Phantom Menace from the PS1 generation looks to be getting a facelift on PS5 and PS4 in the form of a new Trophy list. When it launched on PS Plus Premium a few years ago, The Phantom Menace came wi",
-          "date": "2026-10-28T22:30:00+00:00",
+          "date": "2026-10-29T00:00:00+00:00",
           "image": "https://images.pushsquare.com/4f87cc79479c6/large.jpg"
         },
         {
