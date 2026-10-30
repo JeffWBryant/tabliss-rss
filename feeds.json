@@ -1,9 +1,58 @@
 {
-  "updated": "2026-10-30T07:39:57.249601+00:00",
+  "updated": "2026-10-30T14:57:28.905308+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Death Stranding Isolations’ Gets First Teaser and Poster Ahead of 2027 Disney+ Release",
+          "link": "https://bloody-disgusting.com/tv/3974054/death-stranding-isolations-gets-first-teaser-and-poster-ahead-of-2027-disney-release/",
+          "description": "Kojima Productions has unveiled the first teaser and poster for Death Stranding Isolations, the upcoming 2D animated series streaming exclusively on Disney+ in 2027. The new series will tell a completely original story, separate from the video games. Under director Takayuki Sano, the hand-drawn anim",
+          "date": "2026-10-30T14:39:37+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/unnamed-1.png?resize=1686%2C2382&#038;ssl=1"
+        },
+        {
+          "title": "Chase Sui Wonders in Talks to Join A24’s Raunchy Little Monster Movie ‘Goblin’",
+          "link": "https://bloody-disgusting.com/movie/3974048/chase-sui-wonders-in-talks-to-join-a24s-raunchy-little-monster-movie-goblin/",
+          "description": "Described as “Ted meets ET,” David Mikalson’s raunchy comedy Goblin is coming to life over at A24, and Chase Sui Wonders (I Know What You Did Last Summer) is in talks to star. The news was first reported by The Hollywood Reporter last night. Kenneth Branagh has been cast to voice the titular Goblin ",
+          "date": "2026-10-30T14:32:42+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/download-2025-11-21T153205.576.jpg?resize=1024%2C768&#038;ssl=1"
+        },
+        {
+          "title": "‘Season’s Greetings 2: Mischief Night’ – Halloween Icon Sam Is Back in New Grindhouse-Style Trailer",
+          "link": "https://bloody-disgusting.com/the-further/3974038/seasons-greetings-2-mischief-night-halloween-icon-sam-is-back-in-new-grindhouse-style-trailer/",
+          "description": "Michael Dougherty (Trick ‘r Treat, Krampus) has been celebrating the 30th anniversary of his short film Season’s Greetings all month long, with that original animated short of course marking our first introduction to the Halloween icon known as Sam. Today is Halloween Eve and Dougherty is celebratin",
+          "date": "2026-10-30T14:12:59+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Jurassic Park’ Actor Joseph Mazzello To Lead Cecil Hotel Horror ‘A Grim Life’",
+          "link": "https://bloody-disgusting.com/movie/3974034/jurassic-park-actor-joseph-mazzello-to-lead-cecil-hotel-horror-a-grim-life/",
+          "description": "Bohemian Rhapsody and Jurassic Park actor Joseph Mazzello has been set to lead the supernatural horror movie A Grim Life, set in Los Angeles’ Cecil Hotel, Variety reports. Francesco Lucente writes and directs. Mazzello will play “Tom, a filmmaker down on his luck who pays the bills scrubbing toilets",
+          "date": "2026-10-30T13:36:58+00:00",
+          "image": ""
+        },
+        {
+          "title": "“Lobby Doors Open Update” for ‘Escape From Playtime’ Adds Public Lobbies, Additional Lore and More",
+          "link": "https://bloody-disgusting.com/video-games/3974018/lobby-doors-open-update-for-escape-from-playtime-adds-public-lobbies-additional-lore-and-more/",
+          "description": "It’s been a week since Mob Entertainment released Escape From Playtime, and the devteam has already dropped a new update for the co-op Poppy Playtime spin-off. In addition, the team has also released an early roadmap of new content and features for fans to look forward to during the game’s stay in E",
+          "date": "2026-10-30T13:30:44+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/roadmap-1.jpg?resize=1920%2C1080&#038;ssl=1"
+        },
+        {
+          "title": "‘Tales from the Tube’ – 23 YouTubers Got Together to Write a Horror Anthology Novel",
+          "link": "https://bloody-disgusting.com/books/3974029/tales-from-the-tube-23-youtubers-got-together-to-write-a-horror-anthology-novel/",
+          "description": "This year was the year that YouTubers took over Hollywood, with popular online creators like Markiplier, Curry Barker, and Kane Parsons hitting big with their debut horror movies in theaters. Every major studio is looking for the next popular YouTuber who can translate their online success into box ",
+          "date": "2026-10-30T13:18:32+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/bcdf4dfaed7b0c00df26039529cd3ac0_original.png?resize=800%2C1200&#038;ssl=1"
+        },
+        {
+          "title": "Update to ‘Silent Hill Townfall’ Adds New Difficulty, Rebalances Existing Difficulty Options",
+          "link": "https://bloody-disgusting.com/video-games/3974015/update-to-silent-hill-townfall-adds-new-difficulty-rebalances-existing-difficulty-options/",
+          "description": "Similar to how NeoBards tweaked the difficulty for Silent Hill f after launch, Screen Burn has updated Silent Hill Townfall to rebalance the game’s difficulty. But unlike Silent Hill f getting Casual mode, Townfall has received a new Hard difficulty as a result of the tweaks. Update 1.6.0 includes a",
+          "date": "2026-10-30T11:30:20+00:00",
+          "image": ""
+        },
         {
           "title": "‘Obsession’ Star Inde Navarrette Supports Nikki Appearing at Halloween Horror Nights",
           "link": "https://bloody-disgusting.com/movie/3974010/obsession-inde-navarette-nikki-halloween-horror-nights-reaction/",
@@ -24,55 +73,6 @@
           "description": "We’re in a tricky time as horror fans — while we’re only days away from Halloween, the best day of the year, we’re also only a few days from November 1, the longest stretch of time before it becomes October again. Luckily, there’s at least one way we will be able to keep up our […] The post Krampus ",
           "date": "2026-10-29T22:10:33+00:00",
           "image": ""
-        },
-        {
-          "title": "‘Mouthwashing’ – Karyn Kusama Directing Movie Adaptation of Popular Horror Video Game",
-          "link": "https://bloody-disgusting.com/movie/3973975/mouthwashing-karyn-kusama-directing-movie-adaptation-of-popular-horror-video-game/",
-          "description": "The popular horror video game Mouthwashing is the next to be tapped for feature film adaptation, with THR reporting that Karyn Kusama (Jennifer’s Body, The Invitation) will direct. Sony Pictures picked up the feature film rights to the video game from developer Wrong Organ, with Scott Derrickson (Si",
-          "date": "2026-10-29T20:13:48+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/mouthwashing.jpg?resize=900%2C580&#038;ssl=1"
-        },
-        {
-          "title": "Cinematic Icon Sir Patrick Stewart Passes Away at 86",
-          "link": "https://bloody-disgusting.com/movie/3973969/patrick-stewart-dies-86-obituary/",
-          "description": "Sir Patrick Stewart, star of stage, cinema, and the small screen, has sadly passed away at the age of 86, as announced by his longtime representation Kelly Bush Novak. Throughout his career, he amassed dozens of credits across all mediums and elevated every project he was a part of. Novak shared, pe",
-          "date": "2026-10-29T19:57:13+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Pan’s Labyrinth’ 20th-Anniversary Restoration Lands on Digital Next Month",
-          "link": "https://bloody-disgusting.com/movie/3973961/pans-labyrinth-20th-anniversary-4k-home-video-release-date/",
-          "description": "It’s difficult to overstate just how significant an achievement Guillermo del Toro‘s Pan’s Labyrinth is. At the time of release, del Toro was a burgeoning force in the horror realm, thanks to movies like Cronos, Blade II, The Devil’s Backbone, and Hellboy. With Pan’s Labyrinth, though, the filmmaker",
-          "date": "2026-10-29T19:15:55+00:00",
-          "image": ""
-        },
-        {
-          "title": "NC-17 Director’s Cut of ‘Ken Russell’s The Devils’ Staying in Theaters INDEFINITELY",
-          "link": "https://bloody-disgusting.com/movie/3973962/nc-17-directors-cut-of-ken-russells-the-devils-staying-in-theaters-indefinitely/",
-          "description": "The exclusive one-week run of the Director’s Cut of Ken Russell’s controversial 1971 horror movie The Devils that launched on October 16 received an extension last week due to popular demand, and Warner Bros. Clockwork has announced this week that it’s not going anywhere anytime soon. The NC-17 Dire",
-          "date": "2026-10-29T18:56:51+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/HV0G_CsasAAf_cm.jpg?resize=1638%2C2048&#038;ssl=1"
-        },
-        {
-          "title": "Techno Horror ‘Modem’ Picked Up for Worldwide Sales by Alliance Media Partners",
-          "link": "https://bloody-disgusting.com/movie/3973949/modem-horror-movie-worldwide-sales/",
-          "description": "It seems like every passing day, we have new reasons to fear technology. Whether it be the emergence of AI, smart cars, or how social networking can result in unwanted attention from nefarious figures, it sometimes feels like the only way to be safe is to try to get as far off the grid as […] The po",
-          "date": "2026-10-29T18:43:43+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Monarch: Legacy of Monsters’ Season 3 Will Feature New Showrunner, New Writers, New Titans?",
-          "link": "https://bloody-disgusting.com/tv/3973952/monarch-legacy-of-monsters-season-3-will-feature-new-showrunner-new-writers-new-titans/",
-          "description": "In addition to the already announced “Monarch: Legacy of Monsters” spinoff series centered on Lee Shaw (Wyatt Russell), Variety reports that a third season of the main series is actively being planned. And if it happens, it sounds like we’re getting a whole lot of new blood. Variety details, “Apple ",
-          "date": "2026-10-29T18:15:08+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/02/Monarch_Legacy_of_Monsters_Photo_020901-scaled.jpg?resize=2560%2C1069&#038;ssl=1"
-        },
-        {
-          "title": "The Definitive Stephen King Book Ranking: #16-11 [The Losers’ Club Podcast]",
-          "link": "https://bloody-disgusting.com/podcast-news/3973994/ranking-stephen-king-16-11-lc/",
-          "description": "The Definitive Stephen King Book Ranking is now 10 spots away from the finish line. If you recall, the Losers are counting down Stephen King’s published novels — specifically, novels (no collections) — from worst to best in 2026. For this past October’s installment, they close in on the Top 20 with ",
-          "date": "2026-10-29T18:00:12+00:00",
-          "image": ""
         }
       ]
     },
@@ -80,80 +80,94 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
-          "title": "Patrick Stewart Was the Leader We All Wanted to Believe In",
-          "link": "https://www.denofgeek.com/tv/patrick-stewart-the-leader-we-all-wanted-believe/",
-          "description": "Many performers get tagged with the label legend. Sometimes that feels a bit ambitious. But for Sir Patrick Stewart, it’s a word that doesn’t feel grand enough. A classically-trained actor from a working-class family in Yorkshire who spent decades with the Royal Shakespeare Company before mainstream",
-          "date": "2026-10-30T03:00:08+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Patrick-Stewart.jpg"
+          "title": "15 Introverts Share How They Met Their Wife",
+          "link": "https://www.denofgeek.com/msn/15-introverts-share-how-they-met-their-wife/",
+          "description": "Meeting someone can be complicated when you prefer quiet nights, small circles, and time to think before speaking. But the stories introverted men shared online show that relationships rarely follow one script. Some met their wives through friends who took matters into their own hands, while others ",
+          "date": "2026-10-30T14:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-48.jpg"
         },
         {
-          "title": "James Gunn Says DCU Harley Quinn Role Is Margot Robbie’s If She Wants It",
-          "link": "https://www.denofgeek.com/movies/james-gunn-dcu-harley-quinn-role-margot-robbies-if-wants/",
-          "description": "Harley Quinn is causing chaos once again. But this time, it’s not her fault. After all, the entire universe changed around her. The first film version of Harley Quinn came to the screen in Suicide Squad, a little-loved movie that rode the superhero boom to a huge box office return. While that movie ",
-          "date": "2026-10-29T19:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2023/12/Margot-Robbie-as-Harley-Quinn-in-Suicide-Squad.jpeg"
+          "title": "14 Times History Went in an Unexpected Direction",
+          "link": "https://www.denofgeek.com/msn/14-times-history-went-in-an-unexpected-direction/",
+          "description": "History is full of moments when events took a turn that few people could have predicted. A small decision changed the fate of a nation, an ordinary mistake led to a major discovery, or a plan that looked unstoppable suddenly fell apart. These twists often came from bad timing, unexpected weather, ov",
+          "date": "2026-10-30T13:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/10_f910bf.jpg"
         },
         {
-          "title": "VisionQuest Snuck in a Cameo That Harkens Back to Ultron’s Finest Hour",
-          "link": "https://www.denofgeek.com/tv/visionquest-cameo-uatu-watcher-ultron-finest-hour/",
-          "description": "This article contains spoilers for VisionQuest season 1 episode 6 and Marvel’s What If…?. Who watches the Watcher? Lots of eagle-eyed viewers of VisionQuest, apparently, because one of them took to social media to claim that a pair of glowing dots on a monitor shown in Episode 6 belonged to Uatu, th",
-          "date": "2026-10-29T18:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/VisionQuest-Ultron-James-Spader.jpg"
+          "title": "15 Careers That Aren’t Worth Much Anymore",
+          "link": "https://www.denofgeek.com/msn/15-careers-that-arent-worth-much-anymore/",
+          "description": "Some careers used to look like a safe bet: get the right degree, build your skills, and a stable future would follow. Today, that promise feels less certain in several fields. Technology is changing how companies work, traditional industries are shrinking, and some jobs that once carried prestige no",
+          "date": "2026-10-30T13:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-45.jpg"
         },
         {
-          "title": "Breaking Bad’s Giancarlo Esposito Pitches a Gus Fring American Dream Origin Show",
-          "link": "https://www.denofgeek.com/tv/breaking-bad-giancarlo-esposito-pitches-gus-fring-origin-show/",
-          "description": "Not even the biggest Mr. Show fan would have expected Saul Goodman to be the Breaking Bad character to get a spinoff series. And not even the biggest Breaking Bad fan would have expected Better Call Saul to be such a nuanced, rich series, equal (if not exceeding) the show that proceeded it. Most wou",
-          "date": "2026-10-29T17:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2022/07/Better-Call-Saul-Gus.jpg"
+          "title": "15 Random Fun Facts to Put in Your Pot and Cook",
+          "link": "https://www.denofgeek.com/msn/15-random-fun-facts-to-put-in-your-pot-and-cook/",
+          "description": "Some facts are so strange that you have to stop for a second and wonder how nobody ever mentioned them before. The world is full of little details that sound made up, whether they involve animals, food, space, or the everyday objects sitting around your house. The best ones are easy to remember and ",
+          "date": "2026-10-30T12:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo.png"
         },
         {
-          "title": "Brian Tyree Henry On New ‘Spaghetti Western Steampunk’ Anime Bass X Machina",
-          "link": "https://www.denofgeek.com/tv/brian-tyree-henry-bass-x-machina/",
-          "description": "This article appears in the new issue of DEN OF GEEK magazine. Find out how you can subscribe to get the full physical copy right here! Brian Tyree Henry has never been afraid to let his geek flag fly. “When I took this show, I remember thinking, ‘I hope I get Black nerd street cred,’” Henry admits.",
-          "date": "2026-10-29T16:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/08/Bass-x-Machina.png"
+          "title": "15 Funny Bar Jokes to Tell the Dude on the Stool Next to You",
+          "link": "https://www.denofgeek.com/msn/15-funny-bar-jokes-to-tell-the-dude-on-the-stool-next-to-you/",
+          "description": "There's something about sitting at a bar that makes talking to strangers feel a little easier. Maybe it's the music, the relaxed atmosphere, or the fact that everyone has a story worth hearing after a drink or two. A good joke can turn an awkward silence into a conversation, especially when it's sho",
+          "date": "2026-10-30T12:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-44.jpg"
         },
         {
-          "title": "The 13 Coolest Looking Werewolves in Movie History",
-          "link": "https://www.denofgeek.com/movies/coolest-looking-werewolves-in-movie-history/",
-          "description": "There are certain rules you need to know to survive a horror movie. Jamie Kennedy’s Randy Meeks codified them for a post-slasher world in the 1990s via Scream. But if you’re a fan of far more classic cinema—or the lore that inspired it in the case of Robert Eggers, director of this Christmas’ Werwul",
-          "date": "2026-10-29T14:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Coolest-werewolfs-ranked.jpg"
+          "title": "15 Totally Unexpected Finds from the Flea Markets of America",
+          "link": "https://www.denofgeek.com/msn/15-totally-unexpected-finds-from-the-flea-markets-of-america/",
+          "description": "You can walk into a flea market looking for a perfectly normal piece of furniture and come home with a three-foot cat statue. That's the trouble with browsing tables full of other people's discarded treasures. There are objects nobody can identify, decorations that probably seemed like excellent ide",
+          "date": "2026-10-30T12:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-4-4.jpg"
         },
         {
-          "title": "16 Modern Movies That Would Probably Kill a Victorian Child",
-          "link": "https://www.denofgeek.com/msn/16-modern-movies-that-would-probably-kill-a-victorian-child/",
-          "description": "Imagine taking someone from the 1800s, sitting them down in front of a giant screen, and blasting them with modern cinema. The sheer volume of psychological terror and sensory overload we consume for fun would probably send a Victorian child straight into a coma. Whether it is overwhelming daylight ",
-          "date": "2026-10-29T13:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/2_39cca3.jpg"
+          "title": "15 Photos Remembering When Restaurants Actually Cared How They Looked",
+          "link": "https://www.denofgeek.com/msn/15-photos-remembering-when-restaurants-actually-cared-how-they-looked/",
+          "description": "Remember when walking into a restaurant meant entering a whole different little world? Pizza Hut had stained-glass lamps and deep red booths. Taco Bell went wild with teal and purple, while some restaurants had actual waterfalls, enormous aquariums, or vintage cars parked right inside the dining roo",
+          "date": "2026-10-30T12:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/9_24bc23.jpg"
         },
         {
-          "title": "The 10 Best ‘80s Action Movies",
-          "link": "https://www.denofgeek.com/tv/best-80s-action-movies/",
-          "description": "Everything was bigger in the 1980s. Chalk it up to an economic boom in the U.S., to reactionary turns under the Reagan and Thatcher administrations, to the slick wheeling and dealing of super producers Don Simpson and Jerry Bruckheimer. Whatever the reasons, moviegoers wanted to see big guns, big mu",
-          "date": "2026-10-29T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/05/Commando-1985.jpg"
+          "title": "15 Photos of Costume Chaos from Across the Decades",
+          "link": "https://www.denofgeek.com/msn/15-photos-of-costume-chaos-from-across-the-decades/",
+          "description": "Halloween has never required particularly good judgment, especially when costumes are involved. Give someone a cardboard box, a few yards of fabric, and an afternoon with nothing better to do, and there's no telling what they'll wear to a party. Old family photographs are full of homemade robots and",
+          "date": "2026-10-30T11:45:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/4_c1ece2.jpg"
         },
         {
-          "title": "15 Movies Where They Didn’t Put Any Effort Into the ‘Aliens’",
-          "link": "https://www.denofgeek.com/msn/15-movies-where-they-didnt-put-any-effort-into-the-aliens/",
-          "description": "It’s only natural for us to think about life beyond the stars, wondering if there’s any other form of intelligent beings out there. Assuming they exist, what would they look like? We can imagine all kinds of creatures, and they don’t even need to be symmetrical like most animals on Earth. And yet, a",
-          "date": "2026-10-29T12:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-11-3.jpg"
+          "title": "15 Strange Signs People Found in the Most Unexpected Places",
+          "link": "https://www.denofgeek.com/msn/15-strange-signs-people-found-in-the-most-unexpected-places/",
+          "description": "Most signs have a fairly straightforward job. They tell you where to park, which door to use, or what not to touch. Then there are the ones that make you stop walking just to read them twice. Somewhere along the way, a perfectly ordinary warning becomes a strange little mystery. Why would anyone nee",
+          "date": "2026-10-30T11:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024617_-8.jpg"
         },
         {
-          "title": "14 Insane Things That Were Still Normal in the 2000s",
-          "link": "https://www.denofgeek.com/msn/15-insane-things-that-were-still-normal-in-the-2000s/",
-          "description": "The 2000s don't feel that long ago, but looking back, some everyday habits from that decade are genuinely hard to believe. People carried cameras that barely took decent pictures, posted personal details online without thinking twice, and spent hours waiting for songs to download. Parents let kids r",
-          "date": "2026-10-29T12:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-41.jpg"
+          "title": "15 People Testing Their Ridiculous Vintage Inventions",
+          "link": "https://www.denofgeek.com/msn/15-people-testing-their-ridiculous-vintage-inventions/",
+          "description": "Some inventors were perfectly happy to explain their ideas on paper. Others wanted photographic proof, preferably with someone brave enough to climb inside the contraption. The results are wonderfully strange. There were bicycles designed for swimming, hats that doubled as radios, and protective equ",
+          "date": "2026-10-30T11:15:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/7_63ce67.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "ZOMBOIS: Our Exclusive First Look at the Outrageous Gay Zombie Horror-Comedy",
+          "link": "https://www.fangoria.com/zombois-trailer-exclusive/",
+          "description": "FANGORIA is proud to exclusively debut the first trailer for ZOMBOIS, the provocative new queer comedy from writer-director Garrett Abdo where being young and hung might just put you on the menu.",
+          "date": "2026-10-30T11:00:51+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/image2.png"
+        },
+        {
+          "title": "Monstrous Musings: Commitment To The Chainsaw Bit",
+          "link": "https://www.fangoria.com/monstrous-musings-tcm4-defense/",
+          "description": "One fan's journey from irony to sincerity toward an underloved film.",
+          "date": "2026-10-30T10:00:49+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/tcm4.webp"
+        },
         {
           "title": "Top Horror Movies Streaming This Week",
           "link": "https://www.fangoria.com/top-horror-movies-streaming-this-week/",
@@ -209,26 +223,40 @@
           "description": "Watch his new short MAMA BEAR right now for free.",
           "date": "2026-10-29T15:56:40+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/MAMA-BEAR.png"
-        },
-        {
-          "title": "The Paul Lynde Halloween Special at 50: The Enduring Appeal of Flamboyance and Fright",
-          "link": "https://www.fangoria.com/the-paul-lynde-halloween-special-50th-anniversary/",
-          "description": "Happy 50th Anniversary to one of the greatest pieces of Halloween TV ephemera, THE PAUL LYNDE HALLOWEEN SPECIAL.",
-          "date": "2026-10-29T14:00:38+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/PLHS-4.jpg"
-        },
-        {
-          "title": "The WERWULF Soundtrack Is Already Available For Pre-Order",
-          "link": "https://www.fangoria.com/werwulf-soundtrack-vinyl/",
-          "description": "The soundtrack for Robert Eggers' WERWULF is coming to vinyl, and it's already available for pre-order. Get all the details here.",
-          "date": "2026-10-28T17:01:12+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/06/WERWULF.png-copy.png"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "Fan Favorite 2019 PS5 RPG 80% Off on PS Store, DLC Included",
+          "link": "https://www.playstationlifestyle.net/2026/10/30/borderlands-3-ps-store-deal-october-2026",
+          "description": "A popular 2019 PS5 and PS4 action RPG/first-person shooter is 80% off on the PS Store in a deal that includes all of its DLC. Borderlands 3: Ultimate Edition includes everything the game has to offer, and until November 5, players can get the full package at a hefty discount. Borderlands 3: Ultimate",
+          "date": "2026-10-30T14:46:36+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/borderlands-3-ps-store-deal.jpg?w=1024"
+        },
+        {
+          "title": "March 2026 PS Plus Game Already Has a Shutdown Date",
+          "link": "https://www.playstationlifestyle.net/2026/10/30/ps-plus-ps5-game-pga-tour-2k25-shutdown-date",
+          "description": "A March 2026 PS Plus game has been scheduled to shut down, but the good news is that players still have some time to enjoy it. Developed by HB Studios and published by 2K, 2025 PS5 golf game PGA Tour 2K25 will retire its online services in early 2029. PS Plus game PGA Tour 2K25 […] The post March 20",
+          "date": "2026-10-30T13:42:00+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/ps-plus-game-pga-tour-2k25.jpg?w=1024"
+        },
+        {
+          "title": "PS5, PS4 Action Game Series Being Delisted, Last Chance to Buy",
+          "link": "https://www.playstationlifestyle.net/2026/10/30/ps5-ps4-action-game-street-outlaws-delisted",
+          "description": "A PS5 and PS4 action game series is being delisted from the PS Store, giving players one last chance to buy it. GameMill Entertainment has announced that Street Outlaws: The List and Street Outlaws 2: Winner Takes All will be pulled from sale by the end of December, 2026. PS5, PS4 action game Street",
+          "date": "2026-10-30T13:20:03+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/ps5-action-game-street-outlaws.jpg?w=1024"
+        },
+        {
+          "title": "PS5 Remaster of Sega PS3 RPG Released Out of Nowhere",
+          "link": "https://www.playstationlifestyle.net/2026/10/30/ps3-rpg-resonance-of-fate-ps5-remaster",
+          "description": "A 2010 Sega PS3 RPG has received a surprise PS5 and PC remaster, and it’s out now on the PlayStation Store. Resonance of Fate already has a 4K/HD Edition for the PS4. Considering the original’s reception, we weren’t expecting a third outing for the title. 2010 RPG Resonance of Fate gets PS5 console ",
+          "date": "2026-10-30T13:02:37+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/ps5-rpg-resonance-of-fate.jpg?w=1024"
+        },
         {
           "title": "PS5 Remake of Popular PSP Adventure Game Out Today on PlayStation Store",
           "link": "https://www.playstationlifestyle.net/2026/10/29/steins-gate-reboot-ps5-switch-2-new-gamma-worldline",
@@ -270,34 +298,6 @@
           "description": "A newly revealed GTA 6 feature could make committing crimes more challenging for players. The upcoming open-world game is being developed and published by Rockstar Games. Police behavior in GTA 6 will be more sophisticated than in previous installments of the franchise. In previous games, players co",
           "date": "2026-10-29T15:45:26+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/GTA-6-Makes-It-Harder-to-Get-Away-With-Crime-With-New-Tracking-Details.jpg?w=1024"
-        },
-        {
-          "title": "Underrated & Stylish Open-World PS4 Game Is 90% Off on PS Store",
-          "link": "https://www.playstationlifestyle.net/2026/10/29/need-for-speed-heat-ps4-deal",
-          "description": "An open-world PlayStation 4 game is now available at the PlayStation Store at a massive discount. The game has an average rating of 4.18/5 from more than 80,000 PlayStation Store users. Need for Speed Heat is currently discounted by 90% on the PlayStation Store. Originally priced at $59.99, the game",
-          "date": "2026-10-29T15:22:41+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/Underrated-Stylish-Open-World-PS4-Game-Is-90-Off-on-PS-Store.jpg?w=1024"
-        },
-        {
-          "title": "Dinosaur PS5 Adventure Game Is Out Today on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/10/29/terrible-lizards-ps5-playstation-store-release-october-29",
-          "description": "WDR Studios’ fast-paced dinosaur game has landed on the PlayStation Store. The title combines parkour with horror, challenging players to outrun deadly creatures and survive. Terrible Lizards has officially arrived on the PS Store today. The single-player game is priced at $24.99 on PS5. Digital Paj",
-          "date": "2026-10-29T15:04:55+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/terrible-lizards.jpg?w=1024"
-        },
-        {
-          "title": "Beloved PS3 Adventure Game’s PS5 Remaster Hits PlayStation Store Today",
-          "link": "https://www.playstationlifestyle.net/2026/10/29/the-wolf-among-us-remastered-ps5-release",
-          "description": "A narrative-driven episodic PlayStation 3 game has arrived on PlayStation 5. Developed by Telltale Games, the dark-noir title was first launched on October 11, 2013. Over a decade later, fans can visit the story again in a remastered form with enhanced features. The Wolf Among Us Remastered is now a",
-          "date": "2026-10-29T14:54:44+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/The-Wolf-Among-Us-Remastered-1.jpg?w=1024"
-        },
-        {
-          "title": "Hit PS5 Action Game Is Dirt Cheap on PS Store, DLC Included",
-          "link": "https://www.playstationlifestyle.net/2026/10/29/metro-exodus-ps-store-deal-october-2026",
-          "description": "A popular 2019 PS5 action game is ridiculously cheap on the PS Store in a limited-time deal that includes its DLC. Developed by 4A Games, Metro Exodus Gold Edition is 85% off in the Planet of the Deals promotion, making this a great time to buy the game ahead of its February 2027 sequel. Metro […] T",
-          "date": "2026-10-29T14:12:10+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/04/metro-exodus-ps-store-deal.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,34 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "The Scale of Crimson Desert Just Got Even More Absurd After New PS5 DLC",
+          "link": "https://www.pushsquare.com/news/2026/10/the-scale-of-crimson-desert-just-got-even-more-absurd-after-new-ps5-dlc",
+          "description": "A scarily big map after Charting the Unknown. Crimson Desert has always been a ridiculously huge open world game, but now this week's new Charting the Unknown DLC has launched, its sheer size has reached new levels. The base game becomes just a corner of the map once you've got Charting the Unknown ",
+          "date": "2026-10-30T13:15:00+00:00",
+          "image": "https://images.pushsquare.com/c41636458cee0/large.jpg"
+        },
+        {
+          "title": "The Wolf Among Us Remastered Hit with PS5 Upgrade Pricing Issues",
+          "link": "https://www.pushsquare.com/news/2026/10/the-wolf-among-us-remastered-hit-with-ps5-upgrade-pricing-issues",
+          "description": "Promised discounts not appearing. The launch of The Wolf Among Us Remastered has not gone as smoothly as TellTale Games would have liked, as many fans are reporting not being able to access the discounted upgrade offer they were promised. Last week, the developer shared price discounts that owners o",
+          "date": "2026-10-30T12:30:00+00:00",
+          "image": "https://images.pushsquare.com/b90032080d3c6/large.jpg"
+        },
+        {
+          "title": "Quirky RPG Resonance of Fate Is Back with an 'Enhanced Remaster' for PS5",
+          "link": "https://www.pushsquare.com/news/2026/10/quirky-rpg-resonance-of-fate-is-back-with-an-enhanced-remaster-for-ps5",
+          "description": "$10 upgrade for current PS4 owners. Who had the PS3 role-playing game Resonance of Fate receiving a second remaster for PS5 on their 2026 bingo card? Having already been enhanced on PS4, the quirky RPG has been treated to an \"enhanced remaster\", out today on PS5. This latest version features two add",
+          "date": "2026-10-30T11:00:00+00:00",
+          "image": "https://images.pushsquare.com/393cf90cd881d/large.jpg"
+        },
+        {
+          "title": "Death Stranding Isolations Anime TV Series Gets First Trailer, Out in 2027",
+          "link": "https://www.pushsquare.com/news/2026/10/death-stranding-isolations-anime-tv-series-gets-first-trailer-out-in-2027",
+          "description": "My mom became a crater. Revealed almost a year ago, Kojima Productions and Disney+ have today debuted the teaser trailer for Death Stranding Isolations , a new anime TV series set in the universe of the two PS5, PS4 games. Catch the short clip above. Under the tagline \"My mom became a crater\", the T",
+          "date": "2026-10-30T10:00:00+00:00",
+          "image": "https://images.pushsquare.com/62f07b9c2ec91/large.jpg"
+        },
+        {
           "title": "Crimson Desert's Huge DLC, Charting the Unknown, Out Now on PS5",
           "link": "https://www.pushsquare.com/news/2026/10/crimson-deserts-huge-dlc-charting-the-unknown-out-now-on-ps5",
           "description": "Priced at £19.99 / $24.99. If Crimson Desert and all its post-launch additions weren't already enough, studio Pearl Abyss has released a mammoth expansion in Charting the Unknown , available now on PS5 for £19.99 / $24.99. You can catch the new launch trailer for the expansion above. Read the full a",
@@ -420,34 +448,6 @@
           "description": "Virtua Fighter 2's flamboyant Frenchie arrives. It’s been several months since our last update on Virtua Fighter Crossroads , the revival of SEGA’s long-running 3D fighting game franchise from RGG Studio. But it looks like the Japanese publisher is ready to peel back the curtain a little more, as it",
           "date": "2026-10-29T18:00:00+00:00",
           "image": "https://images.pushsquare.com/38ad7ca0caafa/large.jpg"
-        },
-        {
-          "title": "Rumour: The Elder Scrolls 6 Reveal as Soon as Next Month, Named Sentinel",
-          "link": "https://www.pushsquare.com/news/2026/10/rumour-the-elder-scrolls-6-reveal-as-soon-as-next-month-named-sentinel",
-          "description": "Big reveal might not be far away. Bethesda plans to make Sentinel the subtitle to The Elder Scrolls VI , and it could confirm the full name as soon as next month, says The Verge scribe Tom Warren. In a fresh report, the writer states that \"sources familiar with Bethesda's plans\" indicate The Elder S",
-          "date": "2026-10-29T16:45:00+00:00",
-          "image": "https://images.pushsquare.com/c585f45dfbfac/large.jpg"
-        },
-        {
-          "title": "Guide: Phantom Blade Zero: Best Weapons and Where to Find Them",
-          "link": "https://www.pushsquare.com/guides/phantom-blade-zero-best-weapons-and-where-to-find-them",
-          "description": "All weapons tested. What are the best weapons in Phantom Blade Zero ? In this guide, I'm going to cover all of the game's weapons, detailing their strengths and weaknesses, while also giving them an overall rating. For the purposes of this guide, I've tested each weapon against both groups of enemie",
-          "date": "2026-10-29T15:45:00+00:00",
-          "image": "https://images.pushsquare.com/75c383fe385b5/large.jpg"
-        },
-        {
-          "title": "PS5 Still Outselling PS4 in USA Despite Much Higher Price and Fewer Exclusives",
-          "link": "https://www.pushsquare.com/news/2026/10/ps5-still-outselling-ps4-in-usa-despite-much-higher-price-and-fewer-exclusives",
-          "description": "Selling better by 1% lifetime to date. Even though it costs an arm and a leg, and it has far fewer exclusive games, the PS5 continues to outsell the PS4 in the USA when you compare the same point in their lifespans. Via analyst Mat Piscatella of Circana , we're currently in the 71st month of the PS5",
-          "date": "2026-10-29T15:30:00+00:00",
-          "image": "https://images.pushsquare.com/8aa3d00841171/large.jpg"
-        },
-        {
-          "title": "Konami Records Strong Profit Having Made Excellent Games Again",
-          "link": "https://www.pushsquare.com/news/2026/10/konami-records-strong-profit-having-made-excellent-games-again",
-          "description": "Make good games, make good money. Konami is back to making new games in its catalogue of classic franchises, and the work is beginning to pay off. Within its latest financial report, the publisher has recorded a 75.1% increase in profit compared to the previous year, and from April to September 2026",
-          "date": "2026-10-29T13:30:00+00:00",
-          "image": "https://images.pushsquare.com/045c7b2ca19f4/large.jpg"
         }
       ]
     },
