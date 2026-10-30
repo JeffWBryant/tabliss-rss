@@ -1,9 +1,44 @@
 {
-  "updated": "2026-10-30T19:54:18.766572+00:00",
+  "updated": "2026-10-30T23:33:12.948808+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "The Halloween Franchise Character Draft [Halloweenies Podcast]",
+          "link": "https://bloody-disgusting.com/podcast-news/3974153/halloween-character-draft-halloweenies-podcast/",
+          "description": "To cap off this year’s visit to Haddonfield, the Halloweenies gather around the candy bowl to pick their favorite Halloween characters across the entire franchise. Inspired by The Big Picture’s draft episodes, the gang has five categories to fill — from final boy/girl to one-scene screams to the bes",
+          "date": "2026-10-30T23:16:23+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Mindhunter’s Holt McCallany Returns to the World of Serial Killers in First Look at ‘Paradise Disturbed’",
+          "link": "https://bloody-disgusting.com/news/3974143/paradise-disturbed-holt-mccallany-serial-killer-movie/",
+          "description": "Movies about serial killers have existed for decades, but it’s arguably the ’90s that could be considered the heyday of the genre. The decade started off with The Silence of the Lambs, which pulled off the astounding feat of winning five of the year’s top Oscar categories, and highlighted that horro",
+          "date": "2026-10-30T21:45:28+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘The Cat and the Hatchet’ Exclusive Poster Reveal – The Fan Film Debuts on Halloween Day!",
+          "link": "https://bloody-disgusting.com/movie/3974132/the-cat-and-the-hatchet-exclusive-poster-reveal-the-fan-film-debuts-on-halloween-day/",
+          "description": "The Cat in the Hat is the next family-friendly pop culture icon to become a horror movie maniac, with fan short The Cat and the Hatchet set to premiere Halloween Day, October 31. A horror short from director Cameron Dodd, The Cat and the Hatchet is a twisted horror parody of The Cat in the Hat. […] ",
+          "date": "2026-10-30T20:25:45+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/cat-and-hatchet-poster-scaled.jpg?resize=1728%2C2560&#038;ssl=1"
+        },
+        {
+          "title": "‘RoboCop’: Dan Stevens Teases His Satirical and Violent Prime Video Reboot Series",
+          "link": "https://bloody-disgusting.com/news/3974129/robocop-dan-stevens-prime-video-reboot-plans/",
+          "description": "After years of reports about a RoboCop revival circling the internet, the project seems to finally be coming together. The last live-action entry in the series was the 2014 reboot starring Joel Kinnaman, which earned an underwhelming reception from audiences and critics alike. Understandably, a stor",
+          "date": "2026-10-30T20:01:13+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Hocus Pocus’ Star Vinessa Shaw Covers “Come Little Children” With Freedom Fry For New Halloween EP",
+          "link": "https://bloody-disgusting.com/music/3974124/hocus-pocus-star-vinessa-shaw-covers-come-little-children-with-freedom-fry-for-new-halloween-ep/",
+          "description": "This Halloween, indie folk-pop duo Freedom Fry teamed with actress Vinessa Shaw, who starred as Allison in the 1993 classic Hocus Pocus, on a reimagining of “Come Little Children,” featured in the film. The haunting lullaby is sung by witch Sarah Sanderson (Sarah Jessica Parker), who uses it to lure",
+          "date": "2026-10-30T19:42:00+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/EP-art.jpg?resize=1024%2C1024&#038;ssl=1"
+        },
         {
           "title": "Enjoy Double XP Now in ‘Halloween: The Game’ for the Weekend",
           "link": "https://bloody-disgusting.com/video-games/3974114/enjoy-double-xp-now-in-halloween-the-game-for-the-weekend/",
@@ -38,47 +73,19 @@
           "description": "Sam Raimi is an undeniable horror icon, and it’s based in a big way on his earliest efforts, including his Evil Dead trilogy. He went on to spread his directorial wings in varied ways with a killer western (The Quick and the Dead), a compelling baseball drama (For the Love of the Game), an acclaimed",
           "date": "2026-10-30T17:00:15+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/01/sendhelp-trailer.jpg?resize=1024%2C576&#038;ssl=1"
-        },
-        {
-          "title": "‘Return of the Living Dead: The Official Novelization’ Getting New Printing in 2027",
-          "link": "https://bloody-disgusting.com/movie/3974075/return-of-the-living-dead-the-official-novelization-new-release-2027/",
-          "description": "Before home video became a significant force in the ’80s and ’90s, courtesy of VCRs getting more affordable, fans had to find other ways to revisit our favorite movies. One common trend was for movies to get official novelizations, which were much more convenient ways to relive the terror of an icon",
-          "date": "2026-10-30T16:50:09+00:00",
-          "image": ""
-        },
-        {
-          "title": "Ted Raimi Reveals His Essential Halloween Horror Watchlist",
-          "link": "https://bloody-disgusting.com/editorials/3973968/ted-raimi-reveals-his-essential-halloween-horror-watchlist/",
-          "description": "Ted Raimi is a living horror legend, an icon of the genre with plenty of credits to his name both in front of and behind the camera, and this Halloween, he’s invading your living room. Today, October 30, Screambox will premiere Your Dearest Darkest Friend, a new talk show hosted and created by Raimi",
-          "date": "2026-10-30T16:00:53+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/YDDF-Episode-1.png?resize=1024%2C573&#038;ssl=1"
-        },
-        {
-          "title": "‘The Mound: Omen of Cthulhu’ Gets Into the Season with the Free “The Cult of Tsathoggua” Update [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3974023/the-mound-omen-of-cthulhu-gets-into-the-season-with-the-free-the-cult-of-tsathoggua-update-trailer/",
-          "description": "It’s only appropriate that ACE Team is treating fans of their cooperative horror game The Mound: Omen of Cthulhu with a free major update for Halloween. “The Cult of Tsathoggua” is available now on PC via Steam, PlayStation 5, and the Xbox Series, bringing with it new unspeakable terrors for those w",
-          "date": "2026-10-30T15:30:33+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Haunted Hotel’ Renewed for Season 3 by Netflix",
-          "link": "https://bloody-disgusting.com/news/3974064/haunted-hotel-season-3-renewed-netflix/",
-          "description": "October is regularly an exciting month for horror fans, as networks and streamers pull out all the stops to deliver seasonal content in time for Halloween. Netflix is no exception, with one of their more exciting releases this month being Season 2 of Haunted Hotel. Given the crowded landscape of hor",
-          "date": "2026-10-30T15:19:45+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Night After Night’ Review: The Night Shift Becomes an Existential Nightmare",
-          "link": "https://bloody-disgusting.com/reviews/3974061/night-after-night-review-the-night-shift-becomes-an-existential-nightmare/",
-          "description": "The surreality of blue-collar night shifts is not for the faint of heart or weak of sanity. In Josh Lobo’s sophomore feature, it’s where delusions brim and primality thrives. Night After Night is an experimental slow-burn that isn’t in the business of answering questions, in step with Lobo’s simmeri",
-          "date": "2026-10-30T15:16:31+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/NightAfterNight_1.png?resize=1024%2C704&#038;ssl=1"
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "SNL’s Greatest Legacy May Be In The Competition It Inspired",
+          "link": "https://www.denofgeek.com/movies/snl-greatest-legacy-competition-inspired-sctv-documentary/",
+          "description": "Saturday Night Live‘s cultural imprint is unquestionably massive, as is the list of comedy stars who have come through the show in its 52 seasons. But the new documentary, SCTV: The Greatest Show You’ve Never Heard Of, reminds us of a lesser-known legacy: the many competing shows it inspired. Launch",
+          "date": "2026-10-30T21:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/SCTV-Netflix-Documentary.png"
+        },
         {
           "title": "15 Cheap Costume Ideas For A Last Minute Halloween",
           "link": "https://www.denofgeek.com/msn/15-cheap-costume-ideas-for-a-last-minute-halloween/",
@@ -141,19 +148,19 @@
           "description": "There's something about sitting at a bar that makes talking to strangers feel a little easier. Maybe it's the music, the relaxed atmosphere, or the fact that everyone has a story worth hearing after a drink or two. A good joke can turn an awkward silence into a conversation, especially when it's sho",
           "date": "2026-10-30T12:30:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-44.jpg"
-        },
-        {
-          "title": "15 Totally Unexpected Finds from the Flea Markets of America",
-          "link": "https://www.denofgeek.com/msn/15-totally-unexpected-finds-from-the-flea-markets-of-america/",
-          "description": "You can walk into a flea market looking for a perfectly normal piece of furniture and come home with a three-foot cat statue. That's the trouble with browsing tables full of other people's discarded treasures. There are objects nobody can identify, decorations that probably seemed like excellent ide",
-          "date": "2026-10-30T12:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-4-4.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "The Pleasure And Pain Of Revisiting The Entire HELLRAISER Franchise",
+          "link": "https://www.fangoria.com/hellraiser-franchise-retrospective/",
+          "description": "With a hot new video game and a board game on the way, it's time to revisit the entire HELLRAISER franchise.",
+          "date": "2026-10-30T22:00:35+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Pinhead-and-his-Cenobites-from-Hellraiser-1987-scaled-e1633624166953.webp"
+        },
         {
           "title": "A JURASSIC PARK Star Infiltrates A Famous Haunted Hotel In A GRIM LIFE",
           "link": "https://www.fangoria.com/a-grim-life-joseph-mazzello/",
@@ -216,13 +223,6 @@
           "description": "Following the success of RESIDENT EVIL, Sony Pictures is bringing another horror video game to the big screen.",
           "date": "2026-10-29T20:58:09+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2025/10/hq720-2.jpg"
-        },
-        {
-          "title": "Don’t Mess With The MODEM In New Teen Techno-Horror",
-          "link": "https://www.fangoria.com/modem-techno-horror-movie/",
-          "description": "A demented piece of hardware comes to life in the new techno-horror film MODEM. Get all the details on the upcoming movie here.",
-          "date": "2026-10-29T20:00:16+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Modem-Movie.jpg.webp"
         }
       ]
     },
@@ -456,6 +456,13 @@
       "articles": [
         {
           "title": "Team Fortress 2 Update Released",
+          "link": "https://store.steampowered.com/news/289665/",
+          "description": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include: Updated cp_wildcat_event to fix missing model for Spies disguised as pumpkins Updated/Added some tournament medals",
+          "date": "2026-10-30T23:18:00+00:00",
+          "image": ""
+        },
+        {
+          "title": "Team Fortress 2 Update Released",
           "link": "https://store.steampowered.com/news/289185/",
           "description": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include: Fixed smoke effect regression for Le Sapeur Updated the Chief Executor, Vested Investor's Vest, and Standing Offer to fix clipping issues Updated cp_w",
           "date": "2026-10-29T20:29:00+00:00",
@@ -516,13 +523,6 @@
           "description": "Angels Fall First is Now Available on Steam and is 10% off!* From commanding the battle standing on the bridge of your flagship all the way down to tactical infantry firefights - AFF brings together all the combat you ever loved in a rich science fiction setting. Boarding, pilotable capital ships, d",
           "date": "2026-07-11T21:59:51+00:00",
           "image": "https://cdn.fastly.steamstatic.com/steam/apps/367270/header.jpg"
-        },
-        {
-          "title": "Team Fortress 2 Update Released",
-          "link": "https://store.steampowered.com/news/275718/",
-          "description": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include: Updated the Beachcomber's Brim to fix an incorrect material Updated Taunt: The Circuit Breaker Fixed incorrect team color on prop Fixed orphaned parti",
-          "date": "2026-07-10T19:00:00+00:00",
-          "image": ""
         }
       ]
     },
