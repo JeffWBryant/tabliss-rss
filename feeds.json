@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T01:17:23.799417+00:00",
+  "updated": "2026-10-30T07:39:57.249601+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,13 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "Patrick Stewart Was the Leader We All Wanted to Believe In",
+          "link": "https://www.denofgeek.com/tv/patrick-stewart-the-leader-we-all-wanted-believe/",
+          "description": "Many performers get tagged with the label legend. Sometimes that feels a bit ambitious. But for Sir Patrick Stewart, it’s a word that doesn’t feel grand enough. A classically-trained actor from a working-class family in Yorkshire who spent decades with the Royal Shakespeare Company before mainstream",
+          "date": "2026-10-30T03:00:08+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Patrick-Stewart.jpg"
+        },
+        {
           "title": "James Gunn Says DCU Harley Quinn Role Is Margot Robbie’s If She Wants It",
           "link": "https://www.denofgeek.com/movies/james-gunn-dcu-harley-quinn-role-margot-robbies-if-wants/",
           "description": "Harley Quinn is causing chaos once again. But this time, it’s not her fault. After all, the entire universe changed around her. The first film version of Harley Quinn came to the screen in Suicide Squad, a little-loved movie that rode the superhero boom to a huge box office return. While that movie ",
@@ -141,19 +148,19 @@
           "description": "The 2000s don't feel that long ago, but looking back, some everyday habits from that decade are genuinely hard to believe. People carried cameras that barely took decent pictures, posted personal details online without thinking twice, and spent hours waiting for songs to download. Parents let kids r",
           "date": "2026-10-29T12:30:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-41.jpg"
-        },
-        {
-          "title": "15 People Share the Craziest Things They Found in Their Own Homes",
-          "link": "https://www.denofgeek.com/msn/15-people-share-the-craziest-things-they-found-in-their-own-homes/",
-          "description": "Buying an old house apparently comes with a complimentary mystery, and nobody tells you where to look for it. People start what should be a simple renovation and end up discovering secret staircases, forgotten belongings, or decorating decisions that haven't seen daylight in decades. Sometimes the s",
-          "date": "2026-10-29T12:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-4-3.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "Top Horror Movies Streaming This Week",
+          "link": "https://www.fangoria.com/top-horror-movies-streaming-this-week/",
+          "description": "Halloween week is upon us, and there is a wonderfully terrifying mix of scary movie classics and brand new films, THE CYCLE and HOKUM, that makes us happy about the future of the genre. Pop some popcorn and dive in. Check out the list at FANGORIA.",
+          "date": "2026-10-30T01:25:38+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/THE-CYCLE-scaled.png"
+        },
         {
           "title": "REVIEW: RUBBERHEAD: THE LIFE & MONSTERS OF STEVE JOHNSON Is A Delightful Portrait of a Practical Effects Legend",
           "link": "https://www.fangoria.com/review-rubberhead-the-life-monsters-of-steve-johnson-review/",
@@ -216,13 +223,6 @@
           "description": "The soundtrack for Robert Eggers' WERWULF is coming to vinyl, and it's already available for pre-order. Get all the details here.",
           "date": "2026-10-28T17:01:12+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/06/WERWULF.png-copy.png"
-        },
-        {
-          "title": "SURVIVE: THE GAME Brings Two HALLOWEEN Stars Together For The First Time",
-          "link": "https://www.fangoria.com/survive-the-game-casting-news/",
-          "description": "The upcoming horror-comedy features cast and crew from HEART EYES, and sounds like an evil JUMANJI. Sign us up.",
-          "date": "2026-10-28T15:33:33+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2025/07/Halloween-Ends-Star-Was-Warned-Some-Fans-Wouldnt-Like-The-Movie-e1753890982269.jpeg"
         }
       ]
     },
