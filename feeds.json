@@ -1,9 +1,30 @@
 {
-  "updated": "2026-10-31T11:06:59.290449+00:00",
+  "updated": "2026-10-31T16:15:28.411515+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "8 Terrifying Horror Movies to Stream This Halloween Weekend",
+          "link": "https://bloody-disgusting.com/editorials/3974147/scariest-movies-to-stream-halloween-weekend/",
+          "description": "If there’s one thing horror fans love the most, it’s a solid scare that gets the adrenaline pumping. And everyone’s entitled to at least one good scare on Halloween. While there are plenty of Halloween-set frights to binge this weekend, this list is for those seeking visceral scares that’ll send shi",
+          "date": "2026-10-31T15:00:58+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/the-autopsy-of-jane-doe.jpg?resize=804%2C457&#038;ssl=1"
+        },
+        {
+          "title": "5 Clive Barker Stories That Should Be Adapted Into Horror Video Games Next",
+          "link": "https://bloody-disgusting.com/video-games/3974137/5-other-clive-barker-stories-that-deserve-the-hellraiser-revival-treatment/",
+          "description": "For a moment there, it felt like the only profitable way for developers to create new licensed horror games was to make them all asymmetrical multiplayer experiences. I don’t actually have anything against this particular kind of gameplay, but I pretty much had my fill of the genre when Sumo Notting",
+          "date": "2026-10-31T14:00:46+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2020/11/Lord-of-Illusions.jpg?resize=1024%2C557&#038;ssl=1"
+        },
+        {
+          "title": "‘A Story of Derry’ – HBO Max Has Released a Brand New ‘Welcome to Derry’ Bonus Episode!",
+          "link": "https://bloody-disgusting.com/tv/3974157/a-story-of-derry-hbo-max-has-released-a-brand-new-welcome-to-derry-bonus-episode/",
+          "description": "The rumors were true. HBO Max is celebrating Halloween today with a special surprise treat for horror fans in the form of a new bonus episode of their hit series “IT: Welcome to Derry“! Titled “A Story of Derry,” the special episode is now streaming on HBO Max. The never-before-seen 30-minute specia",
+          "date": "2026-10-31T13:23:49+00:00",
+          "image": ""
+        },
         {
           "title": "‘Mindhunter’s Holt McCallany Returns to the World of Serial Killers in First Look at ‘Paradise Disturbed’",
           "link": "https://bloody-disgusting.com/news/3974143/paradise-disturbed-holt-mccallany-serial-killer-movie/",
@@ -52,27 +73,6 @@
           "description": "Ripcord’s Halloween Film Festival is thrilled to unveil the winners of its inaugural competition, celebrating an incredible array of independent horror and genre shorts from a talented and diverse group of filmmakers. Long’s Long Lost & Mini Mart, directed by Julian Doan, took home the $100,000 firs",
           "date": "2026-10-30T19:18:49+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/ripcord-halloween-fest-scaled.jpeg?resize=2560%2C1706&#038;ssl=1"
-        },
-        {
-          "title": "These 11 New Horror Movies Released for Halloween Week",
-          "link": "https://bloody-disgusting.com/movie/3974083/these-11-new-horror-movies-released-for-halloween-week/",
-          "description": "We made it. It is now officially Halloween Eve, with the big day just hours away. This Halloween is a very special one because it takes place on a Saturday – that won’t happen again for another eleven years, the internet tells me! – which gives us a full-on Halloween Weekend to sit around drinking [",
-          "date": "2026-10-30T19:13:08+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/NeverAfterDark-1.jpg?resize=1300%2C750&#038;ssl=1"
-        },
-        {
-          "title": "Switch 2 Exclusive ‘The Duskbloods’ Pushed to 2027 Release Window",
-          "link": "https://bloody-disgusting.com/video-games/3974026/switch-2-exclusive-the-duskbloods-pushed-to-2027-release-window/",
-          "description": "After their network tests earlier this summer didn’t go exactly as FromSoftware had planned, the developer has decided to delay their Switch 2 exclusive soulslike The Duskbloods from its release later this year. The game will now instead launch in 2027. In a statement on X, FromSoftware stated that ",
-          "date": "2026-10-30T17:30:26+00:00",
-          "image": ""
-        },
-        {
-          "title": "27 Things We Learned from Sam Raimi’s ‘Send Help’ Commentary",
-          "link": "https://bloody-disgusting.com/editorials/3974040/27-things-we-learned-from-sam-raimis-send-help-commentary/",
-          "description": "Sam Raimi is an undeniable horror icon, and it’s based in a big way on his earliest efforts, including his Evil Dead trilogy. He went on to spread his directorial wings in varied ways with a killer western (The Quick and the Dead), a compelling baseball drama (For the Love of the Game), an acclaimed",
-          "date": "2026-10-30T17:00:15+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/01/sendhelp-trailer.jpg?resize=1024%2C576&#038;ssl=1"
         }
       ]
     },
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Titan Casket Unleashes UNIVERSAL MONSTERS Urn Collection With David Dastmalchian",
+          "link": "https://www.fangoria.com/universal-monsters-titan-casket-urns/",
+          "description": "FANGORIA is proud to exclusively reveal that Titan Casket, UNIVERSAL MONSTERS, and Fango fave David Dastmalchian have joined forces to give us all the coolest way to spend eternity with a new urn collection.",
+          "date": "2026-10-31T12:00:17+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Titan-x-Universal-Monsters_Black-and-White-scaled.png"
+        },
+        {
           "title": "The Pleasure And Pain Of Revisiting The Entire HELLRAISER Franchise",
           "link": "https://www.fangoria.com/hellraiser-franchise-retrospective/",
           "description": "With a hot new video game and a board game on the way, it's time to revisit the entire HELLRAISER franchise.",
@@ -216,19 +223,26 @@
           "description": "RUBBERHEAD: THE LIFE & MONSTERS OF STEVE JOHNSON is part special-effects history, part cautionary tale, and part portrait of an artist who lives his life on his own terms... for better and for worse.",
           "date": "2026-10-29T21:45:29+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Rubberhead.webp"
-        },
-        {
-          "title": "MOUTHWASHING Film Adaptation Officially In The Works From Two Big Horror Hitters",
-          "link": "https://www.fangoria.com/mouthwashing-film-adaptation/",
-          "description": "Following the success of RESIDENT EVIL, Sony Pictures is bringing another horror video game to the big screen.",
-          "date": "2026-10-29T20:58:09+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2025/10/hq720-2.jpg"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "Spooky PS5 RPG Is Out Today on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/10/31/horrorvale-deadluxe-edition-ps5-playstation-store-release-october-31",
+          "description": "A new zombie RPG is now available on the PlayStation Store. Developed by BatWorks Software, the title was previously available on PC. HorrorVale: Deadluxe Edition is now available on the PlayStation Store today. Both PS4 and PS5 users can purchase the single-player RPG for $17.99. Electric Airship i",
+          "date": "2026-10-31T15:00:00+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/Spooky-PS5-RPG-Is-Out-Today-on-PlayStation-Store.jpg?w=1024"
+        },
+        {
+          "title": "Gripping PS4, PS5 Adventure Game Is 80% Off on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/10/31/a-plague-tale-innocence-ps4-ps5-deal",
+          "description": "Action game fans can now own an acclaimed adventure game at a significantly lower price on the PlayStation Store. The first installment in the A Plague Tale series is currently available at an 80% discount. A Plague Tale: Innocence is now available for $7.99 on the PlayStation Store. The limited-tim",
+          "date": "2026-10-31T13:00:00+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/Gripping-PS4-PS5-Adventure-Game-Is-80-Off-on-PlayStation-Store.jpg?w=1024"
+        },
         {
           "title": "Gorgeous PS5 Console Exclusive Is Out Today on PlayStation Store",
           "link": "https://www.playstationlifestyle.net/2026/10/30/suri-the-seventh-note-ps5-playstation-store-release-october-30",
@@ -284,20 +298,6 @@
           "description": "Spike Chunsoft’s classic time-travel adventure game arrives on the PS Store today with upgraded graphics and improved audio. Based on a popular Japanese novel of the same name, the remake is also available on PC, Xbox, and Nintendo consoles. Steins;Gate Re:Boot is now available on the PlayStation St",
           "date": "2026-10-29T21:07:22+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/Deepesh-personal-1200-_-675-52.png?w=1024"
-        },
-        {
-          "title": "Free PS5 Upgrade for Popular PS4 FPS Games Is Available Now",
-          "link": "https://www.playstationlifestyle.net/2026/10/29/metro-redux-free-ps5-upgrade",
-          "description": "Deep Silver and 4A Games have released a free next-gen update for two popular PS4 shooters, bringing free upgrades to PS5 players. Players can revisit the acclaimed shooters with enhanced visuals at no extra cost. The Metro Redux Next-Gen Update brings visual enhancements, improved performance, and ",
-          "date": "2026-10-29T19:13:48+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/Free-PS5-Upgrade-for-Popular-PS4-FPS-Games-Is-Available-Now.jpg?w=1024"
-        },
-        {
-          "title": "Cate Blanchett’s Kojima Productions Visit Raises One Big Metal Gear Solid Question",
-          "link": "https://www.playstationlifestyle.net/2026/10/29/cate-blanchett-kojima-productions-metal-gear-question",
-          "description": "Cate Blanchett and Hideo Kojima‘s meeting has caught Metal Gear Solid fans’ attention. Her visit has reignited speculation that she could play one of the game series’ most iconic characters. Kojima, the creator of Metal Gear Solid, shared three photos with the Oscar-winning actress on X. He wrote in",
-          "date": "2026-10-29T18:17:52+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/Cate-Blanchett.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,27 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Meet Marvel Tokon's Newest Fighting Soul in Full Phoenix Cyclops Character Guide",
+          "link": "https://www.pushsquare.com/news/2026/10/meet-marvel-tokons-newest-fighting-soul-in-full-phoenix-cyclops-character-guide",
+          "description": "Sweet Scott Summers child. Ahead of his release next week on 2nd November, Sony’s dropped a full character guide for the upcoming Marvel Tokon: Fighting Souls addition, Phoenix Cyclops. Like similar videos prior to the game’s launch, this runs through the combatant’s full roster of moves, including ",
+          "date": "2026-10-31T15:15:00+00:00",
+          "image": "https://images.pushsquare.com/ccf429d754e94/large.jpg"
+        },
+        {
+          "title": "PS5 Adds Another Free Open World Game to Your Rotation with Surprise Silver Palace Release Date",
+          "link": "https://www.pushsquare.com/news/2026/10/ps5-adds-another-free-open-world-game-to-your-rotation-with-surprise-silver-palace-release-date",
+          "description": "A console exclusive for now. Victorian-inspired free-to-play open world game Silver Palace will release worldwide on 14th December, which has really shocked me. I played this stylish effort at Gamescom earlier in the year, but assumed it was still quite a way away. Read the full article on pushsquar",
+          "date": "2026-10-31T14:30:00+00:00",
+          "image": "https://images.pushsquare.com/2c5ef6e5c1368/large.jpg"
+        },
+        {
+          "title": "Guide: These 28+ PS5 and PS Plus Games Are Coming Out Next Week (2nd-8th November)",
+          "link": "https://www.pushsquare.com/guides/these-28plus-ps5-and-ps-plus-games-are-coming-out-next-week-2nd-8th-november",
+          "description": "Godzilla: Destroy All Monsters! CRYMELIGHT! Zero Parades! We’re fast approaching the GTA 6 evacuation zone, so expect the number of new releases to dip dramatically in November. There are some noteworthy titles this time, though, with highlights including the PS5 version of Zero Parades as well as A",
+          "date": "2026-10-31T12:00:00+00:00",
+          "image": "https://images.pushsquare.com/79d1f80a87960/large.jpg"
+        },
+        {
           "title": "PS5 Dynamic Pricing Concerns Revived by New Sony Job Listing",
           "link": "https://www.pushsquare.com/news/2026/10/ps5-dynamic-pricing-concerns-revived-by-new-sony-job-listing",
           "description": "Company looking for someone to lead initiative. A new PlayStation job listing has sparked a fresh wave of fan concerns regarding dynamic pricing on the PS Store . Spotted by The Game Post , the role – for a Senior Director of Digital Games Monetisation – includes some phrases which have spooked game",
@@ -427,27 +448,6 @@
           "description": "A scarily big map after Charting the Unknown. Crimson Desert has always been a ridiculously huge open world game, but now this week's new Charting the Unknown DLC has launched, its sheer size has reached new levels. The base game becomes just a corner of the map once you've got Charting the Unknown ",
           "date": "2026-10-30T13:15:00+00:00",
           "image": "https://images.pushsquare.com/c41636458cee0/large.jpg"
-        },
-        {
-          "title": "The Wolf Among Us Remastered Hit with PS5 Upgrade Pricing Issues",
-          "link": "https://www.pushsquare.com/news/2026/10/the-wolf-among-us-remastered-hit-with-ps5-upgrade-pricing-issues",
-          "description": "Promised discounts not appearing. The launch of The Wolf Among Us Remastered has not gone as smoothly as TellTale Games would have liked, as many fans are reporting not being able to access the discounted upgrade offer they were promised. Last week, the developer shared price discounts that owners o",
-          "date": "2026-10-30T12:30:00+00:00",
-          "image": "https://images.pushsquare.com/b90032080d3c6/large.jpg"
-        },
-        {
-          "title": "Quirky RPG Resonance of Fate Is Back with an 'Enhanced Remaster' for PS5",
-          "link": "https://www.pushsquare.com/news/2026/10/quirky-rpg-resonance-of-fate-is-back-with-an-enhanced-remaster-for-ps5",
-          "description": "$10 upgrade for current PS4 owners. Who had the PS3 role-playing game Resonance of Fate receiving a second remaster for PS5 on their 2026 bingo card? Having already been enhanced on PS4, the quirky RPG has been treated to an \"enhanced remaster\", out today on PS5. This latest version features two add",
-          "date": "2026-10-30T11:00:00+00:00",
-          "image": "https://images.pushsquare.com/393cf90cd881d/large.jpg"
-        },
-        {
-          "title": "Death Stranding Isolations Anime TV Series Gets First Trailer, Out in 2027",
-          "link": "https://www.pushsquare.com/news/2026/10/death-stranding-isolations-anime-tv-series-gets-first-trailer-out-in-2027",
-          "description": "My mom became a crater. Revealed almost a year ago, Kojima Productions and Disney+ have today debuted the teaser trailer for Death Stranding Isolations , a new anime TV series set in the universe of the two PS5, PS4 games. Catch the short clip above. Under the tagline \"My mom became a crater\", the T",
-          "date": "2026-10-30T10:00:00+00:00",
-          "image": "https://images.pushsquare.com/62f07b9c2ec91/large.jpg"
         }
       ]
     },
