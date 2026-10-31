@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T16:15:28.411515+00:00",
+  "updated": "2026-10-31T20:12:55.323658+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,13 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "I Stayed in a Haunted Airbnb Near Death Valley. Here’s What I Heard.",
+          "link": "https://www.denofgeek.com/culture/haunted-airbnb-near-death-valley-talking-strange/",
+          "description": "The owner saw him first: a grizzled, bearded man leaning around the refrigerator at 2 a.m., staring right at him. During my three nights in that same haunted Airbnb in Beatty, Nevada — the desert town known as the Gateway to Death Valley — I never saw the miner. But I may have heard him. […] The pos",
+          "date": "2026-10-31T19:30:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Haunted-Airbnb.jpg"
+        },
+        {
           "title": "SNL’s Greatest Legacy May Be In The Competition It Inspired",
           "link": "https://www.denofgeek.com/movies/snl-greatest-legacy-competition-inspired-sctv-documentary/",
           "description": "Saturday Night Live‘s cultural imprint is unquestionably massive, as is the list of comedy stars who have come through the show in its 52 seasons. But the new documentary, SCTV: The Greatest Show You’ve Never Heard Of, reminds us of a lesser-known legacy: the many competing shows it inspired. Launch",
@@ -141,19 +148,26 @@
           "description": "Some careers used to look like a safe bet: get the right degree, build your skills, and a stable future would follow. Today, that promise feels less certain in several fields. Technology is changing how companies work, traditional industries are shrinking, and some jobs that once carried prestige no",
           "date": "2026-10-30T13:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-45.jpg"
-        },
-        {
-          "title": "15 Funny Bar Jokes to Tell the Dude on the Stool Next to You",
-          "link": "https://www.denofgeek.com/msn/15-funny-bar-jokes-to-tell-the-dude-on-the-stool-next-to-you/",
-          "description": "There's something about sitting at a bar that makes talking to strangers feel a little easier. Maybe it's the music, the relaxed atmosphere, or the fact that everyone has a story worth hearing after a drink or two. A good joke can turn an awkward silence into a conversation, especially when it's sho",
-          "date": "2026-10-30T12:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-44.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "Admit It: Paris Hilton Was Perfectly Cast in REPO! THE GENETIC OPERA",
+          "link": "https://www.fangoria.com/repo-the-genetic-opera-paris-hilton-perfectly-cast/",
+          "description": "Paris Hilton exclusively told FANGORIA what Amber Sweet from REPO! THE GENETIC OPERA means to her, and we're returning the favor.",
+          "date": "2026-10-31T19:00:55+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/MV5BMWIxMmIzNjItMmM3My00NzQzLWJhMTYtMTAwN2ZiMDkyNGMzXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+          "title": "How Patrick Stewart Saved Jeremy Saulnier’s GREEN ROOM",
+          "link": "https://www.fangoria.com/patrick-stewart-saved-green-room/",
+          "description": "One of Patrick Stewart's best performances was as the villain of Jeremy Saulnier's GREEN ROOM, and the director honored the late-actor by telling a surprise audience how Stewart saved the film from shutting down.",
+          "date": "2026-10-31T17:51:50+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/green-room-patrick-stewart.avif"
+        },
         {
           "title": "Titan Casket Unleashes UNIVERSAL MONSTERS Urn Collection With David Dastmalchian",
           "link": "https://www.fangoria.com/universal-monsters-titan-casket-urns/",
@@ -209,20 +223,6 @@
           "description": "One fan's journey from irony to sincerity toward an underloved film.",
           "date": "2026-10-30T10:00:49+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/tcm4.webp"
-        },
-        {
-          "title": "Top Horror Movies Streaming This Week",
-          "link": "https://www.fangoria.com/top-horror-movies-streaming-this-week/",
-          "description": "Halloween week is upon us, and there is a wonderfully terrifying mix of scary movie classics and brand new films, THE CYCLE and HOKUM, that makes us happy about the future of the genre. Pop some popcorn and dive in. Check out the list at FANGORIA.",
-          "date": "2026-10-30T01:25:38+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/09/THE-CYCLE-scaled.png"
-        },
-        {
-          "title": "REVIEW: RUBBERHEAD: THE LIFE & MONSTERS OF STEVE JOHNSON Is A Delightful Portrait of a Practical Effects Legend",
-          "link": "https://www.fangoria.com/review-rubberhead-the-life-monsters-of-steve-johnson-review/",
-          "description": "RUBBERHEAD: THE LIFE & MONSTERS OF STEVE JOHNSON is part special-effects history, part cautionary tale, and part portrait of an artist who lives his life on his own terms... for better and for worse.",
-          "date": "2026-10-29T21:45:29+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Rubberhead.webp"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Poll: Are You Happy with Your PS Plus Essential Games for November 2026?",
+          "link": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-november-2026",
+          "description": "Plus or minus? November's PS Plus Essential games were revealed earlier this week, and I think it's quite an interesting selection. That's because all three games offer something completely different. We've got a fairly big-name headliner, a collection of remastered adventures, and a highly-rated in",
+          "date": "2026-10-31T18:00:00+00:00",
+          "image": "https://images.pushsquare.com/7e49b9a1b76d4/large.jpg"
+        },
+        {
           "title": "Meet Marvel Tokon's Newest Fighting Soul in Full Phoenix Cyclops Character Guide",
           "link": "https://www.pushsquare.com/news/2026/10/meet-marvel-tokons-newest-fighting-soul-in-full-phoenix-cyclops-character-guide",
           "description": "Sweet Scott Summers child. Ahead of his release next week on 2nd November, Sony’s dropped a full character guide for the upcoming Marvel Tokon: Fighting Souls addition, Phoenix Cyclops. Like similar videos prior to the game’s launch, this runs through the combatant’s full roster of moves, including ",
@@ -441,13 +448,6 @@
           "description": "No word on a western release just yet. Those of you reading the re-release of Steins;Gate this week may want to keep a close eye on Japanese dev MAGES’ latest effort, Seeker Eye . The game’s due out in Japan on 25th February, and while there’s no word on an English localisation just yet, I’m pretty ",
           "date": "2026-10-30T15:00:00+00:00",
           "image": "https://images.pushsquare.com/4ee761ec64b44/large.jpg"
-        },
-        {
-          "title": "The Scale of Crimson Desert Just Got Even More Absurd After New PS5 DLC",
-          "link": "https://www.pushsquare.com/news/2026/10/the-scale-of-crimson-desert-just-got-even-more-absurd-after-new-ps5-dlc",
-          "description": "A scarily big map after Charting the Unknown. Crimson Desert has always been a ridiculously huge open world game, but now this week's new Charting the Unknown DLC has launched, its sheer size has reached new levels. The base game becomes just a corner of the map once you've got Charting the Unknown ",
-          "date": "2026-10-30T13:15:00+00:00",
-          "image": "https://images.pushsquare.com/c41636458cee0/large.jpg"
         }
       ]
     },
