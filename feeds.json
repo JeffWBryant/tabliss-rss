@@ -1,10 +1,80 @@
 {
-  "updated": "2026-10-31T05:01:41.686955+00:00",
+  "updated": "2026-10-31T11:06:59.290449+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
-      "articles": [],
-      "error": "403 Client Error: Forbidden for url: https://bloody-disgusting.com/feed"
+      "articles": [
+        {
+          "title": "‘Mindhunter’s Holt McCallany Returns to the World of Serial Killers in First Look at ‘Paradise Disturbed’",
+          "link": "https://bloody-disgusting.com/news/3974143/paradise-disturbed-holt-mccallany-serial-killer-movie/",
+          "description": "Movies about serial killers have existed for decades, but it’s arguably the ’90s that could be considered the heyday of the genre. The decade started off with The Silence of the Lambs, which pulled off the astounding feat of winning five of the year’s top Oscar categories, and highlighted that horro",
+          "date": "2026-10-30T21:45:28+00:00",
+          "image": ""
+        },
+        {
+          "title": "The Halloween Franchise Character Draft [Halloweenies Podcast]",
+          "link": "https://bloody-disgusting.com/podcast-news/3974153/halloween-character-draft-halloweenies-podcast/",
+          "description": "To cap off this year’s visit to Haddonfield, the Halloweenies gather around the candy bowl to pick their favorite Halloween characters across the entire franchise. Inspired by The Big Picture’s draft episodes, the gang has five categories to fill — from final boy/girl to one-scene screams to the bes",
+          "date": "2026-10-30T21:00:23+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘The Cat and the Hatchet’ Exclusive Poster Reveal – The Fan Film Debuts on Halloween Day!",
+          "link": "https://bloody-disgusting.com/movie/3974132/the-cat-and-the-hatchet-exclusive-poster-reveal-the-fan-film-debuts-on-halloween-day/",
+          "description": "The Cat in the Hat is the next family-friendly pop culture icon to become a horror movie maniac, with fan short The Cat and the Hatchet set to premiere Halloween Day, October 31. A horror short from director Cameron Dodd, The Cat and the Hatchet is a twisted horror parody of The Cat in the Hat. […] ",
+          "date": "2026-10-30T20:25:45+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/cat-and-hatchet-poster-scaled.jpg?resize=1728%2C2560&#038;ssl=1"
+        },
+        {
+          "title": "‘RoboCop’: Dan Stevens Teases His Satirical and Violent Prime Video Reboot Series",
+          "link": "https://bloody-disgusting.com/news/3974129/robocop-dan-stevens-prime-video-reboot-plans/",
+          "description": "After years of reports about a RoboCop revival circling the internet, the project seems to finally be coming together. The last live-action entry in the series was the 2014 reboot starring Joel Kinnaman, which earned an underwhelming reception from audiences and critics alike. Understandably, a stor",
+          "date": "2026-10-30T20:01:13+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Hocus Pocus’ Star Vinessa Shaw Covers “Come Little Children” With Freedom Fry For New Halloween EP",
+          "link": "https://bloody-disgusting.com/music/3974124/hocus-pocus-star-vinessa-shaw-covers-come-little-children-with-freedom-fry-for-new-halloween-ep/",
+          "description": "This Halloween, indie folk-pop duo Freedom Fry teamed with actress Vinessa Shaw, who starred as Allison in the 1993 classic Hocus Pocus, on a reimagining of “Come Little Children,” featured in the film. The haunting lullaby is sung by witch Sarah Sanderson (Sarah Jessica Parker), who uses it to lure",
+          "date": "2026-10-30T19:42:00+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/EP-art.jpg?resize=1024%2C1024&#038;ssl=1"
+        },
+        {
+          "title": "Enjoy Double XP Now in ‘Halloween: The Game’ for the Weekend",
+          "link": "https://bloody-disgusting.com/video-games/3974114/enjoy-double-xp-now-in-halloween-the-game-for-the-weekend/",
+          "description": "With the new DLC out this week, and because it’s Halloween, IllFonic wants you to have a good time in Halloween: The Game. As such, they’ve announced that players can enjoy double XP this weekend! From now until November 3, players can not only enjoy a double XP boost, but also boosts to Perk Points",
+          "date": "2026-10-30T19:22:14+00:00",
+          "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c8.png"
+        },
+        {
+          "title": "Ripcord’s Halloween Film Festival: Full List of Winners Announced",
+          "link": "https://bloody-disgusting.com/sponsored/3974099/ripcord-winners/",
+          "description": "Ripcord’s Halloween Film Festival is thrilled to unveil the winners of its inaugural competition, celebrating an incredible array of independent horror and genre shorts from a talented and diverse group of filmmakers. Long’s Long Lost & Mini Mart, directed by Julian Doan, took home the $100,000 firs",
+          "date": "2026-10-30T19:18:49+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/ripcord-halloween-fest-scaled.jpeg?resize=2560%2C1706&#038;ssl=1"
+        },
+        {
+          "title": "These 11 New Horror Movies Released for Halloween Week",
+          "link": "https://bloody-disgusting.com/movie/3974083/these-11-new-horror-movies-released-for-halloween-week/",
+          "description": "We made it. It is now officially Halloween Eve, with the big day just hours away. This Halloween is a very special one because it takes place on a Saturday – that won’t happen again for another eleven years, the internet tells me! – which gives us a full-on Halloween Weekend to sit around drinking [",
+          "date": "2026-10-30T19:13:08+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/NeverAfterDark-1.jpg?resize=1300%2C750&#038;ssl=1"
+        },
+        {
+          "title": "Switch 2 Exclusive ‘The Duskbloods’ Pushed to 2027 Release Window",
+          "link": "https://bloody-disgusting.com/video-games/3974026/switch-2-exclusive-the-duskbloods-pushed-to-2027-release-window/",
+          "description": "After their network tests earlier this summer didn’t go exactly as FromSoftware had planned, the developer has decided to delay their Switch 2 exclusive soulslike The Duskbloods from its release later this year. The game will now instead launch in 2027. In a statement on X, FromSoftware stated that ",
+          "date": "2026-10-30T17:30:26+00:00",
+          "image": ""
+        },
+        {
+          "title": "27 Things We Learned from Sam Raimi’s ‘Send Help’ Commentary",
+          "link": "https://bloody-disgusting.com/editorials/3974040/27-things-we-learned-from-sam-raimis-send-help-commentary/",
+          "description": "Sam Raimi is an undeniable horror icon, and it’s based in a big way on his earliest efforts, including his Evil Dead trilogy. He went on to spread his directorial wings in varied ways with a killer western (The Quick and the Dead), a compelling baseball drama (For the Love of the Game), an acclaimed",
+          "date": "2026-10-30T17:00:15+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/01/sendhelp-trailer.jpg?resize=1024%2C576&#038;ssl=1"
+        }
+      ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
