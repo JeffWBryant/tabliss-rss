@@ -1,9 +1,30 @@
 {
-  "updated": "2026-11-01T13:00:38.994961+00:00",
+  "updated": "2026-11-01T18:29:34.818406+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "All The Horror Heading To Hulu, Netflix, Tubi & Other Streaming Services In November 2026",
+          "link": "https://bloody-disgusting.com/movie/3974052/all-the-horror-heading-to-hulu-netflix-tubi-other-streaming-services-in-november-2026/",
+          "description": "Bad news: October is over, and November is here to usher in the holidays. The good news: HBO Max, Hulu, Netflix, Peacock, Paramount+, Screambox, Shudder, and Tubi have announced their November 2026 library additions, and it’s not as light on horror as expected for this time of year. The biggest stre",
+          "date": "2026-11-01T16:00:20+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2019/05/The-First-Purge.jpg?resize=1024%2C684&#038;ssl=1"
+        },
+        {
+          "title": "New “AS BELOW SO ABOVE” Update for ‘WORLD OF HORROR’ Now Available for PC",
+          "link": "https://bloody-disgusting.com/video-games/3974180/new-as-below-so-above-update-for-world-of-horror-now-available-for-pc/",
+          "description": "Three years after leaving Early Access and launching on Steam, panstasz and publisher Ysbryd Games have dropped a massive free update for WORLD OF HORROR with “AS BELOW SO ABOVE”. Expanding the game by 20%, the update is live now on Steam, GOG and itch.io, and will arrive for the PlayStation 4 and N",
+          "date": "2026-11-01T15:30:51+00:00",
+          "image": ""
+        },
+        {
+          "title": "The Best Horror Movies Streaming on Tubi [November 2026]",
+          "link": "https://bloody-disgusting.com/editorials/3973649/the-best-horror-movies-streaming-on-tubi-november-2026/",
+          "description": "A new month means a new guide as titles are added (and dropped) from streaming services. Let’s unpack the most exciting titles that are available to watch on Tubi in November 2026. New to Tubi November Horror Films Black Christmas (2006) Premise: On Christmas Eve, an escaped maniac returns to his ch",
+          "date": "2026-11-01T15:00:38+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2019/12/Black-Christmas.jpg?resize=1024%2C639&#038;ssl=1"
+        },
         {
           "title": "‘REANIMAL’, ‘Resident Evil Requiem’ Lead Nominations for The Horror Game Awards 2026",
           "link": "https://bloody-disgusting.com/videos/3974174/reanimal-resident-evil-requiem-lead-nominations-for-the-horror-game-awards-2026/",
@@ -52,27 +73,6 @@
           "description": "The Cat in the Hat is the next family-friendly pop culture icon to become a horror movie maniac, with fan short The Cat and the Hatchet set to premiere Halloween Day, October 31. A horror short from director Cameron Dodd, The Cat and the Hatchet is a twisted horror parody of The Cat in the Hat. […] ",
           "date": "2026-10-30T20:25:45+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/cat-and-hatchet-poster-scaled.jpg?resize=1728%2C2560&#038;ssl=1"
-        },
-        {
-          "title": "‘RoboCop’: Dan Stevens Teases His Satirical and Violent Prime Video Reboot Series",
-          "link": "https://bloody-disgusting.com/news/3974129/robocop-dan-stevens-prime-video-reboot-plans/",
-          "description": "After years of reports about a RoboCop revival circling the internet, the project seems to finally be coming together. The last live-action entry in the series was the 2014 reboot starring Joel Kinnaman, which earned an underwhelming reception from audiences and critics alike. Understandably, a stor",
-          "date": "2026-10-30T20:01:13+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Hocus Pocus’ Star Vinessa Shaw Covers “Come Little Children” With Freedom Fry For New Halloween EP",
-          "link": "https://bloody-disgusting.com/music/3974124/hocus-pocus-star-vinessa-shaw-covers-come-little-children-with-freedom-fry-for-new-halloween-ep/",
-          "description": "This Halloween, indie folk-pop duo Freedom Fry teamed with actress Vinessa Shaw, who starred as Allison in the 1993 classic Hocus Pocus, on a reimagining of “Come Little Children,” featured in the film. The haunting lullaby is sung by witch Sarah Sanderson (Sarah Jessica Parker), who uses it to lure",
-          "date": "2026-10-30T19:42:00+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/EP-art.jpg?resize=1024%2C1024&#038;ssl=1"
-        },
-        {
-          "title": "Enjoy Double XP Now in ‘Halloween: The Game’ for the Weekend",
-          "link": "https://bloody-disgusting.com/video-games/3974114/enjoy-double-xp-now-in-halloween-the-game-for-the-weekend/",
-          "description": "With the new DLC out this week, and because it’s Halloween, IllFonic wants you to have a good time in Halloween: The Game. As such, they’ve announced that players can enjoy double XP this weekend! From now until November 3, players can not only enjoy a double XP boost, but also boosts to Perk Points",
-          "date": "2026-10-30T19:22:14+00:00",
-          "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c8.png"
         }
       ]
     },
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "10 Of The Best Upcoming 4K And Blu-Ray Horror Releases",
+          "link": "https://www.fangoria.com/10-of-the-best-upcoming-4k-and-blu-ray-horror-releases-22/",
+          "description": "Welcome the long nights (and even longer watchlists) with our pick of the best 4K and Blu-ray releases hitting shelves this November.",
+          "date": "2026-11-01T18:00:15+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/20220714114537000000IMG20220714114246-1536x807-1-e1791827836301.jpg"
+        },
+        {
           "title": "Admit It: Paris Hilton Was Perfectly Cast in REPO! THE GENETIC OPERA",
           "link": "https://www.fangoria.com/repo-the-genetic-opera-paris-hilton-perfectly-cast/",
           "description": "Paris Hilton exclusively told FANGORIA what Amber Sweet from REPO! THE GENETIC OPERA means to her, and we're returning the favor.",
@@ -216,19 +223,19 @@
           "description": "FANGORIA is proud to exclusively debut the first trailer for ZOMBOIS, the provocative new queer comedy from writer-director Garrett Abdo where being young and hung might just put you on the menu.",
           "date": "2026-10-30T11:00:51+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/image2.png"
-        },
-        {
-          "title": "Monstrous Musings: Commitment To The Chainsaw Bit",
-          "link": "https://www.fangoria.com/monstrous-musings-tcm4-defense/",
-          "description": "One fan's journey from irony to sincerity toward an underloved film.",
-          "date": "2026-10-30T10:00:49+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/tcm4.webp"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "Marvel PS4 Fighting Game Is 84% Off on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/11/01/marvel-vs-capcom-infinite-deluxe-edition-ps4-deal",
+          "description": "A popular Marvel crossover fighting game is heavily discounted on the PlayStation Store. The offer gives superhero fans a chance to unite Marvel and Capcom universe characters. Marvel vs. Capcom: Infinite – Deluxe Edition is now available for $9.59 on the PlayStation Store, down from its regular $59",
+          "date": "2026-11-01T17:00:00+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/marvel.jpg?w=1024"
+        },
         {
           "title": "Spooky PS5 RPG Is Out Today on PlayStation Store",
           "link": "https://www.playstationlifestyle.net/2026/10/31/horrorvale-deadluxe-edition-ps5-playstation-store-release-october-31",
@@ -291,13 +298,6 @@
           "description": "A 2010 Sega PS3 RPG has received a surprise PS5 and PC remaster, and it’s out now on the PlayStation Store. Resonance of Fate already has a 4K/HD Edition for the PS4. Considering the original’s reception, we weren’t expecting a third outing for the title. 2010 RPG Resonance of Fate gets PS5 console ",
           "date": "2026-10-30T13:02:37+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/ps5-rpg-resonance-of-fate.jpg?w=1024"
-        },
-        {
-          "title": "PS5 Remake of Popular PSP Adventure Game Out Today on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/10/29/steins-gate-reboot-ps5-switch-2-new-gamma-worldline",
-          "description": "Spike Chunsoft’s classic time-travel adventure game arrives on the PS Store today with upgraded graphics and improved audio. Based on a popular Japanese novel of the same name, the remake is also available on PC, Xbox, and Nintendo consoles. Steins;Gate Re:Boot is now available on the PlayStation St",
-          "date": "2026-10-29T21:07:22+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/Deepesh-personal-1200-_-675-52.png?w=1024"
         }
       ]
     },
@@ -380,6 +380,27 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Hardware Review: SCUF Omega PS5 Controller - No-Frills Pro Controller Doesn't Do Much to Impress",
+          "link": "https://www.pushsquare.com/features/hardware-review-scuf-omega-ps5-controller-no-frills-pro-controller-doesnt-do-much-to-impress",
+          "description": "Does what it says on the tin. For the last few weeks, I’ve been testing out the SCUF Omega PlayStation controller, a highly customisable pro controller ideal for those looking to step up their competitive play. With a plethora of additional buttons and a high price tag to go with it, let’s see if th",
+          "date": "2026-11-01T14:00:00+00:00",
+          "image": "https://images.pushsquare.com/868a8f41027d1/large.jpg"
+        },
+        {
+          "title": "Manage a Dessert Shop with an Actual God in Honkai: Star Rail's Climactic PS5 Update",
+          "link": "https://www.pushsquare.com/news/2026/11/manage-a-dessert-shop-with-an-actual-god-in-honkai-star-rails-climactic-ps5-update",
+          "description": "Aha. If you’re a regular of HoYoverse’s turn-based RPG Honkai: Star Rail , then you’ll probably have been waiting for 5-Star character Aha’s arrival, as part of v4.7 on 11th November. The anticipated Aeon is effectively a god, bringing outrageous buffs to all characters on the path of Elation. She’s",
+          "date": "2026-11-01T13:30:00+00:00",
+          "image": "https://images.pushsquare.com/95b930e626667/large.jpg"
+        },
+        {
+          "title": "HoYoverse's Animal Crossing Rival Skips PS5 for Switch 2",
+          "link": "https://www.pushsquare.com/news/2026/11/hoyoverses-animal-crossing-rival-skips-ps5-for-switch-2",
+          "description": "New cosy game picks Nintendo. HoYoverse is undoubtedly gunning for the Animal Crossing audience with its next title Petit Planet , so it’s perhaps no surprise to see the Chinese dev focus on Switch 2 with its upcoming cosy title. However, it’s noteworthy as the juggernaut Chinese dev has brought pra",
+          "date": "2026-11-01T13:00:00+00:00",
+          "image": "https://images.pushsquare.com/8cf566eb8e0bf/large.jpg"
+        },
+        {
           "title": "Rumour: Alleged Persona 1 Remake Gameplay Leaks Online",
           "link": "https://www.pushsquare.com/news/2026/11/rumour-alleged-persona-1-remake-gameplay-leaks-online",
           "description": "But is it real? Atlus apparently can’t keep a secret. Alleged footage of a Persona 1 Remake has emerged online, although in this age of AI generated content it’s incredibly difficult to ascertain whether this is legit or not. Read the full article on pushsquare.com",
@@ -427,27 +448,6 @@
           "description": "Company looking for someone to lead initiative. A new PlayStation job listing has sparked a fresh wave of fan concerns regarding dynamic pricing on the PS Store . Spotted by The Game Post , the role – for a Senior Director of Digital Games Monetisation – includes some phrases which have spooked game",
           "date": "2026-10-31T01:00:00+00:00",
           "image": "https://images.pushsquare.com/a0ae62e7b32f8/large.jpg"
-        },
-        {
-          "title": "Talking Point: What Are You Playing This Weekend? - Issue 656",
-          "link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-656",
-          "description": "Raise hell. Another week has come to a close, and that means it's time for us to WAYP together. I love how eclectic these articles have become over the years; it's always interesting to see what everyone's playing. Aaron Bayne I recently started Zero Parades: For Dead Spies Director's Cut , since I ",
-          "date": "2026-10-31T00:00:00+00:00",
-          "image": "https://images.pushsquare.com/77f39ac6d3c5f/large.jpg"
-        },
-        {
-          "title": "Inspired by Classic FromSoftware, Queen's Domain Looks a Fascinating PS5 Adventure",
-          "link": "https://www.pushsquare.com/news/2026/10/inspired-by-classic-fromsoftware-queens-domain-looks-a-fascinating-ps5-adventure",
-          "description": "Out now for $20 on PS5. There are far too many promising indie games releasing every week to keep up, but this one, Queen's Domain , has really caught my eye. It releases onto PS5 today for £15.99 / $19.99, and it's inspired by King's Field , the series FromSoftware made before Demon's Souls . Essen",
-          "date": "2026-10-30T17:00:00+00:00",
-          "image": "https://images.pushsquare.com/40419e57838e3/large.jpg"
-        },
-        {
-          "title": "New Call of Duty to Remove 'Appalling' Footage of Real-Life Tragedy",
-          "link": "https://www.pushsquare.com/news/2026/10/new-call-of-duty-to-remove-appalling-footage-of-real-life-tragedy",
-          "description": "Families criticised Activision for including videos. Activision has apologised and promised to remove footage of a real-life tragedy from Call of Duty: Modern Warfare 4 . Victims’ families understandably reacted angrily when it emerged that news footage from 2022’s Itaewon disaster was included in t",
-          "date": "2026-10-30T16:00:00+00:00",
-          "image": "https://images.pushsquare.com/8ed1e61f903d1/large.jpg"
         }
       ]
     },
