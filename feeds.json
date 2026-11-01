@@ -1,9 +1,16 @@
 {
-  "updated": "2026-11-01T18:29:34.818406+00:00",
+  "updated": "2026-11-01T22:19:45.455041+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Teyon Unveils Character Creation, Dev Diary for ‘Hunter: The Reckoning – Deathwish’ [Watch]",
+          "link": "https://bloody-disgusting.com/video-games/3974182/teyon-unveils-character-creation-dev-diary-for-hunter-the-reckoning-deathwish-watch/",
+          "description": "NACON and Teyon have dropped a new video for their upcoming action-RPG, Hunter: The Reckoning – Deathwish, focusing on one of the game’s core features in character creation. In addition, they’ve also released a new developer diary, showcasing how Teyon is working to adapt the tabletop RPG system int",
+          "date": "2026-11-01T18:30:41+00:00",
+          "image": ""
+        },
         {
           "title": "All The Horror Heading To Hulu, Netflix, Tubi & Other Streaming Services In November 2026",
           "link": "https://bloody-disgusting.com/movie/3974052/all-the-horror-heading-to-hulu-netflix-tubi-other-streaming-services-in-november-2026/",
@@ -66,13 +73,6 @@
           "description": "To cap off this year’s visit to Haddonfield, the Halloweenies gather around the candy bowl to pick their favorite Halloween characters across the entire franchise. Inspired by The Big Picture’s draft episodes, the gang has five categories to fill — from final boy/girl to one-scene screams to the bes",
           "date": "2026-10-30T21:00:23+00:00",
           "image": ""
-        },
-        {
-          "title": "‘The Cat and the Hatchet’ Exclusive Poster Reveal – The Fan Film Debuts on Halloween Day!",
-          "link": "https://bloody-disgusting.com/movie/3974132/the-cat-and-the-hatchet-exclusive-poster-reveal-the-fan-film-debuts-on-halloween-day/",
-          "description": "The Cat in the Hat is the next family-friendly pop culture icon to become a horror movie maniac, with fan short The Cat and the Hatchet set to premiere Halloween Day, October 31. A horror short from director Cameron Dodd, The Cat and the Hatchet is a twisted horror parody of The Cat in the Hat. […] ",
-          "date": "2026-10-30T20:25:45+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/cat-and-hatchet-poster-scaled.jpg?resize=1728%2C2560&#038;ssl=1"
         }
       ]
     },
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "10 Terrifying Horror Collectibles You’ll Want To Take Home And Where To Find Them",
+          "link": "https://www.fangoria.com/10-terrifying-horror-collectibles-youll-want-to-take-home-and-where-to-find-them-8/",
+          "description": "A new month, brings new merch - here's what's made it onto our wishlist for November.",
+          "date": "2026-11-01T19:00:30+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Merch-Roundup-3.png"
+        },
+        {
           "title": "10 Of The Best Upcoming 4K And Blu-Ray Horror Releases",
           "link": "https://www.fangoria.com/10-of-the-best-upcoming-4k-and-blu-ray-horror-releases-22/",
           "description": "Welcome the long nights (and even longer watchlists) with our pick of the best 4K and Blu-ray releases hitting shelves this November.",
@@ -216,13 +223,6 @@
           "description": "CHRISTMAS AT THE KRINGLES, the new holiday horror-comedy film from director Kevin Lewis (WILLY'S WONDERLAND), is in theaters today. Check out our interview with the director to get in the festive spirit.",
           "date": "2026-10-30T16:30:25+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/image-2026-10-14T101503.164-e1793301545934.webp"
-        },
-        {
-          "title": "ZOMBOIS: Our Exclusive First Look at the Outrageous Gay Zombie Horror-Comedy",
-          "link": "https://www.fangoria.com/zombois-trailer-exclusive/",
-          "description": "FANGORIA is proud to exclusively debut the first trailer for ZOMBOIS, the provocative new queer comedy from writer-director Garrett Abdo where being young and hung might just put you on the menu.",
-          "date": "2026-10-30T11:00:51+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/image2.png"
         }
       ]
     },
