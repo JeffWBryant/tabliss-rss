@@ -1,10 +1,80 @@
 {
-  "updated": "2026-10-31T23:36:03.681642+00:00",
+  "updated": "2026-11-01T05:32:50.516584+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
-      "articles": [],
-      "error": "403 Client Error: Forbidden for url: https://bloody-disgusting.com/feed"
+      "articles": [
+        {
+          "title": "‘REANIMAL’, ‘Resident Evil Requiem’ Lead Nominations for The Horror Game Awards 2026",
+          "link": "https://bloody-disgusting.com/videos/3974174/reanimal-resident-evil-requiem-lead-nominations-for-the-horror-game-awards-2026/",
+          "description": "Horror gamers ate well this year, but the battle for which game was on top happens next month with the 2026 edition of The Horror Game Awards, which will take place on November 20 from 26 Leake Street in London, UK. Over 100 titles compete in 21 categories (seriously) this year, with ten games this ",
+          "date": "2026-11-01T00:13:29+00:00",
+          "image": ""
+        },
+        {
+          "title": "8 Terrifying Horror Movies to Stream This Halloween Weekend",
+          "link": "https://bloody-disgusting.com/editorials/3974147/scariest-movies-to-stream-halloween-weekend/",
+          "description": "If there’s one thing horror fans love the most, it’s a solid scare that gets the adrenaline pumping. And everyone’s entitled to at least one good scare on Halloween. While there are plenty of Halloween-set frights to binge this weekend, this list is for those seeking visceral scares that’ll send shi",
+          "date": "2026-10-31T15:00:58+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/10/the-autopsy-of-jane-doe.jpg?resize=804%2C457&#038;ssl=1"
+        },
+        {
+          "title": "5 Clive Barker Stories That Should Be Adapted Into Horror Video Games Next",
+          "link": "https://bloody-disgusting.com/video-games/3974137/5-other-clive-barker-stories-that-deserve-the-hellraiser-revival-treatment/",
+          "description": "For a moment there, it felt like the only profitable way for developers to create new licensed horror games was to make them all asymmetrical multiplayer experiences. I don’t actually have anything against this particular kind of gameplay, but I pretty much had my fill of the genre when Sumo Notting",
+          "date": "2026-10-31T14:00:46+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2020/11/Lord-of-Illusions.jpg?resize=1024%2C557&#038;ssl=1"
+        },
+        {
+          "title": "‘A Story of Derry’ – HBO Max Has Released a Brand New ‘Welcome to Derry’ Bonus Episode!",
+          "link": "https://bloody-disgusting.com/tv/3974157/a-story-of-derry-hbo-max-has-released-a-brand-new-welcome-to-derry-bonus-episode/",
+          "description": "The rumors were true. HBO Max is celebrating Halloween today with a special surprise treat for horror fans in the form of a new bonus episode of their hit series “IT: Welcome to Derry“! Titled “A Story of Derry,” the special episode is now streaming on HBO Max. The never-before-seen 30-minute specia",
+          "date": "2026-10-31T13:23:49+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Mindhunter’s Holt McCallany Returns to the World of Serial Killers in First Look at ‘Paradise Disturbed’",
+          "link": "https://bloody-disgusting.com/news/3974143/paradise-disturbed-holt-mccallany-serial-killer-movie/",
+          "description": "Movies about serial killers have existed for decades, but it’s arguably the ’90s that could be considered the heyday of the genre. The decade started off with The Silence of the Lambs, which pulled off the astounding feat of winning five of the year’s top Oscar categories, and highlighted that horro",
+          "date": "2026-10-30T21:45:28+00:00",
+          "image": ""
+        },
+        {
+          "title": "The Halloween Franchise Character Draft [Halloweenies Podcast]",
+          "link": "https://bloody-disgusting.com/podcast-news/3974153/halloween-character-draft-halloweenies-podcast/",
+          "description": "To cap off this year’s visit to Haddonfield, the Halloweenies gather around the candy bowl to pick their favorite Halloween characters across the entire franchise. Inspired by The Big Picture’s draft episodes, the gang has five categories to fill — from final boy/girl to one-scene screams to the bes",
+          "date": "2026-10-30T21:00:23+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘The Cat and the Hatchet’ Exclusive Poster Reveal – The Fan Film Debuts on Halloween Day!",
+          "link": "https://bloody-disgusting.com/movie/3974132/the-cat-and-the-hatchet-exclusive-poster-reveal-the-fan-film-debuts-on-halloween-day/",
+          "description": "The Cat in the Hat is the next family-friendly pop culture icon to become a horror movie maniac, with fan short The Cat and the Hatchet set to premiere Halloween Day, October 31. A horror short from director Cameron Dodd, The Cat and the Hatchet is a twisted horror parody of The Cat in the Hat. […] ",
+          "date": "2026-10-30T20:25:45+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/cat-and-hatchet-poster-scaled.jpg?resize=1728%2C2560&#038;ssl=1"
+        },
+        {
+          "title": "‘RoboCop’: Dan Stevens Teases His Satirical and Violent Prime Video Reboot Series",
+          "link": "https://bloody-disgusting.com/news/3974129/robocop-dan-stevens-prime-video-reboot-plans/",
+          "description": "After years of reports about a RoboCop revival circling the internet, the project seems to finally be coming together. The last live-action entry in the series was the 2014 reboot starring Joel Kinnaman, which earned an underwhelming reception from audiences and critics alike. Understandably, a stor",
+          "date": "2026-10-30T20:01:13+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Hocus Pocus’ Star Vinessa Shaw Covers “Come Little Children” With Freedom Fry For New Halloween EP",
+          "link": "https://bloody-disgusting.com/music/3974124/hocus-pocus-star-vinessa-shaw-covers-come-little-children-with-freedom-fry-for-new-halloween-ep/",
+          "description": "This Halloween, indie folk-pop duo Freedom Fry teamed with actress Vinessa Shaw, who starred as Allison in the 1993 classic Hocus Pocus, on a reimagining of “Come Little Children,” featured in the film. The haunting lullaby is sung by witch Sarah Sanderson (Sarah Jessica Parker), who uses it to lure",
+          "date": "2026-10-30T19:42:00+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/EP-art.jpg?resize=1024%2C1024&#038;ssl=1"
+        },
+        {
+          "title": "Enjoy Double XP Now in ‘Halloween: The Game’ for the Weekend",
+          "link": "https://bloody-disgusting.com/video-games/3974114/enjoy-double-xp-now-in-halloween-the-game-for-the-weekend/",
+          "description": "With the new DLC out this week, and because it’s Halloween, IllFonic wants you to have a good time in Halloween: The Game. As such, they’ve announced that players can enjoy double XP this weekend! From now until November 3, players can not only enjoy a double XP boost, but also boosts to Perk Points",
+          "date": "2026-10-30T19:22:14+00:00",
+          "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c8.png"
+        }
+      ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
@@ -310,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Rumour: Alleged Persona 1 Remake Gameplay Leaks Online",
+          "link": "https://www.pushsquare.com/news/2026/11/rumour-alleged-persona-1-remake-gameplay-leaks-online",
+          "description": "But is it real? Atlus apparently can’t keep a secret. Alleged footage of a Persona 1 Remake has emerged online, although in this age of AI generated content it’s incredibly difficult to ascertain whether this is legit or not. Read the full article on pushsquare.com",
+          "date": "2026-11-01T01:00:00+00:00",
+          "image": "https://images.pushsquare.com/2abd8c6612fa9/large.jpg"
+        },
+        {
           "title": "Rumour: Days Gone Dev to Announce and Launch New PS5 Game in 2027",
           "link": "https://www.pushsquare.com/news/2026/11/rumour-days-gone-dev-to-announce-and-launch-new-ps5-game-in-2027",
           "description": "Third-person game with co-op, it's reported. Bend Studio, the first-party team best known for Days Gone , plans to reveal and potentially even release its next game in 2027. That's according to a new MP1st report , which shares more details on the project. The outlet claims an announcement will take",
@@ -371,13 +448,6 @@
           "description": "Families criticised Activision for including videos. Activision has apologised and promised to remove footage of a real-life tragedy from Call of Duty: Modern Warfare 4 . Victims’ families understandably reacted angrily when it emerged that news footage from 2022’s Itaewon disaster was included in t",
           "date": "2026-10-30T16:00:00+00:00",
           "image": "https://images.pushsquare.com/8ed1e61f903d1/large.jpg"
-        },
-        {
-          "title": "New Mass Effect Cancelled So EA Can Focus on Star Wars Battlefront 3",
-          "link": "https://www.pushsquare.com/news/2026/10/new-mass-effect-cancelled-so-ea-can-focus-on-star-wars-battlefront-3",
-          "description": "So says new Bloomberg report. The next Mass Effect game was cancelled and BioWare shut down because publisher EA wished to focus on a new Star Wars: Battlefront title instead of bringing both to market. That is according to a new Bloomberg report from journalist Jason Schreier, who explains the situ",
-          "date": "2026-10-30T15:30:00+00:00",
-          "image": "https://images.pushsquare.com/fcf0e0ff611eb/large.jpg"
         }
       ]
     },
