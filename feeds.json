@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T22:19:45.455041+00:00",
+  "updated": "2026-11-02T01:43:18.182510+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Fortnite's Pirate Shop Unlocks the Entire Item Shop for Free",
+          "link": "https://www.pushsquare.com/news/2026/11/fortnites-pirate-shop-unlocks-the-entire-item-shop-for-free",
+          "description": "Battle Royale tops five million concurrent players. In case you haven’t been paying attention, Fortnite is running a pirate-themed season with One Piece crossover content available right now. But the big news is the discovery of a Pirate Shop , which makes the entire Item Shop free for two weeks. If",
+          "date": "2026-11-02T00:00:00+00:00",
+          "image": "https://images.pushsquare.com/ce57d15a7af15/large.jpg"
+        },
+        {
           "title": "Hardware Review: SCUF Omega PS5 Controller - No-Frills Pro Controller Doesn't Do Much to Impress",
           "link": "https://www.pushsquare.com/features/hardware-review-scuf-omega-ps5-controller-no-frills-pro-controller-doesnt-do-much-to-impress",
           "description": "Does what it says on the tin. For the last few weeks, I’ve been testing out the SCUF Omega PlayStation controller, a highly customisable pro controller ideal for those looking to step up their competitive play. With a plethora of additional buttons and a high price tag to go with it, let’s see if th",
@@ -441,13 +448,6 @@
           "description": "Godzilla: Destroy All Monsters! CRYMELIGHT! Zero Parades! We’re fast approaching the GTA 6 evacuation zone, so expect the number of new releases to dip dramatically in November. There are some noteworthy titles this time, though, with highlights including the PS5 version of Zero Parades as well as A",
           "date": "2026-10-31T12:00:00+00:00",
           "image": "https://images.pushsquare.com/79d1f80a87960/large.jpg"
-        },
-        {
-          "title": "PS5 Dynamic Pricing Concerns Revived by New Sony Job Listing",
-          "link": "https://www.pushsquare.com/news/2026/10/ps5-dynamic-pricing-concerns-revived-by-new-sony-job-listing",
-          "description": "Company looking for someone to lead initiative. A new PlayStation job listing has sparked a fresh wave of fan concerns regarding dynamic pricing on the PS Store . Spotted by The Game Post , the role – for a Senior Director of Digital Games Monetisation – includes some phrases which have spooked game",
-          "date": "2026-10-31T01:00:00+00:00",
-          "image": "https://images.pushsquare.com/a0ae62e7b32f8/large.jpg"
         }
       ]
     },
