@@ -1,9 +1,65 @@
 {
-  "updated": "2026-11-02T19:41:34.765767+00:00",
+  "updated": "2026-11-03T02:06:51.870021+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Obsession’ Director Reveals the Hidden Detail “Nobody” Noticed That Makes Nikki More Disturbing",
+          "link": "https://bloody-disgusting.com/movie/3974333/obsession-easter-egg-polaroids-explained/",
+          "description": "It’s been six month since Obsession has been released and we’re still uncovering various clues and details about the movie that were easy to overlook on initial viewings. Some audiences saw the movie in theaters multiple times, but with the movie hitting various streaming services, more viewers have",
+          "date": "2026-11-02T23:56:12+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Obsession-Movie-Polaroid-Bear.jpg?resize=1920%2C1080&#038;ssl=1"
+        },
+        {
+          "title": "Cursed Drawings To Torment Woody Norman and Billie Piper in Supernatural Horror ‘Sketchbook’",
+          "link": "https://bloody-disgusting.com/movie/3974324/cursed-drawings-to-torment-woody-norman-and-billie-piper-in-supernatural-horror-sketchbook/",
+          "description": "Woody Norman (Cobweb, The Last Voyage of the Demeter) and Billie Piper (“Penny Dreadful“, “Doctor Who“) are set to lead Obey writer-director Jamie Jones’s supernatural horror Sketchbook, ScreenDaily reported late last week. Production will begin in Wales in early 2027. The supernatural horror film f",
+          "date": "2026-11-02T22:54:48+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/billie-penny-dreadful.jpg?resize=1024%2C683&#038;ssl=1"
+        },
+        {
+          "title": "‘Scream 8’: Neve Campbell Confirms Her Return to Battle Ghostface",
+          "link": "https://bloody-disgusting.com/movie/3974320/scream-8-neve-campbell-return-sidney-prescott-ghostface/",
+          "description": "When prolific horror filmmaker Wes Craven died in 2015, many of us assumed that some of his legacy projects died with him. One of the last projects he was involved with was MTV‘s Scream: The TV Series, which premiered just weeks before his passing and ultimately ran for three seasons. The big-screen",
+          "date": "2026-11-02T22:13:46+00:00",
+          "image": ""
+        },
+        {
+          "title": "Psychological Thriller ‘Games We Play’ Sets December Release, Unveils First Look",
+          "link": "https://bloody-disgusting.com/movie/3974316/psychological-thriller-games-we-play-sets-december-release-unveils-first-look/",
+          "description": "Blue Fox Entertainment and Vertical announced today the acquisition of the new psychological thriller Games We Play, directed by Rachael Dahl in her feature directorial debut. The announcement brings a first look at stars Casey Cott (“Riverdale”) and Margot Pitts (“FBI”), who co-wrote the screenplay",
+          "date": "2026-11-02T21:37:25+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Carrie’ Star Reveals What She Wants to Explore in Future Seasons of Stephen King Reboot",
+          "link": "https://bloody-disgusting.com/news/3974309/carrie-reboot-stephen-king-summer-h-howell-future-hopes/",
+          "description": "Ahead of the release of Mike Flanagan‘s Carrie, one of the prevailing questions was why it was being adapted again in the first place. Brian De Palma‘s original movie is already so well regarded, it was hard to imagine a new take on the Stephen King story bringing much new to the table. The release ",
+          "date": "2026-11-02T21:30:37+00:00",
+          "image": ""
+        },
+        {
+          "title": "Vinegar Syndrome Brings Michael Mann’s ‘Manhunter’ to 4K With Original Version and Director’s Cut",
+          "link": "https://bloody-disgusting.com/home-video/3974305/vinegar-syndrome-brings-michael-manns-manhunter-to-4k-with-original-version-and-directors-cut/",
+          "description": "Michael Mann’s classic film Manhunter is coming to 4K Ultra HD courtesy of Vinegar Syndrome, and the release is packed with extras including TWO versions of the 1986 movie. Included with the release you’re getting the Original Theatrical Version, featuring a new restoration by Vinegar Syndrome. This",
+          "date": "2026-11-02T20:31:28+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Manhunter_P6_VS-552_C2WH7.jpg?resize=1200%2C1200&#038;ssl=1"
+        },
+        {
+          "title": "‘The Restoration at Grayson Manor’ Coming to On Demand This Week",
+          "link": "https://bloody-disgusting.com/movie/3974299/the-restoration-at-grayson-manor-on-demand-chris-colfer/",
+          "description": "When you hear the title “The Restoration at Grayson Manor,” you might think that it’s a new HGTV show about renovating a Gothic mansion. Instead, the title represents the latest effort from filmmaker Glenn McQuaid, who previously delivered I Sell the Dead and has spent years making the fan-favorite ",
+          "date": "2026-11-02T20:19:29+00:00",
+          "image": ""
+        },
+        {
+          "title": "10 New Horror Movies Releasing in November 2026",
+          "link": "https://bloody-disgusting.com/movie/3974283/10-new-horror-movies-releasing-in-november-of-2026/",
+          "description": "Another Halloween season may have come and gone, but that doesn’t mean genre fans have to stop enjoying horror movies for a whole year. In fact, November is shaping up to be a surprisingly full month for horror, especially if you’re a fan of oddball indie releases! That’s why I’m here to share anoth",
+          "date": "2026-11-02T20:12:56+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Ralphs-Perfekt-Christmas-scaled-1.jpg?resize=1024%2C576&#038;ssl=1"
+        },
         {
           "title": "‘Longlegs 2’: Maika Monroe Would “Love, Love, Love” to Return for Nicolas Cage Sequel [EXCLUSIVE]",
           "link": "https://bloody-disgusting.com/movie/3974246/longlegs-2-maika-monroe-return-nicolas-cage/",
@@ -17,68 +73,19 @@
           "description": "To say that 2020 brought the world a lot of surprises would be an understatement. Between the coronavirus pandemic and high-stakes elections, the year ended in a much different place from where it started. By comparison, the release of Borat Subsequent Moviefilm was a much more minor surprise, thoug",
           "date": "2026-11-02T18:55:07+00:00",
           "image": ""
-        },
-        {
-          "title": "Behaviour Interactive Says Exiting Franchises Always Have a Chance to Return to ‘Dead by Daylight’",
-          "link": "https://bloody-disgusting.com/video-games/3974203/behaviour-interactive-says-exiting-franchises-always-have-a-chance-to-return-to-dead-by-daylight/",
-          "description": "Obviously, it sucks that Chucky and the Child’s Play chapter will soon be leaving Dead by Daylight later this month. Much like the situations with Halloween, Hellraiser and (at the time) Stranger Things, it all comes down to expiring licenses. However, much like what happened with Stranger Things, t",
-          "date": "2026-11-02T18:27:08+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Beware Boiúna’ Comes to Digital This Week and Blu-ray in December",
-          "link": "https://bloody-disgusting.com/movie/3974274/beware-boiuna-home-video-release-streaming-blu-ray/",
-          "description": "The trajectory of creature features in the realm of horror and sci-fi has seen a lot of ups and downs. Early in the history of cinema, movies would be schlocky or exploitative, due in large part to the limitations of actually bringing such stories to life. In 1975, Steven Spielberg completely change",
-          "date": "2026-11-02T17:39:27+00:00",
-          "image": ""
-        },
-        {
-          "title": "Eli Roth’s ‘Hostel’ Television Series Has Been Killed Off at Peacock",
-          "link": "https://bloody-disgusting.com/tv/3974265/eli-roths-hostel-television-series-has-been-killed-off-at-peacock/",
-          "description": "It was reported back in the summer of 2025 that Eli Roth’s Hostel franchise would be coming back to life as a television series, which at the time was in development at Peacock. It’s been well over a year since we’ve heard any kind of update on that project, however, with Peacock more recently findi",
-          "date": "2026-11-02T17:09:47+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2016/01/Hostel.png?resize=1076%2C666&#038;ssl=1"
-        },
-        {
-          "title": "‘Obsession’ Director Curry Barker Teases Release of an Extended Cut",
-          "link": "https://bloody-disgusting.com/movie/3974263/obsession-extended-cut-curry-barker/",
-          "description": "The filmmaker says another cut of the movie ran 20 minutes longer. The post ‘Obsession’ Director Curry Barker Teases Release of an Extended Cut appeared first on Bloody Disgusting! .",
-          "date": "2026-11-02T17:08:10+00:00",
-          "image": ""
-        },
-        {
-          "title": "New ‘Ralph’s Perfekt Christmas’ Trailer Unwraps A Bloody Holiday Nightmare Ahead of Screambox Debut",
-          "link": "https://bloody-disgusting.com/exclusives/3974096/new-ralphs-perfekt-christmas-trailer-unwraps-a-bloody-holiday-nightmare-ahead-of-screambox-debut/",
-          "description": "The first trailer for holiday genre-bender Ralph’s Perfekt Christmas belongs on Santa’s Nice list. Our exclusive new trailer is destined for the Naughty list as the desire for a picture-perfect holiday leads to chaos and murder. After releasing in limited theaters over the weekend, Ralph’s Perfekt C",
-          "date": "2026-11-02T17:00:14+00:00",
-          "image": ""
-        },
-        {
-          "title": "The Wheel of Ka: ‘Other World Than These’ Completes Stephen King’s Five-Decade Journey",
-          "link": "https://bloody-disgusting.com/editorials/3974165/the-wheel-of-ka-other-world-than-these-completes-stephen-kings-five-decade-journey/",
-          "description": "When Stephen King first began writing The Dark Tower series, he was a young man of twenty-two. In 1970, four years before publication of his debut novel Carrie, King read Robert Browning’s haunting poem “Childe Roland to the Dark Tower Came” and began the story of a solitary gunslinger named Roland ",
-          "date": "2026-11-02T16:27:02+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2019/03/talisman-stephen-king.png?resize=790%2C474&#038;ssl=1"
-        },
-        {
-          "title": "‘Silent Night, Deadly Night’ – Official Novelization of the Rohan Campbell Movie Releasing This November",
-          "link": "https://bloody-disgusting.com/books/3974240/silent-night-deadly-night-official-novelization-of-the-rohan-campbell-movie-releasing-this-november/",
-          "description": "Released in theaters last year, director Mike P. Nelson’s Silent Night, Deadly Night is getting an official novelization from Cineverse and Bloody Disgusting this coming holiday season! The blood-drenched novelization from splatterpunk legend Shane McKenzie (All You Can Eat, Muerte Con Carne) will b",
-          "date": "2026-11-02T16:26:00+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/SNDN-Novel-Cover-Wrap-scaled.png?resize=2560%2C1832&#038;ssl=1"
-        },
-        {
-          "title": "Exclusive ‘Until Dawn 2’ Gameplay to Debut at Alamo Drafthouse Next Month",
-          "link": "https://bloody-disgusting.com/video-games/3974249/exclusive-until-dawn-2-gameplay-to-debut-at-alamo-drafthouse-next-month/",
-          "description": "Ahead of Until Dawn 2 releasing next year, Sony has announced that they’ll be debuting exclusive gameplay for the Firesprite-developed sequel at the Alamo Drafthouse on December 11. In addition to the gameplay showcase, the event will include “a horror movie marathon” and “special talent appearances",
-          "date": "2026-11-02T16:19:41+00:00",
-          "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f56f.png"
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "Heidi Klum May Have Just Spoiled The Batman II in a Very Roundabout Fashion",
+          "link": "https://www.denofgeek.com/movies/heidi-klum-spoiled-the-batman-ii-halloween-costume/",
+          "description": "The Batman: Part II is arguably the most anticipated comic book movie adaptation in some time, and yet it’s been hit with a volley of issues and delays. Director Matt Reeves briefly paused production due to a family matter, tapping Steven Soderbergh to finish principal photography. The recent Paramo",
+          "date": "2026-11-02T20:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2022/04/Paul-Dano-as-the-Riddler-in-The-Batman.jpg"
+        },
         {
           "title": "The West Wing’s Cheesiness Is Needed Now More Than Ever",
           "link": "https://www.denofgeek.com/tv/the-west-wing-cheesiness-needed-now-more-than-ever/",
@@ -141,19 +148,40 @@
           "description": "Some products seem so bizarre that you would assume someone invented them as a joke. Yet companies have actually manufactured and sold them, sometimes believing they had discovered the next big thing. A few were designed to solve problems nobody really had, while others reflected trends that made pe",
           "date": "2026-11-02T13:30:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/Diseno-sin-titulo-50.jpg"
-        },
-        {
-          "title": "15 Television Workplaces That Would Be an Absolute HR Nightmare",
-          "link": "https://www.denofgeek.com/msn/15-television-workplaces-that-would-be-an-absolute-hr-nightmare/",
-          "description": "Most jobs come with a few annoying coworkers, questionable management decisions, and meetings that could have been emails. Television workplaces take those problems considerably further. Some bosses openly insult their employees, others encourage spectacularly inappropriate behavior, and a few compa",
-          "date": "2026-11-02T13:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-9-2.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "Sidney Prescott Will Return For SCREAM 8, Says Neve Campbell",
+          "link": "https://www.fangoria.com/sidney-prescott-return-scream-8-neve-campbell/",
+          "description": "Hello, Sidney... Neve Campbell confirms that she'll be returning to SCREAM 8. Time to speculate wildly as to why yet another Ghostface (or Ghostfaces) must go after Sidney Prescott.",
+          "date": "2026-11-03T00:28:51+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/Scream-7.avif"
+        },
+        {
+          "title": "From HALLOWEEN to MonsterVision: November and December Horror Comics Coming Soon",
+          "link": "https://www.fangoria.com/horror-comics-november-december-2026/",
+          "description": "Fans of horror comics have plenty of goodies coming their way in November and December. Here are some of the must-read titles ahead of the holiday season.",
+          "date": "2026-11-02T21:00:41+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/novemberdecemberhorrorcomics.jpg"
+        },
+        {
+          "title": "THE TOWN THAT TAKES Reimagines An Unsettling American Legend",
+          "link": "https://www.fangoria.com/the-town-that-takes-trailer/",
+          "description": "Watch the trailer for THE TOWN THAT TAKES, a new supernatural thriller that reimagines an infamous American legend.",
+          "date": "2026-11-02T20:45:07+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/Photo-Oct-27-2026-16-12-19-9-1-scaled.jpg"
+        },
+        {
+          "title": "GAMES WE PLAY: Fitting In Has Never Been Harder In New Psychological Horror",
+          "link": "https://www.fangoria.com/games-we-play-movie/",
+          "description": "RIVERDALE's Casey Cott stars in GAMES WE PLAY, a new psychological thriller from Vertical Entertainment premiering next month.",
+          "date": "2026-11-02T20:32:06+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/Games-We-Play.png-copy.jpg"
+        },
         {
           "title": "BEWARE BOÍUNA Slithers To Home Video This Week",
           "link": "https://www.fangoria.com/beware-boiuna-digital-blu-ray-release-date/",
@@ -195,34 +223,6 @@
           "description": "Welcome the long nights (and even longer watchlists) with our pick of the best 4K and Blu-ray releases hitting shelves this November.",
           "date": "2026-11-01T18:00:15+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/20220714114537000000IMG20220714114246-1536x807-1-e1791827836301.jpg"
-        },
-        {
-          "title": "Admit It: Paris Hilton Was Perfectly Cast in REPO! THE GENETIC OPERA",
-          "link": "https://www.fangoria.com/repo-the-genetic-opera-paris-hilton-perfectly-cast/",
-          "description": "Paris Hilton exclusively told FANGORIA what Amber Sweet from REPO! THE GENETIC OPERA means to her, and we're returning the favor.",
-          "date": "2026-10-31T19:00:55+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/MV5BMWIxMmIzNjItMmM3My00NzQzLWJhMTYtMTAwN2ZiMDkyNGMzXkEyXkFqcGc@._V1_.jpg"
-        },
-        {
-          "title": "How Patrick Stewart Saved Jeremy Saulnier’s GREEN ROOM",
-          "link": "https://www.fangoria.com/patrick-stewart-saved-green-room/",
-          "description": "One of Patrick Stewart's best performances was as the villain of Jeremy Saulnier's GREEN ROOM, and the director honored the late-actor by telling a surprise audience how Stewart saved the film from shutting down.",
-          "date": "2026-10-31T17:51:50+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/green-room-patrick-stewart.avif"
-        },
-        {
-          "title": "Titan Casket Unleashes UNIVERSAL MONSTERS Urn Collection With David Dastmalchian",
-          "link": "https://www.fangoria.com/universal-monsters-titan-casket-urns/",
-          "description": "FANGORIA is proud to exclusively reveal that Titan Casket, UNIVERSAL MONSTERS, and Fango fave David Dastmalchian have joined forces to give us all the coolest way to spend eternity with a new urn collection.",
-          "date": "2026-10-31T12:00:17+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Titan-x-Universal-Monsters_Black-and-White-scaled.png"
-        },
-        {
-          "title": "The Pleasure And Pain Of Revisiting The Entire HELLRAISER Franchise",
-          "link": "https://www.fangoria.com/hellraiser-franchise-retrospective/",
-          "description": "With a hot new video game and a board game on the way, it's time to revisit the entire HELLRAISER franchise.",
-          "date": "2026-10-30T22:00:35+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/Pinhead-and-his-Cenobites-from-Hellraiser-1987-scaled-e1633624166953.webp"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Sony Wants You to Trade In Your PS5 for $400 if You're Not Using It",
+          "link": "https://www.pushsquare.com/news/2026/11/sony-wants-you-to-trade-in-your-ps5-for-usd400-if-youre-not-using-it",
+          "description": "Circulate those systems. Sony is sending out notifications to PS5 players in the US, encouraging them to trade-in their console for cash if they’re not using it. The programme – which runs through a third-party named Back Market – promises up to $400 for a base PS5 console with two DualSense control",
+          "date": "2026-11-03T00:00:00+00:00",
+          "image": "https://images.pushsquare.com/e967e47b19e22/large.jpg"
+        },
+        {
           "title": "Poll: Which PS5 Games Did You Buy During the Insane Pre-GTA 6 Rush?",
           "link": "https://www.pushsquare.com/features/poll-which-ps5-games-did-you-buy-during-the-insane-pre-gta-6-rush",
           "description": "Spoilt for choice. Over the last couple of months, we've been subjected to one of the most packed release schedules in recent memory — and it's all been GTA 6's fault. The now imminent launch of Rockstar's world-beater changed everything when it was first announced. Publishers from across the globe ",
@@ -441,13 +448,6 @@
           "description": "We're on version 02.000.003 now. Here's a quick one: Saros developer Housemarque has today updated the PS5 exclusive and issued version 02.000.003, available to download now. It's a very simple set of patch notes that predominantly focuses on bug fixes, like issues in the Overlord Rush mode and prob",
           "date": "2026-11-02T12:30:00+00:00",
           "image": "https://images.pushsquare.com/dd266f9a67224/large.jpg"
-        },
-        {
-          "title": "Guide: These 28+ PS5 and PS Plus Games Are Coming Out This Week (2nd-8th November)",
-          "link": "https://www.pushsquare.com/guides/these-28plus-ps5-and-ps-plus-games-are-coming-out-this-week-2nd-8th-november",
-          "description": "Godzilla: Destroy All Monsters! CRYMELIGHT! Zero Parades! We’re fast approaching the GTA 6 evacuation zone, so expect the number of new releases to dip dramatically in November. There are some noteworthy titles this time, though, with highlights including the PS5 version of Zero Parades as well as A",
-          "date": "2026-11-02T12:15:00+00:00",
-          "image": "https://images.pushsquare.com/79d1f80a87960/large.jpg"
         }
       ]
     },
