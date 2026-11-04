@@ -1,9 +1,16 @@
 {
-  "updated": "2026-11-03T23:05:53.446553+00:00",
+  "updated": "2026-11-04T03:08:02.842066+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Smile,’ ‘Sleepy Hollow,’ and ‘A Quiet Place’ Join Hellbreak TCG",
+          "link": "https://bloody-disgusting.com/movie/3974534/smile-sleepy-hollow-a-quiet-place-hellbreak-tcg/",
+          "description": "One of the most popular recent initiatives in the entertainment industry is the shared universe. Marvel Studios has arguably perfected the concept, as the movies and TV shows in the Marvel Cinematic Universe regularly overlap with one another in major and minor ways. Previously, though, it was the h",
+          "date": "2026-11-03T23:17:44+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Hellbreak-A-Quiet-Place-Sleepy-Hollow-Cards-scaled.png?resize=2560%2C832&#038;ssl=1"
+        },
         {
           "title": "Exclusive ‘Attack of the Killer Tomatoes’ Sequel BTS Featurette Celebrates Universal Horror Unleashed Takeover",
           "link": "https://bloody-disgusting.com/news/3974506/attack-of-the-killer-tomatoes-organic-intelligence-featurette-universal-horror-unleashed-takeover/",
@@ -66,19 +73,26 @@
           "description": "Filmmaker Paul W.S. Anderson has been a popular conversation topic in the last few months, namely because he has directed a number of Resident Evil movies before Zach Cregger took a crack at the series. While Anderson has fully cemented his place in the legacy of that franchise, there’s another over",
           "date": "2026-11-03T19:03:14+00:00",
           "image": ""
-        },
-        {
-          "title": "‘The Thing In The Hall’ To Star KaDee Strickland, Booboo Stewart & Milo Hutton",
-          "link": "https://bloody-disgusting.com/movie/3974443/the-thing-in-the-hall-to-star-kadee-strickland-booboo-stewart-milo-hutton/",
-          "description": "Milo Hutton (The Night Agent), Booboo Stewart (Twilight franchise), and KaDee Strickland (The Grudge, Anacondas: The Hunt for the Blood Orchid) are set to star in psychological horror movie The Thing in the Hall, Deadline reports today. Filming is underway now on The Thing in the Hall, the feature d",
-          "date": "2026-11-03T18:51:53+00:00",
-          "image": ""
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "VisionQuest Finally Introduces the Very First Marvel Hero",
+          "link": "https://www.denofgeek.com/tv/visionquest-finally-introduces-very-first-marvel-hero/",
+          "description": "This article contains spoilers for VisionQuest season 1 episode 7. In the MCU, the first superhero is effectively Iron Man. Sure, Nick Fury tells him he isn’t the first at the end of the 2008 movie, and we know that Captain Marvel, the Eternals, and others predate him. But for all intents and purpos",
+          "date": "2026-11-04T02:01:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/VisionQuest.jpg"
+        },
+        {
+          "title": "VisionQuest Episode 7 Review: Viz Didn’t Start the Fire",
+          "link": "https://www.denofgeek.com/tv/visionquest-episode-7-review/",
+          "description": "This article contains spoilers for VisionQuest season 1 episode 7. Thus far, VisionQuest has been a good show, but definitely a flawed one. Its strongest asset has been its compelling cast, actors who would be captivating on screen no matter what they’re doing. Even better, the sludgy CGI environmen",
+          "date": "2026-11-04T02:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/James-Spader-and-Paul-Bettany-in-VisionQuest-2.jpg"
+        },
         {
           "title": "Why Naruto Can Break The Live-Action Anime Curse",
           "link": "https://www.denofgeek.com/movies/why-naruto-can-break-the-live-action-anime-curse/",
@@ -134,20 +148,6 @@
           "description": "Television has given us countless unforgettable characters, iconic finales, and shows that people still quote decades later. But what about the series that once had everyone talking and somehow disappeared from the conversation? Some had impressive casts, unusual premises, or surprisingly devoted au",
           "date": "2026-11-03T14:15:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/Diseno-sin-titulo-4.jpg"
-        },
-        {
-          "title": "5 Great Movie Presidents to Restore Your Faith in Democracy",
-          "link": "https://www.denofgeek.com/movies/great-movie-presidents-restore-faith-in-democracy/",
-          "description": "No matter where you fall on the political spectrum, nobody feels particularly great about midterm elections. If you’re for the incumbent party, then you’re probably feeling some trepidation, because the opposition party tends to do well in midterms. If you’re with the opposition, you’re probably mad",
-          "date": "2026-11-03T14:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/Independence-Day.jpg"
-        },
-        {
-          "title": "15 Signs That Accidentally Say Something Hilarious",
-          "link": "https://www.denofgeek.com/msn/15-signs-that-accidentally-say-something-hilarious/",
-          "description": "Signs are supposed to give clear instructions, share useful information, or keep people out of trouble. But sometimes a badly placed word, an unfortunate combination of phrases, or a tiny grammatical mistake turns an ordinary message into comedy gold. The best part is that nobody seems to have inten",
-          "date": "2026-11-03T14:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/Diseno-sin-titulo-3.jpg"
         }
       ]
     },
@@ -380,6 +380,34 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Dragon's Dogma 2 Is Getting Anime Crossover Updates Now, So Start Praying for Berserk",
+          "link": "https://www.pushsquare.com/news/2026/11/dragons-dogma-2-is-getting-anime-crossover-updates-now-so-start-praying-for-berserk",
+          "description": "Delicious in Dungeon comes to the RPG. Dragon's Dogma 2 players have had a damn good run over the last few months, and Capcom doesn't appear to be ceasing support for its open world RPG anytime soon. Having released the excellent Dark Arisen expansion in October — and reviving the title's popularity",
+          "date": "2026-11-04T03:00:00+00:00",
+          "image": "https://images.pushsquare.com/8b013487af126/large.jpg"
+        },
+        {
+          "title": "PS Store Black Friday Sale Live Now with 2,200+ PS5 Discounts",
+          "link": "https://www.pushsquare.com/news/2026/11/ps-store-black-friday-sale-live-now-with-2200plus-ps5-discounts",
+          "description": "Here are some of the best PS5 deals. Sony has announced its big PS Store sale for Black Friday will begin tomorrow, 4th November 2026. It's promising \"thousands\" of deals across PS5 and PS4 titles, and it's even shared a list of a few of the standout games that'll be discounted. We don't know how mu",
+          "date": "2026-11-04T00:30:00+00:00",
+          "image": "https://images.pushsquare.com/58b02a8eb91ab/large.jpg"
+        },
+        {
+          "title": "Ubisoft One of Multiple Companies to Bid for Dishonored Dev Arkane",
+          "link": "https://www.pushsquare.com/news/2026/11/ubisoft-one-of-multiple-companies-to-bid-for-dishonored-dev-arkane",
+          "description": "At least three bids for Arkane Studios. Ubisoft is one of multiple companies to submit a bid for Dishonored team Arkane Studios, as Microsoft looks to offload the developer in the coming weeks. That's according to Bloomberg journalist Jason Schreier, who claims that at least two other gaming firms h",
+          "date": "2026-11-04T00:15:00+00:00",
+          "image": "https://images.pushsquare.com/55a8453931009/large.jpg"
+        },
+        {
+          "title": "Try One of 2026's Best PS5 Games on PS Plus Premium Now",
+          "link": "https://www.pushsquare.com/news/2026/11/try-one-of-2026s-best-ps5-games-on-ps-plus-premium-now",
+          "description": "Give 007 First Light a go today. The selection of limited-time Game Trials available to PS Plus Premium subscribers has been updated today with a PS5 banger: 007 First Light . The new James Bond simulator from IO Interactive is available to play for 60 minutes on the top tier of the membership servi",
+          "date": "2026-11-04T00:00:00+00:00",
+          "image": "https://images.pushsquare.com/1c434a6a864c3/large.jpg"
+        },
+        {
           "title": "The Elder Scrolls 6: Sentinel Is Still 'At Least Two Years Away' as Disappointment Follows New Trailer",
           "link": "https://www.pushsquare.com/news/2026/11/the-elder-scrolls-6-sentinel-is-still-at-least-two-years-away-as-disappointment-follows-new-trailer",
           "description": "The sands of time. If you thought that the re-reveal for The Elder Scrolls 6: Sentinel was signalling some kind of blowout in the relatively near future, then I've got bad news for you. Reiterating that the finished game is still a long way off, the ever-informative Jason Schreier made things clear ",
@@ -420,34 +448,6 @@
           "description": "David Sears explains. South of Midnight is the latest title from Compulsion Games, a studio that used to be under Microsoft's umbrella before it reclaimed its independence earlier this year . It seemingly underperformed, even with ports to other platforms, including PS5, just under a year after its ",
           "date": "2026-11-03T16:00:00+00:00",
           "image": "https://images.pushsquare.com/c8bbee1c4cc74/large.jpg"
-        },
-        {
-          "title": "Skyrim's Successor Finally Re-Revealed as The Elder Scrolls 6: Sentinel",
-          "link": "https://www.pushsquare.com/news/2026/11/skyrims-successor-finally-re-revealed-as-the-elder-scrolls-6-sentinel",
-          "description": "Bethesda unveils its next RPG. It's official: The Elder Scrolls 6: Sentinel is the full title of Bethesda's next open world RPG. The subtitle has been announced as part of the developer's 40th anniversary celebrations. Confirmation comes via a very brief trailer at the end of the company's new video",
-          "date": "2026-11-03T15:30:00+00:00",
-          "image": "https://images.pushsquare.com/936316ed90ab1/large.jpg"
-        },
-        {
-          "title": "GTA 6 PS5 File Size Confirmed to Be 212GB, Physical Map Available But Not in Boxed Copies",
-          "link": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-file-size-confirmed-to-be-212gb-physical-map-available-but-not-in-boxed-copies",
-          "description": "Preload brought forward two days. Rockstar Games has today shared more details on the launch of GTA 6 , across both its digital and physical versions on PS5. Rumoured last week via a social media account, it has now been confirmed that GTA 6 requires 212GB of space to be downloaded and installed. Yo",
-          "date": "2026-11-03T15:15:00+00:00",
-          "image": "https://images.pushsquare.com/a971f917e63c0/large.jpg"
-        },
-        {
-          "title": "Sony Seemingly Winding Down PSVR2 Sales, Gone from USA Store",
-          "link": "https://www.pushsquare.com/news/2026/11/sony-seemingly-winding-down-psvr2-sales-gone-from-usa-store",
-          "description": "Nowhere to be seen on PlayStation Direct. Sony may be taking steps to wind down sales of its PSVR2 headset, as it's been spotted that the VR device is no longer being sold through some of its official regional outlets and at third-party retailers. For a few weeks now, fans have been picking up on th",
-          "date": "2026-11-03T14:45:00+00:00",
-          "image": "https://images.pushsquare.com/582e81bcdd6cb/large.jpg"
-        },
-        {
-          "title": "Sony Commits to China Hero Project with Further Investment into Promising PS5 Games",
-          "link": "https://www.pushsquare.com/news/2026/11/sony-commits-to-china-hero-project-with-further-investment-into-promising-ps5-games",
-          "description": "Many titles getting an additional $1 million. While the vast majority of its four million sales have no doubt been made on PC, Sony’s enjoying a big win with the console exclusive Phantom Blade Zero right now. And at a press conference in Shanghai earlier today, it recommitted to its ongoing China H",
-          "date": "2026-11-03T13:30:00+00:00",
-          "image": "https://images.pushsquare.com/94e98dbf3a362/large.jpg"
         }
       ]
     },
