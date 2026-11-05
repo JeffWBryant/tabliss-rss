@@ -1,9 +1,16 @@
 {
-  "updated": "2026-11-05T00:15:37.020901+00:00",
+  "updated": "2026-11-05T07:14:34.842547+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Inde Navarrette Hosted “Saturday Night Live” and the Episode Was the Most Watched This Season",
+          "link": "https://bloody-disgusting.com/tv/3974748/inde-navarrette-hosted-saturday-night-live-and-the-episode-was-the-most-watched-this-season/",
+          "description": "The breakout star in the horror genre for the year 2026 was unquestionably Inde Navarrette, whose incredible performance in Obsession is likely to be part of the awards conversation next year. As “Freaky Nikki,” Navarrette is a huge part of why Curry Barker’s film scared up $525 million at the world",
+          "date": "2026-11-05T00:42:28+00:00",
+          "image": ""
+        },
         {
           "title": "‘Clayface’ Passes ‘The Substance’ to Become the Top-Grossing Body-Horror Movie of All Time",
           "link": "https://bloody-disgusting.com/movie/3974743/clayface-box-office-beats-the-substance-body-horror/",
@@ -66,19 +73,19 @@
           "description": "As hard as it seems to believe now, Backrooms was a major gamble by A24. Even though the concept of the Backrooms has a longstanding following, courtesy of the various creepypasta developed over the years, it doesn’t have the same brand recognition as a video game, novels, or comics. Making the gamb",
           "date": "2026-11-04T20:29:56+00:00",
           "image": ""
-        },
-        {
-          "title": "‘Obsession’s Inde Navarrette Debunks Fan Rumor About Nikki’s Look in Film’s Finale",
-          "link": "https://bloody-disgusting.com/movie/3974636/obsession-inde-navarrette-nikki-ending-hair-scalped-sarah-explained/",
-          "description": "Part of what made Inde Navarrette‘s performance in Obsession so compelling is that, early on in the film, she’s delightful and endearing, making it easy to see how characters in her orbit could develop feelings for her. Then, by the end of the experience, she goes to disturbing and deranged lengths ",
-          "date": "2026-11-04T19:40:47+00:00",
-          "image": ""
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "Kyle MacLachlan Talks The Lowdown Return, His New Book, And Shopping With Patrick Stewart",
+          "link": "https://www.denofgeek.com/tv/kyle-maclachlan-the-lowdown-new-book-patrick-stewart/",
+          "description": "It was always the plan to bring Kyle MacLachlan back to The Lowdown in season 2. Series creator Sterlin Harjo just needed to find an entry point that made sense. MacLachlan’s character, Donald Washberg, had a complete arc in season 1. Seeking to block Ethan Hawke’s Lee Raybon Jr. as he tried to make",
+          "date": "2026-11-05T03:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/TLD_S2_205_0208_r.jpg"
+        },
         {
           "title": "The Magic: The Gathering Movie Is Getting One Thing Right Out The Gate",
           "link": "https://www.denofgeek.com/games/magic-the-gathering-movie-maya-hawke-cast/",
@@ -141,13 +148,6 @@
           "description": "Laziness is not a word any outside observer would prescribe to Martin McDonagh. The 56-year-old British-Irish filmmaker won an Oscar for his very first short film, 2004’s “Six Shooter,” and has been nominated many times since, both for screenwriting and direction via features like Three Billboards O",
           "date": "2026-11-04T14:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/John-Malkovich-and-Sam-Rockwell-in-Wild-Horse-Nine.jpg"
-        },
-        {
-          "title": "15 Projects Where We Think the Acting Was Better Than the Writing",
-          "link": "https://www.denofgeek.com/msn/15-projects-where-we-think-the-acting-was-better-than-the-writing/",
-          "description": "Sometimes a movie or television show has everything it needs to work, except a script that can keep up with its cast. The performances are convincing, the chemistry is there, and certain actors deliver moments that feel far more interesting than the material surrounding them. It can be frustrating w",
-          "date": "2026-11-04T14:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/5_437485.jpg"
         }
       ]
     },
