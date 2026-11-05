@@ -1,84 +1,105 @@
 {
-  "updated": "2026-11-05T15:43:48.506620+00:00",
+  "updated": "2026-11-05T21:51:50.073914+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
         {
-          "title": "‘Godzilla: Destroy All Monsters Melee Remastered’ Review: An Atomic, Cheesy Fun Blast from the Past",
-          "link": "https://bloody-disgusting.com/video-games/3974770/godzilla-destroy-all-monsters-melee-remastered-review-an-atomic-cheesy-fun-blast-from-the-past/",
-          "description": "Though its origins may lie in post-war anxieties, fears of nuclear annihilation, protestations about man’s scientific overreach, and all sorts of heady political themes, it didn’t take long for Toho’s “Monster Cinematic Universe” to significantly tone down all that weightiness and pivot towards a ne",
-          "date": "2026-11-05T15:18:32+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/damm01.jpg?resize=900%2C580&#038;ssl=1"
-        },
-        {
-          "title": "Universal Orlando’s Dark Universe Teases All-New Universal Monsters Indoor Coaster Coming Soon",
-          "link": "https://bloody-disgusting.com/the-further/3974808/universal-orlandos-dark-universe-teases-all-new-indoor-coaster-coming-soon/",
-          "description": "It was back in May of last year that Universal Studios Orlando opened up the brand new Universal Epic Universe theme park, which features the Universal Monsters-themed land known as the Dark Universe. One of five themed lands within the park, the Dark Universe provides an “ominous and chilling exper",
-          "date": "2026-11-05T15:12:42+00:00",
+          "title": "Tim Robbins And Giancarlo Esposito Join Wyatt Russell’s Monsterverse Series",
+          "link": "https://bloody-disgusting.com/tv/3974899/tim-robbins-and-giancarlo-esposito-join-wyatt-russells-monsterverse-series/",
+          "description": "The Wyatt Russell–led Monsterverse series may not have an official title yet, but Variety reports that it did just add two A-listers in guest-starring roles: Tim Robbins (Castle Rock, Jacob’s Ladder) and Giancarlo Esposito (Abigail). Character details remain under wraps, of course, but the actors jo",
+          "date": "2026-11-05T21:24:41+00:00",
           "image": ""
         },
         {
-          "title": "Funko Releasing New Ghost Face Toy Wearing a Day of the Dead Mask",
-          "link": "https://bloody-disgusting.com/toys/3974800/funko-releasing-new-ghost-face-toy-wearing-a-day-of-the-dead-mask/",
-          "description": "In the Scream movies, Ghost Face is of course known for wearing a traditional white mask, but the character has the freedom to get a little crazy outside the world of the movies. The rights holders over at Fun World have been releasing all kinds of wacky Ghost Face merchandise in recent years, inclu",
-          "date": "2026-11-05T14:45:54+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/61wje1iDo3L._AC_SL1300_.jpg?resize=800%2C1183&#038;ssl=1"
-        },
-        {
-          "title": "Time-Loop Horror Title ‘Clairvoyage: The Lighthouse’ Tasks You With Prevent a Shipwreck [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3974761/time-loop-horror-title-clairvoyage-the-lighthouse-tasks-you-with-prevent-a-shipwreck-trailer/",
-          "description": "Certainly not to be confused with Robert Eggers‘ film, the debut title from Finnish solo studio Volpe Software in Clairvoyage: The Lighthouse is available now on Steam. The short time-loop horror puzzle game strands players on a stormy island at night, where the lighthouse has gone dark and a ship i",
-          "date": "2026-11-05T14:30:19+00:00",
+          "title": "‘Hyena’: ‘Sabrina’s Kiernan Shipka Joins New Thriller Executive Produced by Late David Lynch",
+          "link": "https://bloody-disgusting.com/movie/3974896/hyena-movie-david-lynch-kiernan-shipka/",
+          "description": "It’s hard to overstate just how strong of a legacy David Lynch created for himself throughout his career. With every project he released, he pushed the boundaries of what was possible in movies and TV and he failed to let himself be contained to only one genre. Whether it be Eraserhead, Blue Velvet,",
+          "date": "2026-11-05T21:22:12+00:00",
           "image": ""
         },
         {
-          "title": "John Constantine Movie for DC Being Written By ‘Evil Dead Wrath’ Director Francis Galluppi",
-          "link": "https://bloody-disgusting.com/movie/3974780/john-constantine-movie-for-dc-being-written-by-evil-dead-wrath-director-francis-galluppi/",
-          "description": "There have been rumors about a new John Constantine movie for the last several years, and it looks like the project is finally taking shape at DC. Deadline reports that DC has hired Evil Dead Wrath director Francis Galluppi to write the screenplay for Constantine’s big screen return. Deadline notes,",
-          "date": "2026-11-05T13:52:14+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2025/02/Constantine-2.jpg?resize=1296%2C730&#038;ssl=1"
-        },
-        {
-          "title": "New Developer Video for ‘Lords of the Fallen II’ Relishes in Combat Overhaul [Watch]",
-          "link": "https://bloody-disgusting.com/video-games/3974757/new-developer-video-for-lords-of-the-fallen-ii-relishes-in-combat-overhaul-watch/",
-          "description": "With Lords of the Fallen II now getting ready for release next year, developer Hexworks and publisher CI Games are still keeping fans in the loop with their ongoing development series, “Lifting the Veil.” The latest episode details a major overhaul to the game’s combat system. Incorporating player f",
-          "date": "2026-11-05T12:30:41+00:00",
+          "title": "‘Obsession’s Curry Barker Wants to Make a “F-cked Up” R-Rated Version of ‘Indiana Jones’",
+          "link": "https://bloody-disgusting.com/movie/3974884/indiana-jones-r-rated-curry-barker-obsession/",
+          "description": "The critical acclaim and financial dominance of Curry Barker‘s Obsession has opened up a number of doors for him, making it seem as though he could pursue any project he was interested in. It’s one thing to make a buzzed-about movie, but it’s an entirely different thing to make such a movie outside ",
+          "date": "2026-11-05T20:36:14+00:00",
           "image": ""
         },
         {
-          "title": "Inde Navarrette Hosted “Saturday Night Live” and the Episode Was the Most Watched This Season",
-          "link": "https://bloody-disgusting.com/tv/3974748/inde-navarrette-hosted-saturday-night-live-and-the-episode-was-the-most-watched-this-season/",
-          "description": "The breakout star in the horror genre for the year 2026 was unquestionably Inde Navarrette, whose incredible performance in Obsession is likely to be part of the awards conversation next year. As “Freaky Nikki,” Navarrette is a huge part of why Curry Barker’s film scared up $525 million at the world",
-          "date": "2026-11-05T00:42:28+00:00",
+          "title": "Godzilla Is Stomping Into ‘Apex Legends’ For Crossover Event Next Week",
+          "link": "https://bloody-disgusting.com/video-games/3974885/godzilla-is-stomping-into-apex-legends-for-crossover-event-next-week/",
+          "description": "Godzilla is stomping back into theaters this weekend in sequel Godzilla Minus Zero, but you’ll also be able to battle in the destruction left in Godzilla’s wake next week with a special Apex Legends crossover event. The Godzilla event comes to the battle royale shooter in Wildcard Mode on November 1",
+          "date": "2026-11-05T20:24:30+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/APEX_Legends_S31_Screenshots_Hopscotch_16x9-3.jpg?resize=1024%2C576&#038;ssl=1"
+        },
+        {
+          "title": "‘The Crow’: Bill Skarsgård Shares the Career Lesson He Learned From Making the Reboot",
+          "link": "https://bloody-disgusting.com/movie/3974877/the-crow-reboot-bill-skarsgard-reaction-response/",
+          "description": "We live in a day and age where anything that was previously proven to be successful gets revived, rebooted, or reimagined in some capacity. At this point, such adaptations aren’t even limited to projects that were confirmed successes, and we even see experiences that were underwhelming on first rele",
+          "date": "2026-11-05T19:48:30+00:00",
           "image": ""
         },
         {
-          "title": "‘Clayface’ Passes ‘The Substance’ to Become the Top-Grossing Body-Horror Movie of All Time",
-          "link": "https://bloody-disgusting.com/movie/3974743/clayface-box-office-beats-the-substance-body-horror/",
-          "description": "The DC Studios movie surpassed the Oscar-winning movie's box office in just two weeks. The post ‘Clayface’ Passes ‘The Substance’ to Become the Top-Grossing Body-Horror Movie of All Time appeared first on Bloody Disgusting! .",
-          "date": "2026-11-04T23:34:37+00:00",
+          "title": "Paul Bettany To Star Opposite Steven Yeun In Netflix’s ‘Pagans’",
+          "link": "https://bloody-disgusting.com/tv/3974874/paul-bettany-to-star-opposite-steven-yeun-in-netflixs-pagans/",
+          "description": "Paul Bettany (VisionQuest, Legion) is set to lead opposite Steven Yeun (Nope, The Walking Dead) in Pagans, Netflix‘s upcoming supernatural drama, Deadline reports this afternoon. Also starring in the series are Sabine Grace, Logan Kim (Ghostbusters: Afterlife), Marin Ireland (The Boogeyman, The Dark",
+          "date": "2026-11-05T19:26:09+00:00",
           "image": ""
         },
         {
-          "title": "‘The Hunchback, Soul of Paris’: Netflix’s Dark Revival of ‘The Hunchback of Notre Dame’ Releases Trailer",
-          "link": "https://bloody-disgusting.com/movie/3974735/the-hunchback-soul-of-paris-netflix-trailer-notre-dame-reboot/",
-          "description": "Arguably the most famous adaptation of Victor Hugo‘s The Hunchback of Notre Dame is the one released by Disney, with that animated adaptation featuring a number of memorable musical numbers. While Disney’s take on the material had its tragic elements, it was a far cry from the grim subject matter of",
-          "date": "2026-11-04T22:58:17+00:00",
+          "title": "First Look at ‘American Horror Story’ and ‘The Pitt’ Stars in Supernatural Thriller ‘Portrait’",
+          "link": "https://bloody-disgusting.com/movie/3974872/portrait-movie-finn-wittrock-supriya-ganesh/",
+          "description": "One of the biggest shows of the last 15 years is American Horror Story, which just wrapped up its epic Season 13 in a narrative that brought back a number of beloved characters from the show’s history. While it hasn’t had quite as long of a tenure, one of the more recent shows that has […] The post ",
+          "date": "2026-11-05T19:01:26+00:00",
           "image": ""
         },
         {
-          "title": "Psychosexual Horror ‘Violet’ From ‘Creep’ Director To Star Lili Reinhart, Mark Duplass, Lukas Gage And More",
-          "link": "https://bloody-disgusting.com/movie/3974733/psychosexual-horror-violet-from-creep-director-to-star-lili-reinhart-mark-duplass-lukas-gage-and-more/",
-          "description": "Creep franchise originator/director Patrick Brice is getting psychosexual with new horror movie Violet, and Variety reports it’s already lining up an in-demand cast that includes Creep star and co-writer Mark Duplass. Lili Reinhart (Forbidden Fruits, “Riverdale“), Danny Ramirez (“The Last of Us“, No",
-          "date": "2026-11-04T22:45:38+00:00",
+          "title": "Union for Arkane Lyon Accuses Microsoft of “Sabotaging” ‘Marvel’s Blade’",
+          "link": "https://bloody-disgusting.com/video-games/3974767/union-for-arkane-lyon-accuses-microsoft-of-sabotaging-marvels-blade/",
+          "description": "The saga that is Arkane Lyon and their reportedly still-in-development adaptation of Marvel’s Blade has another twist to it. After reports last month that claimed that the game was still alive and close to being complete, word now is that the French union representing workers at Arkane Lyon has accu",
+          "date": "2026-11-05T18:30:03+00:00",
           "image": ""
+        },
+        {
+          "title": "‘Twisted Metal’ Star Anthony Mackie Confirms Season 3 Officially Wrapped Filming",
+          "link": "https://bloody-disgusting.com/news/3974853/twisted-metal-anthony-mackie-season-3-wrapped/",
+          "description": "Ever since the ’90s, movies that brought iconic video games to life didn’t really have to accomplish anything other than using the recognizable title of the game and including some nods to the source material and audiences were satiated. Filmmakers didn’t seem to be too concerned with how closely th",
+          "date": "2026-11-05T18:16:30+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Godzilla Minus Zero’ – Epic Final Trailer Unleashes King Ghidorah",
+          "link": "https://bloody-disgusting.com/movie/3974858/godzilla-minus-zero-epic-final-trailer-unleashes-king-ghidorah/",
+          "description": "Director Takashi Yamazaki’s Godzilla Minus Zero, a sequel to his own hit Godzilla Minus One, is now playing in theaters nationwide, and the FINAL TRAILER has arrived in celebration. For the first time in the movie’s official marketing, this final trailer spills the beans that King Ghidorah is Godzil",
+          "date": "2026-11-05T18:09:22+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/HT89SO8bsAMrZVz-scaled-1-1.jpg?resize=1050%2C1536&#038;ssl=1"
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "How Ryan Gosling’s Ghost Rider Can Be Meaningfully Different From Nicolas Cage’s",
+          "link": "https://www.denofgeek.com/movies/ryan-gosling-ghost-rider-different-nicolas-cage/",
+          "description": "The new Ghost Rider movie has many hurdles to overcome. Not only is it slated to release in the same year as the upcoming X-Men reboot and the conclusion to Ryan Coogler’s Black Panther trilogy, but it’s also dealing with the fact that two other actors have previously held the Spirit of Vengeance ti",
+          "date": "2026-11-05T19:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2021/10/Ghost-Rider-Agents-of-SHIELD.jpg"
+        },
+        {
+          "title": "James Bond: 5 Qualities the Next 007 Star Must Have",
+          "link": "https://www.denofgeek.com/movies/james-bond-5-qualities-next-007-star-must-have/",
+          "description": "His name is Bond. James Bond. Whose name? We’re not sure about that part yet. Ever since Daniel Craig definitively left the part at the end of 2021’s No Time to Die, rumors have swirled around who would next wield the Walther PPK. They’ve only intensified since longtime rights-holders Eon Production",
+          "date": "2026-11-05T18:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2023/10/Bond-Collage.jpg"
+        },
+        {
+          "title": "The Underrated Story the New Constantine Movie Needs to Adapt",
+          "link": "https://www.denofgeek.com/movies/underrated-story-new-constantine-movie-needs-adapt/",
+          "description": "DC fans received a spooky surprise last night when it was announced that a new movie focused on John Constantine is in the works. The Hellblazer’s live-action track record has been a roller coaster, with Keanu Reeves playing Constantine in a 2005 movie that is strangely defended as a cult classic (I",
+          "date": "2026-11-05T17:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2021/08/matt-ryan-john-constantine-legends-of-tomorrow-season-6-episode-14.jpg"
+        },
         {
           "title": "18 Movies Where We Might as Well Just Ignore the Ending",
           "link": "https://www.denofgeek.com/msn/19-movies-where-we-might-as-well-just-ignore-the-ending/",
@@ -127,33 +148,33 @@
           "description": "Sometimes knowing a little behind-the-scenes information completely changes the way you watch a movie. A seemingly ordinary scene might hide a clever detail, an actor might have improvised a moment that made it into the final cut, or a tiny background element could reveal something you completely mi",
           "date": "2026-11-05T13:30:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/Diseno-sin-titulo-10.jpg"
-        },
-        {
-          "title": "15 Scientific Discoveries That Deserved More Excitement Than People Gave Them",
-          "link": "https://www.denofgeek.com/msn/15-scientific-discoveries-that-deserved-more-excitement-than-people-gave-them/",
-          "description": "Some scientific breakthroughs are easy to miss because they don't come with a dramatic photograph or a rocket launch. Researchers can spend decades solving a problem, publish the results, and go right back to work while the rest of us barely notice. Reddit users recently discussed discoveries they t",
-          "date": "2026-11-05T13:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/5_993848.jpg"
-        },
-        {
-          "title": "15 Random Photos That Hopefully Help You Learn Something",
-          "link": "https://www.denofgeek.com/msn/15-random-photos-that-hopefully-help-you-learn-something/",
-          "description": "You can learn some pretty strange things just by looking at photographs. A rock in the desert might have moved hundreds of feet without anyone touching it. An ordinary-looking piece of bronze could turn out to be part of a 2,000-year-old machine. And somewhere underwater, an octopus is carrying arou",
-          "date": "2026-11-05T13:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/4_9b784b.jpg"
-        },
-        {
-          "title": "15 Classic Films Modern Audiences Would Be too Dumb to Understand",
-          "link": "https://www.denofgeek.com/msn/15-classic-films-modern-audiences-would-be-too-dumb-to-understand/",
-          "description": "Imagine watching a movie where nobody explains the ending, the main character might be lying, and half the important details are buried in conversations you barely noticed. Plenty of classic films worked that way, and audiences have been arguing about them for decades. Some directors preferred long ",
-          "date": "2026-11-05T12:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/3_e5f4c1.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "YELLOWJACKETS Prepares For Final Impact In New Season 4 Trailer",
+          "link": "https://www.fangoria.com/yellowjackets-new-season-4-trailer/",
+          "description": "Watch the new trailer for Season 4 of YELLOWJACKETS, which returns one last time on November 20.",
+          "date": "2026-11-05T17:34:31+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/Yellowjackets_S4_DS_0616_0489_RT.jpg"
+        },
+        {
+          "title": "Sydney Sweeney’s SLEEPY HOLLOW Movie Finds Its Ichabod Crane",
+          "link": "https://www.fangoria.com/hollow-movie-nicholas-galitzine/",
+          "description": "Sydney Sweeney's SLEEPY HOLLOW movie has cast one of its most important characters: Ichabod Crane. Get all the details here.",
+          "date": "2026-11-05T17:19:11+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/sleepy-hollow_D1q1KT.jpg"
+        },
+        {
+          "title": "Indie Horror Smash FRANKIE, MANIAC WOMAN Is Getting An Extremely Limited Blu-Ray",
+          "link": "https://www.fangoria.com/frankie-maniac-woman-blu-ray-exclusive/",
+          "description": "FRANKIE, MANIAC WOMAN is getting a very limited edition Blu-ray, and we've got the exclusive first look at the killer new cover art.",
+          "date": "2026-11-05T16:30:55+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/Blu-Ray-Artwork-Reveal-e1793825442507.jpg"
+        },
         {
           "title": "7 Giant Monster Movies To Watch After Godzilla Minus Zero",
           "link": "https://www.fangoria.com/7-giant-monster-movies-watch-godzilla-minus-zero/",
@@ -202,33 +223,54 @@
           "description": "Sarah Bolger stars in the new Korean psychological horror NERVOUS, about a woman cursed by a mysterious vinyl record.",
           "date": "2026-11-04T17:48:54+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/11/Nervous-SarahBolger-1.jpg-copy.jpg"
-        },
-        {
-          "title": "Sam Raimi Sponsors New Horror Short Film Award",
-          "link": "https://www.fangoria.com/sam-raimi-horror-short-film-award/",
-          "description": "EVIL DEAD and SEND HELP director Sam Raimi is sponsoring a new award for horror short film creators, offering $25,000 in prize money.",
-          "date": "2026-11-04T17:33:51+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/Sam_Raimi_53896379405.jpg"
-        },
-        {
-          "title": "THE BLAIR WITCH PROJECT Stars Break Down The Legacy Of Their Landmark Found-Footage Masterpiece",
-          "link": "https://www.fangoria.com/the-blair-witch-project-reunion-exclusive/",
-          "description": "THE BLAIR WITCH PROJECT stars look back on what made the film such a success. “It was certainly part of a moment in time that we will never get back,\" says Heather Donahue.",
-          "date": "2026-11-04T16:45:01+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/images.jpg"
-        },
-        {
-          "title": "The First Ever Official LEGO GODZILLA Set Is Here",
-          "link": "https://www.fangoria.com/lego-godzilla-set-details/",
-          "description": "The MonsterVerse Godzilla has finally been brought to life as a massive LEGO set and we’ve got all the juicy details right here.",
-          "date": "2026-11-03T20:08:59+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/Lego3-e1793736513449.jpg"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "PlayStation 6 Gets Promising Development Update From Sony",
+          "link": "https://www.playstationlifestyle.net/2026/11/05/sony-next-playstation-console-development-update",
+          "description": "Sony has provided a promising update on the development of the PlayStation 6's development ahead of its launch. The post PlayStation 6 Gets Promising Development Update From Sony appeared first on PlayStation LifeStyle .",
+          "date": "2026-11-05T21:47:53+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/10.jpg?w=1024"
+        },
+        {
+          "title": "Supernatural PS5 Western RPG Finally Gets Console Release Date",
+          "link": "https://www.playstationlifestyle.net/2026/11/05/hard-west-2-ps5-release-date",
+          "description": "Ice Code Games' 2022 RPG Hard West 2 brings its supernatural Wild West setting and turn-based tactical combat to PS5 this year. The post Supernatural PS5 Western RPG Finally Gets Console Release Date appeared first on PlayStation LifeStyle .",
+          "date": "2026-11-05T20:11:33+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/Supernatural-PS5-Western-RPG-Finally-Gets-Console-Release-Date.jpg?w=1024"
+        },
+        {
+          "title": "Mysterious PS5 Adventure Game Is Out Today on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/11/05/light-black-cat-amnesia-girl-ps5-release",
+          "description": "A mysterious PS5 adventure game is heading to the PlayStation Store today. The post Mysterious PS5 Adventure Game Is Out Today on PlayStation Store appeared first on PlayStation LifeStyle .",
+          "date": "2026-11-05T17:38:26+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/cc.jpg?w=1024"
+        },
+        {
+          "title": "PS5 Pro Enhanced Action-Adventure Game Gets New Game+ & Progression Upgrade Today",
+          "link": "https://www.playstationlifestyle.net/2026/11/05/assassins-creed-valhalla-ps5-pro-new-game-plus-update",
+          "description": "A popular action-adventure game has received a free update for PlayStation 5 and PlayStation 5 Pro. The update adds new content and permanent improvements that players can access starting November 5, 2026. Assassin’s Creed Valhalla has received a free upgrade from Ubisoft, called “Title Update 1.8.0",
+          "date": "2026-11-05T17:05:04+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/4.jpg?w=1024"
+        },
+        {
+          "title": "Dark PS5 Action RPG Is Out Today on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/11/05/kingdom-of-night-ps5-release-playstation-store",
+          "description": "PlayStation Store has added an 80s-inspired supernatural horror game to its catalog today, November 5, 2026. The action RPG originally launched on PC last year and received positive reviews. Kingdom of Night is now available on the PlayStation Store. PS5 users can grab the single-player title for $1",
+          "date": "2026-11-05T16:53:19+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/Deepesh-personal-1200-_-675-2026-11-05T221711.103.png?w=1024"
+        },
+        {
+          "title": "2026 PS5 GOTY Contender Gets Free Demo on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/11/05/007-first-light-ps5-free-demo-starter-pack",
+          "description": "IO Interactive's critically acclaimed action game is getting a free demo on the PlayStation Store for PS5 owners. The post 2026 PS5 GOTY Contender Gets Free Demo on PlayStation Store appeared first on PlayStation LifeStyle .",
+          "date": "2026-11-05T16:31:56+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/2026-PS5-GOTY-Contender-Gets-Free-Demo-on-PlayStation-Store.jpg?w=1024"
+        },
         {
           "title": "Gripping PS5 Pro Enhanced Action-Adventure Game Is 85% Off on PlayStation Store",
           "link": "https://www.playstationlifestyle.net/2026/11/04/control-ultimate-edition-ps5-pro-85-percent-off",
@@ -256,48 +298,6 @@
           "description": "The awaited God of War game’s PS5 launch has been pushed back. The action-packed title was announced earlier this year during the State of Play broadcast. Santa Monica Studio‘s official account recently revealed a message with an “update regarding God of War Laufey’s release date.” The developer has",
           "date": "2026-11-04T19:23:30+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/god-of-war.jpg?w=1024"
-        },
-        {
-          "title": "Brutal PS5 Soulslike Doubles Weapon Movesets in Major Combat Overhaul",
-          "link": "https://www.playstationlifestyle.net/2026/11/04/lords-of-the-fallen-ii-combat",
-          "description": "The team behind a Soulslike currently in development overhauled its combat system. The development team revealed this update in a YouTube devlog. Independent developer CI Games, credited with making Lords of the Fallen, has revealed the major changes made to the sequel. The development series, calle",
-          "date": "2026-11-04T17:25:10+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/Lords-of-the-Fallen-II-combat.jpg?w=1024"
-        },
-        {
-          "title": "Explosive PS5 Shooter Is Out Today on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/11/04/void-breaker-ps5-playstation-store-release-november-4",
-          "description": "A roguelite first-person shooter title has arrived on the PlayStation Store. The post Explosive PS5 Shooter Is Out Today on PlayStation Store appeared first on PlayStation LifeStyle .",
-          "date": "2026-11-04T16:29:18+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/vd.jpg?w=1024"
-        },
-        {
-          "title": "PS4 DC Action Game Is 90% Off on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/11/04/lego-dc-super-villains-ps4-deal",
-          "description": "The PlayStation Store is offering a massive price cut on a PS4 DC action game. Released by Warner Bros. Interactive, LEGO DC Super-Villains is currently 90% off on the PS Store. The action game is a spin-off of the LEGO Batman series, and its price has dropped from its original launch price of $59.9",
-          "date": "2026-11-04T16:10:43+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/LEGO-DC-Super-Villains-PS4-deal.jpg?w=1024"
-        },
-        {
-          "title": "PS Plus Premium Members Get Bonus Freebie for November 2026",
-          "link": "https://www.playstationlifestyle.net/2026/11/04/ps-plus-bonus-free-game-trial-november-2026",
-          "description": "PS Plus Premium members can enjoy a bonus freebie for November 2026, which is a pleasant surprise considering what’s on offer. One of 2026’s best new games, 007 First Light, now has a free full game trial available for Deluxe/Premium subscribers, and it’s worth checking out. PS Plus Premium drops ho",
-          "date": "2026-11-04T15:19:09+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/10/ps-plus-november.jpg?w=1024"
-        },
-        {
-          "title": "Major New PS5 Exclusive Game Already Discounted on PS Store",
-          "link": "https://www.playstationlifestyle.net/2026/11/04/marvels-wolverine-ps-store-deal-november-2026",
-          "description": "A major month-old PS5 exclusive action adventure game is already discounted in a rare PS Store deal. Marvel’s Wolverine Digital Deluxe Edition has received a hefty discount for a first-party exclusive, and players have until November 21 to snag it. Marvel’s Wolverine Digital Deluxe Edition PS Store ",
-          "date": "2026-11-04T14:47:35+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/wolverine-ps-store-deal.jpg?w=1024"
-        },
-        {
-          "title": "Games Leaving PS Plus in December May Include Day-One Hit",
-          "link": "https://www.playstationlifestyle.net/2026/11/04/games-leaving-ps-plus-december-2026-predictions",
-          "description": "In the coming weeks, Sony will reveal the full list of games leaving PS Plus Extra and Premium in December 2026, and we’re back with our monthly predictions for upcoming departures based on the service’s pattern. Those who still haven’t started last year’s day-one drop, Skate Story, are advised to d",
-          "date": "2026-11-04T14:25:24+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2024/08/games-leaving-ps-plus-extra-premium.jpg?w=1024"
         }
       ]
     },
@@ -305,7 +305,7 @@
       "url": "https://blog.playstation.com/feed/",
       "articles": [
         {
-          "title": "Assassin’s Creed Valhalla: new update brings New Game+, upgraded PSSR support for PS5 Pro today",
+          "title": "Assassin’s Creed Valhalla: new update brings New Game Plus, upgraded PSSR support for PS5 Pro today",
           "link": "https://blog.playstation.com/2026/11/05/assassins-creed-valhalla-new-update-brings-new-game-upgraded-pssr-support-for-ps5-pro-today/",
           "description": "Assassin’s Creed Valhalla: The Most Requested Update, a free update bringing several player-requested and quality-of-life features to the game, is live today on PlayStation 5 and PlayStation 5 Pro. The update has new content, a progression update, and more, including: The new PSSR update is exclusiv",
           "date": "2026-11-05T14:00:38+00:00",
@@ -380,6 +380,27 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "There's Demand to Remake Final Fantasy 6 from Within Square Enix, Says Series Boss",
+          "link": "https://www.pushsquare.com/news/2026/11/theres-demand-to-remake-final-fantasy-6-from-within-square-enix-says-series-boss",
+          "description": "A Terra-ble idea? Could a remake of Final Fantasy 6 happen at some point? The idea's been floating around for a while, but we're now, apparently, at a point where Square Enix employees want to see it. This is according to series veteran and current brand manager Yoshinori Kitase, who specifically no",
+          "date": "2026-11-05T18:30:00+00:00",
+          "image": "https://images.pushsquare.com/59fa0298976ed/large.jpg"
+        },
+        {
+          "title": "Opinion: Hey, That Hellraiser: Revival Game Is Pretty Good",
+          "link": "https://www.pushsquare.com/features/opinion-hey-that-hellraiser-revival-game-is-pretty-good",
+          "description": "Liam finds fun in AA horror. For as much as I love the horror genre, I've never seen a Hellraiser film. If they're as fun to watch as Hellraiser: Revival is to play, though, then maybe I need to catch up. Since we've got The Legend of Zelda: Ocarina of Time and GTA 6 right around the corner (I'm now",
+          "date": "2026-11-05T17:30:00+00:00",
+          "image": "https://images.pushsquare.com/5d26e6003d31d/large.jpg"
+        },
+        {
+          "title": "Stellar Blade's Free Bayonetta Crossover Outfits Are Available Now on PS5, PC",
+          "link": "https://www.pushsquare.com/news/2026/11/stellar-blades-free-bayonetta-crossover-outfits-are-available-now-on-ps5-pc",
+          "description": "Witch will you pick? Action game royalty has officially arrived in Sony and ShiftUp's fan favourite hack-and-slasher, Stellar Blade . The sci-fi action title has been updated with a selection of new outfits for Eve, all inspired by SEGA's beloved Bayonetta series. They're freely available to all pla",
+          "date": "2026-11-05T16:30:00+00:00",
+          "image": "https://images.pushsquare.com/77be64defb24a/large.jpg"
+        },
+        {
           "title": "Rockstar Reveals Even More GTA 6 Screenshots as PS5 Release Draws Closer",
           "link": "https://www.pushsquare.com/news/2026/11/rockstar-reveals-even-more-gta-6-screenshots-as-ps5-release-draws-closer",
           "description": "Check them all out here. You're exactly two weeks away from playing GTA 6 . To celebrate the fact, developer Rockstar has shared another batch of screenshots that are designed to showcase Vice City at its best, and the world beyond. Take a look below at a whopping 37 new screenshots: Read the full a",
@@ -427,27 +448,6 @@
           "description": "\"I'm no hero\". Sony has officially confirmed sales figures for Marvel's Wolverine for the first time, as part of its recent financial update . According to the report, the PS5 exclusive superhero action adventure has sold 2.4 million units as of 4th November, 2026. Read the full article on pushsquar",
           "date": "2026-11-05T11:00:00+00:00",
           "image": "https://images.pushsquare.com/524730263b2ab/large.jpg"
-        },
-        {
-          "title": "PS5 Closing in on 100 Million Sales as Gradual Drop-Off Continues",
-          "link": "https://www.pushsquare.com/news/2026/11/ps5-closing-in-on-100-million-sales-as-gradual-drop-off-continues",
-          "description": "That's another 2.6 million PS5 consoles sold. Sony sold another 2.6 million PS5 consoles during the second quarter of its 2026 fiscal year , bringing the total number of systems sold to 97.9 million. It should surpass the 100 million sales milestone by the end of the next fiscal report, but the down",
-          "date": "2026-11-05T09:45:00+00:00",
-          "image": "https://images.pushsquare.com/5e3434f9ce8ec/large.jpg"
-        },
-        {
-          "title": "No Disc, No Buy and PS5 Blackout Protests Fail to Impact PlayStation",
-          "link": "https://www.pushsquare.com/news/2026/11/no-disc-no-buy-and-ps5-blackout-protests-fail-to-impact-playstation",
-          "description": "Active users increases, digital sales percentage increases. Sony has published its financial report for the Q2 period of fiscal year 2026, the stretch of time in which some PS5 fans took a stand against PlayStation decisions of recent years to make their frustrations heard. After years of proposed d",
-          "date": "2026-11-05T09:00:00+00:00",
-          "image": "https://images.pushsquare.com/d0d4d44c753c4/large.jpg"
-        },
-        {
-          "title": "Bethesda Will Sell You Elder Scrolls 6: Sentinel T-Shirts and Hoodies, Even Though It Hasn't Shown the Game",
-          "link": "https://www.pushsquare.com/news/2026/11/bethesda-will-sell-you-elder-scrolls-6-sentinel-t-shirts-and-hoodies-even-though-it-hasnt-shown-the-game",
-          "description": "$35 for the t-shirt, $65 for the hoodie. You won't play The Elder Scrolls VI: Sentinel for at least another two years, Bloomberg journalist Jason Schreier claims , but that's not stopping Bethesda from selling you something today: merchandise. Yes, not a single second of gameplay — or any actual foo",
-          "date": "2026-11-05T00:00:00+00:00",
-          "image": "https://images.pushsquare.com/d9d8ec5f4ccf2/large.jpg"
         }
       ]
     },
