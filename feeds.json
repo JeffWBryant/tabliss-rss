@@ -1,9 +1,23 @@
 {
-  "updated": "2026-11-05T21:51:50.073914+00:00",
+  "updated": "2026-11-06T02:08:19.431741+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘John Wick’ Animated Prequel With Keanu Reeves Officially Moving Forward",
+          "link": "https://bloody-disgusting.com/movie/3974910/john-wick-keanu-reeves-return-animated-prequel/",
+          "description": "The John Wick franchise has been a revolutionary force in the world of action-thriller cinema for just over a decade. When the debut film was released, Keanu Reeves was already an action superstar, though after the conclusion of The Matrix trilogy, subsequent action movies failed to replicate the he",
+          "date": "2026-11-05T23:40:31+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Beetlejuice 3’: Sequel Writers Doubt Third Movie Will Ever Happen After Catherine O’Hara’s Passing",
+          "link": "https://bloody-disgusting.com/movie/3974906/beetlejuice-3-plans-chances-catherine-o-hara-writers/",
+          "description": "Tim Burton‘s Beetlejuice is about as perfect as a movie can get. From the concept to the script to the direction to the performances to the production design to the music, you’d be hard pressed to find any element of the movie that could have been improved to make for a more satisfying experience. G",
+          "date": "2026-11-05T23:25:00+00:00",
+          "image": ""
+        },
         {
           "title": "Tim Robbins And Giancarlo Esposito Join Wyatt Russell’s Monsterverse Series",
           "link": "https://bloody-disgusting.com/tv/3974899/tim-robbins-and-giancarlo-esposito-join-wyatt-russells-monsterverse-series/",
@@ -59,20 +73,6 @@
           "description": "The saga that is Arkane Lyon and their reportedly still-in-development adaptation of Marvel’s Blade has another twist to it. After reports last month that claimed that the game was still alive and close to being complete, word now is that the French union representing workers at Arkane Lyon has accu",
           "date": "2026-11-05T18:30:03+00:00",
           "image": ""
-        },
-        {
-          "title": "‘Twisted Metal’ Star Anthony Mackie Confirms Season 3 Officially Wrapped Filming",
-          "link": "https://bloody-disgusting.com/news/3974853/twisted-metal-anthony-mackie-season-3-wrapped/",
-          "description": "Ever since the ’90s, movies that brought iconic video games to life didn’t really have to accomplish anything other than using the recognizable title of the game and including some nods to the source material and audiences were satiated. Filmmakers didn’t seem to be too concerned with how closely th",
-          "date": "2026-11-05T18:16:30+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Godzilla Minus Zero’ – Epic Final Trailer Unleashes King Ghidorah",
-          "link": "https://bloody-disgusting.com/movie/3974858/godzilla-minus-zero-epic-final-trailer-unleashes-king-ghidorah/",
-          "description": "Director Takashi Yamazaki’s Godzilla Minus Zero, a sequel to his own hit Godzilla Minus One, is now playing in theaters nationwide, and the FINAL TRAILER has arrived in celebration. For the first time in the movie’s official marketing, this final trailer spills the beans that King Ghidorah is Godzil",
-          "date": "2026-11-05T18:09:22+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/HT89SO8bsAMrZVz-scaled-1-1.jpg?resize=1050%2C1536&#038;ssl=1"
         }
       ]
     },
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Best New Horror Movies To Stream At Home",
+          "link": "https://www.fangoria.com/best-new-horror-movies-to-stream-at-home/",
+          "description": "Don't miss our new list for November with a new home for OBSESSION, TINSMAN ROAD, THE FIRST OMEN, and a new Yûta Shimotsu movie to warm your fall nights with fright at FANGORIA.",
+          "date": "2026-11-06T00:50:20+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/07/MV5BYmQ1ZDRkMzItZmI5Yi00NzI5LWEzZGQtYzAzMjBjMTYwNjdlXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
           "title": "YELLOWJACKETS Prepares For Final Impact In New Season 4 Trailer",
           "link": "https://www.fangoria.com/yellowjackets-new-season-4-trailer/",
           "description": "Watch the new trailer for Season 4 of YELLOWJACKETS, which returns one last time on November 20.",
@@ -216,19 +223,19 @@
           "description": "Sosie Bacon and Daisy Ridley are set to play sisters in the new road trip horror film GET RID OF IT. Get all the details here.",
           "date": "2026-11-04T18:04:20+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2025/02/Sosie_Bacon_-_Smile_death.webp"
-        },
-        {
-          "title": "A Vinyl Record Plays Out A Curse In Korean Psychological Horror NERVOUS",
-          "link": "https://www.fangoria.com/nervous-sarah-bolger/",
-          "description": "Sarah Bolger stars in the new Korean psychological horror NERVOUS, about a woman cursed by a mysterious vinyl record.",
-          "date": "2026-11-04T17:48:54+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/Nervous-SarahBolger-1.jpg-copy.jpg"
         }
       ]
     },
     "PlayStation Lifestyle": {
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
+        {
+          "title": "PS5 Action Game Gets Free Bayonetta Crossover DLC",
+          "link": "https://www.playstationlifestyle.net/2026/11/05/ps5-action-game-gets-free-bayonetta-crossover-dlc",
+          "description": "A PlayStation 5 action game has crossed over with an iconic Sega classic. The post PS5 Action Game Gets Free Bayonetta Crossover DLC appeared first on PlayStation LifeStyle .",
+          "date": "2026-11-05T23:13:41+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/sb.jpg?w=1024"
+        },
         {
           "title": "PlayStation 6 Gets Promising Development Update From Sony",
           "link": "https://www.playstationlifestyle.net/2026/11/05/sony-next-playstation-console-development-update",
@@ -291,13 +298,6 @@
           "description": "PS5 fans can finally enjoy a beautiful action RPG more than a year after its original launch. Developed by Netmarble Neo and published by Netmarble, the game is now out on the PlayStation Store. Solo Leveling: Arise Overdrive is now available for PlayStation 5 owners on the PS Store. The role-playin",
           "date": "2026-11-04T20:31:41+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/13.jpg?w=1024"
-        },
-        {
-          "title": "New God of War Game’s Release Date Gets Delayed, Statement Given",
-          "link": "https://www.playstationlifestyle.net/2026/11/04/god-of-war-laufey-ps5-release-delayed-may-2027",
-          "description": "The awaited God of War game’s PS5 launch has been pushed back. The action-packed title was announced earlier this year during the State of Play broadcast. Santa Monica Studio‘s official account recently revealed a message with an “update regarding God of War Laufey’s release date.” The developer has",
-          "date": "2026-11-04T19:23:30+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/god-of-war.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Petition to Save Mass Effect Dev BioWare to Be Considered by Canada's Government",
+          "link": "https://www.pushsquare.com/news/2026/11/petition-to-save-mass-effect-dev-bioware-to-be-considered-by-canadas-government",
+          "description": "Paragon action. A petition to save BioWare is set to be presented before the Canadian government. The country's law states that any public petition with at least 500 signatures must be added to the House's agenda — and this fan-driven effort has amassed over 2,300 at the time of writing. Read the fu",
+          "date": "2026-11-06T00:00:00+00:00",
+          "image": "https://images.pushsquare.com/bb7ca20638f92/large.jpg"
+        },
+        {
           "title": "There's Demand to Remake Final Fantasy 6 from Within Square Enix, Says Series Boss",
           "link": "https://www.pushsquare.com/news/2026/11/theres-demand-to-remake-final-fantasy-6-from-within-square-enix-says-series-boss",
           "description": "A Terra-ble idea? Could a remake of Final Fantasy 6 happen at some point? The idea's been floating around for a while, but we're now, apparently, at a point where Square Enix employees want to see it. This is according to series veteran and current brand manager Yoshinori Kitase, who specifically no",
@@ -441,13 +448,6 @@
           "description": "Update from Sony CFO Lin Tao. Work on the PS6 and the next console generation as a whole is currently \"progressing as scheduled\" at PlayStation, it's been confirmed. Speaking alongside the release of Sony's latest quarterly financial results , CFO Lin Tao said the company is on track to deliver its ",
           "date": "2026-11-05T12:00:00+00:00",
           "image": "https://images.pushsquare.com/b2b0b93d98e0f/large.jpg"
-        },
-        {
-          "title": "PS5 Exclusive Marvel's Wolverine Off to a Soft Start, 2.4 Million Copies Sold to Date",
-          "link": "https://www.pushsquare.com/news/2026/11/ps5-exclusive-marvels-wolverine-off-to-a-soft-start-2-4-million-copies-sold-to-date",
-          "description": "\"I'm no hero\". Sony has officially confirmed sales figures for Marvel's Wolverine for the first time, as part of its recent financial update . According to the report, the PS5 exclusive superhero action adventure has sold 2.4 million units as of 4th November, 2026. Read the full article on pushsquar",
-          "date": "2026-11-05T11:00:00+00:00",
-          "image": "https://images.pushsquare.com/524730263b2ab/large.jpg"
         }
       ]
     },
