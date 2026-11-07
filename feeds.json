@@ -1,9 +1,16 @@
 {
-  "updated": "2026-11-07T15:51:19.052521+00:00",
+  "updated": "2026-11-07T20:04:03.160903+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Ranking Every Major Slasher Remake Of The Early 2000s",
+          "link": "https://bloody-disgusting.com/editorials/3974469/ranking-the-2000s-slasher-remakes/",
+          "description": "There’s nothing inherently wrong with remakes. Updating classic stories for a new generation is a time-honored tradition that human beings have been partaking in since the dawn of storytelling itself. However, not all remakes are created equal. During the 2000s, genre fans experienced an especially ",
+          "date": "2026-11-07T16:00:08+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/09/a-nightmare-on-elm-street-reboot-freddy-krueger-jackie-earle-haley.jpg?resize=1024%2C576&#038;ssl=1"
+        },
         {
           "title": "Stephen King’s ‘1408’ Getting Sequel With Original Director and Stars Returning",
           "link": "https://bloody-disgusting.com/movie/3975061/1408-stephen-king-sequel-elijah-wood-john-cusack/",
@@ -66,13 +73,6 @@
           "description": "Good Boy filmmaker Ben Leonberg has been set to direct and co-write a film adaptation of the horror novella Look Out, Variety reports today. Look Out, written by Dan Baillie with art by Tim Bradstreet, was released in May 2025 as the first installment in Vertigo and AWA’s “Future of Fear” partnershi",
           "date": "2026-11-06T19:39:09+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Look-Out-cover.jpg?resize=801%2C1024&#038;ssl=1"
-        },
-        {
-          "title": "‘Escape From Jurassic Park’: Scrapped Animated Series Sizzle Reel Lands Online 33 Years Later",
-          "link": "https://bloody-disgusting.com/movie/3975014/escape-from-jurassic-park-sizzle-reel-animated-series/",
-          "description": "Back in the summer of 1993, you couldn’t look anywhere without being reminded of Jurassic Park. We’re not complaining, as the Steven Spielberg adaptation of the Michael Crichton novel is a verified masterpiece, as the filmmaker managed to take what could have been B-movie schlock and turned it into ",
-          "date": "2026-11-06T19:28:43+00:00",
-          "image": ""
         }
       ]
     },
@@ -155,6 +155,20 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "We Need To Talk About The Most Horrific Part Of GODZILLA MINUS ZERO",
+          "link": "https://www.fangoria.com/godzilla-minus-zero-most-horrific-scene/",
+          "description": "Director Takashi Yamazaki is back and he made the most of the R-rating and bigger budget in GODZILLA MINUS ZERO.",
+          "date": "2026-11-07T18:00:29+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/FangoTopper.jpg"
+        },
+        {
+          "title": "The Existential Nightmares of Larry Fessenden and TRAUMA, OR MONSTERS ALL",
+          "link": "https://www.fangoria.com/larry-fessenden-interview-trauma-or-monsters-all/",
+          "description": "Larry Fessenden is one of the most important independent filmmakers of the last forty years and we spoke with the living legend about his legacy in honor of his latest film, TRAUMA, OR MONSTERS ALL.",
+          "date": "2026-11-07T17:00:51+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/Trauma-OR-MONSTERS-ALL-05_21_25-26-e1793996420775.webp"
+        },
+        {
           "title": "Free Horror Movies Streaming This Month",
           "link": "https://www.fangoria.com/free-horror-movies-streaming-this-month/",
           "description": "GREEN ROOM, FRESH, ANGEL HEART, MOTHER!, and THE INTRUDER are the most unhinged (complementary) scary movie choices that are streaming for free this month. Dating, marriage and pregnancy, and dangerous work environments are all represented on the list at FANGORIA.",
@@ -209,20 +223,6 @@
           "description": "Watch the new trailer for Season 4 of YELLOWJACKETS, which returns one last time on November 20.",
           "date": "2026-11-05T17:34:31+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/11/Yellowjackets_S4_DS_0616_0489_RT.jpg"
-        },
-        {
-          "title": "Sydney Sweeney’s SLEEPY HOLLOW Movie Finds Its Ichabod Crane",
-          "link": "https://www.fangoria.com/hollow-movie-nicholas-galitzine/",
-          "description": "Sydney Sweeney's SLEEPY HOLLOW movie has cast one of its most important characters: Ichabod Crane. Get all the details here.",
-          "date": "2026-11-05T17:19:11+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/sleepy-hollow_D1q1KT.jpg"
-        },
-        {
-          "title": "Indie Horror Smash FRANKIE, MANIAC WOMAN Is Getting An Extremely Limited Blu-Ray",
-          "link": "https://www.fangoria.com/frankie-maniac-woman-blu-ray-exclusive/",
-          "description": "FRANKIE, MANIAC WOMAN is getting a very limited edition Blu-ray, and we've got the exclusive first look at the killer new cover art.",
-          "date": "2026-11-05T16:30:55+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/Blu-Ray-Artwork-Reveal-e1793825442507.jpg"
         }
       ]
     },
@@ -389,7 +389,7 @@
         {
           "title": "GTA 6's PS5 Physical Edition Revealed in First Photo",
           "link": "https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo",
-          "description": "Code-in-box. An image of GTA 6’s physical edition has emerged on Reddit , ahead of its release later in the month. The anticipated open world game – which won’t include a disc – looks practically identical to every other PS5 release, in a sealed blue plastic case with the usual logos and layout. Rea",
+          "description": "Code-in-box. Images of GTA 6’s physical edition have emerged on Reddit , ahead of its release later in the month. The anticipated open world game – which won’t include a disc – looks practically identical to every other PS5 release, in a sealed blue plastic case with the usual logos and layout. Read",
           "date": "2026-11-07T15:00:00+00:00",
           "image": "https://images.pushsquare.com/22fef94b93cd7/large.jpg"
         },
