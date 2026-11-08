@@ -1,9 +1,16 @@
 {
-  "updated": "2026-11-08T13:05:35.909080+00:00",
+  "updated": "2026-11-08T18:26:35.649562+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Godzilla Minus Zero’ Hits All-Time Highest U.S. Opening for a Live Action International Movie",
+          "link": "https://bloody-disgusting.com/movie/3975071/godzilla-minus-zero-hits-all-time-highest-u-s-opening-for-a-live-action-international-movie/",
+          "description": "Director Takashi Yamazaki’s Godzilla Minus Zero is off to a massive start at the box office, with the film already smashing through a massive box office record in its debut weekend. Godzilla Minus Zero is looking to roar its way to a massive $31.6 million opening in U.S. theaters, making it the high",
+          "date": "2026-11-08T18:26:03+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/godzilla-minus-zero.jpg?resize=1763%2C992&#038;ssl=1"
+        },
         {
           "title": "Ranking Every Major Slasher Remake Of The Early 2000s",
           "link": "https://bloody-disgusting.com/editorials/3974469/ranking-the-2000s-slasher-remakes/",
@@ -66,13 +73,6 @@
           "description": "The rise of easily accessible indie horror games has provided genre fans with some downright bizarre interactive experiences over the years. From having to escape from a demonic Thomas the Tank Engine knock-off in Choo-Choo Charles to being forced to watch episodes of a haunted children’s cartoon in",
           "date": "2026-11-06T20:11:16+00:00",
           "image": ""
-        },
-        {
-          "title": "‘Good Boy’ Filmmaker To Adapt Horror Novella ‘Look Out’",
-          "link": "https://bloody-disgusting.com/movie/3975015/good-boy-filmmaker-to-adapt-horror-novella-look-out/",
-          "description": "Good Boy filmmaker Ben Leonberg has been set to direct and co-write a film adaptation of the horror novella Look Out, Variety reports today. Look Out, written by Dan Baillie with art by Tim Bradstreet, was released in May 2025 as the first installment in Vertigo and AWA’s “Future of Fear” partnershi",
-          "date": "2026-11-06T19:39:09+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Look-Out-cover.jpg?resize=801%2C1024&#038;ssl=1"
         }
       ]
     },
@@ -155,6 +155,20 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "7 New International Horror Movies To Scare You Silly This November",
+          "link": "https://www.fangoria.com/7-new-international-horror-movies-november-2026/",
+          "description": "November can be tough, but the offerings from around the globe are as strong as ever. Check out these seven new (and restored) international horror movies.",
+          "date": "2026-11-08T18:00:54+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/a-spontaneous-human-pyramid-leads-to-conformity-and-killing-in-new-group-streami-2.webp"
+        },
+        {
+          "title": "Top Horror Movies Streaming This Week",
+          "link": "https://www.fangoria.com/top-horror-movies-streaming-this-week/",
+          "description": "Classic horror films reign supreme this week along with a film just celebrating its tenth anniversary, Jeremy Saulnier's terrifying GREEN ROOM. Find out exactly which four quintessential scary movies took charge this week at FANGORIA.",
+          "date": "2026-11-08T17:48:35+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/green-room-darcy-banker-2015.webp"
+        },
+        {
           "title": "We Need To Talk About The Most Horrific Part Of GODZILLA MINUS ZERO",
           "link": "https://www.fangoria.com/godzilla-minus-zero-most-horrific-scene/",
           "description": "Director Takashi Yamazaki is back and he made the most of the R-rating and bigger budget in GODZILLA MINUS ZERO.",
@@ -209,20 +223,6 @@
           "description": "Too much of a good thing?",
           "date": "2026-11-06T12:00:16+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/11/france-dawn.png"
-        },
-        {
-          "title": "Best New Horror Movies To Stream At Home",
-          "link": "https://www.fangoria.com/best-new-horror-movies-to-stream-at-home/",
-          "description": "Don't miss our new list for November with a new home for OBSESSION, TINSMAN ROAD, THE FIRST OMEN, and a new Yûta Shimotsu movie to warm your fall nights with fright at FANGORIA.",
-          "date": "2026-11-06T00:50:20+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/07/MV5BYmQ1ZDRkMzItZmI5Yi00NzI5LWEzZGQtYzAzMjBjMTYwNjdlXkEyXkFqcGc@._V1_.jpg"
-        },
-        {
-          "title": "YELLOWJACKETS Prepares For Final Impact In New Season 4 Trailer",
-          "link": "https://www.fangoria.com/yellowjackets-new-season-4-trailer/",
-          "description": "Watch the new trailer for Season 4 of YELLOWJACKETS, which returns one last time on November 20.",
-          "date": "2026-11-05T17:34:31+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/Yellowjackets_S4_DS_0616_0489_RT.jpg"
         }
       ]
     },
@@ -380,6 +380,20 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Opinion: Onimusha vs Phantom Blade Zero - The Insane Sword Fight for Game of the Year",
+          "link": "https://www.pushsquare.com/features/opinion-onimusha-vs-phantom-blade-zero-the-insane-sword-fight-for-game-of-the-year",
+          "description": "Looking sharp. Onimusha: Way of the Sword and Phantom Blade Zero are two of the best action games I've played in years. I've always been a sucker for cool sword fights and I'd argue that these two games do sword fights better than almost any other ( Ghost of Tsushima and Ghost of Yotei deserve a big",
+          "date": "2026-11-08T14:00:00+00:00",
+          "image": "https://images.pushsquare.com/09897e2409e0d/large.jpg"
+        },
+        {
+          "title": "God of War Spin-Off Game Seemingly Getting Surprise PS4 Port",
+          "link": "https://www.pushsquare.com/news/2026/11/god-of-war-spin-off-game-seemingly-getting-surprise-ps4-port",
+          "description": "PS4 Spartaaa. God of War: Sons of Sparta , the retro-style Metroidvania by Mega Cat Studios, is seemingly coming to the PS4. The game first launched on the PS5 as a State of Play shadow drop earlier this year . Read the full article on pushsquare.com",
+          "date": "2026-11-08T13:30:00+00:00",
+          "image": "https://images.pushsquare.com/55a80f75aebc9/large.jpg"
+        },
+        {
           "title": "Sony Indefinitely Delays Another PS5 Peripheral Days Before Release",
           "link": "https://www.pushsquare.com/news/2026/11/sony-indefinitely-delays-another-ps5-peripheral-days-before-release",
           "description": "Desktop speakers switched off for now. Sony has indefinitely delayed the PS5’s official Pulse Elevate desktop speakers, which were originally due to deploy days from now, on 12th November. In a brief update on the PS Blog , the manufacturer said that it had “identified a production issue with the pr",
@@ -434,20 +448,6 @@
           "description": "Massive Effect coming next year. In case you missed the news, publisher Electronic Arts recently pulled the plug on one of its most revered studios, BioWare, as part of a wider round of layoffs . The developer, known for its many beloved contributions to the RPG genre, is sadly no more, and the game",
           "date": "2026-11-06T15:30:00+00:00",
           "image": "https://images.pushsquare.com/ba4a9a17860ca/large.jpg"
-        },
-        {
-          "title": "Synth Riders Dropping '80s MixTape: Vice Wave' DLC to Immerse You in Some Neon Dreams",
-          "link": "https://www.pushsquare.com/news/2026/11/synth-riders-dropping-80s-mixtape-vice-wave-dlc-to-immerse-you-in-some-neon-dreams",
-          "description": "What A Tracklist! Barely a couple of weeks after PSVR2 darling Synth Riders dropped a new free song , we've got yet more content on the way. Those not satisfied with the previous ' 80s Mixtape ' drops, we've got an additional third set of tunes to liven up your day. Read the full article on pushsqua",
-          "date": "2026-11-06T15:00:00+00:00",
-          "image": "https://images.pushsquare.com/c1d759c99eeff/large.jpg"
-        },
-        {
-          "title": "Here's What The Expanse: Osiris Reborn's Recast Main Character Looks and Sounds Like",
-          "link": "https://www.pushsquare.com/news/2026/11/heres-what-the-expanse-osiris-reborns-recast-main-character-looks-and-sounds-like",
-          "description": "New face and voice revealed. Developer and publisher Owlcat Games has revealed the new face and voice of the male protagonist in The Expanse: Osiris Reborn . Following negative feedback from fans, the company announced it would be recasting the role and making updates to the character's appearance. ",
-          "date": "2026-11-06T14:30:00+00:00",
-          "image": "https://images.pushsquare.com/093e61b5a2761/large.jpg"
         }
       ]
     },
