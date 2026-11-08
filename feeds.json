@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T18:26:35.649562+00:00",
+  "updated": "2026-11-08T22:23:43.439674+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -7,7 +7,7 @@
         {
           "title": "‘Godzilla Minus Zero’ Hits All-Time Highest U.S. Opening for a Live Action International Movie",
           "link": "https://bloody-disgusting.com/movie/3975071/godzilla-minus-zero-hits-all-time-highest-u-s-opening-for-a-live-action-international-movie/",
-          "description": "Director Takashi Yamazaki’s Godzilla Minus Zero is off to a massive start at the box office, with the film already smashing through a massive box office record in its debut weekend. Godzilla Minus Zero is looking to roar its way to a massive $31.6 million opening in U.S. theaters, making it the high",
+          "description": "Director Takashi Yamazaki’s Godzilla Minus Zero is off to a massive start at the box office, with the film already smashing through a hugely impressive record in its debut weekend. Godzilla Minus Zero is looking to roar its way to a massive $31.6 million opening in U.S. theaters, making it the highe",
           "date": "2026-11-08T18:26:03+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/godzilla-minus-zero.jpg?resize=1763%2C992&#038;ssl=1"
         },
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Check Out The Exclusive First Look At Patricio Valladares’ THE DIVINE COMEDY",
+          "link": "https://www.fangoria.com/the-divine-comedy-exclusive-first-look/",
+          "description": "Abandon all hope, ye who enter here, because hell is about to get a terrifying new interpretation. Check out our exclusive first look at THE DIVINE COMEDY.",
+          "date": "2026-11-08T18:35:02+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/PREMONTATO.00_35_32_04.Immagine122-scaled.jpg"
+        },
+        {
           "title": "7 New International Horror Movies To Scare You Silly This November",
           "link": "https://www.fangoria.com/7-new-international-horror-movies-november-2026/",
           "description": "November can be tough, but the offerings from around the globe are as strong as ever. Check out these seven new (and restored) international horror movies.",
@@ -216,13 +223,6 @@
           "description": "Ahead of the release of VICTORIAN PSYCHO, FANGORIA teamed up with Emily Expeditions to uncover the bizarre, sinister, and downright horrifying realities of Victorian life. Head to the in comments to learn more.",
           "date": "2026-11-06T15:00:39+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/11/victorian-psycho-official-trailer_tyrv.1200.webp"
-        },
-        {
-          "title": "Monstrous Musings: Put Something Else On",
-          "link": "https://www.fangoria.com/monstrous-musings-put-something-else-on/",
-          "description": "Too much of a good thing?",
-          "date": "2026-11-06T12:00:16+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/france-dawn.png"
         }
       ]
     },
