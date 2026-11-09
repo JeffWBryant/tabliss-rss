@@ -1,9 +1,16 @@
 {
-  "updated": "2026-11-09T01:52:18.684317+00:00",
+  "updated": "2026-11-09T09:31:24.965546+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘It: Welcome to Derry’ – “A Story of Derry” Finally Reveals Stephen King’s Hero in a Half Shell [The Losers’ Club Podcast]",
+          "link": "https://bloody-disgusting.com/podcast-news/3975089/it-welcome-to-derry-story-derry/",
+          "description": "What’s this? What’s this? Another season of It: Welcome to Derry on HBO Max? Not so. It’s a bonus episode on a bonus episode, a sweet Halloween treat, called “A Story of Derry” that gives us a deeper look into the origins of Pennywise and a cameo by our favorite Ninja Turtle. Join The Losers’ […] Th",
+          "date": "2026-11-09T02:08:32+00:00",
+          "image": ""
+        },
         {
           "title": "‘Godzilla Minus Zero’ Hits All-Time Highest U.S. Opening for a Live Action International Movie",
           "link": "https://bloody-disgusting.com/movie/3975071/godzilla-minus-zero-hits-all-time-highest-u-s-opening-for-a-live-action-international-movie/",
@@ -66,13 +73,6 @@
           "description": "It was announced back in 2024 that Netflix was turning Stephenie Meyer’s novel Midnight Sun into an animated series, and this week brings an update on the project. Released back in 2020, Midnight Sun retold the story of Twilight from Edward Cullen’s perspective, with a straight-to-series order annou",
           "date": "2026-11-06T21:01:11+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/midnight-sun.jpg?resize=1017%2C1536&#038;ssl=1"
-        },
-        {
-          "title": "Body Horror Meets Model Trains in Bizarre Indie Game ‘Humans Are Tunnels’",
-          "link": "https://bloody-disgusting.com/video-games/3974992/body-horror-meets-model-trains-in-bizarre-indie-game-humans-are-tunnels/",
-          "description": "The rise of easily accessible indie horror games has provided genre fans with some downright bizarre interactive experiences over the years. From having to escape from a demonic Thomas the Tank Engine knock-off in Choo-Choo Charles to being forced to watch episodes of a haunted children’s cartoon in",
-          "date": "2026-11-06T20:11:16+00:00",
-          "image": ""
         }
       ]
     },
@@ -380,6 +380,20 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "2 Upcoming PS Plus Extra Games Announced Early",
+          "link": "https://www.pushsquare.com/news/2026/11/2-upcoming-ps-plus-extra-games-announced-early",
+          "description": "In the Japanese region at least. Sony has revealed two PS5 games that will be joining PS Plus Extra in the coming months. On the Japanese side of the PlayStation Blog , it's confirmed the following additions: Dragon Quest 3 HD-2D Remake (PS5) — From November 2026 Dynasty Warriors: Origins (PS5) — Fr",
+          "date": "2026-11-09T09:30:00+00:00",
+          "image": "https://images.pushsquare.com/0726417440cff/large.jpg"
+        },
+        {
+          "title": "Guide: These 13+ PS5 Games Are Coming Out This Week (9th-15th November)",
+          "link": "https://www.pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-this-week-9th-15th-november",
+          "description": "Shrek 2! Sonic! Barbie! The release schedule has been on fire for a while now, but it's finally started to calm down, with a smaller selection of PS5 and PS4 games arriving this week. In terms of highlights, there's Shrek 2 Remastered , which revives a fan favourite movie tie-in, and Warhammer Survi",
+          "date": "2026-11-09T09:00:00+00:00",
+          "image": "https://images.pushsquare.com/3c8f161a04355/large.jpg"
+        },
+        {
           "title": "Opinion: Onimusha vs Phantom Blade Zero - The Insane Sword Fight for Game of the Year",
           "link": "https://www.pushsquare.com/features/opinion-onimusha-vs-phantom-blade-zero-the-insane-sword-fight-for-game-of-the-year",
           "description": "Looking sharp. Onimusha: Way of the Sword and Phantom Blade Zero are two of the best action games I've played in years. I've always been a sucker for cool sword fights and I'd argue that these two games do sword fights better than almost any other ( Ghost of Tsushima and Ghost of Yotei deserve a big",
@@ -422,13 +436,6 @@
           "image": "https://images.pushsquare.com/22fef94b93cd7/large.jpg"
         },
         {
-          "title": "Guide: These 13+ PS5 Games Are Coming Out Next Week (9th-15th November)",
-          "link": "https://www.pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-9th-15th-november",
-          "description": "Shrek 2! Sonic! Barbie! The release schedule has been on fire for a while now, but it's finally started to calm down, with a smaller selection of PS5 and PS4 games arriving next week. In terms of highlights, there's Shrek 2 Remastered , which revives a fan favourite movie tie-in, and Warhammer Survi",
-          "date": "2026-11-07T12:00:00+00:00",
-          "image": "https://images.pushsquare.com/3c8f161a04355/large.jpg"
-        },
-        {
           "title": "Talking Point: What Are You Playing This Weekend? - Issue 657",
           "link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-657",
           "description": "Killing time. Another week has come to a conclusion, and we are very much in the GTA 6 evacuation zone now. Less than two weeks until Rockstar's sequel, folks. Jamie O'Neill I've only managed about three hours on Lone Survivor: The Director's Cut , so I'll break out the PS Vita, because I can't leav",
@@ -441,13 +448,6 @@
           "description": "As voted by you. Ah, October, otherwise known as the month before GTA 6 . Indeed, it was an incredibly busy 31 days for new PS5 releases, following on from an equally manic September — and that's going to make this latest Game of the Month poll all the more intriguing. Read the full article on pushs",
           "date": "2026-11-06T18:00:00+00:00",
           "image": "https://images.pushsquare.com/ed1d9c5b1769a/large.jpg"
-        },
-        {
-          "title": "Following BioWare Closure, a Documentary About the Legendary Studio Has Been Announced",
-          "link": "https://www.pushsquare.com/news/2026/11/following-bioware-closure-a-documentary-about-the-legendary-studio-has-been-announced",
-          "description": "Massive Effect coming next year. In case you missed the news, publisher Electronic Arts recently pulled the plug on one of its most revered studios, BioWare, as part of a wider round of layoffs . The developer, known for its many beloved contributions to the RPG genre, is sadly no more, and the game",
-          "date": "2026-11-06T15:30:00+00:00",
-          "image": "https://images.pushsquare.com/ba4a9a17860ca/large.jpg"
         }
       ]
     },
