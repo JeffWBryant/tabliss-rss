@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T00:30:11.215865+00:00",
+  "updated": "2026-11-11T07:38:21.159068+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,20 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "VisionQuest Finale: Episode 8 Post-Credits Scene Sets Up A Major Return in Avengers: Doomsday",
+          "link": "https://www.denofgeek.com/tv/visionquest-finale-post-credits-cene-scarlet-witch-return-avengers-doomsday/",
+          "description": "This article contains spoilers for VisionQuest episode 8… and Avengers: Doomsday, believe it or not. The VisionQuest has completed. Let the Children’s Crusade begin. Although billed as the third entry in a trilogy that includes WandaVision and Agatha All Along, VisionQuest has mostly felt pretty dis",
+          "date": "2026-11-11T03:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/Paul-Bettany-and-Ruaridh-Mollica-in-VisionQuest.jpg"
+        },
+        {
+          "title": "VisionQuest Episode 8 Finale Review: Worthwhile Revival Television",
+          "link": "https://www.denofgeek.com/tv/visionquest-episode-8-finale-review/",
+          "description": "This article contains spoilers for VisionQuest season 1 episode 8. Early in the VisionQuest finale “Forever,” our big bad Virgil Horton, points out that his grandfather Phineas’ error in creating a flaming robot called the Human Torch is so infamous, that “You Horton’d it” has become a colloquialism",
+          "date": "2026-11-11T02:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/10/VisionQuest-Ultron.jpg"
+        },
+        {
           "title": "The Future of Mass Effect Is Bigger Than Just Games",
           "link": "https://www.denofgeek.com/games/future-mass-effect-bigger-than-just-games/",
           "description": "On October 21 of this year, Mass Effect fans were sent reeling by the news that EA decided to shutter studio BioWare, meaning that the beloved sci-fi gaming franchise – alongside DragonAge and who knows how many future projects – were brought to an end. In the weeks since the announcement, fans and ",
@@ -134,20 +148,6 @@
           "description": "TV friendships can survive just about anything. Someone dates their best friend's ex, ruins an important relationship, or tells a spectacular lie, and somehow everybody is hanging out again by the next episode. It's great television, but try pulling some of that stuff with your actual friends. Plent",
           "date": "2026-11-10T13:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/4_df1caf.jpg"
-        },
-        {
-          "title": "15 TV Shows That Are Actually Much Worse Than You Remember",
-          "link": "https://www.denofgeek.com/msn/15-tv-shows-that-are-actually-much-worse-than-you-remember/",
-          "description": "Watching an old favorite again can be a little embarrassing. That show you spent years defending suddenly has a whole episode about stolen brains, terrible computer graphics, or someone drinking magical beer. You remember the good stuff, of course. The characters you loved, the jokes you repeated, a",
-          "date": "2026-11-10T12:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024617_-7.jpg"
-        },
-        {
-          "title": "15 People Share the Movie They Secretly Think is Unwatchable",
-          "link": "https://www.denofgeek.com/msn/15-people-share-the-movie-they-secretly-think-is-unwatchable/",
-          "description": "Everyone has that one movie they're apparently supposed to love but just can't stand. Maybe it's a beloved comedy that never gets a laugh, a romance that feels painfully ridiculous, or a blockbuster that everyone insists is a masterpiece. Admitting you dislike certain movies can practically start an",
-          "date": "2026-11-10T12:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024617_-6.jpg"
         }
       ]
     },
@@ -230,6 +230,13 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "PlayStation Portal System Update 7.3.2 Rolling Out Now",
+          "link": "https://www.playstationlifestyle.net/2026/11/10/ps-portal-system-software-update-november-10-11",
+          "description": "Sony Interactive Entertainment is rolling out PS Portal system software update 7.3.2 — the handheld remote player’s third firmware update in less than two months. The latest patch makes unspecified “improvements” ahead of GTA VI‘s launch. PS Portal system software update 7.3.2 patch notes (November ",
+          "date": "2026-11-11T06:11:35+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/03/ps-portal-update.jpg?w=1024"
+        },
+        {
           "title": "PS5 Exclusive Shooter Game Canceled by PlayStation",
           "link": "https://www.playstationlifestyle.net/2026/11/10/ps5-exclusive-shooter-canceled-playstation-fairgames",
           "description": "PlayStation is changing course on one of its major game development projects after reassessing its progress and prospects. The decision comes as the company continues to evaluate which titles are worth pursuing in a competitive gaming market. According to Bloomberg‘s Jason Schreier, PlayStation has ",
@@ -291,13 +298,6 @@
           "description": "GTA VI exclusive upgrades have been announced with its pre-loading announcement. The list notably also includes PS5 Pro specs. According to the latest updates from Rockstar Games, the PlayStation 5 Pro offers breathtaking visuals, with improved clarity through Sony PlayStation Spectral Super Resolut",
           "date": "2026-11-10T16:30:26+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/gta-6-1.jpg?w=1024"
-        },
-        {
-          "title": "PS5 Fantasy Adventure Remaster Sets Release Date & Trailer",
-          "link": "https://www.playstationlifestyle.net/2026/11/10/the-falconeer-revolution-remaster-ps5-release-date",
-          "description": "An underrated aerial combat adventure is making its way to the PlayStation Store. Developed by independent developer Tomas Sala, the upcoming release is a remaster of The Falconeer. The Falconeer: Revolution Remaster is coming to PS5 on December 2, 2026, publisher Wired Productions announced Tuesday",
-          "date": "2026-11-10T16:19:56+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/PS5-Fantasy-Adventure-Remaster-Sets-Release-Date-Trailer.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "'It Felt Like a PowerPoint Deck of Executive Ideas': Beta Testers Share Thoughts on PS5's Cancelled Fairgames",
+          "link": "https://www.pushsquare.com/news/2026/11/it-felt-like-a-powerpoint-deck-of-executive-ideas-beta-testers-share-thoughts-on-ps5s-cancelled-fairgames",
+          "description": "\"It's 100% the right move\". Haven’s heist shooter Fairgames – first announced more than three years ago – has been cancelled , rounding out a rough generation for Sony’s live service ambitions. While we saw very little of the game publicly, a trailer for a title named Project Espresso emerged in Sep",
+          "date": "2026-11-11T01:00:00+00:00",
+          "image": "https://images.pushsquare.com/80db0b6e4e382/large.jpg"
+        },
+        {
           "title": "Sony's 10 Most Profitable PS5 Games Reported in New Estimates",
           "link": "https://www.pushsquare.com/news/2026/11/sonys-10-most-profitable-ps5-games-reported-in-new-estimates",
           "description": "It's a strong list. Sony's received a lot of criticism for its first party output this console generation. It's no secret that the company has chased live service trends at the cost of single player experiences — the kind of games that solidified the PS4 as a fan favourite machine. And so it's inter",
@@ -441,13 +448,6 @@
           "description": "Available from 17th November. Sony has today announced the lineup of PS Plus Extra and PS Plus Premium games for November 2026. For UK, USA, and Japan members, the selection will again be rolled out, but starting from 17th November, here's what's on offer: PS Plus Extra: November 2026 Death Strandin",
           "date": "2026-11-10T16:40:00+00:00",
           "image": "https://images.pushsquare.com/473b43aebda42/large.jpg"
-        },
-        {
-          "title": "Beloved Co-Op Adventure Big Walk in Hot Water After Failing to Disclose AI Usage",
-          "link": "https://www.pushsquare.com/news/2026/11/beloved-co-op-adventure-big-walk-in-hot-water-after-failing-to-disclose-ai-usage",
-          "description": "Walk of shame. Big Walk , one of the most highly-rated games of 2026, has suddenly found itself in a spot of bother, and it's all thanks to those controversial AI tools. This story stems from the Independent Games Festival Awards (IGF); some of the jurors have taken a hard stance against usage of ge",
-          "date": "2026-11-10T16:00:00+00:00",
-          "image": "https://images.pushsquare.com/db95813a7fa3b/large.jpg"
         }
       ]
     },
