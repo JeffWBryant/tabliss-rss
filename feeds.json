@@ -1,9 +1,16 @@
 {
-  "updated": "2026-11-14T10:07:00.988359+00:00",
+  "updated": "2026-11-14T16:41:18.332457+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘Victorian Psycho’ and These 7 Other New Horror Movies Released This Week",
+          "link": "https://bloody-disgusting.com/movie/3975764/victorian-psycho-and-these-7-other-new-horror-movies-released-this-week/",
+          "description": "Jessica Chastain. Maika Monroe. Andrea Riseborough. Matilda Lutz. This week’s new horror releases are a spotlight of some of the horror genre’s favorite modern scream queens, with recent theatrical movies coming home and brand new nightmares unfolding on screens big and small. Here are the new horro",
+          "date": "2026-11-14T14:54:26+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Screenshot-2026-09-15-112412-3.png?resize=1431%2C861&#038;ssl=1"
+        },
         {
           "title": "‘The Suicide Squad’s Joel Kinnaman to Star in Creature Feature ‘The Cell’",
           "link": "https://bloody-disgusting.com/movie/3975754/the-cell-movie-joel-kinnaman-creature-feature/",
@@ -66,13 +73,6 @@
           "description": "Right on time, developer Visuwyg and Hyperstrange’s DERELIKT is out today on Steam, bringing claustrophobic sci-fi action to space with PS1-inspired graphics. The game is also available on the PlayStation 5 and Xbox Series. Philipp Jensen of Visuwyg explains that DERELIKT is “intended to feel like a",
           "date": "2026-11-13T19:30:51+00:00",
           "image": ""
-        },
-        {
-          "title": "‘Yellowjackets’ Season 4: The Five Biggest Questions the Final Season Must Answer",
-          "link": "https://bloody-disgusting.com/editorials/3975697/yellowjackets-season-4-primer/",
-          "description": "Yellowjackets has always been more concerned with the journey than the destination. Created by Ashley Lyle and Bart Nickerson, the hit Showtime series follows the titular girls’ soccer team as they crash in the Canadian mountains on their way to a national championship. A parallel timeline sees a ha",
-          "date": "2026-11-13T19:27:08+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Yellowjackets_403_DS_0327_0808_RT.jpg?resize=1024%2C683&#038;ssl=1"
         }
       ]
     },
@@ -230,6 +230,13 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "PS4, PS5 Sonic Adventure Game Gets 70% Off on PlayStation Store",
+          "link": "https://www.playstationlifestyle.net/2026/11/14/sonic-frontiers-digital-deluxe-ps5-70-percent-off",
+          "description": "Sonic the Hedgehog fans can buy one of the franchise’s modern 3D adventures at a reduced price. The game is currently 70% off on the PlayStation Store. However, this offer comes in a limited-time deal. SEGA‘s Sonic Frontiers Digital Deluxe Edition is available at a discounted price on the PS Store. ",
+          "date": "2026-11-14T15:00:00+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/12.jpg?w=1024"
+        },
+        {
           "title": "Relentless PS5 Shooter Game Is Out Today on PlayStation Store",
           "link": "https://www.playstationlifestyle.net/2026/11/13/derelikt-ps5-fps-release",
           "description": "PS5 players looking for an old-school sci-fi horror experience can now check out a game The post Relentless PS5 Shooter Game Is Out Today on PlayStation Store appeared first on PlayStation LifeStyle .",
@@ -291,13 +298,6 @@
           "description": "The PlayStation Store has dropped a free PS5 game that’s evidently inspired by Grand Theft Auto VI, if its artwork and content are any indication. Published by QubicGames, which is known for dropping freebies for PS5 and PS4 players, “QUTAS67 – Qubic Ultimate Tap Adventure Simulator 2067” has you ru",
           "date": "2026-11-13T14:30:00+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/free-ps5-game.jpg?w=1024"
-        },
-        {
-          "title": "Polarizing PS4 Adventure Game Gets PS5 Remaster After 8 Years",
-          "link": "https://www.playstationlifestyle.net/2026/11/13/ps5-adventure-game-spectrum-retreat-redux",
-          "description": "A polarizing 2018 PS4 adventure game is getting a surprise PS5 remaster surprisingly soon. The Spectrum Retreat: Redux, which was recently released on Nintendo Switch, is also headed to the PS5, Xbox Series X|S, and PC, publisher Ripstone has announced. PS5 puzzle adventure game The Spectrum Retreat",
-          "date": "2026-11-13T14:00:00+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/ps5-adventure-game-spectrum-retreat-redux.jpg?w=1024"
         }
       ]
     },
@@ -380,6 +380,34 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Crazy Taxi Makes a Stop in India for the Final Leg of Its World Tour",
+          "link": "https://www.pushsquare.com/news/2026/11/crazy-taxi-makes-a-stop-in-india-for-the-final-leg-of-its-world-tour",
+          "description": "Namaste. SEGA has confirmed the fifth and final destination in Crazy Taxi: World Tour’s global adventure: India! A new trailer shows off the mix of rural and urban locations you can expect in the full release, and teases some of the missions you’ll experience – like shooting a Bollywood movie. Read ",
+          "date": "2026-11-14T14:30:00+00:00",
+          "image": "https://images.pushsquare.com/07d176fab94c1/large.jpg"
+        },
+        {
+          "title": "Rumour: Rainbow Six: Vegas 3 Now in the Works at Ubisoft",
+          "link": "https://www.pushsquare.com/news/2026/11/rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
+          "description": "18 years on from Vegas 2. Ubisoft has just greenlit and entered the early stages of development on a third Rainbow Six: Vegas game, according to a new Insider Gaming report . The outlet, which seems to have been clued up on internal Ubisoft happenings for years, claims the new entry is one of three ",
+          "date": "2026-11-14T13:30:00+00:00",
+          "image": "https://images.pushsquare.com/211ef3d5e0cd3/large.jpg"
+        },
+        {
+          "title": "Poll: Are You Hyped for November's 10 New PS Plus Games?",
+          "link": "https://www.pushsquare.com/features/poll-are-you-hyped-for-novembers-10-new-ps-plus-games",
+          "description": "Plus or minus? I don't want to influence your opinion right out of the gate here, but November's PS Plus Extra lineup will surely go down as one of the service's strongest offerings in recent memory. It's got a bit of everything, but it's also packed with highly rated titles. Death Stranding 2: On t",
+          "date": "2026-11-14T13:00:00+00:00",
+          "image": "https://images.pushsquare.com/00873b00ea66f/large.jpg"
+        },
+        {
+          "title": "Guide: These 13+ PS5 and PS Plus Games Are Coming Out Next Week (16th-22nd November)",
+          "link": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-next-week-16th-22nd-november",
+          "description": "GTA 6! GTA 6! GTA 6! Look, I'm gonna be real with you: GTA 6 is coming out next week, and you can tell. Rockstar's juggernaut arrives on PS5 at long last, and it's sent nearly every other game running for the hills. Read the full article on pushsquare.com",
+          "date": "2026-11-14T12:00:00+00:00",
+          "image": "https://images.pushsquare.com/1621825d220de/large.jpg"
+        },
+        {
           "title": "The Excellent Warhammer Survivors Reveals Roadmap Full of Free Updates, Teases Something Big",
           "link": "https://www.pushsquare.com/news/2026/11/the-excellent-warhammer-survivors-reveals-roadmap-full-of-free-updates-teases-something-big",
           "description": "New characters coming next month. Warhammer Survivors launched just a few days ago, and I think it's an absolutely fantastic take on the criminally addictive Vampire Survivors formula. Imagine my glee, then, to learn that developer Auroch Digital has big plans for the game going forward. Read the fu",
@@ -420,34 +448,6 @@
           "description": "Better scrib this doon. Developer Fuse Games has announced its debut title, the brilliant Star Wars: Galactic Racer , has amassed 1.5 million players. The news comes via a recent social post, featuring the one and only Biddy Blas himself: Read the full article on pushsquare.com",
           "date": "2026-11-13T19:00:00+00:00",
           "image": "https://images.pushsquare.com/e40ce656f6f5f/large.jpg"
-        },
-        {
-          "title": "Mini Review: Shrek 2 Remastered (PS5) - Far Far Away Gets an All-Star Makeover",
-          "link": "https://www.pushsquare.com/reviews/ps5/shrek-2-remastered",
-          "description": "I believe, I believe, I believe this is a good time. While DreamWorks' tales of an ogre and his mates are hit or miss, there's no denying that Shrek 2 Remastered is a winning overhaul of a mid-2000s gem. It comes from an era when movie tie-in games were all the rage, whether that meant half-arsed Ha",
-          "date": "2026-11-13T18:00:00+00:00",
-          "image": "https://images.pushsquare.com/23057613ddab1/large.jpg"
-        },
-        {
-          "title": "Stranger Than Heaven Is So Big That All Its Acts Get a PS5 Trailer",
-          "link": "https://www.pushsquare.com/news/2026/11/stranger-than-heaven-is-so-big-that-all-its-acts-get-a-ps5-trailer",
-          "description": "And here's a look at act two. I read on social media today that RGG Studio estimates the main story of Stranger Than Heaven can take anywhere from 50 to 100 hours to complete. When it's able to dedicate entire trailers to each of the game's acts, I can believe it. Having covered Act 1: Kokura last m",
-          "date": "2026-11-13T17:30:00+00:00",
-          "image": "https://images.pushsquare.com/41a586e4fa334/large.jpg"
-        },
-        {
-          "title": "'We Want to Create Franchises That Withstand Decades': Sony Reveals Ambition to Dominate Anime",
-          "link": "https://www.pushsquare.com/news/2026/11/we-want-to-create-franchises-that-withstand-decades-sony-reveals-ambition-to-dominate-anime",
-          "description": "Bold strategy to unify entire business. Sony’s gradual transition from consumer electronics to entertainment giant is paying dividends , as the firm’s value continues to rise on the back of hits like Spider-Man: Brand New Day and the overall PlayStation business. But the manufacturer has one big amb",
-          "date": "2026-11-13T17:00:00+00:00",
-          "image": "https://images.pushsquare.com/6245fd1841737/large.jpg"
-        },
-        {
-          "title": "Play The Blood of Dawnwalker Again in New Game+, Part of PS5 Patch 1.2",
-          "link": "https://www.pushsquare.com/news/2026/11/play-the-blood-of-dawnwalker-again-in-new-gameplus-part-of-ps5-patch-1-2",
-          "description": "Extra songs, enemy balancing, and terrain tweaks too. Rebel Wolves has teased what to expect from PS5 update 1.2 for The Blood of Dawnwalker , which arrives next week. While the first major patch promised over 1,000 improvements, this second one doesn't, but the highlight of it is a major one: new g",
-          "date": "2026-11-13T16:30:00+00:00",
-          "image": "https://images.pushsquare.com/422f469fcb6da/large.jpg"
         }
       ]
     },
