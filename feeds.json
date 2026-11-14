@@ -1,9 +1,23 @@
 {
-  "updated": "2026-11-13T22:47:13.119446+00:00",
+  "updated": "2026-11-14T02:58:11.308280+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "‘The Suicide Squad’s Joel Kinnaman to Star in Creature Feature ‘The Cell’",
+          "link": "https://bloody-disgusting.com/movie/3975754/the-cell-movie-joel-kinnaman-creature-feature/",
+          "description": "Actor Joel Kinnaman has the rare distinction of getting to play the same character in multiple iterations of the DC Universe. He first played Rick Flag Jr. in 2016’s Suicide Squad, which existed in Zack Snyder‘s universe of DC characters, while also having the opportunity to reprise the role in Jame",
+          "date": "2026-11-14T00:40:31+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Yellowjackets’ Creators Finally Explain the Status of the Announced Bonus Episode",
+          "link": "https://bloody-disgusting.com/movie/3975747/yellowjackets-extra-episode-missing-canceled-explained/",
+          "description": "The pop-culture juggernaut Stranger Things finally concluded just under a year ago. Longtime fans who didn’t enjoy the way the series wrapped up started concocting a variety of wild theories, which included speculation that the series finale wasn’t, in fact, a series finale, and that the Duffer Brot",
+          "date": "2026-11-13T23:22:08+00:00",
+          "image": ""
+        },
         {
           "title": "NECA Reveals Limited Edition 1:1 Scale Replica Baby Jason Doll From ‘Crystal Lake’ Series",
           "link": "https://bloody-disgusting.com/toys/3975740/neca-reveals-limited-edition-11-scale-replica-baby-jason-doll-from-crystal-lake-series/",
@@ -59,20 +73,6 @@
           "description": "Yellowjackets has always been more concerned with the journey than the destination. Created by Ashley Lyle and Bart Nickerson, the hit Showtime series follows the titular girls’ soccer team as they crash in the Canadian mountains on their way to a national championship. A parallel timeline sees a ha",
           "date": "2026-11-13T19:27:08+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/Yellowjackets_403_DS_0327_0808_RT.jpg?resize=1024%2C683&#038;ssl=1"
-        },
-        {
-          "title": "‘Red Ink’: New 1940s Vampire Movie Unfolds Over One Continuous Shot",
-          "link": "https://bloody-disgusting.com/movie/3975696/red-ink-1940s-vampire-movie-one-take/",
-          "description": "At one point in time, horror movies would flaunt how much fake blood was used on set as a way to convey to audiences just how violent of an experience it was. Whether it was Dead Alive or The Midnight Meat Train or the Evil Dead remake, fans would initially be supportive of the embrace […] The post ",
-          "date": "2026-11-13T19:14:10+00:00",
-          "image": ""
-        },
-        {
-          "title": "Multiplayer Horror Party Game ‘Death Dealer’ Now in Early Access [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3975646/multiplayer-horror-party-game-death-dealer-now-in-early-access-trailer/",
-          "description": "Following up last month’s Steam Nest Fest demo, two-person UK indie team Psychotronic has launched their six-player multiplayer horror party game Death Dealer into Early Access on Steam. In addition to the launch, Death Dealer has a time-limited 38% launch discount until November 19. The team plans ",
-          "date": "2026-11-13T18:28:13+00:00",
-          "image": ""
         }
       ]
     },
@@ -312,7 +312,7 @@
           "image": "https://live.staticflickr.com/65535/55648994061_9574325b48_k.jpg"
         },
         {
-          "title": "QSSR arrives in Marvel’s Spider-Man 2, Control Resonant, The Finals, ARC Raiders, and Hell Let Loose: Vietnam",
+          "title": "QSSR arrives in Marvel’s Spider-Man 2, Control Resonant, The Finals, Arc Raiders, No Man’s Sky, and Hell Let Loose: Vietnam",
           "link": "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
           "description": "Six years after launch, PlayStation 5 is still getting better. Last month, we introduced Quick Spectral Super Resolution (QSSR), bringing AI-guided upscaling to the console you already own. Since then, there’s been a lot of interest from developers eager to try it out. We’re happy to announce that t",
           "date": "2026-11-13T14:00:16+00:00",
@@ -380,6 +380,34 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "The Excellent Warhammer Survivors Reveals Roadmap Full of Free Updates, Teases Something Big",
+          "link": "https://www.pushsquare.com/news/2026/11/the-excellent-warhammer-survivors-reveals-roadmap-full-of-free-updates-teases-something-big",
+          "description": "New characters coming next month. Warhammer Survivors launched just a few days ago, and I think it's an absolutely fantastic take on the criminally addictive Vampire Survivors formula. Imagine my glee, then, to learn that developer Auroch Digital has big plans for the game going forward. Read the fu",
+          "date": "2026-11-14T02:30:00+00:00",
+          "image": "https://images.pushsquare.com/3563d32b833ed/large.jpg"
+        },
+        {
+          "title": "DokeV Set for 2028 Launch, But You'll See It Again This Year",
+          "link": "https://www.pushsquare.com/news/2026/11/dokev-set-for-2028-launch-but-youll-see-it-again-this-year",
+          "description": "But the Crimson Desert dev is embracing AI. Remember DokeV ? The bizarre Pokémon -esque game announced over five years ago from Pearl Abyss? The developer has gone on to make Crimson Desert , but in a new financial report , it's shared its wild take on Pokémon is still coming. Now its Charting the U",
+          "date": "2026-11-14T02:00:00+00:00",
+          "image": "https://images.pushsquare.com/69c2fa4976137/large.jpg"
+        },
+        {
+          "title": "GTA 6 PS5 Codes Potentially Being Stolen from Physical Copies Using Flashlight Trick",
+          "link": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-codes-potentially-being-stolen-from-physical-copies-using-flashlight-trick",
+          "description": "Making light work of it. A potentially problematic manufacturing oversight may be resulting in some GTA 6 codes being stolen from retail PS5 cases. Some reports claim that by pointing a strong flashlight at the side of the case, it’s possible to shine light into the empty Blu-ray box in such a way t",
+          "date": "2026-11-14T01:00:00+00:00",
+          "image": "https://images.pushsquare.com/45a9584da44b2/large.jpg"
+        },
+        {
+          "title": "Talking Point: What Are You Playing This Weekend? - Issue 658",
+          "link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-658",
+          "description": "The final weekend. This is it, folks: the last WAYP before GTA 6 . Can you believe it? It’s been a long road to this point, but we finally made it. Congrats! Liam Croft I'll be finishing The Legend of Zelda: Ocarina of Time on Switch 2 this weekend. I don't have any nostalgia for the original, so th",
+          "date": "2026-11-14T00:00:00+00:00",
+          "image": "https://images.pushsquare.com/08e25f2720c06/large.jpg"
+        },
+        {
           "title": "The Game Awards 2026 Nominees to Be Revealed on 17th November",
           "link": "https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-to-be-revealed-on-17th-november",
           "description": "Livestream will announce the nominees. Geoff Keighley has announced the nominees for all of the categories at The Game Awards will be confirmed next week, on 17th November 2026. A livestream will confirm the game's nominated, with the show itself airing on 10th December 2026. You can tune in for the",
@@ -420,34 +448,6 @@
           "description": "Extra songs, enemy balancing, and terrain tweaks too. Rebel Wolves has teased what to expect from PS5 update 1.2 for The Blood of Dawnwalker , which arrives next week. While the first major patch promised over 1,000 improvements, this second one doesn't, but the highlight of it is a major one: new g",
           "date": "2026-11-13T16:30:00+00:00",
           "image": "https://images.pushsquare.com/422f469fcb6da/large.jpg"
-        },
-        {
-          "title": "PSA: GTA 6 Does Not Have Online Multiplayer at Launch",
-          "link": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch",
-          "description": "It'll arrive a little later. GTA 6 is now less than a week away from its official launch, coming to PS5 on 19th November, 2026. It's likely to become the biggest entertainment launch of all time, with excitement at a fever pitch coming off the back of GTA 5 , which is the third best-selling game eve",
-          "date": "2026-11-13T16:00:00+00:00",
-          "image": "https://images.pushsquare.com/99c10bed6b2dc/large.jpg"
-        },
-        {
-          "title": "God of War: Sons of Sparta Really Will Be Ported Backwards to PS4",
-          "link": "https://www.pushsquare.com/news/2026/11/god-of-war-sons-of-sparta-really-will-be-ported-backwards-to-ps4",
-          "description": "Out on 16th Nov, with a free update for PS5 owners. It's now been confirmed God of War: Sons of Sparta , the mostly forgotten Metroidvania game that launched earlier this year, will indeed be ported back to PS4 . Having debuted on PS5 in February, the PS4 version launches next week, on 16th November",
-          "date": "2026-11-13T15:30:00+00:00",
-          "image": "https://images.pushsquare.com/72ae063cbb885/large.jpg"
-        },
-        {
-          "title": "GTA 6's In-Game Animated TV Series, Macca & Friends, Hints at the Game's Absurd Scope",
-          "link": "https://www.pushsquare.com/news/2026/11/gta-6s-in-game-animated-tv-series-macca-and-friends-hints-at-the-games-absurd-scope",
-          "description": "Who needs real TV? I think this might be the one thing about GTA 6 that's really made me aware of the sheer scale of what Rockstar Games is cooking up. Exclusively revealed via DiscussingFilm , an in-game, animated TV series named Macca & Friends has been revealed with the below teaser trailer: Read",
-          "date": "2026-11-13T15:00:00+00:00",
-          "image": "https://images.pushsquare.com/c932b184eb73d/large.jpg"
-        },
-        {
-          "title": "Base PS5's QSSR Enhancer Coming to 6 More Games, in Spider-Man 2 Now",
-          "link": "https://www.pushsquare.com/news/2026/11/base-ps5s-qssr-enhancer-coming-to-6-more-games-in-spider-man-2-now",
-          "description": "Control Resonant, Arc Raiders, and more upgraded. Sony has announced it is expanding support for its QSSR graphics enhancer on base PS5 to six more PS5 games in the coming weeks. Through a free update, the feature is live right now in Marvel's Spider-Man 2 . In addition, the following titles will re",
-          "date": "2026-11-13T14:45:00+00:00",
-          "image": "https://images.pushsquare.com/1f225670c18da/large.jpg"
         }
       ]
     },
