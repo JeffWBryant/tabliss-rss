@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T16:41:18.332457+00:00",
+  "updated": "2026-11-14T21:14:54.774765+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "TENEBRE Composer Claudio Simonetti Looks Back At Horror Disco’s Greatest Theme",
+          "link": "https://www.fangoria.com/claudio-simonetti-horror-disco-interview/",
+          "description": "Legendary composer Claudio Simonetti joined FANGORIA to discuss adapting the music of TENEBRE into a live stage show featuring the band’s six musicians, and reflected on his cinematic legacy.",
+          "date": "2026-11-14T18:30:37+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/ClaudioPressPicSolo-1-e1697500871731.webp"
+        },
+        {
           "title": "MAGIC: THE GATHERING Brings Aquatic Horror To The Trading Card Game With Nauctis: The Sunken Realm",
           "link": "https://www.fangoria.com/magic-the-gathering-aquatic-horror-nauctis-the-sunken-realm/",
           "description": "Get ready for aquatic horror. MAGIC: THE GATHERING has introduced its first entirely underwater setting with Nauctis: The Sunken Realm.",
@@ -216,13 +223,6 @@
           "description": "Watch an exclusive clip from DEAD OF NIGHT, the new '80s-inspired slasher starring Dermot Mulroney that hits theaters this week.",
           "date": "2026-11-11T20:00:05+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/10/DeadofNight_FinalPoster_V3_WEB.jpg-copy.jpg"
-        },
-        {
-          "title": "John Carpenter and Sandy King’s TALES FOR A HALLOWEENIGHT Returns With a Fantastic Lineup",
-          "link": "https://www.fangoria.com/john-carpenter-sandy-king-tales-for-a-halloweenight-volume-12/",
-          "description": "Volume 12 of JOHN CARPENTER'S TALES FOR A HALLOWEENIGHT is a must-read for fans anthology horror.",
-          "date": "2026-11-11T18:00:05+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/JCs-Tales-for-a-HalloweeNight-V12-copy.jpg"
         }
       ]
     },
