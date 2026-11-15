@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T21:14:54.774765+00:00",
+  "updated": "2026-11-15T01:13:30.220846+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It",
+          "link": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it",
+          "description": "\"Holy desperate, EA\". Any issues with GTA 6’s 212GB install size have largely been mitigated by Rockstar’s decision to let you preload the game a week in advance. The sheer scale of the open world title is causing potential headaches for other game publishers, however. Read the full article on pushs",
+          "date": "2026-11-15T00:00:00+00:00",
+          "image": "https://images.pushsquare.com/2afbcb5fd14ac/large.jpg"
+        },
+        {
           "title": "Crazy Taxi Makes a Stop in India for the Final Leg of Its World Tour",
           "link": "https://www.pushsquare.com/news/2026/11/crazy-taxi-makes-a-stop-in-india-for-the-final-leg-of-its-world-tour",
           "description": "Namaste. SEGA has confirmed the fifth and final destination in Crazy Taxi: World Tour’s global adventure: India! A new trailer shows off the mix of rural and urban locations you can expect in the full release, and teases some of the missions you’ll experience – like shooting a Bollywood movie. Read ",
@@ -441,13 +448,6 @@
           "description": "Livestream will announce the nominees. Geoff Keighley has announced the nominees for all of the categories at The Game Awards will be confirmed next week, on 17th November 2026. A livestream will confirm the game's nominated, with the show itself airing on 10th December 2026. You can tune in for the",
           "date": "2026-11-13T19:30:00+00:00",
           "image": "https://images.pushsquare.com/e80c606d6e525/large.jpg"
-        },
-        {
-          "title": "Star Wars: Galactic Racer Reaches 1.5 Million Players, Teases Future Updates",
-          "link": "https://www.pushsquare.com/news/2026/11/star-wars-galactic-racer-reaches-1-5-million-players-teases-future-updates",
-          "description": "Better scrib this doon. Developer Fuse Games has announced its debut title, the brilliant Star Wars: Galactic Racer , has amassed 1.5 million players. The news comes via a recent social post, featuring the one and only Biddy Blas himself: Read the full article on pushsquare.com",
-          "date": "2026-11-13T19:00:00+00:00",
-          "image": "https://images.pushsquare.com/e40ce656f6f5f/large.jpg"
         }
       ]
     },
