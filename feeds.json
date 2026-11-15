@@ -1,9 +1,23 @@
 {
-  "updated": "2026-11-15T15:48:37.024593+00:00",
+  "updated": "2026-11-15T20:56:08.870087+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Week-Long Playtest Kicks Off for Post-Apocalyptic Survival Horror Game ‘The Looter’ [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3975783/week-long-playtest-kicks-off-for-post-apocalyptic-survival-horror-game-the-looter-trailer/",
+          "description": "Developer Tactical Dogs has kicked off a week-long playtest for their upcoming post-apocalyptic survival horror title The Looter. Now live on Steam and running until November 20, anyone who joins gets access and can venture into Tortura, a mysterious forest that has swallowed a long-lost civilizatio",
+          "date": "2026-11-15T18:37:48+00:00",
+          "image": ""
+        },
+        {
+          "title": "Descend Into a Facility and Confront the Horrors Within in the Demo for ‘No Clean Start’ [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3975779/descend-into-a-facility-and-confront-the-horrors-within-in-the-demo-for-no-clean-start-trailer/",
+          "description": "Indiegala is dipping back into survival horror next year with their first-person shooter No Clean Start. And to get a taste of what the team has in store for players, you can now download the game’s demo on Steam, which includes the first ten levels of the game’s Soldier class. Launch in March 2027,",
+          "date": "2026-11-15T15:20:24+00:00",
+          "image": ""
+        },
         {
           "title": "‘Victorian Psycho’ and These 7 Other New Horror Movies Released This Week",
           "link": "https://bloody-disgusting.com/movie/3975764/victorian-psycho-and-these-7-other-new-horror-movies-released-this-week/",
@@ -58,20 +72,6 @@
           "link": "https://bloody-disgusting.com/video-games/3975711/lovecraftian-roguelike-pool-of-madness-delayed-from-release/",
           "description": "Unfortunately, the recent backlog of Steam approvals has claimed Bit Golem’s Pool of Madness. Instead of the game releasing today as it was originally scheduled, the team has announced that they’ve had to postpone the roguelike’s release. No new date has been announced. “It saddens us to say that du",
           "date": "2026-11-13T19:51:04+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Sisu’ Director’s New Netflix Revenge Thriller Adds ‘Lanterns’ Star Aaron Pierre",
-          "link": "https://bloody-disgusting.com/movie/3975704/fairytale-in-new-york-aaron-pierre-netflix-sisu-revenge-thriller/",
-          "description": "Filmmakers trying to find ways to justify stories of revenge that are full of brutal action sometimes overlook the fact that, if the action is impressive enough, audiences aren’t entirely concerned with the narrative that ignited the action. Writer/director Jalmari Helander didn’t attempt to reinven",
-          "date": "2026-11-13T19:48:31+00:00",
-          "image": ""
-        },
-        {
-          "title": "PS1-Inspired Sci-fi Horror FPS ‘DERELIKT’ Now Available on PC, Consoles [Trailer]",
-          "link": "https://bloody-disgusting.com/video-games/3975691/ps1-inspired-sci-fi-horror-fps-derelikt-now-available-on-pc-consoles-trailer/",
-          "description": "Right on time, developer Visuwyg and Hyperstrange’s DERELIKT is out today on Steam, bringing claustrophobic sci-fi action to space with PS1-inspired graphics. The game is also available on the PlayStation 5 and Xbox Series. Philipp Jensen of Visuwyg explains that DERELIKT is “intended to feel like a",
-          "date": "2026-11-13T19:30:51+00:00",
           "image": ""
         }
       ]
@@ -155,6 +155,13 @@
       "url": "https://www.fangoria.com/feed/",
       "articles": [
         {
+          "title": "Review: MUM, I’M ALIEN PREGNANT Is Ooey-Gooey, Gross-Out Horror Comedy Goodness",
+          "link": "https://www.fangoria.com/review-mum-im-alien-pregnant-telluride-horror-show/",
+          "description": "For as outlandish as its premise is, MUM, I'M ALIEN PREGNANT is genuinely trying to Say Something about autonomy, sexuality, male responsibility, and parenting, all wrapped up in a sophomoric squelch-fest of slime and blue slop.",
+          "date": "2026-11-15T18:00:19+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/unnamed.webp"
+        },
+        {
           "title": "TENEBRE Composer Claudio Simonetti Looks Back At Horror Disco’s Greatest Theme",
           "link": "https://www.fangoria.com/claudio-simonetti-horror-disco-interview/",
           "description": "Legendary composer Claudio Simonetti joined FANGORIA to discuss adapting the music of TENEBRE into a live stage show featuring the band’s six musicians, and reflected on his cinematic legacy.",
@@ -216,13 +223,6 @@
           "description": "Director Takashi Yamazaki’s GODZILLA MINUS ZERO takes the less is more approach to the King of the Monsters, which is right in line with the history of the franchise.",
           "date": "2026-11-12T18:00:30+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/11/Godzilla-Cropped-scaled.jpg"
-        },
-        {
-          "title": "Dermot Mulroney’s In Over His Head In Exclusive DEAD OF NIGHT Clip",
-          "link": "https://www.fangoria.com/dead-of-night-exclusive-clip/",
-          "description": "Watch an exclusive clip from DEAD OF NIGHT, the new '80s-inspired slasher starring Dermot Mulroney that hits theaters this week.",
-          "date": "2026-11-11T20:00:05+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/10/DeadofNight_FinalPoster_V3_WEB.jpg-copy.jpg"
         }
       ]
     },
