@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T02:16:33.707274+00:00",
+  "updated": "2026-11-18T10:34:54.368840+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "GTA 6 Requires New PS5 Firmware Update to Play",
+          "link": "https://www.pushsquare.com/news/2026/11/gta-6-requires-new-ps5-firmware-update-to-play",
+          "description": "Sony confirms v14.23.00 is mandatory. As we reported early yesterday , PS5 has a new firmware update, numbered v14.23.00 . It’s now confirmed you’ll need to have this installed to play GTA 6 . Notifying players on social media, a PlayStation Support page said: “Sony Interactive has issued a PS5 syst",
+          "date": "2026-11-18T02:00:00+00:00",
+          "image": "https://images.pushsquare.com/475ec3fc1e4e1/large.jpg"
+        },
+        {
           "title": "Guide: GTA 6 Release Times: When Can You Start Playing?",
           "link": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
           "description": "All the GTA 6 release info you need. Probably the most anticipated game of all time, GTA 6 is now just hours away! We're in the final home stretch now, with availability rolling out on PS5 worldwide within the next 24 hours. As the launch draws even closer, we're covering absolutely everything you n",
@@ -441,13 +448,6 @@
           "description": "More room for treasure. Developer Rare is preparing its next major update for its nautical multiplayer adventure, Sea of Thieves , and it makes a pretty big change to the game's storage footprint. The update, which arrives this week on Thursday 19th November, makes a significant reduction to the tit",
           "date": "2026-11-17T16:00:00+00:00",
           "image": "https://images.pushsquare.com/7d61993a2809a/large.jpg"
-        },
-        {
-          "title": "PS5 Does Not Have a 'Monopoly' on Digital Games as £2 Billion Lawsuit Falls Through",
-          "link": "https://www.pushsquare.com/news/2026/11/ps5-does-not-have-a-monopoly-on-digital-games-as-p2-billion-lawsuit-falls-through",
-          "description": "Pricing not deemed \"excessive\". Do you remember a few years back when news broke of a potential class action lawsuit against Sony ? The case was reported to be worth billions of pounds, which would be dished out as compensation to over 12 million PlayStation users. Consumer rights campaigner Alex Ne",
-          "date": "2026-11-17T15:45:00+00:00",
-          "image": "https://images.pushsquare.com/9144b1f290793/large.jpg"
         }
       ]
     },
