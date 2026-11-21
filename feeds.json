@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T15:13:03.244452+00:00",
+  "updated": "2026-11-21T21:01:11.054361+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,13 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "Den of Geek Debuts Next-Gen Variant Blade Runner 2099 Magazine Cover, Hosts eBay Live at Big Apple Comic Con",
+          "link": "https://www.denofgeek.com/culture/den-of-geek-blade-runner-2099-magazine-hosts-ebay-live-big-apple-con/",
+          "description": "It’s Saturday night in New York City. Do you know where your geeks are? Hopefully they’re on eBay Live to celebrate another successful Big Apple Con with Den of Geek! That’s right, Den of Geek is once again teaming up with Crash Media Partners for a special Big Apple Con edition of the Mike’d Up […]",
+          "date": "2026-11-21T20:02:14+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/Cover4_ed1f4d.jpg"
+        },
+        {
           "title": "15 Movies With Plot Holes Big Enough to Drive a Truck Through",
           "link": "https://www.denofgeek.com/msn/15-movies-with-plot-holes-big-enough-to-drive-a-truck-through/",
           "description": "Some movies are so entertaining that you barely notice when their stories stop making sense. You're busy watching the action, worrying about the characters, or trying to figure out the big twist. Then someone points out one tiny problem, and suddenly the entire plot starts falling apart. Maybe a cha",
@@ -141,19 +148,19 @@
           "description": "Movie extras are supposed to blend into the background, but sometimes they end up being the best part of a scene. One guy forgets how to use a broom, another falls over without anyone touching him, and a stormtrooper manages to walk straight into a doorway. Most of these moments last only a few seco",
           "date": "2026-11-20T12:45:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024617_-14.jpg"
-        },
-        {
-          "title": "15 Historical Photos Showing Recognizable Places as They Once Were",
-          "link": "https://www.denofgeek.com/msn/15-historical-photos-showing-recognizable-places-as-they-once-were/",
-          "description": "It's strange seeing a familiar place before it became the version everyone recognizes today. Famous landmarks were once construction sites, busy city squares had completely different traffic, and some of the world's biggest attractions looked surprisingly ordinary. Old photographs give us a chance t",
-          "date": "2026-11-20T12:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/12_6f0cad.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "The Directors of SAW and SEASONS Reveal What Horror Fans Can Expect",
+          "link": "https://www.fangoria.com/seasons-saw-directors-tease-scares/",
+          "description": "We asked Drew Hancock and Mike P. Nelson what horror fans will see in SEASONS and SAW that they've not seen in their previous movies. Here's what they had to say.",
+          "date": "2026-11-21T18:00:09+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/01/jigsaw.jpeg"
+        },
         {
           "title": "Gen Z Is Fueling Horror’s Success, So Why Are We Obsessed With Resurrecting Dead Franchises?",
           "link": "https://www.fangoria.com/gen-z-horror-franchise-reboot/",
@@ -216,13 +223,6 @@
           "description": "A new season of LOCAL 58 is coming to Shudder, and FANGORIA has all of the exclusive details about the cult-hit analog horror series.",
           "date": "2026-11-19T17:00:13+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/11/7-Digital-Transition.png"
-        },
-        {
-          "title": "Review: YELLOWJACKETS Season 4 Is Rescued By Phenomenal Performances (Again)",
-          "link": "https://www.fangoria.com/yellowjackets-season-4-review/",
-          "description": "In the final season of YELLOWJACKETS, take solace that the actors understand these characters, even when the writing seems to have lost sight of them.",
-          "date": "2026-11-19T16:00:05+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/Yellowjackets_S4_DS_0616_0489_RT-scaled-1.webp"
         }
       ]
     },
@@ -380,9 +380,16 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "GTA 6 PS5 Review Bombing Out of Control as Zelda Receives Revenge Ratings",
+          "link": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-review-bombing-out-of-control-as-zelda-receives-revenge-ratings",
+          "description": "Counter-attack. GTA 6 , the highest-rated game of all-time , is getting review bombed on Metacritic as idiots attempt to plunge the seminal Rockstar release’s rating with bogus ‘0’ scores. At the time of writing, the title has a user score of 5.4 , meaning it’s considered ‘Mixed or Average’: Read th",
+          "date": "2026-11-21T15:30:00+00:00",
+          "image": "https://images.pushsquare.com/ed14528064898/large.jpg"
+        },
+        {
           "title": "PS5 Survives GTA 6's Unfathomably Humongous Launch without a Hitch",
           "link": "https://www.pushsquare.com/news/2026/11/ps5-survives-gta-6s-unfathomably-humongous-launch-without-a-hitch",
-          "description": "Sony delivers steady and stable experience. We’d rightly criticise Sony if the PS5 had fallen to pieces during GTA 6’s launch, so let’s give the platform holder a nod of approval for navigating these past two weeks almost flawlessly. There were some minor scattered instances of PSN outages on Wednes",
+          "description": "Sony delivers steady and stable release. We’d rightly criticise Sony if the PS5 had fallen to pieces during GTA 6’s launch, so let’s give the platform holder a nod of approval for navigating these past two weeks almost flawlessly. There were some minor scattered instances of PSN outages on Wednesday",
           "date": "2026-11-21T15:00:00+00:00",
           "image": "https://images.pushsquare.com/99737794c846d/large.jpg"
         },
@@ -392,13 +399,6 @@
           "description": "Gothic! Spectrum Retreat! Station to Station! It feels odd to be able to say it, but we're now in a post- GTA 6 world, and the release schedule once again reflects that game's imposing presence. There isn't too much to speak of coming to PS5 next week, but it's always worth going over them in case y",
           "date": "2026-11-21T12:00:00+00:00",
           "image": "https://images.pushsquare.com/3318633776b75/large.jpg"
-        },
-        {
-          "title": "'Overrated Game': GTA 6 PS5 Review Bombing Has Started After Record-Breaking Release",
-          "link": "https://www.pushsquare.com/news/2026/11/overrated-game-gta-6-ps5-review-bombing-has-started-after-record-breaking-release",
-          "description": "\"More like Slop Theft Auto\". GTA 6 , the highest-rated game of all-time , is getting review bombed on Metacritic as idiots attempt to plunge the seminal Rockstar release’s rating with bogus ‘0’ scores. At the time of writing, the title has a user score of 5.4 , meaning it’s considered ‘Mixed or Aver",
-          "date": "2026-11-21T03:00:00+00:00",
-          "image": "https://images.pushsquare.com/7ab01a4131b43/large.jpg"
         },
         {
           "title": "61% of All US PS5 Owners Played GTA 6 on Launch Day, Averaging 8 Hours",
