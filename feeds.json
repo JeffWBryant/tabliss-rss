@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T01:30:01.892595+00:00",
+  "updated": "2026-11-22T08:44:23.576225+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,11 +380,25 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "GTA 6 Is Blowing Away Gaming's Greatest Devs, Including Naughty Dog",
+          "link": "https://www.pushsquare.com/news/2026/11/gta-6-is-blowing-away-gamings-greatest-devs-including-naughty-dog",
+          "description": "Industry professionals stunned by new sandbox. Naughty Dog’s Michael Barclay – whose credits include Uncharted: The Lost Legacy and The Last of Us 2 – says he’s “made video games for 19 years and GTA 6 appears to me as a Bugatti Veyron would to a nervous Victorian child”. Rockstar’s latest open worl",
+          "date": "2026-11-22T02:00:00+00:00",
+          "image": "https://images.pushsquare.com/0bae4da940d78/large.jpg"
+        },
+        {
           "title": "'Move Aside, Mandy': GTA 6's Goth Girl Vicki Is PS5 Players' New Fave",
           "link": "https://www.pushsquare.com/news/2026/11/move-aside-mandy-gta-6s-goth-girl-vicki-is-ps5-players-new-fave",
           "description": "Here's why her real-life actress may sound familiar. As GTA 6 players progress through the plot and explore beyond the sunny shores of Key Lento , bunny boiler Mandy has been left behind . It’s all about Delights’ resident goth girl Vicki now! Read the full article on pushsquare.com",
           "date": "2026-11-22T01:00:00+00:00",
           "image": "https://images.pushsquare.com/d903ca1d198ec/large.jpg"
+        },
+        {
+          "title": "Guide: GTA 6 Guide: All Guides & Collectibles",
+          "link": "https://www.pushsquare.com/guides/gta-6-guide",
+          "description": "A comprehensive guide to GTA 6. Welcome to our GTA 6 guide , the latest game in Rockstar's long-running crime sandbox series. The goal of our guide is to help you get the most out of your time in Leonida, and achieve 100% completion with as few spoilers as possible. This page serves as an index, and",
+          "date": "2026-11-22T00:00:00+00:00",
+          "image": "https://images.pushsquare.com/ba5122e25722a/large.jpg"
         },
         {
           "title": "GTA 6 PS5 Review Bombing Out of Control as Zelda Receives Revenge Ratings",
@@ -434,20 +448,6 @@
           "description": "The biggest entertainment launch of all time. I think we all knew it was going to be big, but this big? Rockstar has announced that GTA 6 sold a staggering 32.5 million copies during its preload period, setting a “new record across all platforms”. That number is likely higher by now, because the pre",
           "date": "2026-11-20T19:30:00+00:00",
           "image": "https://images.pushsquare.com/e18bf993fddb3/large.jpg"
-        },
-        {
-          "title": "Feature: GTA 6 Made Me Want to Be a Good Guy (or Girl)",
-          "link": "https://www.pushsquare.com/features/gta-6-made-me-want-to-be-a-good-guy-or-girl",
-          "description": "Mr and Mrs Nice Guy. It’s the strangest feeling. I’m playing a new GTA game but I’m actually abiding by the traffic rules. Read the full article on pushsquare.com",
-          "date": "2026-11-20T18:00:00+00:00",
-          "image": "https://images.pushsquare.com/3a3af65e117ed/large.jpg"
-        },
-        {
-          "title": "Atlus Doesn't Want You to Wait Yet Another 10 Years for Persona 7",
-          "link": "https://www.pushsquare.com/news/2026/11/atlus-doesnt-want-you-to-wait-yet-another-10-years-for-persona-7",
-          "description": "Plans in place to speed development up. By the time Persona 6 comes out, it'll have been at least 10 years since the launch of Persona 5 . That's a very long time between mainline instalments, and developer Atlus doesn't want you to have to repeat the process again. Via a new company interview with ",
-          "date": "2026-11-20T16:00:00+00:00",
-          "image": "https://images.pushsquare.com/11702442f3d18/large.jpg"
         }
       ]
     },
