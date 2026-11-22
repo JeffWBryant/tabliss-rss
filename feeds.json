@@ -1,9 +1,16 @@
 {
-  "updated": "2026-11-22T17:00:24.367990+00:00",
+  "updated": "2026-11-22T22:42:50.297171+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Enter the Arena in The New Trailer For The Upcoming ‘Darkest Dungeon II’ DLC “The Butcher’s Asylum” [Watch]",
+          "link": "https://bloody-disgusting.com/video-games/3976516/enter-the-arena-in-the-new-trailer-for-the-upcoming-darkest-dungeon-ii-dlc-the-butchers-asylum-watch/",
+          "description": "Red Hook Studios has followed up their teaser from earlier this month for the upcoming Darkest Dungeon II DLC “The Butcher’s Asylum” with a full trailer. Coming to PC and consoles in early 2027, the new gameplay trailer introduces a new playable character, as well as the eponymous new gameplay mode,",
+          "date": "2026-11-22T18:33:51+00:00",
+          "image": ""
+        },
         {
           "title": "‘Tales from the Darkside’ and ‘Amazing Stories’ Thanksgiving Horror TV Episodes Prove the Holiday Deserves More Terror",
           "link": "https://bloody-disgusting.com/editorials/3975584/tales-from-the-darkside-and-amazing-stories-thanksgiving-horror-tv-episodes-prove-the-holiday-deserves-more-terror/",
@@ -66,13 +73,6 @@
           "description": "Blumhouse Atomic may have started out as an independent production house responsible for lo-fi hits like the original Paranormal Activity, but the company has since grown into a respectable titan of the film industry. From crowd-pleasing genre flicks to Oscar-winning dramas, Blumhouse Atomic’s impre",
           "date": "2026-11-20T20:59:45+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/10/River_PRImage34-Shannon-Attaway-1.jpg?resize=1000%2C667&#038;ssl=1"
-        },
-        {
-          "title": "New 12-Disc 4K Hammer: Gothic Nightmares Set Announced for January 2027",
-          "link": "https://bloody-disgusting.com/movie/3976468/hammer-gothic-nightmares-4k-blu-ray-set/",
-          "description": "Part of the charm of Hammer Films is that, one movie after another, there was a unified aesthetic that managed to capture a unique, Gothic atmosphere in a way that Hollywood movies never delivered. Despite being made in the ’60s and ’70s, these movies felt entirely timeless, almost as if they were m",
-          "date": "2026-11-20T20:42:33+00:00",
-          "image": ""
         }
       ]
     },
