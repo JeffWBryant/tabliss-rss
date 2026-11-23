@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T22:42:50.297171+00:00",
+  "updated": "2026-11-23T03:37:31.766923+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,13 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "'I Mean, Guys, Really?!': GTA 7 Questions Batted Aside by Take-Two Boss",
+          "link": "https://www.pushsquare.com/news/2026/11/i-mean-guys-really-gta-7-questions-batted-aside-by-take-two-boss",
+          "description": "\"Let me check my watch\". While it’s been available for several days now, I imagine you’re only just beginning to scratch the surface of GTA 6 . I’m now comfortably over 200 hours into my game, and it boggles my mind how much I’ve still got left to see. (I have been writing our GTA 6 guide simultaneo",
+          "date": "2026-11-23T00:45:00+00:00",
+          "image": "https://images.pushsquare.com/d6584a3a7e66f/large.jpg"
+        },
+        {
           "title": "GTA 6 Just Can't Stop Breaking Records It Seems",
           "link": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
           "description": "Sets new soundtrack streaming record on Spotify. Not content with being the biggest entertainment launch in history and the highest rated game of all time , GTA 6 has already broken another record. The game’s official album, which features all-new tracks from the likes of Dua Lipa , set a new openin",
@@ -441,13 +448,6 @@
           "description": "Do we need to ask? I don’t really need to do an introduction this week. Perhaps a better heading for this issue would have been What Aren’t You Playing This Weekend, because I already know for damn sure what you are . Aaron Bayne Same as everyone else, probably! Read the full article on pushsquare.c",
           "date": "2026-11-21T01:00:00+00:00",
           "image": "https://images.pushsquare.com/3b6372efdde8c/large.jpg"
-        },
-        {
-          "title": "Guide: GTA 6: How to Get Ultimate Edition Items & Pre-Order Bonuses",
-          "link": "https://www.pushsquare.com/guides/gta-6-how-to-get-ultimate-edition-items-and-pre-order-bonuses",
-          "description": "The $100 questions. GTA 6's Ultimate Edition features a collection of different items and pre-order bonuses, including vehicles, weapons, and cosmetics. These are unlocked at different points in the story, and some need to be collected from locations around the map. This GTA 6 guide includes step-by",
-          "date": "2026-11-20T23:45:00+00:00",
-          "image": "https://images.pushsquare.com/a6fd664590c49/large.jpg"
         }
       ]
     },
