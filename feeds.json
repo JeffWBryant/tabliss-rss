@@ -1,9 +1,30 @@
 {
-  "updated": "2026-11-24T22:41:34.993329+00:00",
+  "updated": "2026-11-25T05:19:32.189353+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Mike Flanagan Breaks Down Why He Changed ‘Carrie’s Ending From Stephen King’s Novel",
+          "link": "https://bloody-disgusting.com/news/3976793/carrie-reboot-ending-changed-explained-mike-flanagan-stephen-king/",
+          "description": "When news emerged that there would be a new adaptation of Stephen King‘s Carrie on the way, there was immediate apprehension. Not only is the novel still highly regarded more than 50 years after its release, but we’ve gotten multiple successful adaptations of it over the years. If there was any glim",
+          "date": "2026-11-25T00:41:42+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Hokum’ Director’s ‘Oddity’ Getting All-New 4K Ultra HD Blu-ray From Severin Films",
+          "link": "https://bloody-disgusting.com/movie/3976786/oddity-movie-damian-mc-carthy-4k-blu-ray/",
+          "description": "As we get closer to the end of the year, you’ll be seeing more and more end-of-year horror lists, and likely every single one will include Damian Mc Carthy‘s Hokum as one of the best of 2026. Sitting at 90% positive reviews on aggregator site Rotten Tomatoes, it’s clear that the movie resonated with",
+          "date": "2026-11-24T23:12:38+00:00",
+          "image": ""
+        },
+        {
+          "title": "5 Horror Dinner Party Movies to Stream This Thanksgiving Week",
+          "link": "https://bloody-disgusting.com/editorials/3976785/dinner-party-horror-movies-to-stream/",
+          "description": "The holiday centered around a feast, Thanksgiving, arrives this week, and we’re giving thanks with a handful of horror reminders that, for all the anxieties that come from family gatherings and extravagant meal prep, it could always be worse. Beyond your themed Thanksgiving horror offerings, these f",
+          "date": "2026-11-24T22:56:56+00:00",
+          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2019/09/The-Invitation.jpg?resize=1024%2C576&#038;ssl=1"
+        },
         {
           "title": "Petition to Cancel Netflix’s ‘The Body’ Backfires and Makes It the Most-Watched Series Globally",
           "link": "https://bloody-disgusting.com/news/3976775/the-body-netflix-petition-backlash-backfire-most-watched-charts/",
@@ -52,33 +73,19 @@
           "description": "After toying around in the PTB for the past month, Art The Clown enters the Fog today in Behaviour Interactive’s Dead by Daylight as the latest Killer, alongside fan-favorite final girl Sienna Shaw as the next Survivor. In addition, deadly Trials await at the brand-new Mall Map, where The Fog meets ",
           "date": "2026-11-24T18:10:49+00:00",
           "image": ""
-        },
-        {
-          "title": "‘Mindhunter’: David Fincher Explains Why a Season 3 Won’t Happen at Netflix",
-          "link": "https://bloody-disgusting.com/news/3976731/mindhunter-season-3-canceled-david-fincher-explained/",
-          "description": "Filmmaker David Fincher proved with Se7en that he knew how to tell a gripping serial-killer story, as it is still considered one of the best thrillers of the ’90s. Fincher would return to the realm of serial killers for Zodiac a decade later, which told the real-life story of the serial killer that ",
-          "date": "2026-11-24T17:54:27+00:00",
-          "image": ""
-        },
-        {
-          "title": "Universal Orlando Resort’s ‘Horror Make-Up Show’ Reopens Next Month With Revamped Blumhouse Experience",
-          "link": "https://bloody-disgusting.com/the-further/3976730/universal-orlando-resorts-horror-make-up-show-reopens-next-month-with-revamped-blumhouse-experience/",
-          "description": "Universal Orlando Resort’s fan-favorite Horror Make-Up Show is returning soon with the revamped experience, “Universal Horror Make-Up Show featuring Blumhouse.” With an all-new lobby design, theater enhancements, a new slate of horror properties, and all the quirks fans know and love, the reimagined",
-          "date": "2026-11-24T17:36:19+00:00",
-          "image": ""
-        },
-        {
-          "title": "Mike Flanagan Confirms ‘Carrie’ Season 2 Targeting 2027 Filming, Writers Are “Firing on All Cylinders”",
-          "link": "https://bloody-disgusting.com/movie/3976724/carrie-season-2-writing-stephen-king-mike-flanagan/",
-          "description": "It’s safe to say that Mike Flanagan has joined the ranks of filmmakers like Frank Darabont and Mick Garris as someone who has an innate ability to adapt the works of Stephen King. While some filmmakers only make one foray into bringing King’s works to life, the aforementioned filmmakers have all dev",
-          "date": "2026-11-24T17:00:10+00:00",
-          "image": ""
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "Marvel Almost Brought Back Steve Rogers As a Very Different Character",
+          "link": "https://www.denofgeek.com/movies/marvel-almost-brought-back-steve-rogers-different-character/",
+          "description": "Ever since the first teaser trailer for Avengers: Doomsday, we knew things would be different for the first Avenger. The short clip, showing Chris Evans returning to the MCU to play a proud father ended not with “Captain America will return,” but rather “Steve Rogers will return.” On one hand, that ",
+          "date": "2026-11-24T23:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/Avengers_Doomsday_Trailer_Still_8-1643x675-269bc29.jpg"
+        },
         {
           "title": "Image Comics’ Next Big TV Swing Is Like Invincible Meets Supernatural",
           "link": "https://www.denofgeek.com/comics/image-comics-next-big-tv-swing-invincible-supernatural-fireborn/",
@@ -141,13 +148,6 @@
           "description": "Walt Disney Animation Studios has created countless magical worlds but not one completely made of magic. So enters the witchy world of Hexe in the animation house’s latest full-length film, Hexed. Marking the legendary studio’s 65th feature, Hexed transports audiences to a fantasy realm full of witc",
           "date": "2026-11-24T13:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/Witch-in-Disneys-Hexed.jpg"
-        },
-        {
-          "title": "15 Retro Fashion Accessories We Think Deserve a Second Look",
-          "link": "https://www.denofgeek.com/msn/15-retro-fashion-accessories-we-think-deserve-a-second-look/",
-          "description": "Fashion has a funny way of bringing things back just when everyone has forgotten about them. Looking through old photographs and vintage collections, it's easy to find accessories that deserve another chance. Tiny hats, dramatic sunglasses, decorative gloves, and colorful handbags once added persona",
-          "date": "2026-11-24T12:45:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024617_-17.jpg"
         }
       ]
     },
@@ -380,6 +380,20 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Real-Life GTA 6 Trading Cards Are About to Get Scalped",
+          "link": "https://www.pushsquare.com/news/2026/11/real-life-gta-6-trading-cards-are-about-to-get-scalped",
+          "description": "You too can add Maleek Rivers to your collection. If you’re having fun finding GTA 6’s collectible cards while out and about in Leonida, then soon you’ll be able to have fun finding them in real-life. And based on my experience trying to buy One Piece cards recently, it may actually be a lot easier ",
+          "date": "2026-11-25T02:00:00+00:00",
+          "image": "https://images.pushsquare.com/46330266e742a/large.jpg"
+        },
+        {
+          "title": "Feature: We Travelled Across GTA 6's Map Using Only Public Transport",
+          "link": "https://www.pushsquare.com/news/2026/11/we-travelled-across-gta-6s-map-using-only-public-transport",
+          "description": "A real journey. Is GTA 6’s public transport any good? We decided to put it to the test for the Push Square YouTube channel : Rockstar has talked extensively about how Leonida will have its own fully functioning public transport system, allowing you to take the bus and train to wherever you want to g",
+          "date": "2026-11-25T01:00:00+00:00",
+          "image": "https://images.pushsquare.com/93917c6f299be/large.jpg"
+        },
+        {
           "title": "PS5 RPG Lords of the Fallen 2 Locks on to April 2027 Release Date Following Lengthy Delay",
           "link": "https://www.pushsquare.com/news/2026/11/ps5-rpg-lords-of-the-fallen-2-locks-on-to-april-2027-release-date-following-lengthy-delay",
           "description": "The Game Awards teased? Lords of the Fallen 2 is officially targeting an April 2027 release date, having been hit with a lengthy delay back in the summer. The anticipated action RPG was previously eyeing an autumn / fall 2026 launch, which would have only added to an insane PS5 schedule. Shifting to",
@@ -434,20 +448,6 @@
           "description": "Take off. The next season of content is coming soon to Ace Combat 8: Wings of Theve's online multiplayer mode. Publisher Bandai Namco has released the below trailer detailing all the new bits and bobs: Read the full article on pushsquare.com",
           "date": "2026-11-24T14:30:00+00:00",
           "image": "https://images.pushsquare.com/6692946dd0047/large.jpg"
-        },
-        {
-          "title": "Guide: GTA 6: Vice City Easter Egg Walkthrough & Tommy Vercetti Shirt Unlock",
-          "link": "https://www.pushsquare.com/guides/gta-6-vice-city-easter-egg-walkthrough",
-          "description": "Find the portal and get your Tommy Vercetti rewards. GTA 6 is hiding an extremely cool Easter egg related to 2002's GTA: Vice City . While it's a really fun reward and absolutely worth looking for, it involves quite a complex set of steps to make it happen. In this GTA 6 guide , we're going to expla",
-          "date": "2026-11-24T13:30:00+00:00",
-          "image": "https://images.pushsquare.com/51218bcd78cfd/large.jpg"
-        },
-        {
-          "title": "Today Is Your Last Chance to Play Destruction AllStars on PS5",
-          "link": "https://www.pushsquare.com/news/2026/11/today-is-your-last-chance-to-play-destruction-allstars-on-ps5",
-          "description": "In any meaningful way, at least. Forgotten car combat game Destruction AllStars has been in some stage of extinction for years now, but if you do have the PS5 game in your library, then today truly is the last day you can play it in any meaningful manner. From tomorrow, 25th November 2026, the last ",
-          "date": "2026-11-24T12:00:00+00:00",
-          "image": "https://images.pushsquare.com/7daacdee0e7a4/large.jpg"
         }
       ]
     },
