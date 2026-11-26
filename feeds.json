@@ -1,9 +1,37 @@
 {
-  "updated": "2026-11-26T08:47:31.874132+00:00",
+  "updated": "2026-11-26T18:54:49.132068+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
       "articles": [
+        {
+          "title": "Psychological Horror Typing Game ‘Remote Control’ Launches January 29 [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3976928/psychological-horror-typing-game-remote-control-launches-january-29-trailer/",
+          "description": "Canteen and publisher Weekend Games are tasking players with being on time next year for their shift at Plutus Corporation in the upcoming psychological horror typing game Remote Control. Coming to Steam on January 29, you can get a taste of what lies ahead with the demo that’s now available on the ",
+          "date": "2026-11-26T18:30:55+00:00",
+          "image": ""
+        },
+        {
+          "title": "New ‘Nightholme’ Teaser Ask How Much Sanity Are You Willing to Sacrifice for Power [Watch]",
+          "link": "https://bloody-disgusting.com/video-games/3976914/new-nightholme-teaser-ask-how-much-sanity-are-you-willing-to-sacrifice-for-power-watch/",
+          "description": "Studio Ellipsis continues to drop more teaser videos for its upcoming PvEvP extraction title Nightholme, this time touching on the power you wield. Of course, as you might expect, that power comes at a cost. And in Wraithford, that cost is your sanity. At first, it’s a price worth paying. You’re str",
+          "date": "2026-11-26T17:00:16+00:00",
+          "image": ""
+        },
+        {
+          "title": "Dystopian Dark Comedy Title ‘DEAD COPIES’ Sees You Using Dead Bodies to Solve Puzzles [Trailer]",
+          "link": "https://bloody-disgusting.com/video-games/3976922/dystopian-dark-comedy-title-dead-copies-sees-you-using-dead-bodies-to-solve-puzzles-trailer/",
+          "description": "solo developer DustyEffsky has announced their dark-comedy puzzle game DEAD COPIES, which is slated for release on Steam on March 9. The offbeat dystopian title takes the idea of employees being glorified disposable drones, and cranks it up with you requiring to solve puzzles using their literal dea",
+          "date": "2026-11-26T14:30:44+00:00",
+          "image": ""
+        },
+        {
+          "title": "‘Devil May Cry’ Director Hideki Kamiya Wants to Make a New ‘Castlevania’ Game [Video]",
+          "link": "https://bloody-disgusting.com/video-games/3976916/devil-may-cry-director-hideki-kamiya-wants-to-make-a-new-castlevania-game-video/",
+          "description": "After Konami’s revival of the Castlevania franchise earlier this year with Belmont’s Curse, OG Resident Evil 2 and Bayonetta director Hideki Kamiya has decided to wade into things, announcing that he’d love to work with Konami on a new Castlevania entry. In a recent Q&A video where Kamiya talked abo",
+          "date": "2026-11-26T12:30:37+00:00",
+          "image": ""
+        },
         {
           "title": "‘Violent Night 2’ Will Explore Santa’s Violent Viking Past, Says David Harbour",
           "link": "https://bloody-disgusting.com/movie/3976906/david-harbour-violent-night-2-viking/",
@@ -45,40 +73,54 @@
           "description": "The term “J-Horror” seems pretty straightforward, but as it turns out, it doesn’t just mean “Japanese horror”. Or rather, it’s not a catch-all for every offering of Japanese horror—it better describes a particular movement and style. However, regardless of where you land on this topic, there is no a",
           "date": "2026-11-25T18:00:02+00:00",
           "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Door-III-Kiyoshi-Kurosawa.jpg?resize=1200%2C675&#038;ssl=1"
-        },
-        {
-          "title": "‘Ghost Rider’: Marvel Studios Head Debunks ‘Heated Rivalry’s Connor Storrie Casting",
-          "link": "https://bloody-disgusting.com/news/3976884/ghost-rider-connor-storrie-marvel-studios-kevin-feige-response/",
-          "description": "Ryan Gosling has said for years that, were he to join the Marvel Cinematic Universe, the character he would be interested in playing would be Ghost Rider. Understandably, having a talented actor volunteer to play one of the darkest figures in the Marvel roster was a proposition that seemed too good ",
-          "date": "2026-11-25T17:49:52+00:00",
-          "image": ""
-        },
-        {
-          "title": "‘Werwulf’: 5 Things to Know About Robert Eggers’ Medieval Horror Movie",
-          "link": "https://bloody-disgusting.com/movie/3976846/werewulf-5-things-horror-movie/",
-          "description": "From witches to mermaids and even mustachioed vampires, New England filmmaker Robert Eggers has been stealthily setting up his own little monsterverse over the course of the past decade. That’s why it’s no surprise that the director’s latest release is set to be a lore-accurate reimagining of my per",
-          "date": "2026-11-25T17:27:23+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/WW_TP01_00997_R.jpg?resize=1024%2C748&#038;ssl=1"
-        },
-        {
-          "title": "‘In a Violent Nature 2’ – New Look at the Return of Johnny",
-          "link": "https://bloody-disgusting.com/movie/3976872/in-a-violent-nature-2-new-look-at-the-return-of-johnny/",
-          "description": "The masked slasher known as Johnny is back in the upcoming sequel In a Violent Nature 2, and we’ve got a brand new image from Shudder and Independent Film Company this week. Directed by Chris Nash and Nate Wilson, In a Violent Nature 2 is in theaters February 12, 2027. Ry Barrett returns as Johnny [",
-          "date": "2026-11-25T16:56:17+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/In-a-Violent-Nature-2-Poster-Release-Date-scaled-1.jpg?resize=1229%2C1536&#038;ssl=1"
-        },
-        {
-          "title": "‘Hundreds of Beavers’ Celebrate Theatrical Re-Release With Parody of Ken Russell’s NC-17 ‘The Devils’",
-          "link": "https://bloody-disgusting.com/movie/3976863/hundreds-of-beavers-re-release-theaters-the-devils/",
-          "description": "Some movies rely on vague and ambiguous titles to not only entice audiences, but also to bewilder them. Take, for example, one of the year’s more unexpected releases: Ken Russell‘s NC-17 re-release of The Devils. With such a generic name, it’s hard to assume exactly what the movie would be about, bu",
-          "date": "2026-11-25T16:40:06+00:00",
-          "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/11/Hundreds-of-Beavers-The-Devils-Poster-Parody.jpg?resize=1080%2C1350&#038;ssl=1"
         }
       ]
     },
     "Den of Geek": {
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
+        {
+          "title": "Blade Runner 2099 Composer On Scoring a World Run by Replicants",
+          "link": "https://www.denofgeek.com/tv/blade-runner-2099-composer-leopold-ross-interview/",
+          "description": "This article appears in the new issue of DEN OF GEEK magazine. Find out how you can subscribe to get the full physical copy right here! From touring in rock bands to scoring film and television, Leopold Ross has built a career on following his instincts into the unknown. Those same instincts, along ",
+          "date": "2026-11-26T17:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/Online-Main-Image-Composer.jpg"
+        },
+        {
+          "title": "Krisha Is the Ultimate Thanksgiving Horror Movie",
+          "link": "https://www.denofgeek.com/movies/krisha-ultimate-thanksgiving-horror-movie/",
+          "description": "For some, Thanksgiving is the simplest holiday. Even those who do most of the cooking and cleaning to make the centerpiece meal consider a house full of loved ones and the new memories worth the effort. But for others, Thanksgiving is a nightmare: noisy and chaotic, filled with anxiety and forced in",
+          "date": "2026-11-26T15:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/Krisha-Fairchild-in-Krisha.jpg"
+        },
+        {
+          "title": "15 Movie Stars Who Never Really Wanted All the Fame",
+          "link": "https://www.denofgeek.com/msn/15-movie-stars-who-never-really-wanted-all-the-fame/",
+          "description": "Imagine having to think twice about going to the grocery store or taking your dog for a walk. That's something a surprising number of actors have had to deal with, sometimes from a very young age. For those who got into the business simply because they enjoyed acting, becoming a household name wasn'",
+          "date": "2026-11-26T14:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-4-9.jpg"
+        },
+        {
+          "title": "Sterlin Harjo On The Lowdown Season 2 Finale, Rejecting the Idea of Being Cool",
+          "link": "https://www.denofgeek.com/tv/sterlin-harjo-the-lowdown-season-2-finale-interview/",
+          "description": "The following contains spoilers for The Lowdown season 2 episode 8. It always feels slightly awkward to ask someone who just wrapped up a season of television if they’re ready to jump into the next one. But award-winning writer/director Sterlin Harjo is “locked and loaded” for the third season of Th",
+          "date": "2026-11-26T14:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/The-Lowdown-Season-2-Ethan-Hawke.jpg"
+        },
+        {
+          "title": "Dressing for Sunshine Noir in Blade Runner 2099",
+          "link": "https://www.denofgeek.com/tv/dressing-for-sunshine-noir-in-blade-runner-2099/",
+          "description": "This article appears in the new issue of DEN OF GEEK magazine. Find out how you can subscribe to get the full physical copy right here! They say you should dress for any occasion, but in the realm of science fiction, and even more so in Blade Runner, that really can mean any occasion—or time period.",
+          "date": "2026-11-26T13:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/Blade-Runner-2099-costumes.jpg"
+        },
+        {
+          "title": "15 TV Characters Who Became Memes for All the Wrong Reasons",
+          "link": "https://www.denofgeek.com/msn/15-tv-characters-who-became-memes-for-all-the-wrong-reasons/",
+          "description": "It's hard to take certain TV scenes seriously after seeing them used as memes for years. Just ask anyone who watched Dawson's Creek for the first time after discovering the crying Dawson GIF. Sometimes it's the delivery of a particular line that gets people laughing. Other times, it's a facial expre",
+          "date": "2026-11-26T13:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-3-9.jpg"
+        },
         {
           "title": "The Bigfoot Files and the Bossburg Thanksgiving Sasquatch Revisited",
           "link": "https://www.denofgeek.com/culture/bigfoot-files-bossburg-thanksgiving-sasquatch-revisited/",
@@ -106,54 +148,19 @@
           "description": "In the hours before Grand Theft Auto VI was officially released, already a certain segment of gamers took to labeling it a “cuck simulator,” “angry girlfriend simulator,” or just plain “woke.” It was a somewhat unexpected reception for one of the most successful video game franchises of all time, on",
           "date": "2026-11-25T19:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI-Jason-and-Lucia-Dancing.jpg"
-        },
-        {
-          "title": "The X-Men Are Marvel’s Only Hope of Rebuilding After Doomsday",
-          "link": "https://www.denofgeek.com/movies/x-men-marvel-only-hoperebuilding-after-doomsday/",
-          "description": "We’ve known for some time that Doom is coming to the MCU, in the form of Avengers: Doomsday villain Doctor Doom. And we now know that the follow-up, Avengers: Secret Wars, will match the storyline from the comics, in which Doom recreates the universe in his image, establishing himself as God Emperor",
-          "date": "2026-11-25T18:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/Avengers_Doomsday_Trailer_Still_4.jpg"
-        },
-        {
-          "title": "Blade Runner 2099: Why Television Was The Next Step For The Legendary Sci-Fi Franchise",
-          "link": "https://www.denofgeek.com/movies/blade-runner-2099-producers-sci-fi-franchise-legacy/",
-          "description": "This article appears in the new issue of DEN OF GEEK magazine. Find out how you can subscribe to get the full physical copy right here! Ridley Scott’s Blade Runner is included on any list ranking the best science fiction films of all time, but its success came not in the theaters in 1982 but at home",
-          "date": "2026-11-25T17:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/Online-Main-Image-Producers.jpg"
-        },
-        {
-          "title": "The Russo Bros.’ Avengers: Doomsday Inspiration Supports a Long-Standing Fan Theory",
-          "link": "https://www.denofgeek.com/movies/russo-brothers-avengers-doomsday-fan-theory-loki-steve-rogers/",
-          "description": "Avengers: Doomsday is, in many ways, a reunion. It’ll see the return of Avengers alums Chris Evans, Robert Downey Jr., and Chris Hemsworth, though Downey has flipped from hero to villain as he takes on the role of Doctor Doom. It’ll also see the return (and likely swan song) of actors from 20th Cent",
-          "date": "2026-11-25T16:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/Avengers-Doomsday-Steve-Rogers.png"
-        },
-        {
-          "title": "15 TV Friendships That Were Mostly Just One Person Doing All the Work",
-          "link": "https://www.denofgeek.com/msn/15-tv-friendships-that-were-mostly-just-one-person-doing-all-the-work/",
-          "description": "TV friendships can be a little strange when you really think about them. Some characters spend years lending money, solving problems, keeping secrets, and forgiving behavior that would probably end a real friendship. Meanwhile, their supposed best friends seem perfectly happy letting them handle eve",
-          "date": "2026-11-25T14:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-1-15.jpg"
-        },
-        {
-          "title": "15 Movie Endings That Probably Wouldn’t Have Worked Out So Well",
-          "link": "https://www.denofgeek.com/msn/15-movie-endings-that-probably-wouldnt-have-worked-out-so-well/",
-          "description": "Movies love ending at just the right moment. The couple finally gets together, the villain disappears, or everyone celebrates surviving something ridiculous. Then the credits roll before anyone has to deal with what happens next. But some happy endings start looking pretty questionable once you thin",
-          "date": "2026-11-25T13:30:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024617_-18.jpg"
-        },
-        {
-          "title": "15 Photos Where 1979 Looks Like a Pretty Nice Place to Be",
-          "link": "https://www.denofgeek.com/msn/15-photos-where-1979-looks-like-a-pretty-nice-place-to-be/",
-          "description": "The past will always feel like a better time to be alive, and of course, that is just either nostalgia or a similar feeling talking. The people that lived through that era, many of whom can tell you this themselves, had their own hardships that were a staple of the times. And yet, there is an appeal",
-          "date": "2026-11-25T13:15:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/img-13-3.jpg"
         }
       ]
     },
     "Fangoria": {
       "url": "https://www.fangoria.com/feed/",
       "articles": [
+        {
+          "title": "5 Free Streaming Horror Family Feasts That’ll Make You Thankful For Your Relatives",
+          "link": "https://www.fangoria.com/5-free-streaming-horror-family-feasts/",
+          "description": "This year, be thankful you're not having dinner with one of the families in these horror movies that you can currently stream for free.",
+          "date": "2026-11-26T17:45:34+00:00",
+          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/wawwa.jpg"
+        },
         {
           "title": "10 Horror Movies To Check Out After Binge-Watching THE BODY",
           "link": "https://www.fangoria.com/10-horror-movies-watch-the-body-netflix/",
@@ -216,13 +223,6 @@
           "description": "Paul Terry's latest book goes inside the found footage horror subgenre and why audiences can't help but believe what they're seeing isn't fiction.",
           "date": "2026-11-23T21:00:53+00:00",
           "image": "https://www.fangoria.com/wp-content/uploads/2026/11/isitrealcover.jpg"
-        },
-        {
-          "title": "20 Years of PAN’S LABYRINTH: Hollywood Stars on Guillermo del Toro’s Lasting Impact",
-          "link": "https://www.fangoria.com/pans-labyrinth-20th-anniversary-exclusive-clip/",
-          "description": "To celebrate the 20th Anniversary release of PAN'S LABYRINTH, Fango is proud to provide an exclusive preview of one of the special features.",
-          "date": "2026-11-23T17:02:08+00:00",
-          "image": "https://www.fangoria.com/wp-content/uploads/2026/11/Pans_Labyrinth_DigitalKeyArt_1920x1080_Logo_Horiz_ver1.jpg"
         }
       ]
     },
@@ -230,11 +230,32 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "PS5 Fantasy Adventure Game Confirms PlayStation Release",
+          "link": "https://www.playstationlifestyle.net/2026/11/26/rhell-warped-worlds-troubled-times-ps5-release",
+          "description": "PlayStation players will soon be able to explore a magical world packed with inventive puzzles and eccentric characters. Rhell: Warped Worlds & Troubled Times is officially heading to PS5 and several other consoles, with physical edition pre-orders now available. Czech publisher Nejcraft announced t",
+          "date": "2026-11-26T18:52:50+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/PS5-Fantasy-Adventure-Game-Confirms-PlayStation-Release-1.jpg?w=1024"
+        },
+        {
+          "title": "Stunning PS5 Sci-Fi Adventure Gets a Free Demo Ahead of Console Release",
+          "link": "https://www.playstationlifestyle.net/2026/11/26/ps5-sci-fi-adventure-calx-free-demo",
+          "description": "Players can now get an early look at a new atmospheric sci-fi adventure coming to current consoles. True Colors and publisher Dear Villagers have released a free demo for PS5 and Xbox Series, alongside a new gameplay trailer for CALX. The demo offers about an hour of gameplay and covers the game’s o",
+          "date": "2026-11-26T17:36:41+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/3.jpg?w=1024"
+        },
+        {
+          "title": "Ambitious PS5 Adventure Game Gets 4K, 120 FPS Upgrade for Free",
+          "link": "https://www.playstationlifestyle.net/2026/11/26/yooka-laylee-impossible-lair-definitive-edition-ps5-upgrade",
+          "description": "PlayStation 5 players are getting a free visual upgrade for a celebrated platform adventure game. Titled Yooka-Laylee and the Impossible Lair: Definitive Edition, the game is an enhanced version of the 2019 title. Developed by Playtonic, the new version brings upgraded PlayStation 5 performance at 4",
+          "date": "2026-11-26T17:10:48+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/1_6d044e.jpg?w=1024"
+        },
+        {
           "title": "Ubisoft’s Gorgeous PS3 Classic Looks Even Better on PS5 With New Levels",
           "link": "https://www.playstationlifestyle.net/2026/11/25/ubisoft-rayman-legends-retold-ps5-story-trailer-details",
           "description": "Ubisoft is bringing back one of its beloved PS3 platform adventure games with a refreshed design for modern consoles The post Ubisoft’s Gorgeous PS3 Classic Looks Even Better on PS5 With New Levels appeared first on PlayStation LifeStyle .",
           "date": "2026-11-25T22:06:27+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/Rayman-Legends.jpg?w=1024"
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/Ubisoft.jpg?w=1024"
         },
         {
           "title": "GTA 6’s Trading Cards Are Becoming Real & Fans Can Collect Them Soon",
@@ -277,27 +298,6 @@
           "description": "Sony Interactive Entertainment has signed a marketing deal for a long-awaited PS5 RPG after Grand Theft Auto VI. CD Projekt RED has revealed that Sony will be handling The Witcher 4‘s marketing campaign in a collaboration that seems similar to the company’s agreement with Rockstar Games. Sony’s part",
           "date": "2026-11-25T13:00:00+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/ps5-rpg-the-witcher-4.jpg?w=1024"
-        },
-        {
-          "title": "2023 Capcom PS5 Game Shutting Down, Will Become Unplayable",
-          "link": "https://www.playstationlifestyle.net/2026/11/24/capcom-ps5-action-game-exoprimal-shutting-down-delisting",
-          "description": "A promising Capcom 2023 PS5 action game is being delisted and shutting down for good, the publisher has announced. Dino-themed multiplayer third-person shooter Exoprimal, which failed to charm players and critics, will no longer be playable in the near future. PS5 dino action game Exoprimal shutting",
-          "date": "2026-11-25T07:31:58+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/capcom-ps5-action-game-shutting-down.jpg?w=1024"
-        },
-        {
-          "title": "PlayStation Store Update Worldwide November 24, 2026",
-          "link": "https://www.playstationlifestyle.net/2026/11/24/playstation-store-update-worldwide-november-24-2026",
-          "description": "Each week Sony brings PlayStation 4, PlayStation 5, PlayStation VR, and PlayStation Plus owners new content, add-ons, games, and more. Here is the complete global PlayStation Store update. PlayStation LifeStyle catalogs the PlayStation Store updates for the major regions across the globe. Check back",
-          "date": "2026-11-24T22:00:00+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2023/03/psglobalupdate.jpg?w=1024"
-        },
-        {
-          "title": "PS5 Pro-Enhanced Warhammer Game Is 75% Off on PlayStation Store",
-          "link": "https://www.playstationlifestyle.net/2026/11/24/warhammer-40000-space-marine-2-ps5-playstation-store-deal",
-          "description": "Fans wanting a brutal sci-fi shooter can buy one of 2024's best games in the Warhammer 40,000 universe for a massive discount on PS5. The post PS5 Pro-Enhanced Warhammer Game Is 75% Off on PlayStation Store appeared first on PlayStation LifeStyle .",
-          "date": "2026-11-24T16:00:00+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/PS5-Pro-Enhanced-Warhammer-Game-Is-75-Off-on-PlayStation-Store-1.jpg?w=1024"
         }
       ]
     },
@@ -380,74 +380,74 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "Despite No Disc, GTA 6 Recorded the UK's Biggest Physical Launch Since 2019",
+          "link": "https://www.pushsquare.com/news/2026/11/despite-no-disc-gta-6-recorded-the-uks-biggest-physical-launch-since-2019",
+          "description": "People love plastic boxes. GTA 6 has been breaking records all over the place, so it doesn't come as much of a surprise to learn that its performance at physical retail has been mighty impressive. As reported by The Game Business , based on data from UK tracker Nielsen IQ, GTA 6 has recorded the cou",
+          "date": "2026-11-26T18:00:00+00:00",
+          "image": "https://images.pushsquare.com/1f0b2869d39fd/large.jpg"
+        },
+        {
+          "title": "New Phantom Blade Zero PS5 Update Brings Features, Upgrades, and Fixes",
+          "link": "https://www.pushsquare.com/news/2026/11/new-phantom-blade-zero-ps5-update-brings-features-upgrades-and-fixes",
+          "description": "Out on Saturday, 28th November. Phantom Blade Zero studio S-Game has announced the game's next PS5 patch will arrive this Saturday, 28th November 2026, weighing in at around 7GB. It's already posted the patch notes ahead of pushing the PS5 update live at the weekend, and they reveal new features, te",
+          "date": "2026-11-26T17:30:00+00:00",
+          "image": "https://images.pushsquare.com/2486cdb4e52af/large.jpg"
+        },
+        {
+          "title": "Feature: Everything You Need to Know Ahead of the Delta Force Invitationals Grand Final",
+          "link": "https://www.pushsquare.com/features/everything-you-need-to-know-ahead-of-the-delta-force-invitationals-grand-final",
+          "description": "The tactical shooter’s 3-day LAN championship kicks off in Sweden this weekend - with huge in-game rewards for tuning in. After last year’s inaugural event in Hangzhou, this weekend sees the Delta Force Invitational make its first move outside Asia, as an official competitive title at DreamHack in S",
+          "date": "2026-11-26T17:00:00+00:00",
+          "image": "https://images.pushsquare.com/e111528be052f/large.jpg"
+        },
+        {
+          "title": "PS Plus Premium Members Can Try One of This Year's Best Games in a 2-Hour Trial",
+          "link": "https://www.pushsquare.com/news/2026/11/ps-plus-premium-members-can-try-one-of-this-years-best-games-in-a-2-hour-trial",
+          "description": "Take Star Wars: Galactic Racer for a spin. Everyone is (understandably) going gaga over GTA 6 right now, but real ones will know that 2026 has also brought us one of the best racing games of the PS5 generation — Star Wars: Galactic Racer . The arcade racing title is the debut effort from Fuse Games,",
+          "date": "2026-11-26T16:30:00+00:00",
+          "image": "https://images.pushsquare.com/cfa0126fb2c3c/large.jpg"
+        },
+        {
+          "title": "Hitman, 007 First Light PS5 Crossover Makes Lenny Kravitz Your New Ally",
+          "link": "https://www.pushsquare.com/news/2026/11/hitman-007-first-light-ps5-crossover-makes-lenny-kravitz-your-new-ally",
+          "description": "Available now for free on PS5. It's a bit surprising this crossover hasn't already happened, to be honest, given IO Interactive is the studio behind both of the games, but it's now been confirmed a Hitman and 007 First Light collaboration is happening. The content is live from today until 24th Decem",
+          "date": "2026-11-26T16:00:00+00:00",
+          "image": "https://images.pushsquare.com/70f5cf392b140/large.jpg"
+        },
+        {
+          "title": "GTA 6 Gives PS5 a Very Rare Win Over Switch 2 in Japan",
+          "link": "https://www.pushsquare.com/news/2026/11/gta-6-gives-ps5-a-very-rare-win-over-switch-2-in-japan",
+          "description": "Score. At this point, it’s well known that Switch 2 is by far the market leader in Japan. While the PS5 still commands some marketshare, it gets dominated by the Nintendo machine on a weekly basis. Read the full article on pushsquare.com",
+          "date": "2026-11-26T15:30:00+00:00",
+          "image": "https://images.pushsquare.com/9d5530aadf314/large.jpg"
+        },
+        {
+          "title": "The Witcher 3 Remastered Patch 5.02 Fixes Annoying PS5 Stutters, Improves Performance, and Much More",
+          "link": "https://www.pushsquare.com/news/2026/11/the-witcher-3-remastered-patch-5-02-fixes-annoying-ps5-stutters-improves-performance-and-much-more",
+          "description": "A Witcher's work is never done. The Witcher 3 Remastered has a new update on PS5, and it's available to download right now, weighing in at a reasonable 1.6GB. Patch 5.02 is the one many have been waiting for, as it addresses the game's most annoying technical issue on console. I am, of course, refer",
+          "date": "2026-11-26T15:00:00+00:00",
+          "image": "https://images.pushsquare.com/21a5485cc1b7e/large.jpg"
+        },
+        {
+          "title": "PS Plus Essential's Next Update Looks a Bit Better in Japan Than the Rest of the World",
+          "link": "https://www.pushsquare.com/news/2026/11/ps-plus-essentials-next-update-looks-a-bit-better-in-japan-than-the-rest-of-the-world",
+          "description": "A different lineup overseas. It’s all subjective, of course, but Japan’s PS Plus Essential update for December 2026 looks a little bit better than what we’re getting in the west. While all regions will receive Tony Hawk’s Pro Skater 3 + 4 and Dragon Ball XenoVerse 2 , subscribers in the far east wil",
+          "date": "2026-11-26T14:30:00+00:00",
+          "image": "https://images.pushsquare.com/a5298dee7dd7f/large.jpg"
+        },
+        {
+          "title": "Feature: 80+ PS5, PS4 Games to Buy in PS Store's Updated Black Friday Sale (North America/Europe)",
+          "link": "https://www.pushsquare.com/features/80plus-ps5-ps4-games-to-buy-in-ps-stores-updated-black-friday-sale-north-americaeurope",
+          "description": "PS5 and PS4 games going cheap we recommend. The PS Store's Black Friday sale is on now, running until 30th November, 2026. As with nearly every offer in Sony's digital store, there are literally thousands of PS5 and PS4 games going cheap. Obviously, nobody has the time to scroll through all those de",
+          "date": "2026-11-26T14:00:00+00:00",
+          "image": "https://images.pushsquare.com/6a7a113f0bf1a/large.jpg"
+        },
+        {
           "title": "The Witcher 4 Is Not a PS5 Exclusive, CDPR Clarifies After Sony Deal",
           "link": "https://www.pushsquare.com/news/2026/11/the-witcher-4-is-not-a-ps5-exclusive-cdpr-clarifies-after-sony-deal",
           "description": "Well, duh. Did anyone really think The Witcher 4 was going to be a PS5 exclusive? For those who missed it, CDPR confirmed yesterday that it has signed a marketing deal with Sony on its upcoming RPG. Read the full article on pushsquare.com",
           "date": "2026-11-26T01:30:00+00:00",
           "image": "https://images.pushsquare.com/cd1abe6278877/large.jpg"
-        },
-        {
-          "title": "GTA 6's Map Has a Useful Feature I've Only Just Noticed",
-          "link": "https://www.pushsquare.com/news/2026/11/gta-6s-map-has-a-useful-feature-ive-only-just-noticed",
-          "description": "You learn something new every day. I’ve tallied over 300 hours in GTA 6 so far, and today I learned something new. Forgive me if you already knew it, but I figured I’d share anyway as it never occurred to me in all my sessions so far. Read the full article on pushsquare.com",
-          "date": "2026-11-26T01:00:00+00:00",
-          "image": "https://images.pushsquare.com/28170b445230c/large.jpg"
-        },
-        {
-          "title": "Guide: GTA 6: Secret Controls the Game Doesn't Tell You",
-          "link": "https://www.pushsquare.com/guides/gta-6-secret-controls-the-game-doesnt-tell-you",
-          "description": "Pro tips. GTA 6 has a complicated control scheme that allows you to interact with the game in a variety of different ways. And while Rockstar does a good job introducing almost all of the title's mechanics, several useful features and commands are never mentioned at all. In this GTA 6 guide , we're ",
-          "date": "2026-11-25T22:00:00+00:00",
-          "image": "https://images.pushsquare.com/4749a3e33b334/large.jpg"
-        },
-        {
-          "title": "Hollow Knight: Silksong DLC News and 'Exciting' Reveals from Dev Team Cherry Coming This Week",
-          "link": "https://www.pushsquare.com/news/2026/11/hollow-knight-silksong-dlc-news-and-exciting-reveals-from-dev-team-cherry-coming-this-week",
-          "description": "Tune in this Friday. Team Cherry will provide an update on the Sea of Sorrow expansion it has in the works for Hollow Knight: Silksong this week, alongside a selection of other \"exciting announcements\". A timed YouTube presentation is already uploaded to the developer's channel, with the description",
-          "date": "2026-11-25T18:00:00+00:00",
-          "image": "https://images.pushsquare.com/e183b92595c01/large.jpg"
-        },
-        {
-          "title": "Yooka-Laylee and the Impossible Lair Gets a PS5 Definitive Edition, Out This December",
-          "link": "https://www.pushsquare.com/news/2026/11/yooka-laylee-and-the-impossible-lair-gets-a-ps5-definitive-edition-out-this-december",
-          "description": "Digital PS4 owners get a free upgrade. Playtonic has announced Yooka-Laylee and the Impossible Lair is being treated to a new Definitive Edition on PS5, and it's right around the corner. The new version launches on 15th December 2026, and anyone who owns a digital PS4 version of the game gets a free",
-          "date": "2026-11-25T17:30:00+00:00",
-          "image": "https://images.pushsquare.com/9d2d63dbbbfeb/large.jpg"
-        },
-        {
-          "title": "PS Plus Essential Games for December 2026 Announced",
-          "link": "https://www.pushsquare.com/news/2026/11/ps-plus-essential-games-for-december-2026-announced",
-          "description": "Skateboards, spiky hair, and scares. Sony’s announced the December 2026 lineup for PS Plus Essential , with three games available for all base subscribers to download from Tuesday, 1st December, 2026. They are: Read the full article on pushsquare.com",
-          "date": "2026-11-25T16:45:00+00:00",
-          "image": "https://images.pushsquare.com/77d92d244a597/large.jpg"
-        },
-        {
-          "title": "Final Fantasy Resonance Devs Surprised by How Many Fans Wanted a Traditional, Turn-Based RPG",
-          "link": "https://www.pushsquare.com/news/2026/11/final-fantasy-resonance-devs-surprised-by-how-many-fans-wanted-a-traditional-turn-based-rpg",
-          "description": "Action (not) required. Final Fantasy Resonance has been one of the most positively-received Square Enix games in ages — but its developers were never fully convinced that it would, er, resonate on the scale that it has. Producer Keisuke Nakashima told Japanese outlet Game*Spark (as translated by Aut",
-          "date": "2026-11-25T16:00:00+00:00",
-          "image": "https://images.pushsquare.com/e1065ad268165/large.jpg"
-        },
-        {
-          "title": "PS5's Most Overlooked Action Game of 2026 Gets a Complete Edition Next Year",
-          "link": "https://www.pushsquare.com/news/2026/11/ps5s-most-overlooked-action-game-of-2026-gets-a-complete-edition-next-year",
-          "description": "Nioh's the time. Nioh 3 is getting a 'Complete Edition' early next year, Koei Tecmo has confirmed. It'll include the base adventure alongside its two expansions, Hell Rising and Bloody Insurrection. The latter isn't actually out yet — it launches on the 17th December, and promises a brutal all-out b",
-          "date": "2026-11-25T15:00:00+00:00",
-          "image": "https://images.pushsquare.com/a0a56b4854d3a/large.jpg"
-        },
-        {
-          "title": "GTA 6 Causes PS5 Consoles to Sell Out in US Before Black Friday",
-          "link": "https://www.pushsquare.com/news/2026/11/gta-6-causes-ps5-consoles-to-sell-out-in-us-before-black-friday",
-          "description": "Good luck getting one. Sony’s struggling to meet demand for the PS5 following last week’s release of GTA 6 . Many major retailers in the US, including PS Direct , are currently completely sold out of the system – although you may find isolated instances of stock in stores. Read the full article on p",
-          "date": "2026-11-25T14:30:00+00:00",
-          "image": "https://images.pushsquare.com/d512d5d904f3f/large.jpg"
-        },
-        {
-          "title": "Skate PS5 Moving Away from Seasons, Adds Proximity Chat, New Mode, More in Next Update",
-          "link": "https://www.pushsquare.com/news/2026/11/skate-ps5-moving-away-from-seasons-adds-proximity-chat-new-mode-more-in-next-update",
-          "description": "Changing the game. Skate , the free-to-play skateboarding game that's still in Early Access, is ditching its seasonal approach moving forward, publisher EA has confirmed . The always-online, shared world game has been getting fairly regular updates since its launch back in September 2025, and it's a",
-          "date": "2026-11-25T14:00:00+00:00",
-          "image": "https://images.pushsquare.com/8817430fd7581/large.jpg"
         }
       ]
     },
