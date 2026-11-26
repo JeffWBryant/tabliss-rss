@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T00:09:57.579619+00:00",
+  "updated": "2026-11-26T08:47:31.874132+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -380,6 +380,20 @@
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
         {
+          "title": "The Witcher 4 Is Not a PS5 Exclusive, CDPR Clarifies After Sony Deal",
+          "link": "https://www.pushsquare.com/news/2026/11/the-witcher-4-is-not-a-ps5-exclusive-cdpr-clarifies-after-sony-deal",
+          "description": "Well, duh. Did anyone really think The Witcher 4 was going to be a PS5 exclusive? For those who missed it, CDPR confirmed yesterday that it has signed a marketing deal with Sony on its upcoming RPG. Read the full article on pushsquare.com",
+          "date": "2026-11-26T01:30:00+00:00",
+          "image": "https://images.pushsquare.com/cd1abe6278877/large.jpg"
+        },
+        {
+          "title": "GTA 6's Map Has a Useful Feature I've Only Just Noticed",
+          "link": "https://www.pushsquare.com/news/2026/11/gta-6s-map-has-a-useful-feature-ive-only-just-noticed",
+          "description": "You learn something new every day. I’ve tallied over 300 hours in GTA 6 so far, and today I learned something new. Forgive me if you already knew it, but I figured I’d share anyway as it never occurred to me in all my sessions so far. Read the full article on pushsquare.com",
+          "date": "2026-11-26T01:00:00+00:00",
+          "image": "https://images.pushsquare.com/28170b445230c/large.jpg"
+        },
+        {
           "title": "Guide: GTA 6: Secret Controls the Game Doesn't Tell You",
           "link": "https://www.pushsquare.com/guides/gta-6-secret-controls-the-game-doesnt-tell-you",
           "description": "Pro tips. GTA 6 has a complicated control scheme that allows you to interact with the game in a variety of different ways. And while Rockstar does a good job introducing almost all of the title's mechanics, several useful features and commands are never mentioned at all. In this GTA 6 guide , we're ",
@@ -434,26 +448,26 @@
           "description": "Changing the game. Skate , the free-to-play skateboarding game that's still in Early Access, is ditching its seasonal approach moving forward, publisher EA has confirmed . The always-online, shared world game has been getting fairly regular updates since its launch back in September 2025, and it's a",
           "date": "2026-11-25T14:00:00+00:00",
           "image": "https://images.pushsquare.com/8817430fd7581/large.jpg"
-        },
-        {
-          "title": "Cyberpunk 2 Development Really Ramping Up as Team Targets Big 2027",
-          "link": "https://www.pushsquare.com/news/2026/11/cyberpunk-2-development-really-ramping-up-as-team-targets-big-2027",
-          "description": "Everyone's Chippin' In. 2027 will likely be a pivotal year for Cyberpunk 2 as it rockets towards full production, with CD Projekt Red anticipating significant expansion to the sequel's development team. Since the summer, the number of people working on Cyberpunk 2 has increased from 184 to 199, whic",
-          "date": "2026-11-25T13:00:00+00:00",
-          "image": "https://images.pushsquare.com/2088508e22419/large.jpg"
-        },
-        {
-          "title": "CD Projekt Red Expects GTA 5 to GTA 6-Like Upgrade in The Witcher 4",
-          "link": "https://www.pushsquare.com/news/2026/11/cd-projekt-red-expects-gta-5-to-gta-6-like-upgrade-in-the-witcher-4",
-          "description": "\"You should expect us to make a bigger jump\". CD Projekt Red thinks it can deliver the same sort of \"leap\" in The Witcher 4 as Rockstar Games has just accomplished going from GTA 5 to GTA 6 . The 13-year gap between instalments in the GTA series has allowed Rockstar Games to create the \"greatest ope",
-          "date": "2026-11-25T11:00:00+00:00",
-          "image": "https://images.pushsquare.com/55f1266bd6f5e/large.jpg"
         }
       ]
     },
     "Steam": {
       "url": "https://store.steampowered.com/feeds/news.xml",
       "articles": [
+        {
+          "title": "Team Fortress 2 Update Released",
+          "link": "https://store.steampowered.com/news/295560/",
+          "description": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include: Fixed clients not respawning when killed",
+          "date": "2026-11-26T02:57:00+00:00",
+          "image": ""
+        },
+        {
+          "title": "Team Fortress 2 Update Released",
+          "link": "https://store.steampowered.com/news/295555/",
+          "description": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include: For mod developers: Updated Rubikon",
+          "date": "2026-11-26T01:09:00+00:00",
+          "image": ""
+        },
         {
           "title": "Team Fortress 2 Update Released",
           "link": "https://store.steampowered.com/news/293917/",
@@ -508,20 +522,6 @@
           "link": "https://store.steampowered.com/news/285419/",
           "description": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include: Adding missing zi_ strings Fixed some missing VO lines for the Taunt: One-Eyed Punt! Fixed Scout Crazy Legs using the incorrect lightwarp (community f",
           "date": "2026-10-02T22:20:00+00:00",
-          "image": ""
-        },
-        {
-          "title": "Team Fortress 2 Update Released",
-          "link": "https://store.steampowered.com/news/285134/",
-          "description": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include: Scream Fortress XVIII has arrived! Featuring 5 new community maps: HolyHell, Scarypass, Trainsawlaser, Medi-Evil, and Scaredy-Cat Added the Haunted Ho",
-          "date": "2026-10-01T19:04:00+00:00",
-          "image": ""
-        },
-        {
-          "title": "Team Fortress 2 Update Released",
-          "link": "https://store.steampowered.com/news/276347/",
-          "description": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include: Updated Taxi Cabbed war paint Fixed mip settings on the stickers Fixed using the incorrect wear texture Updated/Added some tournament medals Updated k",
-          "date": "2026-07-16T20:22:00+00:00",
           "image": ""
         }
       ]
