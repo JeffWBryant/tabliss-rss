@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T18:54:49.132068+00:00",
+  "updated": "2026-11-27T02:05:21.070715+00:00",
   "feeds": {
     "Bloody Disgusting": {
       "url": "https://bloody-disgusting.com/feed",
@@ -80,6 +80,13 @@
       "url": "https://www.denofgeek.com/feed/",
       "articles": [
         {
+          "title": "15 Thrift Store Paintings Raising More Questions Than Answers",
+          "link": "https://www.denofgeek.com/msn/15-thrift-store-paintings-raising-more-questions-than-answers/",
+          "description": "Thrift stores are full of paintings that once hung in somebody's living room, and sometimes it's difficult to imagine why. There are strange family portraits, unsettling clowns, and pictures featuring combinations of things that don't normally belong together. Nobody knows what the original owners w",
+          "date": "2026-11-27T00:00:00+00:00",
+          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/wp_image-_id__1009544_sizeSlug___large__linkDestination___none_-_-_figure-class_wp-block-image-size-large___img-src_https___www.denofgeek.com_wp-content_uploads_2026_07_image_b11ece.png_resize1024-2-15.jpg"
+        },
+        {
           "title": "Blade Runner 2099 Composer On Scoring a World Run by Replicants",
           "link": "https://www.denofgeek.com/tv/blade-runner-2099-composer-leopold-ross-interview/",
           "description": "This article appears in the new issue of DEN OF GEEK magazine. Find out how you can subscribe to get the full physical copy right here! From touring in rock bands to scoring film and television, Leopold Ross has built a career on following his instincts into the unknown. Those same instincts, along ",
@@ -141,13 +148,6 @@
           "description": "Everyone has a Thanksgiving ritual. Maybe you go for the standard feast of turkey and pumpkin pie with family and friends. Maybe you get in on “Friendsgiving” and bring whatever. Maybe you spend half the day cheering on your favorite football team. Some people marathon movies, though there are surpr",
           "date": "2026-11-25T20:00:00+00:00",
           "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/Rise-of-the-Guardians.jpg"
-        },
-        {
-          "title": "What the GTA VI Manosphere Haters Are Missing About the Franchise",
-          "link": "https://www.denofgeek.com/games/what-gta-vi-manosphere-haters-miss-about-franchise/",
-          "description": "In the hours before Grand Theft Auto VI was officially released, already a certain segment of gamers took to labeling it a “cuck simulator,” “angry girlfriend simulator,” or just plain “woke.” It was a somewhat unexpected reception for one of the most successful video game franchises of all time, on",
-          "date": "2026-11-25T19:00:00+00:00",
-          "image": "https://www.denofgeek.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI-Jason-and-Lucia-Dancing.jpg"
         }
       ]
     },
@@ -230,6 +230,20 @@
       "url": "https://www.playstationlifestyle.net/feed/",
       "articles": [
         {
+          "title": "GTA 6 Players Discover Simple PS5 Fix for the Game’s Missing Weather Effects",
+          "link": "https://www.playstationlifestyle.net/2026/11/26/gta-6-weather-bug-ps5-fix-explained",
+          "description": "Rockstar heavily emphasized GTA 6‘s dynamic weather system, but players have reported that the game frequently remains stuck in sunny weather. Although Rockstar’s latest patch addressed a weather bug, some players continue to experience the same issue. Rockstar promoted the game’s dynamic weather be",
+          "date": "2026-11-26T20:02:59+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/GTA-6-Players-Discover-Simple-PS5-Fix-for-the-Games-Missing-Weather-Effects.jpg?w=1024"
+        },
+        {
+          "title": "Cult PS2-Era Anime Fighting Game Series Sets PS5 Return With New Trailer",
+          "link": "https://www.playstationlifestyle.net/2026/11/26/ps2-era-anime-fighting-game-melty-blood-twi-luminia-ps5-trailer",
+          "description": "A beloved fighting game franchise from the PS2 era is set to return with a new entry in its long-running anime fighting game series. A promotional video has offered a glimpse of the upcoming game’s world and combat. Aniplex of America has revealed that Melty Blood: Twi Lumina will launch on April 22",
+          "date": "2026-11-26T19:01:13+00:00",
+          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/Cult-PS2-Era-Anime-Fighting-Game-Series-Sets-PS5-Return-With-New-Trailer.jpg?w=1024"
+        },
+        {
           "title": "PS5 Fantasy Adventure Game Confirms PlayStation Release",
           "link": "https://www.playstationlifestyle.net/2026/11/26/rhell-warped-worlds-troubled-times-ps5-release",
           "description": "PlayStation players will soon be able to explore a magical world packed with inventive puzzles and eccentric characters. Rhell: Warped Worlds & Troubled Times is officially heading to PS5 and several other consoles, with physical edition pre-orders now available. Czech publisher Nejcraft announced t",
@@ -284,26 +298,19 @@
           "description": "A highly anticipated PS5 RPG has received a new release date window following a brief delay. Developed by Hexworks and published by CI Games, Lords of the Fallen II will now release in April 2027. PS5 RPG Lords of the Fallen II originally had a 2026 release date window Lords of the Fallen II’s new [",
           "date": "2026-11-25T14:00:00+00:00",
           "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/ps5-rpg-lords-of-the-fallen-ii.jpg?w=1024"
-        },
-        {
-          "title": "GTA-Like PS5 Open-World Crime Game Under $5 on PS Store",
-          "link": "https://www.playstationlifestyle.net/2026/11/25/saints-row-ps-store-deal-november-2026",
-          "description": "A 2022 PS5 and PS4 open-world action-adventure game is 85% off in a limited-time PS Store deal that ends on December 1, 2026. Developed by the now-defunct Volition, Saints Row reboot is under $5 on Sony’s storefront. Saints Row reboot is at its lowest price on PS5 and PS4 in limited-time PS Store de",
-          "date": "2026-11-25T13:30:00+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/05/saints-row-ps-store-deal.jpg?w=1024"
-        },
-        {
-          "title": "Sony Snags Deal for Major Upcoming PS5 RPG in Surprise Move",
-          "link": "https://www.playstationlifestyle.net/2026/11/25/sony-marketing-deal-ps5-rpg-the-witcher-4",
-          "description": "Sony Interactive Entertainment has signed a marketing deal for a long-awaited PS5 RPG after Grand Theft Auto VI. CD Projekt RED has revealed that Sony will be handling The Witcher 4‘s marketing campaign in a collaboration that seems similar to the company’s agreement with Rockstar Games. Sony’s part",
-          "date": "2026-11-25T13:00:00+00:00",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/ps5-rpg-the-witcher-4.jpg?w=1024"
         }
       ]
     },
     "PlayStation Blog": {
       "url": "https://blog.playstation.com/feed/",
       "articles": [
+        {
+          "title": "Infinity Nikki Version 3.0 “Of Yesterday and Tomorrow” update live today on PS5",
+          "link": "https://blog.playstation.com/2026/11/26/infinity-nikki-version-3-0-of-yesterday-and-tomorrow-update-live-today-on-ps5/",
+          "description": "Explore two new cities, experience nearly 10 hours of cinematic storytelling, discover new abilities and combat systems, and celebrate Nikki’s Birthday to enjoy 160 draws in total, plus 19 sets of clothes—all free. Today we announced Infinity Nikki Version 3.0, a major update that takes Nikki and Mo",
+          "date": "2026-11-26T21:59:37+00:00",
+          "image": "https://live.staticflickr.com/65535/55668942228_0d291ec579_4k.jpg"
+        },
         {
           "title": "PlayStation Plus Monthly Games for December: Tony Hawk’s Pro Skater 3+4, Dragon Ball Xenoverse 2, Amnesia: The Bunker",
           "link": "https://blog.playstation.com/2026/11/25/playstation-plus-monthly-games-for-december-tony-hawks-pro-skater-34-dragon-ball-xenoverse-2-amnesia-the-bunker/",
@@ -366,19 +373,19 @@
           "description": "Six years after launch, PlayStation 5 is still getting better. Last month, we introduced Quick Spectral Super Resolution (QSSR), bringing AI-guided upscaling to the console you already own. Since then, there’s been a lot of interest from developers eager to try it out. We’re happy to announce that t",
           "date": "2026-11-13T14:00:16+00:00",
           "image": "https://blog.playstation.com/tachyon/2026/11/105d12450fe9246de305a3a43412100d0e299216-scaled.jpg?fit=1024%2C1024"
-        },
-        {
-          "title": "Guild Saga: Vanished Worlds brings tactical adventure to PS5 in May 2027",
-          "link": "https://blog.playstation.com/2026/11/13/guild-saga-vanished-worlds-brings-tactical-adventure-to-ps5-in-may-2027/",
-          "description": "We’re excited to announce that Guild Saga: Vanished Worlds is coming to PS5 in May 2027. In this story-driven tactical RPG, your first mission for the Heroes Guild takes an unexpected turn when a mysterious maelstrom leaves you stranded on an unfamiliar island. Beyond its shores lie dangerous creatu",
-          "date": "2026-11-13T13:01:11+00:00",
-          "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
         }
       ]
     },
     "Push Square": {
       "url": "https://www.pushsquare.com/feeds/latest",
       "articles": [
+        {
+          "title": "GTA 6's Car Physics Were Tuned by a Gran Turismo Pro",
+          "link": "https://www.pushsquare.com/news/2026/11/gta-6s-car-physics-were-tuned-by-a-gran-turismo-pro",
+          "description": "From GT to GTA. Rockstar hired a former Gran Turismo pro to help master the car handling in GTA 6 . Lewis Bentley, a 2018 GT World Series Finalist , says he spent the last three-and-a-half years with the studio’s physics team, working on how the cars feel to drive. Read the full article on pushsquar",
+          "date": "2026-11-27T01:00:00+00:00",
+          "image": "https://images.pushsquare.com/524278a29ff9c/large.jpg"
+        },
         {
           "title": "Despite No Disc, GTA 6 Recorded the UK's Biggest Physical Launch Since 2019",
           "link": "https://www.pushsquare.com/news/2026/11/despite-no-disc-gta-6-recorded-the-uks-biggest-physical-launch-since-2019",
@@ -441,13 +448,6 @@
           "description": "PS5 and PS4 games going cheap we recommend. The PS Store's Black Friday sale is on now, running until 30th November, 2026. As with nearly every offer in Sony's digital store, there are literally thousands of PS5 and PS4 games going cheap. Obviously, nobody has the time to scroll through all those de",
           "date": "2026-11-26T14:00:00+00:00",
           "image": "https://images.pushsquare.com/6a7a113f0bf1a/large.jpg"
-        },
-        {
-          "title": "The Witcher 4 Is Not a PS5 Exclusive, CDPR Clarifies After Sony Deal",
-          "link": "https://www.pushsquare.com/news/2026/11/the-witcher-4-is-not-a-ps5-exclusive-cdpr-clarifies-after-sony-deal",
-          "description": "Well, duh. Did anyone really think The Witcher 4 was going to be a PS5 exclusive? For those who missed it, CDPR confirmed yesterday that it has signed a marketing deal with Sony on its upcoming RPG. Read the full article on pushsquare.com",
-          "date": "2026-11-26T01:30:00+00:00",
-          "image": "https://images.pushsquare.com/cd1abe6278877/large.jpg"
         }
       ]
     },
